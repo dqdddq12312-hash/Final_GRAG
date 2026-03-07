@@ -5,6 +5,7 @@ import pandas as pd
 import numpy as np
 from collections import Counter
 from PIL import Image
+import json
 
 # TEXT CLEANING
 
@@ -192,20 +193,6 @@ def extract_units_from_column(df, col):
         return most_common
     return None
 
-def compress_markdown_table(md) :
-    lines = md.split("\n")
-    result = []
-    for line in lines:
-        if "|" in line:
-            parts = line.split("|")
-            # Loại bỏ khoảng trắng thừa
-            stripped = [p.strip() for p in parts]
-            # Lấy phần tử bên trong bảng
-            inner = stripped[1:-1]
-            line = "| " + " | ".join(inner) + " |"
-        result.append(line)
-    return "\n".join(result)
-
 def clean_table_dataframe(df):
     df = df.copy()
     
@@ -255,6 +242,19 @@ def clean_table_dataframe(df):
     df = df.reset_index(drop=True)
     
     return df
+
+def standardize_page_numbers(chunks):
+    for chunk in chunks:
+        pn = chunk.get("page_numbers")
+        if pn is None:
+            chunk["page_numbers"] = "[]"
+        elif isinstance(pn, list):
+            chunk["page_numbers"] = json.dumps(pn)
+        elif isinstance(pn, str):
+            parsed = json.loads(pn)
+            if not isinstance(parsed, list):
+                parsed = [parsed]
+            chunk["page_numbers"] = json.dumps(parsed)
 
 def is_informative_image(pil_image, min_width, min_height = 150, min_area = 20000):
     w, h = pil_image.size
