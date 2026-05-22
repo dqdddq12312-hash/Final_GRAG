@@ -1,4 +1,4 @@
-# CHỦ ĐỀ: NGHIÊN CỨU XÂY DỰNG MÔ HÌNH KIỂM TRATÍNH TUÂN THỦ CỦA BÁO CÁO PHÁT TRIỂN BỀN VỮNG
+# CHỦ ĐỀ: NGHIÊN CỨU XÂY DỰNG MÔ HÌNH KIỂM TRA TÍNH TUÂN THỦ CỦA BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 
 Khoá luận đề xuất một pipeline kiểm tra tuân thủ tự động cho báo cáo phát triển bền vững theo bộ tiêu chuẩn GRI. Hệ thống nhận đầu vào là PDF báo cáo, trích xuất thành các chunks (có bảo toàn ngữ cảnh) và xử lý làm sạch, sau đó chạy qua một quy trình gồm 9 phase (claim → reporting principles → GRI 2 → material topics → GRI 3 → topic standards → omissions → content index → notify) với một LLM judge (`qwen3:14b` qua Ollama) ở Phase 3/5/6 để cho ra phán quyết `pass / partial / no_evidence / fail` kèm bằng chứng tương cho quyết định.
 
