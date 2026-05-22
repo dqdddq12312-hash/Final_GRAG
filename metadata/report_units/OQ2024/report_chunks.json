@@ -1,0 +1,3177 @@
+[
+  {
+    "chunk_id": "OQ2024__c_0001",
+    "report_id": "OQ2024",
+    "chunk_index": 0,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We are proud to present OQ's 2024 Sustainability Report, a reflection of our unwavering commitment to Environmental, Social, and Governance (ESG) principles and our dedication to shaping a more sustainable and resilient future. This is our sixth sustainability report and it embodies our continuous pursuit of progress, innovation, and responsibility as we navigate the complexities of the global energy transition. Over the past year, we have intensified our efforts to integrate sustainable practices across our operations, recognising that every decision we make carries the potential to create lasting impact. From ambitious decarbonisation initiatives to strengthening community partnerships, OQ remains steadfast in embedding sustainability at the core of our business. This report serves as both a record of our achievements and a blueprint for the road ahead - one defined by resilience, accountability, and a shared vision for a more sustainable world. Sustainability is not simply an obligation; it is a mindset. And it calls for bold action, innovative solutions, and a deep sense of responsibility toward future generations. Our journey is not just about reducing emissions or meeting targets; it is about reimagining what is possible, forging new pathways, and leaving a legacy that extends far beyond numbers and metrics. As you explore this report, we invite you to reflect on the transformative power of collective action. Every initiative outlined within these pages represents a step forward - toward cleaner energy, thriving communities, and a future where sustainability is embedded in the DNA of everything we do.",
+    "page_numbers": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "heading_path": [
+      "About this Report"
+    ],
+    "section_label": "About this Report",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1634,
+    "token_count": 360
+  },
+  {
+    "chunk_id": "OQ2024__c_0002",
+    "report_id": "OQ2024",
+    "chunk_index": 1,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The report covers the calendar year from 1 January 2024 to 31 December 2024, unless stated otherwise.",
+    "page_numbers": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "heading_path": [
+      "Reporting Period"
+    ],
+    "section_label": "Reporting Period",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 101,
+    "token_count": 23
+  },
+  {
+    "chunk_id": "OQ2024__c_0003",
+    "report_id": "OQ2024",
+    "chunk_index": 2,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "This report has been prepared in accordance with the GRI Sustainability Reporting Standards (Please refer to Appendix B for our GRI Content Index). The Sustainability Accounting Standards Board (SASB) Oil and Gas industry-specific standards and the United Nations Sustainable Development Goals (UN SDGs) have also been used to guide the content contained in the report. All 17 SDGs have been integrated within the report, mapping them across our material topics and pillars. We aim to enhance our alignment with the disclosure requirements of IFRS S1 and S2 by strengthening sustainability governance, refining our strategy, and advancing the identification and assessment of climate-related risks and opportunities. Through the implementation of our strategy and the integration of ESG into our governance framework and business planning, we continue to build our capabilities in managing sustainability-related risks and opportunities, including those related to climate change and their financial implications.",
+    "page_numbers": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "heading_path": [
+      "Reporting Guidelines"
+    ],
+    "section_label": "Reporting Guidelines",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1013,
+    "token_count": 215
+  },
+  {
+    "chunk_id": "OQ2024__c_0004",
+    "report_id": "OQ2024",
+    "chunk_index": 3,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Wherever possible, we have compared our 2024 performance with data from 2023 and 2022. We have identified and highlighted any limitations in the scope of our data within the report. This report covers the following legal entities across our Upstream, Commercial & Downstream, and Alternative Energy divisions, as well as our utility services companies in Oman: - OQ SAOC - OQ Refineries & Petrochemicals (OQ RPI) - OQ Marketing (OQM) - Oman Tank Terminal Company (OTTCO) - Majis - OQ Trading (OQT) - OQ Alternative Energy (OQAE) These entities fall under the OQ Operational Approach, which includes all those that reported directly to OQ's Board of Directors in 2024. Other publicly listed OQ entities publish their own sustainability reports separately. For further details, please refer to Appendix E of this report.",
+    "page_numbers": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "heading_path": [
+      "Report Scope and Boundary"
+    ],
+    "section_label": "Report Scope and Boundary",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 818,
+    "token_count": 203
+  },
+  {
+    "chunk_id": "OQ2024__c_0005",
+    "report_id": "OQ2024",
+    "chunk_index": 4,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "If you have any questions, please contact us at sustainability@oq.com.",
+    "page_numbers": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "heading_path": [
+      "Feedback"
+    ],
+    "section_label": "Feedback",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 70,
+    "token_count": 17
+  },
+  {
+    "chunk_id": "OQ2024__c_0006",
+    "report_id": "OQ2024",
+    "chunk_index": 5,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "You can access all of our current reports online via https://oq.com/en/sustainability/sustainability-at-oq If quantitative data pertaining to any asset within the specified boundaries is not currently available, please note that such information will be diligently reported as soon as it becomes accessible. We are committed to transparency and accountability in our reporting practices and strive to fully provide comprehensive data where possible. Greenhouse gas (GHG) emissions data (Scope 1 and Scope 2) are reported on an operational control basis, in alignment with industry-specific best practices and regulatory requirements. Economic data is reported on an equity share basis, and workforce data covers employees in our direct employment. Additionally, we are committing to share GHG data for our entities that are categorised under the equity share approach, which includes the following: - Publicly listed companies that are governed by capital market laws and regulations. - Joint Ventures that are not operated by OQ.",
+    "page_numbers": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "heading_path": [
+      "Other Sustainability Reports"
+    ],
+    "section_label": "Other Sustainability Reports",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1030,
+    "token_count": 231
+  },
+  {
+    "chunk_id": "OQ2024__c_0007",
+    "report_id": "OQ2024",
+    "chunk_index": 6,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "This report contains statements that may be deemed as 'forward-looking statements' that express the way in which OQ intends to conduct its activities. Forward statements could be identified by the use of forward-looking terminology such as 'plans', 'aims', 'assumes', 'continues', 'believes', or any variations of such words that certain actions, events or results 'may', 'could', 'should', 'might', 'will', or 'would' be taken or be achieved. OQ has made every effort to ensure that this report is as accurate and truthful as possible. However, by their nature, forward-looking statements are qualified to inherent risks and uncertainties surrounding future expectations that could cause actual results to differ materially from these projected or implied statements. Such statements are subject to risks that are beyond OQ ability to control and therefore do not represent a guarantee that events implied in these forward-looking statements will actually occur.",
+    "page_numbers": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "heading_path": [
+      "Forward-looking statements"
+    ],
+    "section_label": "Forward-looking statements",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 963,
+    "token_count": 237
+  },
+  {
+    "chunk_id": "OQ2024__c_0008",
+    "report_id": "OQ2024",
+    "chunk_index": 7,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "As OQ continues its transformation into a more resilient, future-ready energy company, we remain committed to the strategic vision that guides our path. Our operations are increasingly shaped by national and global imperatives, including Oman Vision 2040, and by a rapidly evolving energy landscape that demands both agility and accountability. We are seeing clear shifts in policy, investor expectations, customer behaviour, and technology. Navigating this change effectively requires a robust, forward-looking strategy - one that ensures value creation today, while securing long-term relevance and resilience. That is the balance OQ is committed to striking. In 2024, we made important strides in aligning our governance and investment frameworks with our sustainability ambitions. We introduced an enhanced Corporate Scorecard, formally linking ESG performance to executive remuneration. This reinforces our belief that sustainability must be embedded into decision-making, rather than treated as an add-on or afterthought. Through the Board's Strategy and Investment Committee, we have ensured that capital allocation and risk oversight reflect the priorities of responsible growth. Whether it is decarbonisation, energy efficiency, biodiversity, or com munity investment, our governance structures provide the visibility, accountability, and alignment needed to track progress and adapt in real time. We also improved stakeholder engagement through the establishment of a formal Stakeholder Collaboration Team, a move that strengthens transparency and allows us to respond Our operations are increasingly shaped by national and global imperatives, including Oman Vision 2040, and by a rapidly evolving energy landscape that demands both agility and accountability. more effectively to emerging risks, regulatory expectations, and societal needs. This collaborative approach helps OQ remain a trusted partner to government, industry, and the communities in which we operate. Our strategic direction remains clear: to maximise the value of Oman's energy resources while enabling the transition to a more diversified and lower-carbon future. Across our energy value chain, we are aligning growth with impact. We are focused on investing in innovation, supporting In-Country Value, and positioning OQ as a key enabler of Oman's economic diversification. At the heart of our journey is a culture of integrity, collaboration, and care. These are the values that guide our people, our leadership, and the longterm partnerships we continue to build. Looking ahead, we do so with confidence because we have laid the foundation for thoughtful, accountable, and forward-looking growth. Together with our stakeholders, we will continue to drive progress, deliver impact, and shape a legacy that reflects both responsibility and ambition.",
+    "page_numbers": [
+      5,
+      6
+    ],
+    "page_start": 5,
+    "page_end": 6,
+    "heading_path": [
+      "Chairman Message"
+    ],
+    "section_label": "Chairman Message",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2831,
+    "token_count": 614
+  },
+  {
+    "chunk_id": "OQ2024__c_0009",
+    "report_id": "OQ2024",
+    "chunk_index": 8,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "2024 was a year of delivery - on our sustainability goals, on our operational performance, and our commitment to creating value across the communities and markets we serve. Despite a dynamic market environment, we recorded a 16.1% reduction in Scope 1 and 2 emissions, driven by operational efficiencies, and strong performance across our refining assets. OQ RPI exceeded its Energy Intensity Index target, achieving a record score of 94.20 and generating significant cost savings in the process. These results show that sustainability and operational excellence are not in conflict; they go hand in hand. We also continued our progress in clean energy, with OQ Alternative Energy securing long-term Power Purchase Agreements and expanding its renewable pipeline to 7 GW. As the national champion for renewables, we are at the heart of Oman's decarbonisation ambition and a key driver of new growth opportunities. Our commitment to In-Country Value (ICV) remains a core part of our strategy. In 2024, we increased our local spend, deepened supplier engagement, and expanded contracts with small and medium enterprises (SMEs). Our spend on SMEs rose to 19% of total expenditure, reinforcing our role in strengthening Oman's local economy and industrial base. Internally, we strengthened safety performance across the Group. Lost Time Injuries (LTI) decreased by 43%, and our Total Recordable Injury Frequency (TRIF) dropped to 0.54, reflecting our continued focus on safety leadership, risk management, and workforce engagement. We also invested in our people. Employee engagement As we implement our sustainability strategy across six ESG priority areas from water stewardship to responsible procurement - we are laying the foundations for long-term resilience and growth. rose, driven by cultural transformation programme, health and well-being initiatives, and flexible work policies that support both productivity and inclusion. In our communities, we continue to invest in projects that deliver measurable social impact. In fact, we are now using Social Return on Investment (SROI) metrics to track and maximise the value of these efforts. As we implement our sustainability strategy across six ESG priority areas - from water stewardship to responsible procurement - we are laying the foundations for long-term resilience and growth. Our values of Perform, Collaborate, and Care are more than words. They guide our decisions every day, as we navigate risk, embrace innovation, and build a business that creates impact where it matters most. I would like to thank our teams, our partners, and our stakeholders for their trust and commitment . I look forward to what we can achieve together in the year ahead.",
+    "page_numbers": [
+      7,
+      8
+    ],
+    "page_start": 7,
+    "page_end": 8,
+    "heading_path": [
+      "Group CEO Message"
+    ],
+    "section_label": "Group CEO Message",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2712,
+    "token_count": 616
+  },
+  {
+    "chunk_id": "OQ2024__c_0010",
+    "report_id": "OQ2024",
+    "chunk_index": 9,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ has long been at the forefront of Oman's energy sector, driving investment, innovation, and sustainable growth. As a wholly owned entity of the Government of Oman and a key player within the Oman Investment Authority (OIA), OQ's diversified portfolio spans the entire energy value chain -from oil and gas exploration to refining, petrochemicals, alternative energy, and infrastructure development.",
+    "page_numbers": [
+      9
+    ],
+    "page_start": 9,
+    "page_end": 9,
+    "heading_path": [
+      "OQ At a Glance"
+    ],
+    "section_label": "OQ At a Glance",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 400,
+    "token_count": 93
+  },
+  {
+    "chunk_id": "OQ2024__c_0011",
+    "report_id": "OQ2024",
+    "chunk_index": 10,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Maximising value from Oman's energy resources and powering our transition towards a sustainable future.",
+    "page_numbers": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "heading_path": [
+      "VISION"
+    ],
+    "section_label": "VISION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 103,
+    "token_count": 20
+  },
+  {
+    "chunk_id": "OQ2024__c_0012",
+    "report_id": "OQ2024",
+    "chunk_index": 11,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Drive sustainable economic growth in Oman's energy value chain and enable energy transition through successful partnerships.",
+    "page_numbers": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "heading_path": [
+      "MISSION"
+    ],
+    "section_label": "MISSION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 124,
+    "token_count": 22
+  },
+  {
+    "chunk_id": "OQ2024__c_0013",
+    "report_id": "OQ2024",
+    "chunk_index": 12,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Perform, Collaborate, Care.",
+    "page_numbers": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "heading_path": [
+      "CULTURE & VALUES"
+    ],
+    "section_label": "CULTURE & VALUES",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 27,
+    "token_count": 8
+  },
+  {
+    "chunk_id": "OQ2024__c_0014",
+    "report_id": "OQ2024",
+    "chunk_index": 13,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ manages direct energy investments within the energy sector such as oil and gas exploration and production, oil refining, petrochemical production, trading, alternative energy, power generation, and infrastructure & transportation for energy. Serving over 2,000 customers in 80 markets, OQ contributes to the nation's economic growth and enhancing the energy security. With a firm commitment to Oman's Vision 2040 and the nation's Net Zero 2050 strategy, OQ continues to harness innovation and strategic partnerships to accelerate the transition to a more sustainable and diversified energy future. At OQ, sustainability is embedded in our mission to drive long-term economic growth while facilitating a responsible energy transition. Our vision is to maximise the value of Oman's energy resources while advancing towards a more sustainable future. It guides our commitment to innovative solutions that address today's energy demands without compromising the needs of future generations. As a responsible energy leader, we leverage technology, expertise, and strategic partnerships to develop forward-thinking energy solutions.",
+    "page_numbers": [
+      13,
+      14
+    ],
+    "page_start": 13,
+    "page_end": 14,
+    "heading_path": [
+      "Our Profile"
+    ],
+    "section_label": "Our Profile",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1129,
+    "token_count": 230
+  },
+  {
+    "chunk_id": "OQ2024__c_0015",
+    "report_id": "OQ2024",
+    "chunk_index": 14,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "By providing consistent dividends, maintaining a healthy return on equity, and divesting mature investments at the appropriate time.",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "Maximise Shareholder Value  :"
+    ],
+    "section_label": "Maximise Shareholder Value  :",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 132,
+    "token_count": 27
+  },
+  {
+    "chunk_id": "OQ2024__c_0016",
+    "report_id": "OQ2024",
+    "chunk_index": 15,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "By ensuring that OQ operates at investment grade and remains agile and operationally excellent in all our assets.",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "Maintain Financial Discipline  :"
+    ],
+    "section_label": "Maintain Financial Discipline  :",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 113,
+    "token_count": 26
+  },
+  {
+    "chunk_id": "OQ2024__c_0017",
+    "report_id": "OQ2024",
+    "chunk_index": 16,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Ensuring wise capital allocation for growth projects, building capabilities, having a performance-driven culture, and progressive decarbonisation.",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "People, Sustainability & Growth:"
+    ],
+    "section_label": "People, Sustainability & Growth:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 146,
+    "token_count": 31
+  },
+  {
+    "chunk_id": "OQ2024__c_0018",
+    "report_id": "OQ2024",
+    "chunk_index": 17,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ RPI OQ Refineries and Petroleum Industries Company (OQ RPI) Oman Aluminuim Rolling Company LLC (OARC) OQ AE OQ Alternative Energy (OQ AE) OQ Trading Limited (OQT)",
+    "page_numbers": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "heading_path": [
+      "100% Shareholding Wholly Owned Companies"
+    ],
+    "section_label": "100% Shareholding Wholly Owned Companies",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 165,
+    "token_count": 54
+  },
+  {
+    "chunk_id": "OQ2024__c_0019",
+    "report_id": "OQ2024",
+    "chunk_index": 18,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ Exploration & Production (OQEP) Shareholding 75% Musandam Power Company SAOG Shareholding 42% OQ Gas Network (OQGN) Shareholding 51% Abraj Energy Servies SAOG Shareholding 51% Majis Industrial Services SOAC Sohar Paper Cores LLC (SPC) OQ Base Industries (OQBi) Shareholding 51% Muscat Gases Company SAOG Shareholding 32.6% Oman Tank Terminal Company LLC Oman Oil Marketing Company SAOG (OOMCO) Shareholding 49%",
+    "page_numbers": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "heading_path": [
+      "Publicly Listed Companies"
+    ],
+    "section_label": "Publicly Listed Companies",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 413,
+    "token_count": 117
+  },
+  {
+    "chunk_id": "OQ2024__c_0020",
+    "report_id": "OQ2024",
+    "chunk_index": 19,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ8 Duqum Refinery and Petrochemical Industries Company (OQ8) Shareholding 50% GS EPS Shareholding 30% Sohar Sulphur Fertilizers LLC Shareholding 68.75% Sohar Aluminum LLC Shareholding 40% Advario Oman LLC Shareholding 25% Oman Blending Services LLC Shareholding 10% Centralised Utilities Company LLC (Marafiq) Shareholding 51% Orient Power (Pvt) Ltd (OPC) Shareholding 42.8% Oman India Fertilizer Company SOAC (OMIFCO) Shareholding 50% Saggas Shareholding 7.5%",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "Joint Ventures"
+    ],
+    "section_label": "Joint Ventures",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 461,
+    "token_count": 134
+  },
+  {
+    "chunk_id": "OQ2024__c_0021",
+    "report_id": "OQ2024",
+    "chunk_index": 20,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2024, OQ continued to be recognised for its leadership in sustainability, innovation, and corporate responsibility, earning several prestigious awards and certifications. At the 33 rd edition of the global COMEX technology exhibition, OQ was honored with four prestigious awards, highlighting its leadership in digital transformation and technological innovation: - 'Digital Factory' (ICT Innovation Category) - Recognising OQ's advancements in digitalising industrial processes. - 'Data Quality' (Data Tech Category) - Awarded for excellence in data-driven decision-making. - 'Video Analytics in Machine Learning' (Data Category) - Acknowledging OQ's innovative use of AI and machine learning. - 'Best Booth Award' - Celebrating our outstanding exhibition presence and engagement. Beyond technology, OQ was recognised for its contributions to education and social development: - The Ministry of Education honoured OQ for our role in supporting educational initiatives and partnerships aimed at fostering youth development in Oman. - We were recognised as the strategic partner of the Omani School Sports Association, reinforcing our commitment to the well-being and development of young athletes. - The General Federation of Oman Workers celebrated OQ during an International Labor Day ceremony, acknowledging our efforts to foster fair labour practices and worker rights. - The OQ Assurance function has received the 'Building Awareness Champion' award for 2024 from the Institute of Internal Auditors (IIA), including both the Global and Oman chapters. This marks the second consecutive year of recognition, highlighting OQ's continued commitment to advancing internal audit awareness and excellence in the profession. OQ's dedication to employee well-being and corporate governance was further recognised through the prestigious HXM Excellence Award by SAP, which celebrates outstanding achievements in human capital management and digital HR transformation. Complementing this achievement, OQ was also honoured with the prestigious Rawabit Award from the Oman Investment Authority, winning in the highly competitive Growth and Job Creation category -a testament to our unwavering dedication to driving economic development and empowering national talent. Further reflecting OQ's commitment to fostering women in leadership, Sabrina Al Bakri, Chief Financial Officer, was recognised with the CXM Award for CFO of the Year in the Energy Sector -a well-deserved recognition of her exceptional leadership and impact.",
+    "page_numbers": [
+      17
+    ],
+    "page_start": 17,
+    "page_end": 17,
+    "heading_path": [
+      "Certifications and Awards"
+    ],
+    "section_label": "Certifications and Awards",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 2520,
+    "token_count": 552
+  },
+  {
+    "chunk_id": "OQ2024__c_0022",
+    "report_id": "OQ2024",
+    "chunk_index": 21,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We recognise collaboration to be an essential driver in the pursuit of sustainability goals and the optimisation of positive societal impact. That is why we proactively cultivate partnerships and memberships with organisations and institutions that share our ethos and forward-looking vision for a sustainable future. This strategic engagement enables us to leverage pooled expertise, resources, and knowledge to catalyse advancements in critical spheres such as energy transition, environmental stewardship, and social responsibility. Our Partnerships and Memberships include: - GCC - Gulf Petrochemicals and Chemicals Association (GPCA) - Oman - Oman Society for Petroleum Services (OPAL) and Ithraa Export Club",
+    "page_numbers": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "heading_path": [
+      "Membership of Associations"
+    ],
+    "section_label": "Membership of Associations",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 713,
+    "token_count": 156
+  },
+  {
+    "chunk_id": "OQ2024__c_0023",
+    "report_id": "OQ2024",
+    "chunk_index": 22,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ's Sustainability Policy is the foundation of our commit ment to embedding sustai nability across all aspects of our business. It drives our approach to environmental responsibility, ethical governance, stakeholder engagement, and social impact, ensuring that sustainability is fully integrated into our operations and long-term value creation. It is a policy that underscores our dedication to responsible business practices, aligning with both global sustainability frameworks and Oman's national objectives. We actively promote health, safety, and employee well-being, while investing in research and development to drive sustainable solutions that enhance economic performance and reduce environmental impact. In 2025, we will build on this foundation by updating our Sustainability Policy to formalize key ESG commitments in line with international best practices and strengthen alignment with OQ's and QIA's broader sustainability objectives. In parallel, we continue to strengthen our community engagement efforts, support diversity and inclusion, and uphold high ethical standards and governance across our business. As part of our environmental commitment, we have implemented measures to reduce greenhouse gas (GHG) emissions, improve water and waste management, and adopt a biodiversity-conscious approach to resource use. These initiatives ensure that we minimise our environmental footprint while contributing to a more sustainable energy future.",
+    "page_numbers": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "heading_path": [
+      "Our Approach to Sustainability"
+    ],
+    "section_label": "Our Approach to Sustainability",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1461,
+    "token_count": 304
+  },
+  {
+    "chunk_id": "OQ2024__c_0024",
+    "report_id": "OQ2024",
+    "chunk_index": 23,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Sustainability is integral to OQ's business operations. Our Board recognises its significance and ensures that our ESG performance aligns with our long-term objectives. In 2024, we introduced a more balanced Corporate Scorecard, incorporating ESG Key Performance Indicators (KPIs) similar to those in the Board Scorecard. As a result, ESG performance is now directly linked to remuneration and bonuses, reinforcing our commitment to sustainability and accountability. In accordance with OIA's Code of Governance (CoG), the Board considers performance evaluation essential for fostering a culture of accountability, effectiveness, and strong governance. All Directors undergo regular performance assessments against Board-approved KPIs. Our Corporate Scorecard KPIs, aligned with Board KPIs, represent a strategic approach to integrating sustainability across our business. Approved by the Board of Directors, these KPIs establish ESG targets that align with Vision 2040 Priorities and contribute to specific UN SDGs.",
+    "page_numbers": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "heading_path": [
+      "Sustainability Governance"
+    ],
+    "section_label": "Sustainability Governance",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1016,
+    "token_count": 232
+  },
+  {
+    "chunk_id": "OQ2024__c_0025",
+    "report_id": "OQ2024",
+    "chunk_index": 24,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our Board Audit and Risk Committee (ARC) plays a pivotal role in ensuring corporate governance and risk management. It oversees financial integrity, internal controls, and regulatory compliance, supporting transparency and sustainability.",
+    "page_numbers": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "heading_path": [
+      "Audit and Risk Committee (ARC)"
+    ],
+    "section_label": "Audit and Risk Committee (ARC)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 238,
+    "token_count": 54
+  },
+  {
+    "chunk_id": "OQ2024__c_0026",
+    "report_id": "OQ2024",
+    "chunk_index": 25,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our Board's Strategy and Investment Committee (SIC) plays a vital role in shaping OQ's long-term strategic direction and providing oversight of implementation risks to ensure alignment with shareholders' objectives. Sustainability lies at the core of OQ's strategy and investment decisions. The SIC's key priorities include driving business excellence initiatives that focus on reducing OQ's carbon footprint, managing water resources, preserving biodiversity and the environment, mitigating climate change impacts, and promoting the responsible use of natural resources. To ensure a comprehensive and integrated approach to sustainability, our Board has endorsed objectives covering three key areas: Responsible Operations, Safeguarding & Enriching Lives, and Creating Shared Value. These objectives are designed to guide our decision-making processes and ensure that we align our business practices with our commitment to sustainability.",
+    "page_numbers": [
+      23,
+      24
+    ],
+    "page_start": 23,
+    "page_end": 24,
+    "heading_path": [
+      "Strategy and Investment Committee (SIC)"
+    ],
+    "section_label": "Strategy and Investment Committee (SIC)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 939,
+    "token_count": 211
+  },
+  {
+    "chunk_id": "OQ2024__c_0027",
+    "report_id": "OQ2024",
+    "chunk_index": 26,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The Group CEO (GCEO) established the Investment Committee as a management-level team to aid in making significant strategic and opera tional decisions. Our Investment Committee (IC) is responsible for reviewing balance sheet optimisation, new investment opportunities, existing investments, strategy, and devising long-term planning. The IC also reviews topics related to the OQ Sustainability agenda before they are presented to the SIC. Through this process, we ensure that the relevant management members of the IC are aware of targets and progress related to ESG topics, and that we are continuously improving our sustainability practices.",
+    "page_numbers": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "heading_path": [
+      "Investment Committee (IC)"
+    ],
+    "section_label": "Investment Committee (IC)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 643,
+    "token_count": 129
+  },
+  {
+    "chunk_id": "OQ2024__c_0028",
+    "report_id": "OQ2024",
+    "chunk_index": 27,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The Decarbonisation and Energy Efficiency Steering Committee oversees the implementation of OQ's Decarbonisation and Energy Policies, ensuring thorough review of decisions before Board approval. It facilitates the Energy Management System, sets and monitors decarbonisation and energy-saving targets, and ensures the allocation of sufficient resources and personnel. The committee also mitigates financial risks from climate policies, oversees internal and external communication, and integrates sustainability into investment criteria. Comprising key members, it provides strategic oversight to drive OQ's sustainability objectives.",
+    "page_numbers": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "heading_path": [
+      "Decarbonisation\tand\tEnergy\tEfficiency\tSteering Committee (DEESC)"
+    ],
+    "section_label": "Decarbonisation\tand\tEnergy\tEfficiency\tSteering Committee (DEESC)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 633,
+    "token_count": 137
+  },
+  {
+    "chunk_id": "OQ2024__c_0029",
+    "report_id": "OQ2024",
+    "chunk_index": 28,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At OQ, stakeholder engagement is a cornerstone of our sustainability strategy. It helps us to align our priorities with the expectations and needs of those who influence and are impacted by our business. In 2024, we established a Stakeholder Collaboration Team to enhance dialogue, transparency, and collaboration with our key stakeholders. This initiative formalises our commit ment to meaningful engagement, enabling stronger partnerships across government bodies, financial institutions, industry peers, employees, and communities. We engage with our stakeholders to ensure our sustainability strategy aligns with industry expectations and global best practices. Through structured dialogues with government bodies, lenders, banks, and other key groups, we gather insights on emerging trends and regulatory developments. Additionally, internal engagement with senior leaders, including the Executive Leadership Team (ELT) and Vice Presidents, helps refine our ESG priorities. This continuous",
+    "page_numbers": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "heading_path": [
+      "Our Stakeholders"
+    ],
+    "section_label": "Our Stakeholders",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 994,
+    "token_count": 211
+  },
+  {
+    "chunk_id": "OQ2024__c_0030",
+    "report_id": "OQ2024",
+    "chunk_index": 29,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Government Entities & Ministries Employees & Trade Unions Regulators & Authorities Business Partners & Suppliers collaboration enables us to make informed decisions that balance stakeholder interests with our long-term sustainability commitments. We classify stakeholders based on their level of influence and their impact on operations. Highinfluence stakeholders, such as government entities, regulators, investors, and customers, directly affect business decisions and regulatory compliance. To maintain transparency and active engagement, we use multiple communication methods tailored to stakeholder needs, including surveys, mee tings and consultations, stakeholder engagement forums, public reports, environmental impact discussions and community grievance management processes. Investors & Shareholders Local Communities Customers & Consumers Media & Public",
+    "page_numbers": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "heading_path": [
+      "Our key stakeholders include:"
+    ],
+    "section_label": "Our key stakeholders include:",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 865,
+    "token_count": 174
+  },
+  {
+    "chunk_id": "OQ2024__c_0031",
+    "report_id": "OQ2024",
+    "chunk_index": 30,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Materiality refers to initiatives that are of high concern to stakeholders and of high strategic relevance to organisations, as defined by GRI. We have used the results of our stakeholder engagement to develop a list of priority topics that are material to our business to guide our sustainability agenda. This approach helps OQ, and our assets, make informed decisions about how to allocate resources and focus on the issues that matter most to our business. In 2024 we conducted a review of our materiality exercise to ensure that our sustainability priorities align with our new operating model and consider the latest trends in the energy sector. As a result, our sustainability roadmap targets were revisited, and six priority topics have been introduced for the upcoming five years (2024-2029) [see Our Sustainability Strategy section]. Importance to Internal Stakeholders Importance to External Stakeholders",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "Our Materiality Assessment"
+    ],
+    "section_label": "Our Materiality Assessment",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 914,
+    "token_count": 202
+  },
+  {
+    "chunk_id": "OQ2024__c_0032",
+    "report_id": "OQ2024",
+    "chunk_index": 31,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ's sustainability framework is built upon a structured, impact-driven approach that aligns with our core business values and long-term vision. The framework is designed to integrate sustainability across all aspects of our operations, ensuring that we drive environmental stewardship, social progress, and responsible business practices. Our sustainability framework is built on four key pillars: - Transitioning to Net Zero - Safeguarding Nature - Caring for People - Driving Sustainable Growth",
+    "page_numbers": [
+      27
+    ],
+    "page_start": 27,
+    "page_end": 27,
+    "heading_path": [
+      "Our Sustainability Framework"
+    ],
+    "section_label": "Our Sustainability Framework",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 497,
+    "token_count": 108
+  },
+  {
+    "chunk_id": "OQ2024__c_0033",
+    "report_id": "OQ2024",
+    "chunk_index": 32,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Cut carbon and power a cleaner future",
+    "page_numbers": [
+      27
+    ],
+    "page_start": 27,
+    "page_end": 27,
+    "heading_path": [
+      "Transitioning to Net Zero"
+    ],
+    "section_label": "Transitioning to Net Zero",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 37,
+    "token_count": 9
+  },
+  {
+    "chunk_id": "OQ2024__c_0034",
+    "report_id": "OQ2024",
+    "chunk_index": 33,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Save water, reduce waste, and protect the ecosystem.",
+    "page_numbers": [
+      27
+    ],
+    "page_start": 27,
+    "page_end": 27,
+    "heading_path": [
+      "Safeguarding Nature"
+    ],
+    "section_label": "Safeguarding Nature",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 52,
+    "token_count": 13
+  },
+  {
+    "chunk_id": "OQ2024__c_0035",
+    "report_id": "OQ2024",
+    "chunk_index": 34,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Protect workers, embrace diversity, and uplift communities.",
+    "page_numbers": [
+      27
+    ],
+    "page_start": 27,
+    "page_end": 27,
+    "heading_path": [
+      "Caring for People"
+    ],
+    "section_label": "Caring for People",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 59,
+    "token_count": 15
+  },
+  {
+    "chunk_id": "OQ2024__c_0036",
+    "report_id": "OQ2024",
+    "chunk_index": 35,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Lead with integrity, source responsibly, and drive ethical growth. These pillars are grounded in our vision, mission, culture, and values which guide our commitment to balancing economic growth with environmental and social responsibility, and are aligned with our strategic priorities. Together, these pillars shape our approach to a sustainable and responsible future. Each pillar is supported by strategic focus areas and material topics, ensuring our sustainability efforts are measurable, impactful, and aligned with global best practices. By embedding these principles into our daily operations, we continue to drive positive change, ensuring a more sustainable future in the areas where we operate and beyond. - Climate change & energy transition Decarbonisation Water Management Worker Welfare Promoting Equal Opportunities Local Community & Social Investments Responsible Procurement - Biodiversity - Waste Management - Water Management - Human Rights Protection & Labour Management - Occupational Health & Safety - Local Community & Social Investments - Employment Practices & Development - Asset Integrity & Critical Incident Management - Promoting Equal Opportunities - Economic Impacts - Supply Chain Management & ICV - Government Relations & Tax - Sustainable Finance - Business Ethics & Anti-corruption - Agility, Innovation, & Digital Transformation - Cybersecurity & Data Privacy",
+    "page_numbers": [
+      27
+    ],
+    "page_start": 27,
+    "page_end": 27,
+    "heading_path": [
+      "Driving Sustainable Growth"
+    ],
+    "section_label": "Driving Sustainable Growth",
+    "doc_item_labels": [
+      "caption",
+      "list_item",
+      "text"
+    ],
+    "char_count": 1396,
+    "token_count": 300
+  },
+  {
+    "chunk_id": "OQ2024__c_0037",
+    "report_id": "OQ2024",
+    "chunk_index": 36,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our sustainability strategy presents a comprehensive plan to embed sustainable practices across all aspects of OQ's business. It defines a clear methodology, structured approach, and robust governance framework to ensure accountability, effective implementation, and risk management. Rooted in OQ's commitment to caring for people and the planet while driving economic growth, the strategy aligns with global standards and Vision 2040. It identifies six ESG priority areas that will drive OQ's sustainability agenda from 2024 to 2029, and sets ambitious goals to accelerate progress, foster innovation, enhance safety, and streng then collaboration. Each priority area is supported by clear ambitions, risk assessments, targets, and commitments, reinforcing our proactive approach to mitigating environmental impacts, enhancing workforce well-being, and strengthening stakeholder relationships. Governance plays a crucial role in ensuring the strategy's success. The company has established robust oversight mechanisms, linking ESG performance to executive accountability through a Corporate Scorecard. Sustainabilityrelated risks and opportunities are integrated into decision-making at all levels, from board governance to operational execution. Risk management and compliance are also central to the strategy, making sure we stay ahead of regulatory requirements while integrating sustainable practices into our business strategy. Innovation and technology are key enablers, driving the transition to cleaner energy solutions, improving resource efficiency, and fostering a culture of continuous improvement. Through responsible partnerships, transparent reporting, and a commitment to measurable progress, our Sustainability Strategy serves as a blueprint for long-term resilience. In 2025, we will update our sustainability strategy to align with our six key priorities and business objectives. This update will establish a relevant five-year implementation plan, complete with supporting KPIs, targets, and clear initiatives, reinforced by a robust governance mechanism for effective tracking and accountability.",
+    "page_numbers": [
+      28,
+      29
+    ],
+    "page_start": 28,
+    "page_end": 29,
+    "heading_path": [
+      "Our Sustainability Strategy"
+    ],
+    "section_label": "Our Sustainability Strategy",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2118,
+    "token_count": 438
+  },
+  {
+    "chunk_id": "OQ2024__c_0038",
+    "report_id": "OQ2024",
+    "chunk_index": 37,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "16.1% reduction in Scope 1 and Scope 2 emissions under operational control in 2024 compared to 2023, driven by energy efficiency and portfolio optimisation 94.2",
+    "page_numbers": [
+      30
+    ],
+    "page_start": 30,
+    "page_end": 30,
+    "heading_path": [
+      "Transitioning to Net Zero"
+    ],
+    "section_label": "Transitioning to Net Zero",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 160,
+    "token_count": 36
+  },
+  {
+    "chunk_id": "OQ2024__c_0039",
+    "report_id": "OQ2024",
+    "chunk_index": 38,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(EII) achieved by OQ RPI in 2024, surpassing reduction targets and improving operational efficiency ISO 50001 certification achieved in 2024, reinforcing our commitment to energy management best practices In 2024, a climate change assessment and adaptation plan was prepared for OQ RPI's Suhar asset",
+    "page_numbers": [
+      30
+    ],
+    "page_start": 30,
+    "page_end": 30,
+    "heading_path": [
+      "Energy Intensity Index"
+    ],
+    "section_label": "Energy Intensity Index",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 299,
+    "token_count": 73
+  },
+  {
+    "chunk_id": "OQ2024__c_0040",
+    "report_id": "OQ2024",
+    "chunk_index": 39,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "5.5% reduction in total waste generated in 2024 compared to 2023, driven by improved waste tracking and recycling practices 110,891trees distributed in 2024 as part of Oman's Green Initiative, bringing the total to 275,516 ISO 14001 certification maintained, reinforcing our commitment to environmental stewardship and biodiversity protection",
+    "page_numbers": [
+      30
+    ],
+    "page_start": 30,
+    "page_end": 30,
+    "heading_path": [
+      "Safeguarding Nature"
+    ],
+    "section_label": "Safeguarding Nature",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 342,
+    "token_count": 81
+  },
+  {
+    "chunk_id": "OQ2024__c_0041",
+    "report_id": "OQ2024",
+    "chunk_index": 40,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "assessment was carried out in 2024 to evaluate water sources and management practices across OQ assets",
+    "page_numbers": [
+      30
+    ],
+    "page_start": 30,
+    "page_end": 30,
+    "heading_path": [
+      "A company-wide"
+    ],
+    "section_label": "A company-wide",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 102,
+    "token_count": 20
+  },
+  {
+    "chunk_id": "OQ2024__c_0042",
+    "report_id": "OQ2024",
+    "chunk_index": 41,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "employee engagement score achieved in 2024, a 6-point improvement from 2023 34% of newly hired employees in 2024 were women, marking a 22% increase from 2023 119.6",
+    "page_numbers": [
+      30
+    ],
+    "page_start": 30,
+    "page_end": 30,
+    "heading_path": [
+      "76 points"
+    ],
+    "section_label": "76 points",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 163,
+    "token_count": 38
+  },
+  {
+    "chunk_id": "OQ2024__c_0043",
+    "report_id": "OQ2024",
+    "chunk_index": 42,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "per employee recorded in 2024, up from 24.1 in 2023 14",
+    "page_numbers": [
+      30
+    ],
+    "page_start": 30,
+    "page_end": 30,
+    "heading_path": [
+      "average training hours"
+    ],
+    "section_label": "average training hours",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 54,
+    "token_count": 15
+  },
+  {
+    "chunk_id": "OQ2024__c_0044",
+    "report_id": "OQ2024",
+    "chunk_index": 43,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "were developed in 2024 as part of our efforts to enhance OQ's HSSE Management System Driving Sustainable Growth 78% of OQ's total spend in 2024 was directed to local suppliers, up from 77% in 2023 Zero corruption-related cases reported across OQ operations in 2024",
+    "page_numbers": [
+      30
+    ],
+    "page_start": 30,
+    "page_end": 30,
+    "heading_path": [
+      "High-Level Directives"
+    ],
+    "section_label": "High-Level Directives",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 264,
+    "token_count": 69
+  },
+  {
+    "chunk_id": "OQ2024__c_0045",
+    "report_id": "OQ2024",
+    "chunk_index": 44,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "participated in ethics and compliance training sessions across various sites ICV index achieved in 2024, up from 31.9% in 2023 32.4%",
+    "page_numbers": [
+      30
+    ],
+    "page_start": 30,
+    "page_end": 30,
+    "heading_path": [
+      "1,076 employees"
+    ],
+    "section_label": "1,076 employees",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 132,
+    "token_count": 30
+  },
+  {
+    "chunk_id": "OQ2024__c_0046",
+    "report_id": "OQ2024",
+    "chunk_index": 45,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At OQ, we believe tackling climate change starts with action. That is, we are why we're committed to reducing our carbon emissions and playing our part in creating a net-zero future. By rethinking how we operate today, we're working to leave a lighter footprint for tomorrow. MATERIAL ISSUES COVERED ALIGNMENT WITH SDGS ALIGNMENT WITH OMAN VISION 2040 Climate Change & Energy Transition An Environment with Sustainable Component",
+    "page_numbers": [
+      31
+    ],
+    "page_start": 31,
+    "page_end": 31,
+    "heading_path": [
+      "02 to Net Zero"
+    ],
+    "section_label": "02 to Net Zero",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 428,
+    "token_count": 112
+  },
+  {
+    "chunk_id": "OQ2024__c_0047",
+    "report_id": "OQ2024",
+    "chunk_index": 46,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ's energy transition journey began in 2021 with the approval of our Decarbonisation Policy, which made a commitment to both resilience and future growth in low-carbon energy. Our targets are aligned with Oman's national targets, aiming for zero routine flaring by 2030 and net-zero GHG emissions by 2050. As an interim goal, we are working to reduce Scope 1 and Scope 2 GHG emissions by 25% from our 2021 baseline by 2030. To support this transition, a comprehen sive emissions re-baselining was undertaken in 2022, ensuring all of our assets comply with the GHG Protocol's Corporate Accoun ting and Reporting Standard. This process set 2021 as the baseline year for emissions tracking and enabled us to create a structured decarbonisation plan with clear milestones to embed emissions reduction initiatives across our operations. Recognising the role of energy efficiency in decarbonisation, OQ's board endorsed an Energy Policy in 2023, formalising the establishment of an Energy Management System (EnMS). We also established a Decarbonisation and Energy Efficiency Steering Committee (DEESC) to oversee our energy transition efforts, led by the Group CEO and executive leadership team. To drive investments in low-carbon energy, OQ introduced decarbonisation investment criteria in 2023, embedding emissions assessments into our stage gate review process. From 2024 onwards, all new investments now undergo rigorous emissions evaluations before final approval. GHG reduction and energy efficiency have also been integrated into our Corporate Scorecards as KPIs. In 2024, we established annual GHG and energy targets for assets under our opera tional control, directly linking performance to employee and executive remuneration -a move that enhances accountability and reinforces our long-term commitment to net zero.",
+    "page_numbers": [
+      33
+    ],
+    "page_start": 33,
+    "page_end": 33,
+    "heading_path": [
+      "Our Energy Transition Journey"
+    ],
+    "section_label": "Our Energy Transition Journey",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1821,
+    "token_count": 430
+  },
+  {
+    "chunk_id": "OQ2024__c_0048",
+    "report_id": "OQ2024",
+    "chunk_index": 47,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ's Energy Policy is designed to drive longterm environmental and economic sustainability by enhancing energy efficiency and optimising energy use across our operations. Through our EnMS we can be sure of compliance with legal and economic requirements while embedding robust governance mechanisms to track and improve energy performance. By integrating energy-efficient practices into facility and equipment design and setting clear KPIs, we remain committed to reducing emissions and supporting broader strategic goals. Energy consumption is actively monitored using two key approaches: - Direct data gathering, from stationary and mobile sources, as well as purchased electricity, steam, and heat. It is analysed on daily, monthly, and yearly basis to track energy intensity, GHG emissions intensity, and energy consumption by source. - Benchmarking against industry standards, such as the GHG Protocol and ISO 50001 to maintain accuracy, consistency, and foster continuous improvement. We have set a target to reduce emissions by 25% by 2030 against a 2021 baseline. Each asset within the company has developed a decarbonisation roadmap outlining specific measures to optimise energy use, including the adoption of energy-efficient technologies, flare recovery systems, renewable energy integration, real-time digital monitoring, and regular energy audits. Annual energy intensity targets are assigned to individual assets to drive accountability and ensure progress. Our Decarbonisation Policy, aligned with the Paris Agreement, provides a structured approach to emissions reduction. Built on three strategic pillars -Green Molecules, Renewable Energy Assets, and Energy Efficiencythe policy establishes processes to measure and monitor our carbon footprint, track performance through KPIs, and integrate sustainability into business decisions. We also have governance structures in place to ensure transparent reporting, climate risk assessments, and collaboration on innovative carbon reduction initiatives.",
+    "page_numbers": [
+      34
+    ],
+    "page_start": 34,
+    "page_end": 34,
+    "heading_path": [
+      "Our Energy Transition Policies"
+    ],
+    "section_label": "Our Energy Transition Policies",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 2015,
+    "token_count": 431
+  },
+  {
+    "chunk_id": "OQ2024__c_0049",
+    "report_id": "OQ2024",
+    "chunk_index": 48,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ Alternative Energy (OQAE), a subsidiary of OQ, is central to the company's energy transition strategy, expanding our portfolio into alternative energy and supporting Oman's target of carbon neutrality by 2050. OQAE fosters sustainable economic growth by building strategic partnerships and developing a clean energy portfolio. It accelerates the transition by adopting industry best practices, collaborating internationally, and securing competitive business agreements to ensure longterm success. In 2024, OQAE advanced its clean energy and low-carbon projects, achieving key milestones and expanding its business pipeline. As the government-designated National Champion for Renewable Energy, OQAE is committed to decarbonising OQ's assets while driving broader emissions reductions across Oman. As part of this mandate, OQAE now plays a key role in developing renewable energy projects for Nama Power and Water Procurement SAOC (NPWP), holding up to a 25% stake in these independent power producer (IPP) projects. This has significantly expanded OQAE's customer base, which now includes oil and gas operators, industrial clients, and direct power demand through NPWP projects. In line with its decarbonisation commitment, OQAE has established a renewable energy pipeline of up to 7 GW across Oman.",
+    "page_numbers": [
+      35
+    ],
+    "page_start": 35,
+    "page_end": 35,
+    "heading_path": [
+      "Our Growth into Alternative Energy"
+    ],
+    "section_label": "Our Growth into Alternative Energy",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1302,
+    "token_count": 295
+  },
+  {
+    "chunk_id": "OQ2024__c_0050",
+    "report_id": "OQ2024",
+    "chunk_index": 49,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In late 2024, OQAE signed long-term Power Purchase Agreements (PPAs) with PDO for three major renewable energy projects: North Solar (100MW), Riyah-1 (100MW), and Riyah-2 (100MW). These projects are set to begin development in 2025. It entails a solar power plant that will produce 100 MW of energy, and two wind farms located in the regions of Dhofar and Al Wusta each producing 100 MW of energy. This expansion reinforces OQAE's leadership in renewable energy and supports Oman's transition to a greener future, leveraging the country's abundant solar and wind resources for long-term economic and environmental sustainability.",
+    "page_numbers": [
+      36
+    ],
+    "page_start": 36,
+    "page_end": 36,
+    "heading_path": [
+      "Power Purchase Agreements (PPAs) with PDO"
+    ],
+    "section_label": "Power Purchase Agreements (PPAs) with PDO",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 629,
+    "token_count": 157
+  },
+  {
+    "chunk_id": "OQ2024__c_0051",
+    "report_id": "OQ2024",
+    "chunk_index": 50,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQAE is at the forefront of developing low-carbon molecules, particularly green hydrogen, as part of our commitment to a sustainable energy future. While this sector offers significant potential in the global energy transition, challenges such as regulatory frameworks, technology readiness, and demand uncertainty remain. Throughout 2024, OQAE worked closely with key stakeholders to address these barriers, accelerate sector development, and strengthen Oman's position as a leader in green hydrogen. Key projects in this space include: - HYPORT Duqm , a joint venture with DEME & BP featuring 1.3 GW of renewable capacity in the Special Economic Zone - Green Energy Oman (GEO) , a collaboration with InterContinental Energy, Enertech Holding Company, and Shell to supply approximately 4 GW of green power, with proposed downstream and export facilities in the Special Economic Zone of Duqm (SEZAD) - SalalaH2 , a joint venture with Marubeni, Samsung C&T, and Dutco, bringing 3.8 GW of renewable energy capacity to Dhofar",
+    "page_numbers": [
+      36
+    ],
+    "page_start": 36,
+    "page_end": 36,
+    "heading_path": [
+      "Low Carbon Molecules"
+    ],
+    "section_label": "Low Carbon Molecules",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1022,
+    "token_count": 246
+  },
+  {
+    "chunk_id": "OQ2024__c_0052",
+    "report_id": "OQ2024",
+    "chunk_index": 51,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQAE is developing a green hydrogen pilot project. This initiative will provide hands-on experience in executing and operating green hydrogen projects, testing real-world applications, and generating insights for future large-scale hydrogen developments. The pilot project will be developed in SEZAD, and the electrolyser is planned to be 10-15 MW in scale. Beyond production, OQAE is also diversifying market opportunities by exploring alternative vectors and downstream applications to drive demand. This includes positioning Oman as a global hub for low-carbon bunkering, piloting e-fuel projects such as e-Gasoline and e-SAF, leveraging biogenic CO2 for e-Methanol, and developing an e-NG facility utilising green hydrogen and CO2 through methanation.",
+    "page_numbers": [
+      37
+    ],
+    "page_start": 37,
+    "page_end": 37,
+    "heading_path": [
+      "Green Hydrogen Pilot"
+    ],
+    "section_label": "Green Hydrogen Pilot",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 755,
+    "token_count": 174
+  },
+  {
+    "chunk_id": "OQ2024__c_0053",
+    "report_id": "OQ2024",
+    "chunk_index": 52,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Decarbonisation is a key priority for OQ as it aligns with global climate goals and ensures long-term business resilience in a rapidly evolving energy landscape. By transitioning to lower-carbon technologies and sustainable practices, we are actively mitigating climate-related impacts while safeguarding the environment for future generations. Strict emissions regulations and carbon pricing mechanisms are being implemented worldwide, making compliance with evolving policies essential. Proactively addressing these requirements helps OQ minimise financial risks, avoid operational disruptions, and stay ahead of regulatory changes. As the energy sector shifts toward sustainable and low-carbon solutions, decarbonisation enhances our market position, attracts investment, and opens new business opportunities in renewable energy. It also strengthens corporate reputation by demonstrating leadership in sustainability, reinforcing trust with stakeholders, and supporting long-term customer and investor confidence. 2030 Targets Achieve zero routine flaring in our upstream assets Achieve a 25% reduction in absolute or intensity emissions from the 2021 baseline Our ambition is to achieve net zero by 2050 in accordance with the Paris Climate Agreement pledge to limit the increase in global average temperatures by 1.5°C. To get there, we have established a number of interim targets. To achieve these goals, we are committed to regular monitoring and assessment of our emissions, developing and refining comprehensive decarbonisation plans and setting KPIs for continuous progress monitoring. We are also committed to ongoing performance evaluation, identifying and rectifying challenges, seizing opportunities, and enhancing overall operational efficiency. In parallel, we are enhancing the accuracy and completeness of OQ's GHG inventory while strengthening our mitigation strategies to support long-term emissions reduction.",
+    "page_numbers": [
+      38
+    ],
+    "page_start": 38,
+    "page_end": 38,
+    "heading_path": [
+      "The Importance of Decarbonisation"
+    ],
+    "section_label": "The Importance of Decarbonisation",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1931,
+    "token_count": 405
+  },
+  {
+    "chunk_id": "OQ2024__c_0054",
+    "report_id": "OQ2024",
+    "chunk_index": 53,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ prioritises reducing energy intensity and lowering CO2 emissions across our operations. We use energy auditing practices in line with international standards to baseline our energy consumption and the Energy Intensity metric the amount of energy consumed per unit output - to track the energy performance of the assets we operate. In order to establish energy management best practice within OQ, we have successfully achieved ISO 50001 certification in 2024. In 2023, we developed an energy efficiency roadmap to further reduce the Energy Intensity Index (EII) of our assets. The implementation of this roadmap began in 2024 -a year in which OQ RPI exceeded its Energy Intensity Index (EII) reduction target, achieving a score of 94.20. This led to USD 28.57 million in savings from improved energy efficiency initiatives such as process optimisation, heat integration, and equipment upgrades. Additionally, we are in the process of implementing Energy Performance Contracts across all our buildings. As such, in 2024, we initiated a project with OQ RPI through a guaranteed savings performance-based contract. The project, which will begin construction in 2025, will be the first of its kind in Oman and is expected to save 9,400 tonnes CO2 eq annually.",
+    "page_numbers": [
+      39
+    ],
+    "page_start": 39,
+    "page_end": 39,
+    "heading_path": [
+      "Energy Efficiency and Emissions Reduction"
+    ],
+    "section_label": "Energy Efficiency and Emissions Reduction",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1257,
+    "token_count": 284
+  },
+  {
+    "chunk_id": "OQ2024__c_0055",
+    "report_id": "OQ2024",
+    "chunk_index": 54,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "1 Based on Solomon Associates Energy Intensity Index TM 2 In 2024, OQBi was divested and is no longer an OQ operational asset. It will issue its standalone sustainability report from 2025. Link will be provided on our OQ website once the report is published. 3 In 2024, OQEP was divested and is no longer an OQ operational asset. It will issue its standalone sustainability report from 2025. Link will be provided on our OQ website once the report is published. 4 In 2023, OQGN was divested and is no longer an OQ operational asset. It started issuing its standalone sustainability report from 2024. Link will be provided on our OQ website once the report is published.",
+    "page_numbers": [
+      39
+    ],
+    "page_start": 39,
+    "page_end": 39,
+    "heading_path": [
+      "Energy Intensity Metrics of the assets we operate"
+    ],
+    "section_label": "Energy Intensity Metrics of the assets we operate",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 669,
+    "token_count": 167
+  },
+  {
+    "chunk_id": "OQ2024__c_0056",
+    "report_id": "OQ2024",
+    "chunk_index": 55,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We recognise that climate change presents both physical and transition risks to our business and operations. To address these challenges, the company continuously enhances its risk identification and management processes. Since 2022, climate-related risks have been integrated into OQ's risk register, with biannual updates ensuring ongoing oversight. We have also been collaborating with our landlords to assess and mitigate potential physical risks to our assets, reinforcing our commitment to long-term resilience.",
+    "page_numbers": [
+      40
+    ],
+    "page_start": 40,
+    "page_end": 40,
+    "heading_path": [
+      "Climate-Related Risks"
+    ],
+    "section_label": "Climate-Related Risks",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 517,
+    "token_count": 113
+  },
+  {
+    "chunk_id": "OQ2024__c_0057",
+    "report_id": "OQ2024",
+    "chunk_index": 56,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ Suhar Asset, which is a refining and petrochemical plants complex located in Suhar Industrial Port Area (SIPA), a dedicated industrial area, and is an asset of OQ RPI, was the subject of this assessment.",
+    "page_numbers": [
+      40
+    ],
+    "page_start": 40,
+    "page_end": 40,
+    "heading_path": [
+      "Climate Change Risk Assessment and Vulnerability Study - Suhar"
+    ],
+    "section_label": "Climate Change Risk Assessment and Vulnerability Study - Suhar",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 206,
+    "token_count": 54
+  },
+  {
+    "chunk_id": "OQ2024__c_0058",
+    "report_id": "OQ2024",
+    "chunk_index": 57,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Climate change is placing increasing pressure on environmental and social assets, a trend that is projected to increase throughout this century. A Climate Change Risk Assessment (CCRA) and Vulnerability Study (VS) was required to understand the climate change threats to the OQ Suhar Asset. The aim was to determine to what extent the project's infrastructure and its surrounding natural environment is vulnerable to climate change, and to recommend adaptation actions to improve resilience.",
+    "page_numbers": [
+      40
+    ],
+    "page_start": 40,
+    "page_end": 40,
+    "heading_path": [
+      "Project Purpose:"
+    ],
+    "section_label": "Project Purpose:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 491,
+    "token_count": 99
+  },
+  {
+    "chunk_id": "OQ2024__c_0059",
+    "report_id": "OQ2024",
+    "chunk_index": 58,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The assessment followed a structured risk-based approach aligned with international and national frameworks, including the Equator Principles, IFC Performance Standards, and Oman's climate commitments. The process involved identifying transition climate-related risks and future climate conditions, followed by a qualitative evaluation of their likelihood and impact across health, environmental, financial, and reputational domains. Risks were scored using a 5x5 matrix to determine overall risk levels, based on Shared Socioeconomic Pathways (SSP2-4.5 and SSP5-8.5) for the medium-term horizon (2041-2060).",
+    "page_numbers": [
+      40
+    ],
+    "page_start": 40,
+    "page_end": 40,
+    "heading_path": [
+      "Methodology:"
+    ],
+    "section_label": "Methodology:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 608,
+    "token_count": 134
+  },
+  {
+    "chunk_id": "OQ2024__c_0060",
+    "report_id": "OQ2024",
+    "chunk_index": 59,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The study identified thirteen transition risks across categories such as policy and legal, technology, supply chain, market, reputation, and business preparedness. While conditions showed all risks as acceptable or tolerable, five escalated to critical. These findings emphasize the importance of proactive adaptation measures to ensure climate resilience of the Suhar Asset. To address these risks, a mapping exercise was conducted to align them with both existing and planned adaptation pathways.",
+    "page_numbers": [
+      40
+    ],
+    "page_start": 40,
+    "page_end": 40,
+    "heading_path": [
+      "Outcome:"
+    ],
+    "section_label": "Outcome:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 498,
+    "token_count": 106
+  },
+  {
+    "chunk_id": "OQ2024__c_0061",
+    "report_id": "OQ2024",
+    "chunk_index": 60,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2024, the combined Scope 1 and Scope 2 emissions from assets under operational control totalled 6.63 million tonnes of CO2e, a 16.1% reduction from 2023. This decline was driven by the energy efficiency improvements at OQRPI. We remain committed to cutting emissions from the assets we operate by 25% by 2030, leveraging energy efficiency initiatives, a shift to cleaner electricity sources, and portfolio adjustments. To enhance emissions data quality, we have successfully digitised our GHG inventory, streamlined reporting and improved data governance. Beyond operational control reporting, we are also expanding our GHG inventory to include emissions based on equity control and have begun monitoring Scope 3 GHG emissions. OQ is committed to continuously enhancing the quality of its GHG emissions data through accountability and transparency. Despite the complexities of emissions calculations, we successfully digitised our GHG inventory in 2024, streamlining reporting and strengthening data governance across our organisation. To further reinforce the credibility of our emissions data, we plan to integrate indepen dent third-party verification into our GHG reporting process. Additionally, while we currently report Scope 1 and Scope 2 emissions based on an operational control boundary, we aim to expand our inventory in 2025 to include reporting on an equity control basis as well. Recognising the importance of a compre hensive emissions profile, we have also begun accounting for other indirect (Scope 3) GHG emissions from the assets we operate and are committed to continuously improving the accuracy and completeness of our Scope 3 data.",
+    "page_numbers": [
+      41
+    ],
+    "page_start": 41,
+    "page_end": 41,
+    "heading_path": [
+      "Our GHG Emissions Metrics and Targets"
+    ],
+    "section_label": "Our GHG Emissions Metrics and Targets",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1658,
+    "token_count": 387
+  },
+  {
+    "chunk_id": "OQ2024__c_0062",
+    "report_id": "OQ2024",
+    "chunk_index": 61,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Methane, a potent greenhouse gas, remains a key focus for OQ. To enhance emission management, we launched a Leak Detection and Repair campaign in 2022 across all OQ-operated assets to identify and address fugitive methane leaks. We are also actively exploring participation in voluntary industry initiatives aimed at further reducing methane emissions.",
+    "page_numbers": [
+      42
+    ],
+    "page_start": 42,
+    "page_end": 42,
+    "heading_path": [
+      "Methane"
+    ],
+    "section_label": "Methane",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 352,
+    "token_count": 83
+  },
+  {
+    "chunk_id": "OQ2024__c_0063",
+    "report_id": "OQ2024",
+    "chunk_index": 62,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ recognises that responsible environmental management is essential to sustainable business operations. Our approach to environmental stewardship is designed to minimise our ecological footprint, protect biodiversity, optimise water usage, and manage waste efficiently. By integrating conservation principles into our operations, we not only comply with regulatory requirements but also contribute to the long-term sustainability of Oman's natural resources. MATERIAL ISSUES COVERED Biodiversity Water Management Waste Management ALIGNMENT WITH SDGS ALIGNMENT WITH OMAN VISION 2040 An Environment with Sustainable Component",
+    "page_numbers": [
+      43
+    ],
+    "page_start": 43,
+    "page_end": 43,
+    "heading_path": [
+      "03 Safeguarding Nature"
+    ],
+    "section_label": "03 Safeguarding Nature",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 624,
+    "token_count": 137
+  },
+  {
+    "chunk_id": "OQ2024__c_0064",
+    "report_id": "OQ2024",
+    "chunk_index": 63,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In Oman, industrial water demand has increased tenfold since 2000, placing further pressure on limited resources. Despite having the lowest per capita water consumption in the GCC, the country is classified as a 'high water-risk' nation by the World Resources Institute. We are therefore committed to enhancing the way we use and manage water across our business. We consume zero freshwater across all our operations, and we do not utilise water from non-renewable resources; our main source of water is desalinated seawater. This year, we plan to undertake a comprehensive water baseline review aimed at improving data accuracy, strengthening regulatory compliance, and advancing sustainability initiatives across key downstream assets. This review will be conducted in alignment with internationally recognised frameworks and national regulations to drive greater transparency and accountability. Specifically, our approach will adhere to GRI 303 (Water and Effluents) for robust reporting of water withdrawal, consumption, and discharge; Oman Ministerial Decision 145/93, which regulates wastewater reuse and discharge; and Goal 6 of Oman Vision 2040, which seeks to ensure the availability and sustainable management of water and sanitation for all. Building on this foundation, our focus for 2025 will be to carry out an environmental impact assessment of discharged water across selected OQ assets, to understand our impact on the marine ecosystem. Given that seawater is the primary source of water for our assets, ensuring its responsible use and management is critical. As part of our environmental stewardship efforts, we aim to implement several key initiatives, including conducting impact assessments on discharged water quality, installing flow meters to enable realtime monitoring of water usage and discharge, and exploring solutions to minimise the impact of seawater intake systems on marine life. To optimise our water utilisation, we recycle discharge water to be further processed and used. We have carried out an assessment in 2024 to determine water sources and practices across OQ assets. We continuously measure our water consumption, as well as our water discharge and withdrawal data for OQ Assets: *2022 and 2023 totals are based on last year's reporting boundary.",
+    "page_numbers": [
+      45,
+      46
+    ],
+    "page_start": 45,
+    "page_end": 46,
+    "heading_path": [
+      "Water Management"
+    ],
+    "section_label": "Water Management",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2292,
+    "token_count": 507
+  },
+  {
+    "chunk_id": "OQ2024__c_0065",
+    "report_id": "OQ2024",
+    "chunk_index": 64,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Water withdrawal - Water discharge - Water consumption * 2022 and 2023 totals are based on last year's reporting boundary.",
+    "page_numbers": [
+      46
+    ],
+    "page_start": 46,
+    "page_end": 46,
+    "heading_path": [
+      "Total water discharge and withdrawal data for OQ Assets (Million m 3 )"
+    ],
+    "section_label": "Total water discharge and withdrawal data for OQ Assets (Million m 3 )",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 124,
+    "token_count": 32
+  },
+  {
+    "chunk_id": "OQ2024__c_0066",
+    "report_id": "OQ2024",
+    "chunk_index": 65,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Responsible waste management plays a critical role in safeguarding both the environment and public health. We are committed to minimising wasterelated impacts by implementing safe handling, treatment, and disposal practices that mitigate risks. Our approach to waste management aligns with regulatory requirements, including compliance with Ministerial Decision MD 17/1993 for Waste Management, which defines waste classifications and establishes protocols for proper storage, handling, and disposal. Through strict adherence to these guidelines, we ensure that our waste management processes uphold the highest environmental and safety standards. In 2024, total waste generated decreased by 5.5% compared to 2023. This reduction resulted from two main factors -strengthened waste tracking systems and improved recycling practices, which reflect our continued progress in responsible waste management. Additionally, a change in the reporting boundary also contributed to the overall decline. *2022 and 2023 totals are based on last year's reporting boundary.",
+    "page_numbers": [
+      47
+    ],
+    "page_start": 47,
+    "page_end": 47,
+    "heading_path": [
+      "Waste Management"
+    ],
+    "section_label": "Waste Management",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1058,
+    "token_count": 229
+  },
+  {
+    "chunk_id": "OQ2024__c_0067",
+    "report_id": "OQ2024",
+    "chunk_index": 66,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "* 2022 and 2023 totals are based on last year's reporting boundary.",
+    "page_numbers": [
+      47
+    ],
+    "page_start": 47,
+    "page_end": 47,
+    "heading_path": [
+      "Total OQ Group Total Waste Generated for OQ Assets (Thousand tons)"
+    ],
+    "section_label": "Total OQ Group Total Waste Generated for OQ Assets (Thousand tons)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 67,
+    "token_count": 19
+  },
+  {
+    "chunk_id": "OQ2024__c_0068",
+    "report_id": "OQ2024",
+    "chunk_index": 67,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ adopts a structured waste management approach focused on segregation, secure handling, and responsible repurposing. - Contaminated materials are carefully sorted, stored, and tracked to ensure efficient disposal and recycling. - Scrap quantities are recorded monthly, integrated into an inventory system, and disposed of through coordinated logistics. - To minimise environmental impact, OQ collaborates with Omani off-takers who process waste into new products. - These partners wash, shred, and extrude materials, converting PP compounds into fruit and vegetable baskets and PE into consumer goods. OQ has created a new waste tracking system, integrated with SAP S/4 HANA, to ensure that waste materials are systematically identified, tracked, and diverted for reuse or recycling rather than being sent to landfill. The process enables real-time monitoring of waste streams, allowing for better resource allocation and ensuring that all recyclable materials are repurposed efficiently, reinforcing OQ's commitment to sustainability and waste reduction.",
+    "page_numbers": [
+      48
+    ],
+    "page_start": 48,
+    "page_end": 48,
+    "heading_path": [
+      "How We Manage Waste"
+    ],
+    "section_label": "How We Manage Waste",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1057,
+    "token_count": 246
+  },
+  {
+    "chunk_id": "OQ2024__c_0069",
+    "report_id": "OQ2024",
+    "chunk_index": 68,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Oman's rich and diverse ecosystems support an array of plant and animal species, many of which are increasingly vulnerable due to climate change. Recognising the urgency of protecting these natural assets, we are committed to biodiversity conservation as a fundamental part of our operations. By integrating conservation efforts into our Sustainability Strategy, we aim to safeguard Oman's natural heritage for future generations. Our proactive efforts extend beyond compliance. In line with regulatory requirements, every new project or extension undergoes a rigorous environmental impact assessment to address potential risks. Climate-related risks, including those linked to biodiversity, are integrated into our risk register and monitored at the highest levels of governance, ensuring strategic oversight and mitigation planning. Biodiversity protection is an inherent outcome of our decarbonisation and water management strategies, which focus on responsible resource use and impact reduction, monitored as part of our sustainability performance. OQ operates under an ISO 14001-certified Environmental Management System (EMS), ensuring strict regulatory compliance and continuous improvement in environmental performance. This system undergoes regular internal reviews and third-party audits to make sure we stay on track. Environmental stewardship is also embedded within OQ's Integrated HSSE Policy, ensuring that environmental responsibilities are managed in alignment with broader business risks and opportunities. As part of our contribution to national environmental initiatives -and to offset some of our carbon footprint- OQ actively supports the Green Initiative, aligned with Oman's Vision 2040. In response to the national initiative to plant 10 million wild plants, we have taken tangible steps toward reforestation and climate action, distributing 110,891 trees in 2024, bringing the total number to 275,516.",
+    "page_numbers": [
+      49
+    ],
+    "page_start": 49,
+    "page_end": 49,
+    "heading_path": [
+      "Biodiversity Protection"
+    ],
+    "section_label": "Biodiversity Protection",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1927,
+    "token_count": 409
+  },
+  {
+    "chunk_id": "OQ2024__c_0070",
+    "report_id": "OQ2024",
+    "chunk_index": 69,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our people are the driving force behind our success. At OQ, we are deeply committed to protecting the health, safety, and well-being of our workforce, cultivating a diverse and inclusive workplace, and supporting the sustainable development of the communities we serve. These priorities are integral to how we operate and reflect our broader responsibility to society.",
+    "page_numbers": [
+      51
+    ],
+    "page_start": 51,
+    "page_end": 51,
+    "heading_path": [
+      "04 Caring for People"
+    ],
+    "section_label": "04 Caring for People",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 368,
+    "token_count": 76
+  },
+  {
+    "chunk_id": "OQ2024__c_0071",
+    "report_id": "OQ2024",
+    "chunk_index": 70,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At OQ, culture is more than just a word -it is the way we work, interact, and grow together. With perform, collaborate, and care as our core values, our culture makes each employee feel valued and empowered to contribute their best. We believe that a healthy, balanced, and happy workforce is essential to driving innovation, productivity, and success. Our culture is rooted in ethical practices, integrity, and a strong sense of responsibility. We foster a workplace built on trust, fairness, and accountability, guided by our Code of Conduct. The health and safety of our people remains a top priority, supported by a proactive safety culture and continuous initiatives that promote well-being. We also believe in empowering our employees through ongoing learning, development, and mentorship opportunities that drive personal and professional growth. By encouraging open dialogue and regular feedback, we actively engage with our people to create an inclusive, supportive, and motivating work environment. We also invested in our people. Employee engagement rose, driven by cultural transformation programme, health and wellbeing initiatives, and flexible work policies that support both productivity and inclusion. Ashraf Al Mamari Group CEO The latest employee engagement survey recorded a notable increase of six points in the Satisfaction and Motivation score, reaching 76 in 2024, and surpassing both regional and global benchmarks. This progress reflects a sustained organisational commitment to fostering a positive and motivating work environment. A total of 4,958 employees participated in the survey, achieving an exceptional response rate of 97%, which highlights a strong culture of openness and active employee involvement. Engagement levels were assessed across eight key drivers: company repu tation, senior leadership, immediate managers, cooperation, working conditions, job content, remuneration, and learning and development. Positive trends were observed across all demo graphics. Male and female engagement increased to 77% and 72%, respectively. The most notable improvements were seen among employees under 30 and those aged 30-39, with increases of eight and seven points respectively -indicating a narrowing engagement gap and improved perceptions among younger cohorts. While employees with 1-2, 3-5, and 6-10 years of service reported lower overall engagement scores (73, 73, and 75, respectively), they demonstrated the strongest year-over-year gains, reflecting the impact of targeted initiatives aimed at enhancing their experience. The eNPS also rose sharply by 21 points to reach 45, signalling increased trust in and advocacy for the organisation as an employer of choice.",
+    "page_numbers": [
+      53,
+      54
+    ],
+    "page_start": 53,
+    "page_end": 54,
+    "heading_path": [
+      "OQ Culture"
+    ],
+    "section_label": "OQ Culture",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2708,
+    "token_count": 586
+  },
+  {
+    "chunk_id": "OQ2024__c_0072",
+    "report_id": "OQ2024",
+    "chunk_index": 71,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Age Diversity of Employees (Number)",
+    "page_numbers": [
+      55
+    ],
+    "page_start": 55,
+    "page_end": 55,
+    "heading_path": [
+      "Our Workforce"
+    ],
+    "section_label": "Our Workforce",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 35,
+    "token_count": 12
+  },
+  {
+    "chunk_id": "OQ2024__c_0073",
+    "report_id": "OQ2024",
+    "chunk_index": 72,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2024, the percentage of newly hired female employees increased by 22% compared to the previous year, contributing to a 2% rise in the overall representation of women in our workforce. This progress reflects our ongoing commitment to building a diverse team and fostering an inclu sive culture where everyone feels valued, respected, and empowered to thrive. Learn more in the 'Promoting Equal Opportunities' section. Employee retention continues to be a key focus. Our total turnover rate reached 10.1% in 2024, up from the previous year, with the increase largely driven by changes to the reporting boundary.",
+    "page_numbers": [
+      58
+    ],
+    "page_start": 58,
+    "page_end": 58,
+    "heading_path": [
+      "Newly Hired Employees by Gender (Number)"
+    ],
+    "section_label": "Newly Hired Employees by Gender (Number)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 612,
+    "token_count": 144
+  },
+  {
+    "chunk_id": "OQ2024__c_0074",
+    "report_id": "OQ2024",
+    "chunk_index": 73,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our management approach is built on strong leadership, continuous development, and active employee engagement. By fostering open communication, aligning organisationsl and individual goals, and empowering our people, we are cultivating a dynamic and motivated workforce. Leadership engagement is central to building a transparent and collaborative work environment. Leaders and employees engage through multiple platforms, including town halls and internal communications, to share key achievements, discuss performance, and address concerns. This continuous dialogue strengthens trust, encourages professional development, and enhances organisational transparency. Furthermore, we conduct regular culture and engagement surveys, gathering valuable insights into employee satisfaction and workplace dynamics. The feedback is carefully analysed and translated into action able strategies. The findings from our employee engagement and culture survey, along with the increase in our eNPS score, reinforce our efforts to nurture a values-driven, inclusive culture that empowers emplo yees. We remain committed to using these insights to shape meaningful initiatives that enhance leadership behaviours, recognition practices, and day-to-day employee experiences across the organisation. OQ's People Policy, along with its accompanying manual, provide employees with clear guidelines on expectations, while outlining the company's commitments and compliance with Oman's labour laws, internal HR procedures, and shareholder directives regulations.",
+    "page_numbers": [
+      58
+    ],
+    "page_start": 58,
+    "page_end": 58,
+    "heading_path": [
+      "Managing Our Workforce"
+    ],
+    "section_label": "Managing Our Workforce",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1541,
+    "token_count": 301
+  },
+  {
+    "chunk_id": "OQ2024__c_0075",
+    "report_id": "OQ2024",
+    "chunk_index": 74,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At OQ, safeguarding the health and well-being of our employees, contractors, and communities is a top priority. We uphold the highest Health, Safety, and Environment (HSE) standards, guided by globally recognised best practices and a strong internal governance framework. Our approach is anchored in the Life Saving Rules (LSR) Corporate Procedure, which aligns with international best practices to minimise workplace risks. The LSR framework enforces strict safety protocols covering critical areas such as confined space entry, mechanical lifting, working at heights, and energy isolation. Non-compliance is met with strict consequences, reinforcing a culture of accountability and prevention. Our Health, Safety, Security, and Environment (HSSE) Management System provides a structured and systematic approach to managing safety risks and embedding preventive measures into daily operations. Grounded in the PlanDo-Check-Act model, it drives continuous improvement while ensuring compliance with ISO 45001 and ISO 14001 standards. In 2024, LPIC -part of OQ RPIachieved ISO 14001:2015 and ISO 45001:2018 certification, marking a significant milestone in its full integration into the OQ RPI Management System. OQ's HSSE Policy promotes a proactive mindset rooted in the belief that all incidents are preventable. The company engages employees and stakeholders in safety initiatives, enforces compliance with legal and industry standards, and ensures robust emergency preparedness. The policy emphasises leadership accountability, risk management, employee engagement, and regular audits to maintain operational excellence. We also conduct regular audits and safety assessments, and give employees the right training on hazard identification and preventive measures. Furthermore, as part of our tendering process, we implement safety criteria to assess potential suppliers and vendors. This ensures they have a clear understanding of our safety standards and can operate in a way that aligns with our values.",
+    "page_numbers": [
+      59
+    ],
+    "page_start": 59,
+    "page_end": 59,
+    "heading_path": [
+      "Health, Safety & Well-being"
+    ],
+    "section_label": "Health, Safety & Well-being",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2009,
+    "token_count": 456
+  },
+  {
+    "chunk_id": "OQ2024__c_0076",
+    "report_id": "OQ2024",
+    "chunk_index": 75,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "To support employee well being, OQ's Occupational Health team actively monitors prolonged sickness absences exceeding 14 days. These cases trigger return-to-work fitness assessments to ensure employees are fit to resume their duties safely. Periodic medical evaluations are a mandatory requirement for all employees, playing a crucial role in early detection of potential health concerns. Employees are also encouraged to complete ergonomic self-assessments, which are reviewed by the Occupational Health team to recommend necessary control measures. OQ reinforced its commitment to workplace safety, environmental responsibility, and employee well-being through a structured HSSE communication and engagement strategy throughout 2024. The company implemented targeted awareness campaigns, leadership walkthroughs, emergency preparedness drills, and industry collaborations, ensuring a culture of continuous improvement in HSSE practices. OQ actively promotes a balanced and fulfilling work culture through a series of wellness initiatives, fitness programme, and family-friendly policies. - The OQ On The Move Programme encourages collective exercise, challenges, and rewards to promote a healthy lifestyle, while wellness sessions provide detox programme designed to alleviate fatigue and improve overall health. - Employees can also participate in highintensity workouts, including yoga, Zumba, and cross-fit, or join organised sports tournaments such as padel and football. - To support healthier eating habits, nutritious food options are made available in office cafeterias and coffee stations. - Recognising the importance of worklife balance, OQ has introduced flexible policies such remote work options, enabling employees to manage their personal and professional responsibilities more effectively. - Facilities such as mothers' rooms, ladies' rest areas, men's massage chairs, and security guards dining room help employees to be comfortable at work. - The company also fosters a sense of community through initiatives like the Summer Kids Camp, designed to support families by offering fun activities for employees' children during school holidays. At OQ, we take a holistic approach to employee well-being -supporting not only physical and mental health, but also financial and family wellness. Our Mazzaycom open days provide employees with financial guidance and investment aware ness sessions. Discounts on private education for employees' families further ease financial burdens. Additionally, we launched an Entertainer Programme, giving staff access to leading deals and services in the market. Looking ahead, dedicated mental health support programme will be introduced by 2027 to further strengthen our well-being offering. We also recognise the importance of family support through progressive parental leave policies. Employees are entitled to 98 days of maternity leave, which also applies to adoptive mothers of children under two, along with nursing hour provisions. Female employees can also take up to one year of unpaid childcare leave to focus on family needs, while fathers receive seven days of paternity leave -reflecting our belief in shared responsibilities and inclusive care.",
+    "page_numbers": [
+      59,
+      60
+    ],
+    "page_start": 59,
+    "page_end": 60,
+    "heading_path": [
+      "Creating a Happier and Healthier Workplace"
+    ],
+    "section_label": "Creating a Happier and Healthier Workplace",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 3212,
+    "token_count": 673
+  },
+  {
+    "chunk_id": "OQ2024__c_0077",
+    "report_id": "OQ2024",
+    "chunk_index": 76,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "By embedding well-being into our corporate culture, OQ ensures that employees are empo wered to lead healthier, more balanced lives -creating a workplace that values compassion, inclusivity, and longterm sustainability.",
+    "page_numbers": [
+      60
+    ],
+    "page_start": 60,
+    "page_end": 60,
+    "heading_path": [
+      "Creating a Happier and Healthier Workplace"
+    ],
+    "section_label": "Creating a Happier and Healthier Workplace",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 219,
+    "token_count": 53
+  },
+  {
+    "chunk_id": "OQ2024__c_0078",
+    "report_id": "OQ2024",
+    "chunk_index": 77,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Health, Safety, Security, & Environment (HSSE) Events & Communications - 2024",
+    "page_numbers": [
+      61
+    ],
+    "page_start": 61,
+    "page_end": 61,
+    "heading_path": [
+      "SPOTLIGHT"
+    ],
+    "section_label": "SPOTLIGHT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 77,
+    "token_count": 22
+  },
+  {
+    "chunk_id": "OQ2024__c_0079",
+    "report_id": "OQ2024",
+    "chunk_index": 78,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ organised a series of awareness initiatives aligned with international and national observances to enhance employees' understanding of HSSE-related topics. Those include: - Oman Environment Day: Internal awareness campaign to emphasise environmental protection efforts. - World Cancer Day: Awareness campaign supported by Newsletter Issue 195, a physical event, invitation circulation, and Instagram engagement posts. - World Civil Defense Day: Covered in Newsletter Issue 195 and supported by Instagram posts to emphasise emergency preparedness.",
+    "page_numbers": [
+      61
+    ],
+    "page_start": 61,
+    "page_end": 61,
+    "heading_path": [
+      "Employee Engagement and Awareness Campaigns"
+    ],
+    "section_label": "Employee Engagement and Awareness Campaigns",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 549,
+    "token_count": 107
+  },
+  {
+    "chunk_id": "OQ2024__c_0080",
+    "report_id": "OQ2024",
+    "chunk_index": 79,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ's ELT actively participated in various safety and engagement initiatives across multiple locations: - ELT Walkthrough at Salalah LPG: Leadership engagement with site teams to assess safety practices. - ELT Walkthrough at Marafiq: Safety review at key operational facilities. - ELT Walkthrough at MAF: Evaluation of HSSE compliance at strategic locations. - Emergency Preparedness and Crisis Management 3 OQ's ELT actively participated in various safety and engagement initiatives across multiple locations: - Earthquake Drill: Practical drill to test emergency response protocols. - Surprise Evacuation Drill: An unannounced evacuation exercise to assess response readiness. - Crisis Management Seminar: A specialised event focused on emergency planning and risk mitigation strategies.",
+    "page_numbers": [
+      62
+    ],
+    "page_start": 62,
+    "page_end": 62,
+    "heading_path": [
+      "Leadership Engagement and HSSE Walkthroughs 2"
+    ],
+    "section_label": "Leadership Engagement and HSSE Walkthroughs 2",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 788,
+    "token_count": 178
+  },
+  {
+    "chunk_id": "OQ2024__c_0081",
+    "report_id": "OQ2024",
+    "chunk_index": 80,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our HSSE Management System has undergone a comprehensive review to enhance risk management, simplify processes, and improve usability. As part of this effort, we collaborated with Strategic Business Units (SBUs) to develop and implement 14 High-Level Directives (HLDs) in 2024. These directives streamline documentation, ensuring a stronger focus on essential risk management actions. By managing risks to As Low As Reasonably Practicable (ALARP), we reinforce OQ's commitment to safeguarding people, assets, and the environment. To further mitigate occupational risks at OQ RPI, we have established structured processes such as Occupational Health Risk Assessments (OHRA), proactive exposure monitoring, and hazard control measures. Our key focus areas include managing noise exposure, benzene exposure, and radiation risks, ensuring a safer and healthier work place for all. By embracing the HSSE Management System and the Responsible Care philosophy, we can be sure that incidents are preventable, and that safety remains a core business priority. In 2024, we recorded zero fatalities, underscoring our dedication to maintaining a safe working environment. All injury and fatality records are systematically tracked through Intelex, while sickness absence reporting is managed via SAP by the HR department. This structured approach allows for real-time tracking and swift interventions when needed. In 2024, OQ Group demonstrated a notable improvement in safety performance across key metrics. The Total Recordable Injuries (TRI) decreased significantly from 32 cases in 2023 to seven in 2024, reflecting strengthened health and safety practices across the Group. Similarly, Lost Time Injuries (LTI) dropped from seven to one, further highlighting progress in workplace safety. As a result, the Total Recordable Injury Frequency (TRIF) declined from 0.69 to 0.54, and the Lost Time Injury Frequency Rate (LTIFR) improved from 0.15 to 0.077 year-on-year. These positive trends underscore OQ's continued efforts to reinforce a safety-first culture and embed preventative measures throughout its operations. It is worth noting that part of these changes is also attributable to the change in the reporting boundary for the year. * This number was restated due to reporting boundary change. HSSE Statistics YTD We are committed to aligning our health, safety, and wellbeing approach with OPAL Camp Standards and international best practices, ensuring a safe and supportive environment across all our operations.",
+    "page_numbers": [
+      63,
+      64
+    ],
+    "page_start": 63,
+    "page_end": 64,
+    "heading_path": [
+      "A Risk-Based Approach to HSSE"
+    ],
+    "section_label": "A Risk-Based Approach to HSSE",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 2510,
+    "token_count": 594
+  },
+  {
+    "chunk_id": "OQ2024__c_0082",
+    "report_id": "OQ2024",
+    "chunk_index": 81,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our Incident Reporting and Investigation Standard helps us ensure a consistent and structured approach to managing HSE incidents. The standard is designed to uphold quality, timeliness, and accountability, and it outlines clear protocols for reporting, investigating, and following up on HSE incidents, defining the responsibilities of all relevant parties. It establishes a systematic incident management cycle, detailing investigation phases, assigned teams, and reporting procedures. Refer back to our 2023 report for more information.",
+    "page_numbers": [
+      65
+    ],
+    "page_start": 65,
+    "page_end": 65,
+    "heading_path": [
+      "How We Report Incidents"
+    ],
+    "section_label": "How We Report Incidents",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 538,
+    "token_count": 111
+  },
+  {
+    "chunk_id": "OQ2024__c_0083",
+    "report_id": "OQ2024",
+    "chunk_index": 82,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Annual HSSE Day at Work promotes the prevention of occupational accidents and diseases and enlightens employees towards Health, Safety, Security, & Environment.",
+    "page_numbers": [
+      65
+    ],
+    "page_start": 65,
+    "page_end": 65,
+    "heading_path": [
+      "HSSE Open day"
+    ],
+    "section_label": "HSSE Open day",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 160,
+    "token_count": 38
+  },
+  {
+    "chunk_id": "OQ2024__c_0084",
+    "report_id": "OQ2024",
+    "chunk_index": 83,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ National symposium with specialised workshops run by local and international SMEs and attended by over 500 participants from local and international organisations.",
+    "page_numbers": [
+      65
+    ],
+    "page_start": 65,
+    "page_end": 65,
+    "heading_path": [
+      "HSSE Symposium"
+    ],
+    "section_label": "HSSE Symposium",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 166,
+    "token_count": 31
+  },
+  {
+    "chunk_id": "OQ2024__c_0085",
+    "report_id": "OQ2024",
+    "chunk_index": 84,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "HSSE walkthroughs with ELT and other functions.",
+    "page_numbers": [
+      65
+    ],
+    "page_start": 65,
+    "page_end": 65,
+    "heading_path": [
+      "HSSE Walkthroughs"
+    ],
+    "section_label": "HSSE Walkthroughs",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 47,
+    "token_count": 13
+  },
+  {
+    "chunk_id": "OQ2024__c_0086",
+    "report_id": "OQ2024",
+    "chunk_index": 85,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "To make sure all employees, contractors, and suppliers adhere to our HSSE framework, we have developed the OQ 12 Safety Rules which are embedded within our HSSE guidelines and shared across our network. Training is a key component of our approach, with online modules delivered through our e-learning management system, reaching over 600 employees. We also organise regular safety events and training initiatives to enhance HSSE awareness across the workforce.",
+    "page_numbers": [
+      66
+    ],
+    "page_start": 66,
+    "page_end": 66,
+    "heading_path": [
+      "HSSE Training"
+    ],
+    "section_label": "HSSE Training",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 460,
+    "token_count": 95
+  },
+  {
+    "chunk_id": "OQ2024__c_0087",
+    "report_id": "OQ2024",
+    "chunk_index": 86,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Leading HSSE with Excellence workshop and senior leadership engagement.",
+    "page_numbers": [
+      66
+    ],
+    "page_start": 66,
+    "page_end": 66,
+    "heading_path": [
+      "HSSE Workshop for ELT and VPs"
+    ],
+    "section_label": "HSSE Workshop for ELT and VPs",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 71,
+    "token_count": 12
+  },
+  {
+    "chunk_id": "OQ2024__c_0088",
+    "report_id": "OQ2024",
+    "chunk_index": 87,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The engagement sessions improved workplace morale and acted as essential ingredient for creating a strong safety culture.",
+    "page_numbers": [
+      66
+    ],
+    "page_start": 66,
+    "page_end": 66,
+    "heading_path": [
+      "HSSE Engagement Sessions"
+    ],
+    "section_label": "HSSE Engagement Sessions",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 121,
+    "token_count": 21
+  },
+  {
+    "chunk_id": "OQ2024__c_0089",
+    "report_id": "OQ2024",
+    "chunk_index": 88,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Participating in the 28th Conference of the Parties (COP28) in Dubai to enhance alignment with international requirements towards achieving Oman's 2050 commitment.",
+    "page_numbers": [
+      66
+    ],
+    "page_start": 66,
+    "page_end": 66,
+    "heading_path": [
+      "COP28 Participation"
+    ],
+    "section_label": "COP28 Participation",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 163,
+    "token_count": 36
+  },
+  {
+    "chunk_id": "OQ2024__c_0090",
+    "report_id": "OQ2024",
+    "chunk_index": 89,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "As part of OQ's mandatory HSSE training programmeme for 2024, the Hazard Identification course was rolled out to all employees, aiming to enhance their ability to recognise and report potential hazards in the workplace. This initiative supports OQ's broader commitment to cultivating a proactive and safety-first culture across the organisation. - Total Employees Assigned: 2,810 - Employees Completed: 2,587 - Completion Rate: ~92% The high completion rate reflects strong employee engagement and underscores OQ's ongoing efforts to embed health and safety awareness into daily operations. By equipping employees with the knowledge and tools to identify risks early, OQ continues to build a more resilient and responsible work environment.",
+    "page_numbers": [
+      67
+    ],
+    "page_start": 67,
+    "page_end": 67,
+    "heading_path": [
+      "Hazard Identification Training"
+    ],
+    "section_label": "Hazard Identification Training",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 740,
+    "token_count": 171
+  },
+  {
+    "chunk_id": "OQ2024__c_0091",
+    "report_id": "OQ2024",
+    "chunk_index": 90,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Maintaining the integrity of our assets demands a structured approach that includes rigorous testing, maintenance, and inspections. Our process guarantees that Process Safety Barriers and Safety Critical Elements remain reliable throughout their operational lifespan, minimising the risk of failure and preventing hazardous incidents. The objective is to ensure that all equipment is designed, installed, and maintained to meet stringent standards, remaining fully functional until decommissioning. Key technical integrity activities include inspections, testing, preventive and predictive maintenance, repairs, and quality assurance. It is also crucial that we maintain a secure work environment and protect our employees through a structured approach to critical incident management. This includes clear protocols for incident response, reporting, and enforcement of safety policies to uphold workplace health and security. To ensure thorough oversight of major incidents, our Incident Review Committee (IRC) reviews event notifications and investi gations, reinforcing accountability, and driving continuous improve ment in safety practices.",
+    "page_numbers": [
+      68
+    ],
+    "page_start": 68,
+    "page_end": 68,
+    "heading_path": [
+      "Asset Integrity and Critical Incident Management"
+    ],
+    "section_label": "Asset Integrity and Critical Incident Management",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1144,
+    "token_count": 223
+  },
+  {
+    "chunk_id": "OQ2024__c_0092",
+    "report_id": "OQ2024",
+    "chunk_index": 91,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our people are the cornerstone of OQ's long-term success. In line with our commitment to continuous growth and operational excellence, we invest in robust training and development programme designed to empower employees and foster a positive, performance-driven culture. These initiatives encompass classroom-based learning, leadership development, coaching, mentoring, and practical experience through secondment opportunities. Employee skill development is anchored in a structured competency framework, ensuring that learning pathways are strategically aligned with business needs. We systematically track training hours per employee to monitor participation and impact. To support career progression, employees are offered access to a broad suite of transferable skills programme, covering areas such as root Average hours of training per year Training Hours per employee cause analysis, diversity and inclusion, project management, artificial intelligence, critical thinking, leadership, decision-making, and business analysis. The increase in training hours per employee recorded in 2024 is a result of all partnerships and conferences being included. OQ has signed MOUs with the Ministry of Labor (MOL), Civil Aviation Authority (CAA), and Military Technological College (MTC) to enhance knowledge sharing and collaboration. Training Budget OQ Group $15.6M $2.9M OQ SAOC Group and Subsidiaries $23.2M",
+    "page_numbers": [
+      69,
+      70
+    ],
+    "page_start": 69,
+    "page_end": 70,
+    "heading_path": [
+      "Employee Training & Development"
+    ],
+    "section_label": "Employee Training & Development",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 1407,
+    "token_count": 288
+  },
+  {
+    "chunk_id": "OQ2024__c_0093",
+    "report_id": "OQ2024",
+    "chunk_index": 92,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ Academy has established several partnerships with internationally well-known institutes. These valuable collaborations have enhanced our training delivery to be internationally certified, enabling our employees to experience the highest quality learning. Among the top skills being developed by OQ employees are Promoting Equal Opportunities, followed by Microsoft Excel and critical thinking - highlighting our focus on professional growth across various competencies, including problem-solving, decision-making, business analysis, leadership, and artificial intelligence (AI). Our key training courses and platforms include: - E-Learning. OQ has introduced a new e-learning platform accessible at any time, from any device, enabling employees to enhance their skills at their own pace. Partnering with global providers such as LinkedIn Learning and CMI Digital, the platform offers a range of technical, soft skills, and leadership courses. - Masar Programme, a leadership development initiative aimed at nurturing future leaders and high-potential employees. Accredited by the Chartered Management Institute (CMI), it reinforces OQ's leadership principles and values. - Coaching & Mentoring Programme, which gained international recognition in 2024, winning two Coaching Culture Circle Awards from U-Excelerate. It is an initiative that strengthens OQ's coaching culture, setting industry benchmarks in leadership development. 54 Coaches Trained 85% Customer 6 Credentialed Satisfaction Coaches 83% Line Managers Satisfaction 140 Leaders Trained in Coaching Skills 89% Leaders Trained in Coaching Skills",
+    "page_numbers": [
+      70,
+      71
+    ],
+    "page_start": 70,
+    "page_end": 71,
+    "heading_path": [
+      "Total Number of Programmes"
+    ],
+    "section_label": "Total Number of Programmes",
+    "doc_item_labels": [
+      "caption",
+      "list_item",
+      "text"
+    ],
+    "char_count": 1609,
+    "token_count": 335
+  },
+  {
+    "chunk_id": "OQ2024__c_0094",
+    "report_id": "OQ2024",
+    "chunk_index": 93,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Coached Employees 100% Advocating Coaching to Others 2,406 Hours of Coaching Coaching Educational Materials Produced USD ROI External Support Oman Government & Private Companies",
+    "page_numbers": [
+      71
+    ],
+    "page_start": 71,
+    "page_end": 71,
+    "heading_path": [
+      "Top skills learners are developing at OQ"
+    ],
+    "section_label": "Top skills learners are developing at OQ",
+    "doc_item_labels": [
+      "caption"
+    ],
+    "char_count": 177,
+    "token_count": 41
+  },
+  {
+    "chunk_id": "OQ2024__c_0095",
+    "report_id": "OQ2024",
+    "chunk_index": 94,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our talent management approach has evolved from disconnected and inefficient processes to a fully integrated and strategic system. Initially, HR functions operated in isolation with limited integration. Over time, standardised processes were introduced, improving consistency and connectivity. A greater focus was then placed on integrating systems and assigning dedicated teams to manage talent initiatives. Today, this transformation has resulted in a seamless, data-driven approach that enhances decisionmaking and aligns talent management with business objectives. SPOTLIGHT",
+    "page_numbers": [
+      72
+    ],
+    "page_start": 72,
+    "page_end": 72,
+    "heading_path": [
+      "Talent Management"
+    ],
+    "section_label": "Talent Management",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 578,
+    "token_count": 120
+  },
+  {
+    "chunk_id": "OQ2024__c_0096",
+    "report_id": "OQ2024",
+    "chunk_index": 95,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The Muadh'fina Campaign is an internal recruitment initiative focused on assignable employees, streamlining the hiring process by targeting specific talent pools. Previously, recruitment efforts were broad, lacking focus on particular roles or seniority levels, and there was no assignable employee data available. Through the campaign, recruitment now prioritizes assignable employees, ensuring that talent is matched based on expertise and background. Additionally, a structured approach has been implemented to update employee data collectively, with a dedicated team formed within the Talent Hunter system. This transformation has led to significant success, achieving 175 placements and improving internal mobility.",
+    "page_numbers": [
+      72
+    ],
+    "page_start": 72,
+    "page_end": 72,
+    "heading_path": [
+      "The Muadh'fina Campaign"
+    ],
+    "section_label": "The Muadh'fina Campaign",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 720,
+    "token_count": 147
+  },
+  {
+    "chunk_id": "OQ2024__c_0097",
+    "report_id": "OQ2024",
+    "chunk_index": 96,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The introduction of AI-Powered Talent Acquisition v2 has enhanced the efficiency of the hiring process by integrating SAP SuccessFactors. This advancement eliminates the need for manual resume uploads, as AI now automatically extracts CVs, processes resumes overnight, and publishes screening results directly in SAP. This AI-driven approach streamlines recruitment efforts, improving accuracy and speed in candidate evaluation. Additionally, four new columns -AI Status, Ranking, Score (%), and Evaluation Summaryhave been introduced within SAP SuccessFactors, providing deeper insights into candidate assessments and enabling data-driven hiring decisions.",
+    "page_numbers": [
+      73
+    ],
+    "page_start": 73,
+    "page_end": 73,
+    "heading_path": [
+      "AI-Powered Talent Acquisition"
+    ],
+    "section_label": "AI-Powered Talent Acquisition",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 657,
+    "token_count": 149
+  },
+  {
+    "chunk_id": "OQ2024__c_0098",
+    "report_id": "OQ2024",
+    "chunk_index": 97,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ's Competency Management Framework is a structured approach designed to ensure employees have the necessary skills, knowledge, and capabilities to meet business objectives. The framework is built on a 98% completion rate for both the Competency Dictionary and Job Competency Profiles, ensuring role-specific competencies are well-defined and aligned with organisational needs. A 100% competency-based, data-driven approach underpins the strategy, incorporating skill gap assessments and a three-year development plan to bridge identified gaps. Annual gap closure and development plans, currently at 30% completion, help employees progress in their roles through targeted learning initiatives. OQ's Talent Development Plan, covering 85% of Group employees and 86% of SAOC employees, reflects the company's commitment to workforce growth. 98% Competency Dictionary Competency based data driven (Skill Gaps & 3 Years Development 100% Plan Strategy) 98% Job Competency Profile 30% Annual Gap Closure & Development Plans 85% 86% OQ Group OQ SAOC Talent Development Plan 85% Effectiveness through the Learning Model 70/20/10",
+    "page_numbers": [
+      73,
+      74
+    ],
+    "page_start": 73,
+    "page_end": 74,
+    "heading_path": [
+      "Competency Management"
+    ],
+    "section_label": "Competency Management",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 1120,
+    "token_count": 250
+  },
+  {
+    "chunk_id": "OQ2024__c_0099",
+    "report_id": "OQ2024",
+    "chunk_index": 98,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We continue to support employee growth, career progression, and leadership development through structured pathways, digital solutions, and access to well-defined career paths. A key component of OQ's approach is leveraging 100% competencybased capability assessments to map future career roles. Additionally, 85% of career development plans are integrated with KAFAA, meaning that talent development matches business needs. Moving forward, we are focused on expanding career management initiatives, integrating AI-driven career insights, strengthening feedback mechanisms to enhance leadership capabilities and career development across all levels, and developing strategic career annual plans. The 360 Feedback initiative has successfully enhanced leadership development and employee growth through a structured feedback process. With 98% overall completion for the OQ group and 100% readiness of the digital platform, the",
+    "page_numbers": [
+      75
+    ],
+    "page_start": 75,
+    "page_end": 75,
+    "heading_path": [
+      "Career Management & Development"
+    ],
+    "section_label": "Career Management & Development",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 923,
+    "token_count": 180
+  },
+  {
+    "chunk_id": "OQ2024__c_0100",
+    "report_id": "OQ2024",
+    "chunk_index": 99,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ focuses on efficient recruitment, onboarding, and workforce development. In 2024, the company successfully recruited 352 employees across the OQ Group, with 91% of positions filled. A strong emphasis is placed on fresh graduate hiring, with 168 new graduates onboarded, including 163 through the Shabab OQ programme. To enhance hiring efficiency, OQ has implemented automated onboarding tools in SAP SF, streamlining the onboarding process system is fully operational. Key achievements include the go-live of the 360 Feedback Team Management System (TMS) and ensuring all roles up to the chief level are feedback-ready. However, challenges remain in integrating action plans into people growth and development platforms. Moving forward, the focus will be on launching digital platforms, implementing best practices with employees and leaders, and measuring effectiveness to drive continuous improvement. OQ has made significant progress in succession planning, reaching 98% completion by identifying critical roles and strengthening both strategic and operational pipelines. With efforts underway to enhance data automation and digital integration, the company remains committed to leadership continuity, and reinforces its focus on capability building through executive engagement and employee participation. Moving forward, the priority is to expand talent coverage and further develop succession pipelines across all business units to ensure sustained leadership excellence. for 662 new employees. We also track employee satisfaction, reporting a high satisfaction rate, with 30 newly hired fresh graduates at OQ SAOC indicating they were 'very satisfied' and 21 stating they were 'satisfied' with the recruitment and onboarding process. Moving forward, key priorities include finalising preboarding tools, maintaining high vacancy fill rates (currently 91%), and improving offboarding processes.",
+    "page_numbers": [
+      75
+    ],
+    "page_start": 75,
+    "page_end": 75,
+    "heading_path": [
+      "Recruitment and Retention"
+    ],
+    "section_label": "Recruitment and Retention",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1902,
+    "token_count": 404
+  },
+  {
+    "chunk_id": "OQ2024__c_0101",
+    "report_id": "OQ2024",
+    "chunk_index": 100,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At OQ, we recognise the importance of fostering a workplace that mirrors the diverse communities we serve. We believe in the value of embracing different perspectives in contributing to the organisation's long-term growth and success, and we are committed to empowering all members of our population, including men, women, employees of different nationalities and age groups, and persons with disabilities in an inclusive environment where everyone is valued, respected, and empowered to succeed. OQ's workforce represents 50 nationalities, highlighting our multicultural environment. Non-discrimination and respect are fundamental principles and part of our organisational values that protect individual rights and ensure dignity without intimidation, bias, or coercion. A dedicated committee at OQ plays a vital role in driving the company's commitment to creating a diverse, inclusive, and equitable workplace. Acting as both a strategic advisory and execution body, the committee works to embed inclusive practices across all business units while ensuring accountability and progress in initiatives that support women and persons with disabilities. With representation from various corporate functions and assets, it provides oversight, guidance, and support in implementing OQ's inclusion-related priorities. It focuses on fostering a culture of belonging, identifying and addressing barriers to inclusion, and aligning efforts with OQ's vision and values through continuous engagement, communication, and data-driven decision-making. OQ's Diversity and Inclusion (D&I) Policy fosters an inclusive workplace where every employee is valued, respected, and given equal opportunities to thrive. The policy prohibits discrimination based on religion, race, ethnicity, language, gender, age, disability, socioeconomic status, education, or professional background. It ensures fair access to employment-related practices such as recruitment, promotions, and termination while mandating safe and accessible workplaces. A clear grievance mechanism allows employees to report any discriminatory practices, reinforcing OQ's commitment to a respectful and equitable work environment. We provide comprehensive maternity, paternity, and childcare leave to support employees during major family milestones.",
+    "page_numbers": [
+      76
+    ],
+    "page_start": 76,
+    "page_end": 76,
+    "heading_path": [
+      "Promoting Equal Opportunities"
+    ],
+    "section_label": "Promoting Equal Opportunities",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2297,
+    "token_count": 495
+  },
+  {
+    "chunk_id": "OQ2024__c_0102",
+    "report_id": "OQ2024",
+    "chunk_index": 101,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At OQ, we take great satisfaction in having an inclusive and diverse workplace that values and empowers people from all backgrounds. Given that the majority of our operations are conducted in Oman, we also understand how critical it is to assist the government of Oman in its efforts to nationalise and Omanise the country. In keeping with OIA's goal, we are consequently dedicated to doing our share to develop a robust and experienced Omani workforce that can support the nation's social and economic development by offering meaningful employment to fortify and preserve the national presence in our enterprise and endorse the government's goal of building a strong and seasoned Omani labour force. To guide these efforts, OQ has established an Omanisation Strategy built on five key principles: developing internal talent, injecting fresh graduates into the workforce, redeploying secondees, upskilling and reskilling employees, and attracting experienced Omani professionals from the market. Through this strategy, we aim not only to meet Omanisation targets but to create long-term career growth pathways for Omanis, ensuring they are well-equipped to thrive in a dynamic and evolving energy sector. With over 7,000 full-time employees worldwide, including 4,800 in Oman, OQ demonstrated a strong commitment to workforce diversity and inclusion. In 2024, the company achieved an 85% Omanisation rate across its Oman-based assets, drawing talent from various governorates and reinforcing its commitment to promoting local employment. A total of 275 5 Omanis were hired, including 265 6 fresh graduates, surpassing the expectations for fresh graduates hiring by 40%. The company also created 723 new job opportunities for Omanis.",
+    "page_numbers": [
+      77
+    ],
+    "page_start": 77,
+    "page_end": 77,
+    "heading_path": [
+      "Omanisation"
+    ],
+    "section_label": "Omanisation",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1732,
+    "token_count": 384
+  },
+  {
+    "chunk_id": "OQ2024__c_0103",
+    "report_id": "OQ2024",
+    "chunk_index": 102,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At OQ, we adhere to the Oman Labour Law, ensuring that benefits and compensation are provided equally to both genders without discrimination. Our commitment to fairness and equity extends across all aspects of employment, fostering an inclusive workplace where all employees are valued, rewarded based on their contributions, and given equal opportunities for growth and development.",
+    "page_numbers": [
+      78
+    ],
+    "page_start": 78,
+    "page_end": 78,
+    "heading_path": [
+      "Ensuring Gender Balance"
+    ],
+    "section_label": "Ensuring Gender Balance",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 383,
+    "token_count": 81
+  },
+  {
+    "chunk_id": "OQ2024__c_0104",
+    "report_id": "OQ2024",
+    "chunk_index": 103,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Through our Women@OQ platform, we aim to elevate skills, foster leadership, and create a clear path for women to rise in every sector of our organisation. It is designed to provide activities that support developing women of OQ in two ways: support towards career development and advancement; and support towards high life satisfaction, a sense of meaning or purpose. In 2024, Women@OQ held a number of panel discussions on the multifaceted challenges and opportunities that women encounter in achieving work-life balance. It also organised sports activities, like kickboxing and paddle, to enhance networking opportunities and develop interpersonal skills, confidence and strategic thinking. Over three months, more than 40 women took part. While 14% of executive leadership roles are held by women -reflecting ongoing efforts to enhance gender diversitywe recognise the need to address the current imbalance of women's representation in our workforce. Our goal is to establish an ecosystem that fosters the growth of women and enhances their visibility in leadership roles. By 2030, we aim to achieve greater representation of women in our workforce and introduce activities for skill development.",
+    "page_numbers": [
+      78
+    ],
+    "page_start": 78,
+    "page_end": 78,
+    "heading_path": [
+      "SPOTLIGHT Women@OQ"
+    ],
+    "section_label": "SPOTLIGHT Women@OQ",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1199,
+    "token_count": 247
+  },
+  {
+    "chunk_id": "OQ2024__c_0105",
+    "report_id": "OQ2024",
+    "chunk_index": 104,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We are committed to serving our local communities while contributing to Vision 2040 Priorities and the UN SDGs. To achieve this, we seek to link the direct impact of our operations to our local Social Investment (SI) programme. SI activities that have been completed or are currently in progress fall under key focus areas including Education and Health, Environment, Youth and Citizenship, and Economic Prosperity. To ensure transparency and accountability, OQ has integrated impact measurement and reporting systems into our SI activities. The SI Framework further strengthens this approach by incorporating goal tracking, partnerships, stakeholder engagement, and employee volunteering. By leveraging innovation, science, and environmental conservation, we are ensuring our SI investments drive long-term social and economic benefits while reinforcing business sustainability and stakeholder trust. We believe that it is essential to measure the impact of our programme to identify areas where we can improve and ensure that we are making a positive impact in the communities where we operate. In 2024, we introduced this as a KPI in our Corporate Scorecard, and we conducted an SROI study on three community projects. One of these was the Heil Sustainable Park in Musandam project, which represents a significant tourism initiative with a substantial and measurable impact on enhancing the thriving tourism sector in the Musandam Governorate. The project's scope included the installation of new outdoor gym equipment, children's play areas, light posts, and a water desalination system. Our SROI study found that the impact of the initiative delivered a return of 6.7:1 - indicating that for every OMR 1 invested in the programme, an estimated OMR 6.7 of social value was generated. The study reflects the transformative impact of the initiatives on tourism, the local economy, and the community in Bukha. We have other tools and methodologies to assess the social benefits of our community programme, including stakeholder engagement and feedback, and an Activity-Output-Outcome-Impact (AOOI) Model, which tracks how inputs lead to tangible social benefits.",
+    "page_numbers": [
+      79
+    ],
+    "page_start": 79,
+    "page_end": 79,
+    "heading_path": [
+      "Social Impact & Community Engagement"
+    ],
+    "section_label": "Social Impact & Community Engagement",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2163,
+    "token_count": 462
+  },
+  {
+    "chunk_id": "OQ2024__c_0106",
+    "report_id": "OQ2024",
+    "chunk_index": 105,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At OQ, volunteering is more than just an initiative - it is a core part of our commitment to creating a sustainable and socially responsible future. Through active participation, our employees, local communities, and stakeholders collaborate to create meaningful social impact, addressing key areas of need. Part of our OQ Green Initiative, one of our most impactful volunteer-driven activities, was the mangrove tree plantation campaign at Shinas Creek. The initiative not only strengthened local ecosystems but also demonstrated our dedication to restoring biodiversity and promoting environmental stewardship. The dedication of our employees and partners to make a difference is highlighted by the scope of volunteering activities across the OQ Group.",
+    "page_numbers": [
+      82
+    ],
+    "page_start": 82,
+    "page_end": 82,
+    "heading_path": [
+      "Volunteering"
+    ],
+    "section_label": "Volunteering",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 754,
+    "token_count": 156
+  },
+  {
+    "chunk_id": "OQ2024__c_0107",
+    "report_id": "OQ2024",
+    "chunk_index": 106,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ remains committed to creating a meaningful impact through its sponsorship initiatives, reinforcing its role as a responsible corporate citizen. In 2024, OQ received a total of 203 sponsorship requests, of which 43 were approved. This data includes sponsorships facilitated exclusively by OQ SAOC and OQ RPI, OQ's dedicated innovation hub, OQX, is in direct contact with local academic institutes throughout the year, initiating visits and discussions that lay the groundwork for innovative collaborations. These engagements foster sustainability for OQ and Oman and help develop the RDI ecosystem. OQX team members also actively participated in hackathons across Oman's Governates as mentors and judges. These hackathons, led by OIA, aim to develop SMEs that can come up with solutions and products to solve issues related to the OIA companies' business. focusing on key areas such as health, economic prosperity, education, youth & citizenship, environment, and other vital community causes. Through these efforts, OQ continues to support sustainable development and drive positive change across society.",
+    "page_numbers": [
+      82
+    ],
+    "page_start": 82,
+    "page_end": 82,
+    "heading_path": [
+      "Sponsorships"
+    ],
+    "section_label": "Sponsorships",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1108,
+    "token_count": 247
+  },
+  {
+    "chunk_id": "OQ2024__c_0108",
+    "report_id": "OQ2024",
+    "chunk_index": 107,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2024, OQ sponsored the 4th edition of the Oman Science Festival, a key event aligned with Oman Vision 2040's goals of promoting inclusive education and sustai nable learning. The festival featured over 20 scientific corners and 520 activities across fields like health, energy, and AI, offering interactive experiences for students, educators, and the public. It attracted more than 300,000 visitors from various sectors, including education, government, and the private sector.The event attracted over 300,000 visitors, including school and university students, educators, parents, representatives from civil and military government institutions, civil society organizations, the private sector, as well as scientists, researchers, specialists, academics, and science enthusiasts. SPOTLIGHT",
+    "page_numbers": [
+      83
+    ],
+    "page_start": 83,
+    "page_end": 83,
+    "heading_path": [
+      "Oman Science Festival 2024"
+    ],
+    "section_label": "Oman Science Festival 2024",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 794,
+    "token_count": 168
+  },
+  {
+    "chunk_id": "OQ2024__c_0109",
+    "report_id": "OQ2024",
+    "chunk_index": 108,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Communications, and Information Technology under the Makeen programmeme, this initiative aims to equip Omani youth with essential programmeming and problem-solving skills for the digital economy. Through competitive programmeming challenges, it fosters logical thinking and guides participants towards in-demand tech specialisations. The initiative features key national competitions, including the Oman University Programming Competition, the Omani Olympiad in Informatics, and the Omani Beaver Competition, in collaboration with the Ministry of Education, Sultan Qaboos University, and the Coding Academy. SPOTLIGHT",
+    "page_numbers": [
+      83,
+      84
+    ],
+    "page_start": 83,
+    "page_end": 84,
+    "heading_path": [
+      "Organised by the Ministry of Transport,"
+    ],
+    "section_label": "Organised by the Ministry of Transport,",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 617,
+    "token_count": 120
+  },
+  {
+    "chunk_id": "OQ2024__c_0110",
+    "report_id": "OQ2024",
+    "chunk_index": 109,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Women's sports activities are designed to foster a sense of belonging, teamwork, and community spirit. They aim to empower girls and women by building their skills, boosting confidence, and providing a platform to showcase their creativity and talent.",
+    "page_numbers": [
+      84
+    ],
+    "page_start": 84,
+    "page_end": 84,
+    "heading_path": [
+      "Women's Sports Activities"
+    ],
+    "section_label": "Women's Sports Activities",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 251,
+    "token_count": 55
+  },
+  {
+    "chunk_id": "OQ2024__c_0111",
+    "report_id": "OQ2024",
+    "chunk_index": 110,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ sponsored the third edition of the Sidrah programme (Sidrah03), a transformative initiative co-designed and co-facilitated by Lahunna Oman and Outward Bound Oman. Sidrah was created to empower young Omani women, inspiring them to lead with confidence and realise their full potential. The programme supports their growth across diverse paths -whether as mothers, entrepreneurs, public servants, social advocates, or corporate leaders.",
+    "page_numbers": [
+      84
+    ],
+    "page_start": 84,
+    "page_end": 84,
+    "heading_path": [
+      "Sidrah 3.0"
+    ],
+    "section_label": "Sidrah 3.0",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 437,
+    "token_count": 106
+  },
+  {
+    "chunk_id": "OQ2024__c_0112",
+    "report_id": "OQ2024",
+    "chunk_index": 111,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Purchasing Medical Devices for Hospitals - Ultrasound Machine Capable of Liver Elastography The Oman Diabetes Association has requested an ultrasound machine with liver elastography capabilities to enhance the screening and management of patients with diabetes and Non-Alcoholic Fatty Liver Disease (NAFLD). In response, OQ funded the purchase of the machine. This vital equipment will support the National Diabetes and Endocrine Center (NDEC) at the Royal Hospital, which has been facing significant limitations in conducting essential screenings. Equipping the Physiotherapy Hall at Al-Wafa Center with Supine Stander OQ, as part of its ongoing efforts to support rehabilitation and treatment services at Al-Wafa Center for the Rehabilitation of Persons with Disabilities, funded the purchase of a standing device identified as essential by the Department of Physical Therapy. The device plays a vital role in enhancing therapeutic and rehabilitative outcomes for individuals receiving care at the center.",
+    "page_numbers": [
+      85
+    ],
+    "page_start": 85,
+    "page_end": 85,
+    "heading_path": [
+      "SPOTLIGHT"
+    ],
+    "section_label": "SPOTLIGHT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1007,
+    "token_count": 216
+  },
+  {
+    "chunk_id": "OQ2024__c_0113",
+    "report_id": "OQ2024",
+    "chunk_index": 112,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The Jareb South Al Batinah events aim to promote local tourism and highlight the region's cultural and natural attractions. By fostering public-private partnerships, the event encourages community engagement and supports sustainable tourism, contributing to Oman Vision 2040 goals. It serves as a platform to enhance tourism services, attract investments, and boost the local economy.",
+    "page_numbers": [
+      86
+    ],
+    "page_start": 86,
+    "page_end": 86,
+    "heading_path": [
+      "SPOTLIGHT Jareb Events South Al Batinah"
+    ],
+    "section_label": "SPOTLIGHT Jareb Events South Al Batinah",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 384,
+    "token_count": 83
+  },
+  {
+    "chunk_id": "OQ2024__c_0114",
+    "report_id": "OQ2024",
+    "chunk_index": 113,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ sponsored part of the activities of the North Al Sharqiyah Award for Community Contribution and Voluntary Work, which aims to encourage impactful community initiatives, promote a culture of volunteerism, and strengthen partner ships among civil society organizations. The award embodies core values such as collaboration, empowerment, generosity, and sustainability.",
+    "page_numbers": [
+      86
+    ],
+    "page_start": 86,
+    "page_end": 86,
+    "heading_path": [
+      "North Al Sharqiya Governeorate Award for Social Contribution & Volunteer Work"
+    ],
+    "section_label": "North Al Sharqiya Governeorate Award for Social Contribution & Volunteer Work",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 369,
+    "token_count": 76
+  },
+  {
+    "chunk_id": "OQ2024__c_0115",
+    "report_id": "OQ2024",
+    "chunk_index": 114,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Ethical leadership and responsible sourcing are essential to our long-term success. Through transparency, integrity, and innovation, we are committed to building an agile, forward-thinking organisation that creates lasting value.",
+    "page_numbers": [
+      87
+    ],
+    "page_start": 87,
+    "page_end": 87,
+    "heading_path": [
+      "05 Driving Sustainable Growth"
+    ],
+    "section_label": "05 Driving Sustainable Growth",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 229,
+    "token_count": 49
+  },
+  {
+    "chunk_id": "OQ2024__c_0116",
+    "report_id": "OQ2024",
+    "chunk_index": 115,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At OQ, we are committed to applying leading corporate governance standards to enhance stakeholder value and align our business across the value chain. We have made strong progress in establishing a governance framework, with most policies and procedures approved by the Board. Our teams work collaboratively to uphold accountability, transparency, and integrity across the Group. Policies and Guidelines issued by the OIA, which are adopted by OQ, form the backbone of OQ SAOC's Corporate Governance structure. Our Board of Directors strictly adheres to the Commercial Companies Law (CCL) and any other laws or regulations relevant thereto.",
+    "page_numbers": [
+      89
+    ],
+    "page_start": 89,
+    "page_end": 89,
+    "heading_path": [
+      "Group Governance"
+    ],
+    "section_label": "Group Governance",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 640,
+    "token_count": 147
+  },
+  {
+    "chunk_id": "OQ2024__c_0117",
+    "report_id": "OQ2024",
+    "chunk_index": 116,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ's strategic direction and performance are overseen by a Board of Directors appointed by OIA to act in the Company's best interest and maximise shareholder value. In 2023, the Board was reconstituted with three new members. It now comprises seven non-executive members, including three independent directors and one female member (representing ~14%). Members serve a three-year term and bring diverse experience. The Board serves as the ultimate decisionmaking body, guiding management, shaping strategy, and ensuring alignment with shareholder priorities. Its oversight reflects a commitment to good governance, long-term value creation, and a balanced approach to environmental, social, and economic considerations -especially in the communities where OQ operates. The Board is assisted in its duties by three sub-committees: - the Board Audit and Risk Committee, - the Board Remuneration and Nomination Committee, and - the Board Strategy and Investment Committee. OQ's ELT, is responsible for delivering strategic objectives and overseeing daily operations while addressing diverse challenges. A strong reporting framework ensures clear oversight, compliance, transparency, and alignment with long-term goals -enhancing stakeholder confidence. Said Abdullah Al Hatmi Deputy Chairman Abdulrahman Al Harthii Chief Assurance Graham Ford Member Abdulwahhab Al Hinai General Counsel",
+    "page_numbers": [
+      89,
+      90
+    ],
+    "page_start": 89,
+    "page_end": 90,
+    "heading_path": [
+      "Corporate Structure"
+    ],
+    "section_label": "Corporate Structure",
+    "doc_item_labels": [
+      "caption",
+      "list_item",
+      "text"
+    ],
+    "char_count": 1383,
+    "token_count": 319
+  },
+  {
+    "chunk_id": "OQ2024__c_0118",
+    "report_id": "OQ2024",
+    "chunk_index": 117,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Mulham Basheer Al Jarf Chairman of OQ Qais Saud Al Zakwani Member Abdulrahman Salim Al Hatm Member Ashraf Al Mamari Group CEO Sabrina Al Bakri Chief Financial Officer Ali Al Lawati Chief People & Technology Officer Salim Hamed Al Sukaiti Member Ashraf Al Mamari Acting Chief Growth Officer Thuraiya Ahmed Al Balushi Member Azzan Al Abdullatif Chief Portfolio Officer",
+    "page_numbers": [
+      90
+    ],
+    "page_start": 90,
+    "page_end": 90,
+    "heading_path": [
+      "Board of Directors and Executive Leadership Team"
+    ],
+    "section_label": "Board of Directors and Executive Leadership Team",
+    "doc_item_labels": [
+      "caption"
+    ],
+    "char_count": 366,
+    "token_count": 86
+  },
+  {
+    "chunk_id": "OQ2024__c_0119",
+    "report_id": "OQ2024",
+    "chunk_index": 118,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Through transparent practices, ethical leadership, and robust oversight, we are committed to ensuring accountability and long-term value for our stakeholders. OQ upholds the highest standards of integrity and compliance through our Anti-Bribery and Corruption Prevention Policy, which aligns with national and international regulations. The policy outlines strict guidelines for interactions with public officials, the management of gifts, hospitality, and entertainment, and the handling of conflicts of interest. A strong emphasis is placed on due diligence in third-party engagements to mitigate corruption risks, with transparency and accountability ensured through detailed monitoring, a Gift Register, and regular audits. To foster a culture of integrity, we have established a comprehensive ethics and compliance programme that includes training and awareness on various ethics topics for employees during the year. The training is delivered through a mix of online modules, in-person sessions, videos, quizzes, and newsletters. New joiners also complete onboarding training on the Code, watch a summary video, and submit an online acknowledgement confirming their understanding and adherence to the Code. Additional measures include ethics e-learning modules on our learning platform, annual engagement activities such as Ethics Week and roadshows, the Ethics Ambassador Program with representatives across the business, and quarterly ethics newsletters to keep employees informed and engaged. Building on our strong foundation of integrity and compliance, OQ has developed a comprehensive Business Ethics Framework that outlines the core principles guiding ethical behaviour across all levels of the organisation. This framework ensures that our people and partners act in accordance with the highest ethical standards, fostering trust and accountability in every aspect of our operations.",
+    "page_numbers": [
+      91
+    ],
+    "page_start": 91,
+    "page_end": 91,
+    "heading_path": [
+      "Ethics & Business Integrity"
+    ],
+    "section_label": "Ethics & Business Integrity",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1898,
+    "token_count": 400
+  },
+  {
+    "chunk_id": "OQ2024__c_0120",
+    "report_id": "OQ2024",
+    "chunk_index": 119,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- The Code of Conduct defines the fundamental principles and moral standards that steer our conduct as a corporation and establish our standards for our staff, vendors, and associates. - When starting their employment, staff members must review the Code of Conduct and confirm their compliance with the Code and associated protocols. - The Code is regularly reviewed with enhancements made where necessary to ensure alignment with leading practices and ethical standards. - We also have a Third-Party Code of Conduct that applies to our business partners. Contractors, vendors and suppliers that wish to do business with the Company are required to confirm their compliance to this code at the time of their registration with OQ. - Our Code of Conduct and Third-party Code are available on our Corporate Website: https:// oq.com/en/about-oq/company/code-of-conduct",
+    "page_numbers": [
+      92
+    ],
+    "page_start": 92,
+    "page_end": 92,
+    "heading_path": [
+      "Code of Conduct"
+    ],
+    "section_label": "Code of Conduct",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 864,
+    "token_count": 191
+  },
+  {
+    "chunk_id": "OQ2024__c_0121",
+    "report_id": "OQ2024",
+    "chunk_index": 120,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- There are provisions in place to deter unethical business practices, such as regulations mandating disclosure of potential conflicts of interest, protocols governing the giving and receiving of gifts, hospitality, and entertainment with third parties, including public officials, bans on making facilitation payments, as well as guidance on sponsorship and charitable donations. - In 2024, the policy was reviewed and enhanced with the revised version planned for roll out in early 2025.",
+    "page_numbers": [
+      92
+    ],
+    "page_start": 92,
+    "page_end": 92,
+    "heading_path": [
+      "Anti-bribery and Corruption Prevention Policy"
+    ],
+    "section_label": "Anti-bribery and Corruption Prevention Policy",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 489,
+    "token_count": 106
+  },
+  {
+    "chunk_id": "OQ2024__c_0122",
+    "report_id": "OQ2024",
+    "chunk_index": 121,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Our Whistleblowing Reporting Hotline is easily accessible to both OQ employees and third parties through our internal website and external webpage. - The tool is managed by a third party to guarantee confidentiality and provide anonymous reporting. Whistleblowing reports can be made through various channels including web, phone, email, and face-to-face reporting. - During the first half of 2025 we will be making some amendments to our whistleblowing web intake site to streamline and simplify the process for making reports by whistleblowers.",
+    "page_numbers": [
+      92
+    ],
+    "page_start": 92,
+    "page_end": 92,
+    "heading_path": [
+      "Whistleblowing"
+    ],
+    "section_label": "Whistleblowing",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 548,
+    "token_count": 124
+  },
+  {
+    "chunk_id": "OQ2024__c_0123",
+    "report_id": "OQ2024",
+    "chunk_index": 122,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The OQ Ethics Committee, which includes members of the Company's Executive Leadership Team, is responsible for overseeing the company's Ethics Programme. The programme encompasses the Code of Conduct and related ethics policies, training and awareness initiatives, a whistleblowing programmeme, the Ethics Ambassador network, and online systems for managing key compliance requirements such as conflict of interest disclosures and declarations of gifts, hospitality, and entertainment. The Committee reviews and endorses the annual Ethics Plan and monitors its implementation. It is also regularly updated on misconduct cases, investigations, and corrective actions, ensuring ethical concerns are addressed promptly while supporting ongoing efforts to strengthen OQ's ethical culture.",
+    "page_numbers": [
+      93
+    ],
+    "page_start": 93,
+    "page_end": 93,
+    "heading_path": [
+      "Ethics Committee"
+    ],
+    "section_label": "Ethics Committee",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 784,
+    "token_count": 175
+  },
+  {
+    "chunk_id": "OQ2024__c_0124",
+    "report_id": "OQ2024",
+    "chunk_index": 123,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2024, OQ continued to reinforce its commitment to ethics by rolling out a range of awareness and training initiatives aimed at fostering a culture of integrity across the company. - Quarterly ethics newsletters were pub lished throughout the year to emphasise the importance of adhering to the Code of Conduct and related policies. - The company's Ethics Team along with its Ethics Ambassadors conducted awareness and training sessions across various business lines and group companies, reaching employees in Muscat, Salalah, Suhar, and international sales offices. 1,076 employees took part, including graduate staff, and interns. - As part of ongoing engagement, Ethics Awareness Week was held, featuring a panel discussion with OQ senior staff, and educational sessions reinforcing the importance of integrity in the workplace. - To enhance accessibility to ethics training, we introduced an e-learning programmeme in 2024, with the first module covering conflicts of interest. Additional modules on other ethics topics are planned for roll out in 2025. In 2024, OQ conducted an anonymous ethics survey targeting third-party contractors and suppliers, inviting them to share their experiences and perceptions of OQ's ethical standards. Over 700 vendors participated, with 99% of respondents identifying OQ as an 'ethical' or 'highly ethical' company, largely based on their direct business interactions with the organisation. The survey further revealed that most respondents were highly likely to report unethical practices if encountered and expressed strong confidence that OQ would take appropriate action to address any concerns, reinforcing its commitment to transparency and integrity.",
+    "page_numbers": [
+      93
+    ],
+    "page_start": 93,
+    "page_end": 93,
+    "heading_path": [
+      "Awareness & Training"
+    ],
+    "section_label": "Awareness & Training",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1698,
+    "token_count": 386
+  },
+  {
+    "chunk_id": "OQ2024__c_0125",
+    "report_id": "OQ2024",
+    "chunk_index": 124,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We also foster an open and ethical workplace through our Whistleblowing Policy, enabling employees to report concerns confidentially and without fear of retaliation, reinforcing a culture of honesty and accountability. We are committed to fair and efficient grievance resolution. Employees can voice concerns through the Employee Complaint Process. Issues are first addressed by the Direct Line Manager (DLM), with actionable solutions provided within five working days. If unresolved, further review and recommendations follow within six working days. Employees dissatisfied with the outcome have the right to escalate complaints externally. The 'Manage Employees Grievance' resolution process is designed to ensure fairness, transparency, and consistency in addressing employee concerns through a structured, multi-level approach. Employees first raise their grievance to their Direct Line Manager (DLM), who aims to resolve it within two working days. If unresolved, the Higher Line Manager reviews the case, engages with the concerned team, takes appropriate action, and provides feedback within three working days. Further escalation goes to the Employee Relations team, who review the grievance and provide final recommendations within two working days. Over the past ten years, OQ RPI has developed and progressively enhanced its complaint management procedure, including the implementation of a dedicated electronic nose (E-nose) network system to monitor and control community complaints. This ongoing effort has resulted in a reduction of community complaints by more than 95%, with significant advancements continuing through 2024.",
+    "page_numbers": [
+      94
+    ],
+    "page_start": 94,
+    "page_end": 94,
+    "heading_path": [
+      "Complaints & Grievances"
+    ],
+    "section_label": "Complaints & Grievances",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1642,
+    "token_count": 356
+  },
+  {
+    "chunk_id": "OQ2024__c_0126",
+    "report_id": "OQ2024",
+    "chunk_index": 125,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At OQ, respecting and upholding human rights is a fundamental part of our business values. We have implemented comprehensive workplace policies that promote fair labour practices, ensure safe and respectful working conditions, and prevent modern slavery across our supply chain. More details on our approach can be found on our corporate website, which is accessible to our third-party stakeholders. Our Third-Party Code of Conduct sets clear expectations for our business partners, requiring them to provide high-quality working conditions in line with internationally recognised labour and human rights standards. We expect compliance with frameworks such as the United Nations Universal Declaration of Human Rights and the Fundamental Conventions of the International Labor Organisation, along with adherence to Omani labour laws. Furthermore, we uphold strict prohibitions against slavery, human trafficking, forced labour, and child labour. Our business partners are also required to meet environmental protection regulations and implement measures for workplace safety, accident prevention, employee health, and risk exposure reduction. We remain committed to full compliance with Omani laws and regulations related to human rights, including the Basic Statute of the State, the Oman Labor Law, and the initiatives of the Oman Human Rights Commission, as outlined on our corporate website. In 2024, there were no cases of employees being dismissed or disciplined for corruption-related offenses. Additionally, no business partners were terminated due to corruption, and no legal cases related to corruption were filed against the company or its employees during the year.",
+    "page_numbers": [
+      95
+    ],
+    "page_start": 95,
+    "page_end": 95,
+    "heading_path": [
+      "Human Rights"
+    ],
+    "section_label": "Human Rights",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1677,
+    "token_count": 337
+  },
+  {
+    "chunk_id": "OQ2024__c_0127",
+    "report_id": "OQ2024",
+    "chunk_index": 126,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ leverages advanced technologies and innovation to drive sustainability across its operations. Through our dedicated innovation hub, OQX, we focus on research and development initiatives that deliver impactful solutions from deploying new sensors to better manage our assets to cutting-edge water treatment technologies that improve resource efficiency. We also champion innovation across our supply chain by supporting sustainable start-ups and collaborative research initiatives that align with our long-term environmental goals. In 2024, OQX advanced its research and development efforts, executing pilot projects, accelerating new technologies, and supporting startups, all contributing to OQ's sustainability goals. - OQX launched three pilot projects, projected to generate USD 2.6 million in cost savings and revenue. These three projects focus on introducing sensors to monitor asset intergrity, modeling GHG emissions of a significnat part of the refinery, and developing a lighter burner igniter devise for our operations. One of these projects is nearing completion and will result in OQ's first Omanbased intellectual property. Another six new technology projects are in advanced development, focusing on operational excellence, energy efficiency, and environmental stewardship. - Research and Development (R&D) initiatives also prioritised cost reduction and revenue growth, with one key project expected to generate USD 2 million annually. Another initiative is focused on enhancing environmental practices. These projects are conducted in partnership with local academic institutions, fostering local expertise and talent while driving sustainable R&D in Oman.",
+    "page_numbers": [
+      96
+    ],
+    "page_start": 96,
+    "page_end": 96,
+    "heading_path": [
+      "Innovation, Digital Transformation & Agility"
+    ],
+    "section_label": "Innovation, Digital Transformation & Agility",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1677,
+    "token_count": 344
+  },
+  {
+    "chunk_id": "OQ2024__c_0128",
+    "report_id": "OQ2024",
+    "chunk_index": 127,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ's digital transformation strategy is focused on innovation, competitiveness, and sustainability, leveraging new technologies to enhance customer value and operational efficiency. With an updated approach incorporating a comprehensive AI and data strategy, OQ is harnessing its vast data resources and integrating AI across operations to drive sustainable growth, market value, and decision-making. This shift positions OQ as an industry leader, optimising processes and fostering enterprise-wide innovation.",
+    "page_numbers": [
+      97
+    ],
+    "page_start": 97,
+    "page_end": 97,
+    "heading_path": [
+      "Digital Transformation"
+    ],
+    "section_label": "Digital Transformation",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 510,
+    "token_count": 98
+  },
+  {
+    "chunk_id": "OQ2024__c_0129",
+    "report_id": "OQ2024",
+    "chunk_index": 128,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Automation of more than 170 processes, saving over 60,000 employee hours a year. - The launch of the Technology Quotient (TQ) platform to train employees on emerging technologies, enrolling 600+ users in the first four months. - Implemented Oman's first Digital Twin Platform at OQEP. OQ is leading the way in implementing Digital Twin technology for the Oman Energy sector, transforming industries by creating digital replicas of physical assets, processes, and systems to enhance efficiency, safety, and sustainability. - Won four AI and Data Awards at COMEX. - Won the golden AI Global Award from Dubai Quality Group for our AI programme and readiness as a group to implemnt and adapt multiple AI solutions. - Won Microsoft AI Award for OQ initiatives leveraging Microsft AI solutions.",
+    "page_numbers": [
+      97
+    ],
+    "page_start": 97,
+    "page_end": 97,
+    "heading_path": [
+      "Key achievements in 2024 include:"
+    ],
+    "section_label": "Key achievements in 2024 include:",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 790,
+    "token_count": 177
+  },
+  {
+    "chunk_id": "OQ2024__c_0130",
+    "report_id": "OQ2024",
+    "chunk_index": 129,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Through OQ's dedicated innovation hub, OQX, which focuses on research and development, we launched our first accelerator cohort, aimed at collaborating with startups, supporting new technologies, and strengthening Oman's start-up ecosystem. The programmeme received 297 applications, with 35% from Omani start-ups. Following a rigorous evaluation process, 42 applications were shortlisted, with 69% of them Omani. From there, 11 start-ups were enrolled in the pre-accelerator, and four advanced to the full accelerator programmeme, with 50% of those being Omani-led. The selected start-ups focused on a range of innovative areas including renewable energy, digital transformation, artificial intelligence, water management, polymers, chemicals, and energy efficiency. In parallel, OQX engaged with local academic institutions to foster dialogue and build partnerships that will fuel future innovation.",
+    "page_numbers": [
+      98
+    ],
+    "page_start": 98,
+    "page_end": 98,
+    "heading_path": [
+      "Supporting Start-ups"
+    ],
+    "section_label": "Supporting Start-ups",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 901,
+    "token_count": 204
+  },
+  {
+    "chunk_id": "OQ2024__c_0131",
+    "report_id": "OQ2024",
+    "chunk_index": 130,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2024, we strengthened our cybersecurity (CS) framework, achieving key milestones across Information Technology (IT) and Operations, Maintenance & Technical (OMT) / Operational Technology (OT) domains. As a result, OQ's cybersecurity maturity improved from 2.57 to 2.93 on the Capability Maturity Model scale (out of 4). Key achievements in 2024 include: - OQ achieved ISO 27001 certification for Information Security Management Systems (ISMS) and delivered 12 cybersecurity awareness programme, including executive and staff sessions, achieving a 94% average attendance rate. - In a significant step forward, OQ introduced its first-ever OT cybersecurity-specific awareness programmeme for OMT/OT teams, reaching a 98% completion rate. - To further enhance security awareness, OQ launched the Security Awareness Proficiency Assessment (SAPA) and the Security Culture Survey (SCS), helping identify cybersecurity knowledge gaps and assess behaviours across the organisation. - OQ established new cybersecurity policies and manuals, including the CS Governance Framework, Cybersecurity Assurance Framework, OT/IACS Policy Manual, and OT/IACS Governance Framework & RACI. - We also approved a three-year Cybersecurity Strategy and Roadmap, endorsed by the Group CEO. Cybersecurity strategy outlines our vision to build a resilient, secure, and compliant digital environment aligned with our business objectives. It focuses on reducing risks, enhancing threat detection and response, and promoting a strong security culture. The strategy is built around key domains such as identity and access management, data protection, network and cloud security, and incident response. - OQ has developed an enhanced Cybersecurity Architecture, outlining all capabilities required to protect OQ Group, resource requirements, and Cybersecurity operating model. - CS Capex and Opex projects were successfully completed during 2024. - CS successfully maintained an average of 94% Security Scorecard throughout 2024, which is above industry average. Looking ahead, OQ will continue to strengthen its cybersecurity posture by expanding awareness programme, addressing findings from SAPA and SCS reports, and advancing the implementation of key cybersecurity initiatives outlined in the Cybersecurity Strategy and Roadmap. Additionally, OQ will renew cybersecurity Capex projects to sustain and enhance long-term security capabilities.",
+    "page_numbers": [
+      99,
+      100
+    ],
+    "page_start": 99,
+    "page_end": 100,
+    "heading_path": [
+      "Cybersecurity & Data Privacy"
+    ],
+    "section_label": "Cybersecurity & Data Privacy",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 2416,
+    "token_count": 537
+  },
+  {
+    "chunk_id": "OQ2024__c_0132",
+    "report_id": "OQ2024",
+    "chunk_index": 131,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2024, OQ generated a direct economic value of USD 40,052 million in revenue. However, EBITDA and Net Profit declined compared to previous years, largely due to an unfavourable price environment and operational challenges. EBITDA stood at USD 2,846 million, while Net Profit reached USD 1,337 million. The decline was primarily driven by lower prices across both upstream and downstream segments, in addition to the impact of some operational setbacks. Furthermore, FY2023 revenue included 100% of earnings from Blocks 60 and 48, as well as a farm-out gain from the divestment of working interests in these blocks. Despite these headwinds, OQ demonstrated resilience and strategic agility, maintaining solid revenue generation and navigating a complex operating environment.",
+    "page_numbers": [
+      101
+    ],
+    "page_start": 101,
+    "page_end": 101,
+    "heading_path": [
+      "Financial Performance"
+    ],
+    "section_label": "Financial Performance",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 776,
+    "token_count": 179
+  },
+  {
+    "chunk_id": "OQ2024__c_0133",
+    "report_id": "OQ2024",
+    "chunk_index": 132,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "EBITDA Net Profit *This number was restated following an audit of previous reporting periods.",
+    "page_numbers": [
+      101
+    ],
+    "page_start": 101,
+    "page_end": 101,
+    "heading_path": [
+      "Direct economic value generated through revenue"
+    ],
+    "section_label": "Direct economic value generated through revenue",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 93,
+    "token_count": 21
+  },
+  {
+    "chunk_id": "OQ2024__c_0134",
+    "report_id": "OQ2024",
+    "chunk_index": 133,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We are committed to honesty, transparency, and responsibility in our tax practices. We always pay our fair share of taxes while contributing to the communities in which we operate. Tax governance at OQ is managed through established policies, procedures, and controls. The company continuously strengthens its enterprise-wide tax risk management to detect, monitor, and mitigate tax risks in alignment with its risk appetite. A clear governance framework defines roles and responsibilities, ensuring a structured approach to tax risk identification, reporting, and management. Our Tax Policy outlines our approach to tax governance, ensuring compliance with global tax obligations while providing tax support to the business. The Executive Leadership Team reviews and approves the policy, with the Board of Directors and management consulted on significant tax matters as needed. We take a proactive approach to tax risk management by: - Ensuring timely tax filings and payments to prevent disputes and penalties. - Maintaining tax structures driven by commercial substance rather than tax avoidance. - Fostering open and cooperative relationships with tax authorities, built on mutual respect and transparency. - Keeping the Board and management informed of material tax matters, with risk managed through policies, procedures, and controls. Tax risk is managed by approved policies, procedures, systems, and controls, and OQ maintains and continuously improves its enterprise-wide tax risk management to ensure that tax risks are identified, controlled and monitored on a global basis. This consistent approach to the management of tax risks throughout the group is aligned with OQ's overall appetite for tax risk. In addition, tax roles and responsibilities are clearly defined and understood. A group-wide process to identify, report and manage tax risks is established and in use, where the tax function follows the principles of business conduct detailed in OQ's Code of Conduct. We develop and maintain open and cooperative working relationships based on mutual respect and transparency with local tax authorities in each country of operation, where communication with tax authorities and other third parties is conducted in a professional and prompt manner. Moreover, the Board and Management are aligned on the tax strategy and are regularly informed or consulted on any material tax matters.",
+    "page_numbers": [
+      102
+    ],
+    "page_start": 102,
+    "page_end": 102,
+    "heading_path": [
+      "Our Approach to Tax"
+    ],
+    "section_label": "Our Approach to Tax",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 2401,
+    "token_count": 497
+  },
+  {
+    "chunk_id": "OQ2024__c_0135",
+    "report_id": "OQ2024",
+    "chunk_index": 134,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "As part of OQ's commitment to long-term growth, we prioritise sustainable finance to address environmental and social challenges. By integrating ESG principles into our financial decisions, we enhance risk management, strengthen our market reputation, and unlock new financing opportunities, including green bonds and sustainable loans. Our key initiatives focus on expanding green financing opportunities and collaborating with financial institutions to support the growth of a sustainable finance ecosystem. Transparency remains central to our approach, and we are committed to providing regular sustainability reports to ensure accountability. As ESG considerations increasingly shape investment decisions, we remain dedicated to aligning our financial practices with the broader goals of sustainable development, reinforcing our intent to be a leader in sustainable finance. Integrating sustainability-linked and green financing into our operations is not just about raising capital -it reflects our commitment to embedding sustainability at the heart of our financial strategy. This enables us to pursue growth while minimising our environmental footprint and creating positive social impact. As ESG considerations continue to shape investor priorities, these financing tools will help us strengthen our market position and drive longterm value.",
+    "page_numbers": [
+      103
+    ],
+    "page_start": 103,
+    "page_end": 103,
+    "heading_path": [
+      "Sustainable Finance"
+    ],
+    "section_label": "Sustainable Finance",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1350,
+    "token_count": 256
+  },
+  {
+    "chunk_id": "OQ2024__c_0136",
+    "report_id": "OQ2024",
+    "chunk_index": 135,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At OQ, we are committed to sustainable and responsible supply chain management, ensuring that our operations minimise waste and maximise resource efficiency. Our procurement function plays a crucial role in securing the goods and services needed for our projects, while fostering long-term relationships with vendors built on mutual trust and respect. To manage our supply chain effectively, we have implemented key strategies that allow us to respond to changing business needs while upholding ethical and responsible practices. These include: - Timely processing of procurement needs, ensuring operational efficiency. - Careful outsourcing decisions, assessing their impact on both OQ and its stakeholders. - Strict adherence to policies and procedures that uphold OQ's Code of Conduct and ethical business standards. We work with a diverse network of 3,180 registered vendors and suppliers across Oman, the GCC, and beyond. Our commitment to building strong supplier relationships supports consistent high-quality service delivery while contributing to broader industry development. With customer health and safety central to our sustainability goals, we prioritise partnerships with suppliers that align with our values and demonstrate responsible operational practices. To reinforce these standards, we have embedded HSE criteria into our tendering process, ensuring prospective suppliers meet our sustainability and safety requirements. In addition, we are broadening supplier assessments to include human rights, anti-corruption, and social responsibility indicators -promoting a supply chain that generates positive social impact. To strengthen internal capabilities, we conduct training sessions for our Procurement and Sustainability teams, reinforcing our commitment to ethical business practices and sustainable procurement.",
+    "page_numbers": [
+      104
+    ],
+    "page_start": 104,
+    "page_end": 104,
+    "heading_path": [
+      "Sustainable Supply Chain & Local Value Creation"
+    ],
+    "section_label": "Sustainable Supply Chain & Local Value Creation",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1836,
+    "token_count": 378
+  },
+  {
+    "chunk_id": "OQ2024__c_0137",
+    "report_id": "OQ2024",
+    "chunk_index": 136,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ is committed to maximising In-Country Value (ICV) by fostering a resilient and competitive supply chain that ensures the sustainability of operations while driving the growth of diverse, sustainable, and competitive local businesses. Recognising the critical role of local businesses in Oman's economic development, we actively invest in initiatives that support their growth and expansion. In 2024, we launched programme to: - Create job opportunities, employing 41 fresh graduates. - Support skills development, providing training for 114 graduates through our contractors and subcontractors. - Strengthen local procurement, sourcing goods and services from nationally registered suppliers. - Promote the use of locally made products to enhance domestic industries. - Encourage SME innovation and development, ensuring sustainable business growth. OQ has demonstrated significant progress in supporting Omani businesses and driving economic growth. - Local procurement has grown by 27.6% from 2020 to 2024, with local spend reaching 78% of total expenditure in 2024, reflecting strong support for the Omani economy. - Our ICV index rose from 28% in 2020 to 32.4% in 2024.",
+    "page_numbers": [
+      105
+    ],
+    "page_start": 105,
+    "page_end": 105,
+    "heading_path": [
+      "Creating Local Value"
+    ],
+    "section_label": "Creating Local Value",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1176,
+    "token_count": 256
+  },
+  {
+    "chunk_id": "OQ2024__c_0138",
+    "report_id": "OQ2024",
+    "chunk_index": 137,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We are committed to fostering the growth and success of Small and Medium-sized Enterprises (SMEs) by providing opportunities, resources, and financial support to help them thrive in the market. Over the past five years, we have achieved significant milestones in our SME development efforts: - Our SME spend has increased from $89 million in 2020 to $224.7 million in 2024, marking an impressive 152% growth. - Our SME contribution to total spend grew from 8% in 2020 to 19% in 2024, reaffirming our commitment to supporting local businesses. - We ensure that SMEs receive payments within 15 days, with no late payments in 2024, improving their cash flow and financial stability. - We have successfully supported six Riyada companies through our SME Development Programme, with plans to expand to nine more SMEs. By investing in local businesses and talent, we are building a resilient and self-sustaining economy. Our ICV initiatives drive job creation, capacity-building, and the development of strong local supply chains. This approach ensures that OQ's success translates into inclusive growth for the broader Omani community, fostering long-term economic prosperity. OQ remains committed to expanding these efforts, ensuring sustained growth and success for SMEs as an integral part of Oman's economic future.",
+    "page_numbers": [
+      106
+    ],
+    "page_start": 106,
+    "page_end": 106,
+    "heading_path": [
+      "Supporting SMEs"
+    ],
+    "section_label": "Supporting SMEs",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1314,
+    "token_count": 299
+  },
+  {
+    "chunk_id": "OQ2024__c_0139",
+    "report_id": "OQ2024",
+    "chunk_index": 138,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "By investing in local businesses, OQ reinforces its commitment to economic sustainability, job creation, and long-term prosperity for Oman and its people. Through strategic collaborations, capacity-building, and direct procurement opportunities, we ensure that local businesses thrive and contribute to longterm sustainability. In 2024, OQ's total expenditure on goods and services reached USD 1,164.72 million, with USD 908.87 million directed to local businesses. This resulted in USD 377.37 million retained in Oman, achieving an ICV index of 32.4%. Our key achievements in 2024 include: - Providing 41 new job opportunities for fresh graduates and facilitated training for 114 graduates through contractors. - Ensuring 64% of goods were sourced from nationally registered suppliers, reinforcing local supply chains. - Reduced reliance on imports by allocating USD 136.1 million (28% of total goods spend) in locally manufactured products. - Procuring 86% of services through local suppliers, strengthening domestic industries. - Designating 15 key scopes exclusively for SMEs and Nationally Registered Suppliers, prioritising local business growth and development.",
+    "page_numbers": [
+      107
+    ],
+    "page_start": 107,
+    "page_end": 107,
+    "heading_path": [
+      "Empowering Local Businesses"
+    ],
+    "section_label": "Empowering Local Businesses",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1168,
+    "token_count": 269
+  },
+  {
+    "chunk_id": "OQ2024__c_0140",
+    "report_id": "OQ2024",
+    "chunk_index": 139,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OQ's Responsible Procurement Policy establishes a sustainable, ethical, and transparent approach to procurement. It applies to all procurement and contracting activities, reinforcing legal compliance, governance, supplier engagement, and environmental responsibility. Key priorities include enhancing energy transition initiatives, promoting economic diversification, strengthening supply chain resilience, fostering innovation, and supporting community engagement. These efforts align with Oman Vision 2040, ensuring procurement practices contribute to long-term sustainability and economic growth. In 2024, we launched the Responsible Procurement Project to establish a robust framework integrating ESG considerations into supplier evaluations. It is an initiative that aims to mitigate reputational risks, support Oman's economic development, and prioritise local suppliers, positioning OQ as a leader in responsible procurement. The project was implemented in two phases. The first phase focused on reviewing existing procurement practices, developing a Responsible Procurement Policy, and creating a Supplier Code of Conduct to define clear supplier selection criteria. The second phase introduced responsible procurement guidelines and conducted a cost impact analysis to ensure sustainable sourcing decisions. OQ's Responsible Procurement Policy Manual provides a structured framework to ensure all procurement activities adhere to ethical, sustainable, and legally compliant standards. The policy prioritises health, safety, security, and environmental concerns, reinforcing procurement's role in energy transition, economic diversification, supply chain resilience, and community engagement. These principles ensure that procurement at OQ is a catalyst for sustainable development, operational excellence, and long-term economic impact.",
+    "page_numbers": [
+      108
+    ],
+    "page_start": 108,
+    "page_end": 108,
+    "heading_path": [
+      "Responsible Procurement"
+    ],
+    "section_label": "Responsible Procurement",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1845,
+    "token_count": 379
+  },
+  {
+    "chunk_id": "OQ2024__c_0141",
+    "report_id": "OQ2024",
+    "chunk_index": 140,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "5 Based on Solomon Associates Energy Intensity Index TM 6 In 2024, OQBi was divested and is no longer an OQ operational asset. It will issue its standalone sustainability report from 2025. Link will be provided on our OQ website once the report is published. 7 In 2024, OQEP was divested and is no longer an OQ operational asset. It will issue its standalone sustainability report from 2025. Link will be provided on our OQ website once the report is published. 8 In 2023, OQGN was divested and is no longer an OQ operational asset. It started issuing its standalone sustainability report from 2024. Link will be provided on our OQ website once the report is published.",
+    "page_numbers": [
+      112
+    ],
+    "page_start": 112,
+    "page_end": 112,
+    "heading_path": [
+      "Scope 1&2 GHG Intensities (Operational Control)"
+    ],
+    "section_label": "Scope 1&2 GHG Intensities (Operational Control)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 669,
+    "token_count": 167
+  },
+  {
+    "chunk_id": "OQ2024__c_0142",
+    "report_id": "OQ2024",
+    "chunk_index": 141,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "*This number was restated due to reporting boundary change.",
+    "page_numbers": [
+      117
+    ],
+    "page_start": 117,
+    "page_end": 117,
+    "heading_path": [
+      "Safety Performance in OQ Group"
+    ],
+    "section_label": "Safety Performance in OQ Group",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 59,
+    "token_count": 15
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "material_topic": "GRI 11: Oil and Gas Sector 2021",
+    "topics": "11.5 Waste",
+    "Explanation": "Waste generation is limited to construction and maintenance activities, managed through strict mitigation and regulatory compliance; impacts are localized and reversible, with low likelihood of systemic financial or environmental materiality."
+  },
+  {
+    "material_topic": "GRI 11: Oil and Gas Sector 2021",
+    "topics": "11.6 Water and Effluents",
+    "Explanation": "Water use and discharge occur mainly during hydrotesting and LNG operations under controlled conditions; mitigation measures and regulatory oversight keep impacts minimal and non-material across time horizons."
+  },
+  {
+    "material_topic": "GRI 11: Oil and Gas Sector 2021",
+    "topics": "11.7 Closure and Rehabilitation",
+    "Explanation": "The business of the Company does not include closure and rehabilitation of operational sites, therefore the respective impacts on the environment, local communities and workers were considered not applicable."
+  },
+  {
+    "material_topic": "GRI 11: Oil and Gas Sector 2021",
+    "topics": "11.8 Asset Integrity and Critical incident Management",
+    "Explanation": "Asset integrity risks are addressed through robust maintenance and safety systems; likelihood of catastrophic incidents is low, and potential impacts remain below materiality thresholds unless systemic failures occur."
+  },
+  {
+    "material_topic": "GRI 11: Oil and Gas Sector 2021",
+    "topics": "11.9 Occupational Health and Safety",
+    "Explanation": "OHS risks are managed through established safety protocols and compliance frameworks; incidents are rare and financial exposure is contained via insurance and regulatory mechanisms, preventing materiality."
+  },
+  {
+    "material_topic": "GRI 11: Oil and Gas Sector 2021",
+    "topics": "11.11 Non-discrimination and Equal Opportunity",
+    "Explanation": "Policies and controls ensure compliance with EU labor standards; isolated cases have limited scope and remediability, making systemic risk or significant stakeholder impact unlikely."
+  },
+  {
+    "material_topic": "GRI 11: Oil and Gas Sector 2021",
+    "topics": "11.12 Forced Labor and Modern Slavery",
+    "Explanation": "DESFA operates in a highly regulated EU and national context with strong due diligence and supplier controls; risk occurrence is rare and financial or reputational exposure remains immaterial."
+  },
+  {
+    "material_topic": "GRI 11: Oil and Gas Sector 2021",
+    "topics": "11.17 Rights of Indigenous Peoples",
+    "Explanation": "Operations are located in Greece, where indigenous rights issues are not present; no interaction with indigenous communities eliminates potential impact or financial relevance."
+  },
+  {
+    "material_topic": "GRI 11: Oil and Gas Sector 2021",
+    "topics": "11.18 Conflict and Security",
+    "Explanation": "DESFA’s activities occur in a stable geopolitical environment; security risks are minimal and mitigated through emergency planning and insurance, with no material financial or social implications."
+  }
+]

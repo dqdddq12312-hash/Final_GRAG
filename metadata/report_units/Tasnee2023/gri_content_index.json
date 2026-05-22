@@ -1,0 +1,2053 @@
+[
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-1",
+    "location_raw": "Nov-18",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-2",
+    "location_raw": "5, 14",
+    "location_type": "page_list",
+    "page_list": [
+      5,
+      14
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-3",
+    "location_raw": "5",
+    "location_type": "page_single",
+    "page_list": [
+      5
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-4",
+    "location_raw": "32, 33, 35, 36, 38, 42, 49, 51, 63",
+    "location_type": "page_list",
+    "page_list": [
+      32,
+      33,
+      35,
+      36,
+      38,
+      42,
+      49,
+      51,
+      63
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-5",
+    "location_raw": "This report has not been subject to external assurance",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-6",
+    "location_raw": "15, 16",
+    "location_type": "page_range",
+    "page_list": [
+      15,
+      16
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-7",
+    "location_raw": "54",
+    "location_type": "page_single",
+    "page_list": [
+      54
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-8",
+    "location_raw": "54, 47-49",
+    "location_type": "page_list",
+    "page_list": [
+      47,
+      48,
+      49,
+      54
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-9",
+    "location_raw": "64-66",
+    "location_type": "page_range",
+    "page_list": [
+      64,
+      65,
+      66
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-10",
+    "location_raw": "66",
+    "location_type": "page_single",
+    "page_list": [
+      66
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-11",
+    "location_raw": "64, 65",
+    "location_type": "page_range",
+    "page_list": [
+      64,
+      65
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-12",
+    "location_raw": "65, 66, 69, 70",
+    "location_type": "page_list",
+    "page_list": [
+      65,
+      66,
+      69,
+      70
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-13",
+    "location_raw": "55, 64-66",
+    "location_type": "page_list",
+    "page_list": [
+      55,
+      64,
+      65,
+      66
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-14",
+    "location_raw": "20",
+    "location_type": "page_single",
+    "page_list": [
+      20
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-15",
+    "location_raw": "67",
+    "location_type": "page_single",
+    "page_list": [
+      67
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-16",
+    "location_raw": "23, 58, 68, 73",
+    "location_type": "page_list",
+    "page_list": [
+      23,
+      58,
+      68,
+      73
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-17",
+    "location_raw": "Please refer to 2023 Annual Report page 21 - 33",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-18",
+    "location_raw": "55",
+    "location_type": "page_single",
+    "page_list": [
+      55
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-19",
+    "location_raw": "66",
+    "location_type": "page_single",
+    "page_list": [
+      66
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-20",
+    "location_raw": "66",
+    "location_type": "page_single",
+    "page_list": [
+      66
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-21",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Confidentiality constraints",
+    "omission_explanation": "Due to concerns about competitive sensitivity",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-22",
+    "location_raw": "6, 7",
+    "location_type": "page_range",
+    "page_list": [
+      6,
+      7
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-23",
+    "location_raw": "30, 39, 43, 60, 67, 68, 75, 78",
+    "location_type": "page_list",
+    "page_list": [
+      30,
+      39,
+      43,
+      60,
+      67,
+      68,
+      75,
+      78
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-24",
+    "location_raw": "30, 39, 43, 60, 67, 68, 75, 78",
+    "location_type": "page_list",
+    "page_list": [
+      30,
+      39,
+      43,
+      60,
+      67,
+      68,
+      75,
+      78
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-25",
+    "location_raw": "68",
+    "location_type": "page_single",
+    "page_list": [
+      68
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-26",
+    "location_raw": "68",
+    "location_type": "page_single",
+    "page_list": [
+      68
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-27",
+    "location_raw": "67, 71",
+    "location_type": "page_list",
+    "page_list": [
+      67,
+      71
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-28",
+    "location_raw": "18",
+    "location_type": "page_single",
+    "page_list": [
+      18
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-29",
+    "location_raw": "23",
+    "location_type": "page_single",
+    "page_list": [
+      23
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-30",
+    "location_raw": "Collective bargaining agreements are illegal in KSA.",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-1",
+    "location_raw": "24, 25",
+    "location_type": "page_range",
+    "page_list": [
+      24,
+      25
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": null,
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-2",
+    "location_raw": "24, 25",
+    "location_type": "page_range",
+    "page_list": [
+      24,
+      25
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Economic and Business Performance",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "63",
+    "location_type": "page_single",
+    "page_list": [
+      63
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.2.1, 11.14.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Economic and Business Performance",
+    "gri_standard": "GRI 201: Economic Performance 2016",
+    "disclosure_id": "201-1",
+    "location_raw": "63",
+    "location_type": "page_single",
+    "page_list": [
+      63
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.14.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Economic and Business Performance",
+    "gri_standard": "GRI 201: Economic Performance 2016",
+    "disclosure_id": "201-2",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Information unavailable/incomplete",
+    "omission_explanation": "Assessing climate risk is part of the company’s future plans",
+    "gri_sector_standard_ref_no": "11.2.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Economic and Business Performance",
+    "gri_standard": "GRI 201: Economic Performance 2016",
+    "disclosure_id": "201-3",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Confidentiality constraints",
+    "omission_explanation": "Due to sensitive business information",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Economic and Business Performance",
+    "gri_standard": "GRI 201: Economic Performance 2016",
+    "disclosure_id": "201-4",
+    "location_raw": "The government did not provide any financial assistance",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Economic and Business Performance",
+    "gri_standard": "GRI 203: Indirect Economic Impacts 2016",
+    "disclosure_id": "203-1",
+    "location_raw": "78, 79",
+    "location_type": "page_range",
+    "page_list": [
+      78,
+      79
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.14.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Economic and Business Performance",
+    "gri_standard": "GRI 203: Indirect Economic Impacts 2016",
+    "disclosure_id": "203-2",
+    "location_raw": "75, 78, 79",
+    "location_type": "page_list",
+    "page_list": [
+      75,
+      78,
+      79
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.14.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Diversity",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "60",
+    "location_type": "page_single",
+    "page_list": [
+      60
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Diversity",
+    "gri_standard": "GRI 202: Market Presence 2016",
+    "disclosure_id": "202-1",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Confidentiality constraints",
+    "omission_explanation": "We do not conduct the necessary assessments but may plan to do so in the future.",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Diversity",
+    "gri_standard": "GRI 202: Market Presence 2016",
+    "disclosure_id": "202-2",
+    "location_raw": "61",
+    "location_type": "page_single",
+    "page_list": [
+      61
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.11.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Diversity",
+    "gri_standard": "GRI 405: Diversity and Equal Opportunity 2016",
+    "disclosure_id": "405-1",
+    "location_raw": "60",
+    "location_type": "page_single",
+    "page_list": [
+      60
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.11.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Diversity",
+    "gri_standard": "GRI 405: Diversity and Equal Opportunity 2016",
+    "disclosure_id": "405-2",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Confidentiality constraints",
+    "omission_explanation": "We keep this information confidential due to competitiveness, but it may be disclosed in the future",
+    "gri_sector_standard_ref_no": "11.11.6",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Business Ethics",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "67-71",
+    "location_type": "page_range",
+    "page_list": [
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.20.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Business Ethics",
+    "gri_standard": "GRI 205: Anti-corruption 2016",
+    "disclosure_id": "205-1",
+    "location_raw": "67",
+    "location_type": "page_single",
+    "page_list": [
+      67
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.20.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Business Ethics",
+    "gri_standard": "GRI 205: Anti-corruption 2016",
+    "disclosure_id": "205-2",
+    "location_raw": "67",
+    "location_type": "page_single",
+    "page_list": [
+      67
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.20.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Business Ethics",
+    "gri_standard": "GRI 205: Anti-corruption 2016",
+    "disclosure_id": "205-3",
+    "location_raw": "67",
+    "location_type": "page_single",
+    "page_list": [
+      67
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.20.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Energy Management",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "34, 35",
+    "location_type": "page_range",
+    "page_list": [
+      34,
+      35
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Energy Management",
+    "gri_standard": "GRI 302: Energy 2016",
+    "disclosure_id": "302-1",
+    "location_raw": "35",
+    "location_type": "page_single",
+    "page_list": [
+      35
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Energy Management",
+    "gri_standard": "GRI 302: Energy 2016",
+    "disclosure_id": "302-2",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Information unavailable/incomplete",
+    "omission_explanation": "We have not yet measured this because we have not established the necessary data collection mechanisms but plan to in the future",
+    "gri_sector_standard_ref_no": "11.1.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Energy Management",
+    "gri_standard": "GRI 302: Energy 2016",
+    "disclosure_id": "302-3",
+    "location_raw": "35",
+    "location_type": "page_single",
+    "page_list": [
+      35
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Energy Management",
+    "gri_standard": "GRI 302: Energy 2016",
+    "disclosure_id": "302-4",
+    "location_raw": "34",
+    "location_type": "page_single",
+    "page_list": [
+      34
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Energy Management",
+    "gri_standard": "GRI 302: Energy 2016",
+    "disclosure_id": "302-5",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Information unavailable/incomplete",
+    "omission_explanation": "Complexity of measurement",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Water Use",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "41, 42",
+    "location_type": "page_range",
+    "page_list": [
+      41,
+      42
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.6.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Water Use",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-1",
+    "location_raw": "41",
+    "location_type": "page_single",
+    "page_list": [
+      41
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.6.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Water Use",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-2",
+    "location_raw": "41",
+    "location_type": "page_single",
+    "page_list": [
+      41
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.6.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Water Use",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-3",
+    "location_raw": "42",
+    "location_type": "page_single",
+    "page_list": [
+      42
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.6.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Water Use",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-4",
+    "location_raw": "42",
+    "location_type": "page_single",
+    "page_list": [
+      42
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.6.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Water Use",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-5",
+    "location_raw": "42",
+    "location_type": "page_single",
+    "page_list": [
+      42
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.6.6",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Greenhouse Gas Emissions",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "30-33",
+    "location_type": "page_range",
+    "page_list": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.1, 11.2.1, 11.3.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Greenhouse Gas Emissions",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-1",
+    "location_raw": "32",
+    "location_type": "page_single",
+    "page_list": [
+      32
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Greenhouse Gas Emissions",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-2",
+    "location_raw": "32",
+    "location_type": "page_single",
+    "page_list": [
+      32
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.6",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Greenhouse Gas Emissions",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-3",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Information unavailable/incomplete",
+    "omission_explanation": "We are considering establishing a data collection mechanism and providing emissions data in the future.",
+    "gri_sector_standard_ref_no": "11.1.7",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Greenhouse Gas Emissions",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-4",
+    "location_raw": "32",
+    "location_type": "page_single",
+    "page_list": [
+      32
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.8",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Greenhouse Gas Emissions",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-5",
+    "location_raw": "31",
+    "location_type": "page_single",
+    "page_list": [
+      31
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.2.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Greenhouse Gas Emissions",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-6",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Information unavailable/incomplete",
+    "omission_explanation": "We are currently exploring the establishment of a data collection mechanism and plan to track it in the future.",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Greenhouse Gas Emissions",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-7",
+    "location_raw": "33",
+    "location_type": "page_single",
+    "page_list": [
+      33
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.3.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Effluent and Pollutants",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "36-38",
+    "location_type": "page_range",
+    "page_list": [
+      36,
+      37,
+      38
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.5.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Effluent and Pollutants",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-1",
+    "location_raw": "36",
+    "location_type": "page_single",
+    "page_list": [
+      36
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.5.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Effluent and Pollutants",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-2",
+    "location_raw": "36",
+    "location_type": "page_single",
+    "page_list": [
+      36
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.5.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Effluent and Pollutants",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-3",
+    "location_raw": "36",
+    "location_type": "page_single",
+    "page_list": [
+      36
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.5.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Effluent and Pollutants",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-4",
+    "location_raw": "36",
+    "location_type": "page_single",
+    "page_list": [
+      36
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.5.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Effluent and Pollutants",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-5",
+    "location_raw": "36",
+    "location_type": "page_single",
+    "page_list": [
+      36
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.5.6",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Hazardous Substance",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "39, 40",
+    "location_type": "page_range",
+    "page_list": [
+      39,
+      40
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.8.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Hazardous Substance",
+    "gri_standard": "GRI 306: Effluents and Waste 2016",
+    "disclosure_id": "306-3",
+    "location_raw": "39",
+    "location_type": "page_single",
+    "page_list": [
+      39
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.8.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Procurement and Supplier Assessment",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "75, 76",
+    "location_type": "page_range",
+    "page_list": [
+      75,
+      76
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.14.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Procurement and Supplier Assessment",
+    "gri_standard": "GRI 204: Procurement Practices 2016",
+    "disclosure_id": "204-1",
+    "location_raw": "76",
+    "location_type": "page_single",
+    "page_list": [
+      76
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.14.6",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Procurement and Supplier Assessment",
+    "gri_standard": "GRI 308: Supplier Environmental Assessment 2016",
+    "disclosure_id": "308-1",
+    "location_raw": "75",
+    "location_type": "page_single",
+    "page_list": [
+      75
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Procurement and Supplier Assessment",
+    "gri_standard": "GRI 308: Supplier Environmental Assessment 2016",
+    "disclosure_id": "308-2",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Confidentiality constraints",
+    "omission_explanation": "Due to internal policies in place",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Procurement and Supplier Assessment",
+    "gri_standard": "GRI 414: Supplier Social Assessment 2016",
+    "disclosure_id": "414-1",
+    "location_raw": "75",
+    "location_type": "page_single",
+    "page_list": [
+      75
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.10.8, 11.12.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Procurement and Supplier Assessment",
+    "gri_standard": "GRI 414: Supplier Social Assessment 2016",
+    "disclosure_id": "414-2",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Confidentiality constraints",
+    "omission_explanation": "Due to internal policies in place",
+    "gri_sector_standard_ref_no": "11.10.9",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Recruitment and Retention",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "54, 55",
+    "location_type": "page_range",
+    "page_list": [
+      54,
+      55
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.10.1, 11.11.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Recruitment and Retention",
+    "gri_standard": "GRI 401: Employment 2016",
+    "disclosure_id": "401-1",
+    "location_raw": "55",
+    "location_type": "page_single",
+    "page_list": [
+      55
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.10.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Recruitment and Retention",
+    "gri_standard": "GRI 401: Employment 2016",
+    "disclosure_id": "401-2",
+    "location_raw": "59",
+    "location_type": "page_single",
+    "page_list": [
+      59
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.10.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Recruitment and Retention",
+    "gri_standard": "GRI 401: Employment 2016",
+    "disclosure_id": "401-3",
+    "location_raw": "59",
+    "location_type": "page_single",
+    "page_list": [
+      59
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.10.4, 11.11.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Occupational Health and Safety",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "46, 49, 52",
+    "location_type": "page_list",
+    "page_list": [
+      46,
+      49,
+      52
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Occupational Health and Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-1",
+    "location_raw": "46",
+    "location_type": "page_single",
+    "page_list": [
+      46
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Occupational Health and Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-2",
+    "location_raw": "48, 52",
+    "location_type": "page_list",
+    "page_list": [
+      48,
+      52
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Occupational Health and Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-3",
+    "location_raw": "46",
+    "location_type": "page_single",
+    "page_list": [
+      46
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Occupational Health and Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-4",
+    "location_raw": "46",
+    "location_type": "page_single",
+    "page_list": [
+      46
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Occupational Health and Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-5",
+    "location_raw": "49",
+    "location_type": "page_single",
+    "page_list": [
+      49
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.6",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Occupational Health and Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-6",
+    "location_raw": "46",
+    "location_type": "page_single",
+    "page_list": [
+      46
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.7",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Occupational Health and Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-7",
+    "location_raw": "52",
+    "location_type": "page_single",
+    "page_list": [
+      52
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.8",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Occupational Health and Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-8",
+    "location_raw": "46",
+    "location_type": "page_single",
+    "page_list": [
+      46
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.9",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Occupational Health and Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-9",
+    "location_raw": "47",
+    "location_type": "page_single",
+    "page_list": [
+      47
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.10",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Occupational Health and Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-10",
+    "location_raw": "47",
+    "location_type": "page_single",
+    "page_list": [
+      47
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.11",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Development and Training",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "56, 57",
+    "location_type": "page_range",
+    "page_list": [
+      56,
+      57
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.10.1, 11.11.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Development and Training",
+    "gri_standard": "GRI 404: Training and Education 2016",
+    "disclosure_id": "404-1",
+    "location_raw": "57",
+    "location_type": "page_single",
+    "page_list": [
+      57
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.10.6, 11.11.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Development and Training",
+    "gri_standard": "GRI 404: Training and Education 2016",
+    "disclosure_id": "404-2",
+    "location_raw": "56, 57",
+    "location_type": "page_range",
+    "page_list": [
+      56,
+      57
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.10.7",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Development and Training",
+    "gri_standard": "GRI 404: Training and Education 2016",
+    "disclosure_id": "404-3",
+    "location_raw": "57",
+    "location_type": "page_single",
+    "page_list": [
+      57
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Community Engagement",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "78, 79",
+    "location_type": "page_range",
+    "page_list": [
+      78,
+      79
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.15.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Community Engagement",
+    "gri_standard": "GRI 413: Local Communities 2016",
+    "disclosure_id": "413-1",
+    "location_raw": "79",
+    "location_type": "page_single",
+    "page_list": [
+      79
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.15.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Community Engagement",
+    "gri_standard": "GRI 413: Local Communities 2016",
+    "disclosure_id": "413-2",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Information unavailable/incomplete",
+    "omission_explanation": "We currently do not have an impact assessment tool in place, but it is planned for development in the future.",
+    "gri_sector_standard_ref_no": "11.15.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Product Stewardship",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "43",
+    "location_type": "page_single",
+    "page_list": [
+      43
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.3.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Product Stewardship",
+    "gri_standard": "GRI 416: Customer Health and Safety 2016",
+    "disclosure_id": "416-1",
+    "location_raw": "43",
+    "location_type": "page_single",
+    "page_list": [
+      43
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.3.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Product Stewardship",
+    "gri_standard": "GRI 416: Customer Health and Safety 2016",
+    "disclosure_id": "416-2",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Confidentiality constraints",
+    "omission_explanation": "Due to company policies, it cannot be shared.",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Customer Feedback and Satisfaction",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "73",
+    "location_type": "page_single",
+    "page_list": [
+      73
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Customer Feedback and Satisfaction",
+    "gri_standard": "GRI 418: Customer Privacy 2016",
+    "disclosure_id": "418-1",
+    "location_raw": "73",
+    "location_type": "page_single",
+    "page_list": [
+      73
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Engagement and Satisfaction",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "58",
+    "location_type": "page_single",
+    "page_list": [
+      58
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.10.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Engagement and Satisfaction",
+    "gri_standard": "GRI 402: Labor/Management Relations 2016",
+    "disclosure_id": "402-1",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Confidentiality constraints",
+    "omission_explanation": "Due to concerns about sensitive business decisions that could impact workforce stability or competitive positioning.",
+    "gri_sector_standard_ref_no": "11.10.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Inclusion and Equality",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "60",
+    "location_type": "page_single",
+    "page_list": [
+      60
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.11.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Inclusion and Equality",
+    "gri_standard": "GRI 406: Non-discrimination 2016",
+    "disclosure_id": "406-1",
+    "location_raw": "Not disclosed",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Confidentiality constraints",
+    "omission_explanation": "Due to internal policies but it can be disclosed in the future.",
+    "gri_sector_standard_ref_no": "11.11.7",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Climate Change (Policy and Strategy)",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "30",
+    "location_type": "page_single",
+    "page_list": [
+      30
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Legal Compliance",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "67, 68",
+    "location_type": "page_range",
+    "page_list": [
+      67,
+      68
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Benefits to Local Communities",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "78",
+    "location_type": "page_single",
+    "page_list": [
+      78
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Volunteering and Charities",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "78, 79",
+    "location_type": "page_range",
+    "page_list": [
+      78,
+      79
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Human Rights",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "72",
+    "location_type": "page_single",
+    "page_list": [
+      72
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Tasnee2023",
+    "material_topic": "Innovation",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "74",
+    "location_type": "page_single",
+    "page_list": [
+      74
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  }
+]

@@ -1,0 +1,1990 @@
+[
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-1",
+    "location_raw": "8-10, 12",
+    "location_type": "page_list",
+    "page_list": [
+      8,
+      9,
+      10,
+      12
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-2",
+    "location_raw": "6",
+    "location_type": "page_single",
+    "page_list": [
+      6
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-3",
+    "location_raw": "6",
+    "location_type": "page_single",
+    "page_list": [
+      6
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-4",
+    "location_raw": "49",
+    "location_type": "page_single",
+    "page_list": [
+      49
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-5",
+    "location_raw": "This report has not been externally assured.",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-6",
+    "location_raw": "14, 15",
+    "location_type": "page_range",
+    "page_list": [
+      14,
+      15
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-7",
+    "location_raw": "58-59",
+    "location_type": "page_range",
+    "page_list": [
+      58,
+      59
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-8",
+    "location_raw": "58",
+    "location_type": "page_single",
+    "page_list": [
+      58
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-9",
+    "location_raw": "88",
+    "location_type": "page_single",
+    "page_list": [
+      88
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-10",
+    "location_raw": "85-86",
+    "location_type": "page_range",
+    "page_list": [
+      85,
+      86
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-11",
+    "location_raw": "88",
+    "location_type": "page_single",
+    "page_list": [
+      88
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-12",
+    "location_raw": "85-86",
+    "location_type": "page_range",
+    "page_list": [
+      85,
+      86
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-13",
+    "location_raw": "85-86",
+    "location_type": "page_range",
+    "page_list": [
+      85,
+      86
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-14",
+    "location_raw": "93",
+    "location_type": "page_single",
+    "page_list": [
+      93
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-15",
+    "location_raw": "98",
+    "location_type": "page_single",
+    "page_list": [
+      98
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-16",
+    "location_raw": "95",
+    "location_type": "page_single",
+    "page_list": [
+      95
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-17",
+    "location_raw": "94",
+    "location_type": "page_single",
+    "page_list": [
+      94
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-18",
+    "location_raw": "94",
+    "location_type": "page_single",
+    "page_list": [
+      94
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-19",
+    "location_raw": "89",
+    "location_type": "page_single",
+    "page_list": [
+      89
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-20",
+    "location_raw": "89",
+    "location_type": "page_single",
+    "page_list": [
+      89
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-21",
+    "location_raw": "89",
+    "location_type": "page_single",
+    "page_list": [
+      89
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-22",
+    "location_raw": "3-5, 17, 18, 26-29, 33-35",
+    "location_type": "page_list",
+    "page_list": [
+      3,
+      4,
+      5,
+      17,
+      18,
+      26,
+      27,
+      28,
+      29,
+      33,
+      34,
+      35
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-23",
+    "location_raw": "97",
+    "location_type": "page_single",
+    "page_list": [
+      97
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-24",
+    "location_raw": "97",
+    "location_type": "page_single",
+    "page_list": [
+      97
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-25",
+    "location_raw": "67",
+    "location_type": "page_single",
+    "page_list": [
+      67
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-26",
+    "location_raw": "19-21",
+    "location_type": "page_range",
+    "page_list": [
+      19,
+      20,
+      21
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-27",
+    "location_raw": "97",
+    "location_type": "page_single",
+    "page_list": [
+      97
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-28",
+    "location_raw": "18",
+    "location_type": "page_single",
+    "page_list": [
+      18
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-29",
+    "location_raw": "19-21",
+    "location_type": "page_range",
+    "page_list": [
+      19,
+      20,
+      21
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-30",
+    "location_raw": "66",
+    "location_type": "page_single",
+    "page_list": [
+      66
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-1",
+    "location_raw": "18",
+    "location_type": "page_single",
+    "page_list": [
+      18
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": null,
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-2",
+    "location_raw": "18",
+    "location_type": "page_single",
+    "page_list": [
+      18
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Corporate Governance",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "97",
+    "location_type": "page_single",
+    "page_list": [
+      97
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Corporate Governance",
+    "gri_standard": "GRI 206: Anti-competitive Behavior 2016",
+    "disclosure_id": "206-1",
+    "location_raw": "97",
+    "location_type": "page_single",
+    "page_list": [
+      97
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Corporate Governance",
+    "gri_standard": "GRI 205: Anti-corruption 2016",
+    "disclosure_id": "205-1",
+    "location_raw": "98",
+    "location_type": "page_single",
+    "page_list": [
+      98
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Corporate Governance",
+    "gri_standard": "GRI 205: Anti-corruption 2016",
+    "disclosure_id": "205-2",
+    "location_raw": "97",
+    "location_type": "page_single",
+    "page_list": [
+      97
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Corporate Governance",
+    "gri_standard": "GRI 205: Anti-corruption 2016",
+    "disclosure_id": "205-3",
+    "location_raw": "97",
+    "location_type": "page_single",
+    "page_list": [
+      97
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Corporate Governance",
+    "gri_standard": "GRI 415: Public Policy 2016",
+    "disclosure_id": "415-1",
+    "location_raw": "There were no political contributions by the Company",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Transparent, Accurate and Responsible Reporting",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "19, 32",
+    "location_type": "page_list",
+    "page_list": [
+      19,
+      32
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Transparent, Accurate and Responsible Reporting",
+    "gri_standard": "GRI 201: Economic Performance 2016",
+    "disclosure_id": "201-4",
+    "location_raw": "No financial assistance received from the government",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Transparent, Accurate and Responsible Reporting",
+    "gri_standard": "GRI 207: Tax 2019",
+    "disclosure_id": "207-1",
+    "location_raw": "32",
+    "location_type": "page_single",
+    "page_list": [
+      32
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Transparent, Accurate and Responsible Reporting",
+    "gri_standard": "GRI 207: Tax 2019",
+    "disclosure_id": "207-2",
+    "location_raw": "32",
+    "location_type": "page_single",
+    "page_list": [
+      32
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Transparent, Accurate and Responsible Reporting",
+    "gri_standard": "GRI 207: Tax 2019",
+    "disclosure_id": "207-3",
+    "location_raw": "19-21",
+    "location_type": "page_range",
+    "page_list": [
+      19,
+      20,
+      21
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Transparent, Accurate and Responsible Reporting",
+    "gri_standard": "GRI 207: Tax 2019",
+    "disclosure_id": "207-4",
+    "location_raw": "Shell Pilipinas only operates within the Philippine boundaries.",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Supply Chain Management",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "96",
+    "location_type": "page_single",
+    "page_list": [
+      96
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Supply Chain Management",
+    "gri_standard": "GRI 414: Supplier Social Assessment 2016",
+    "disclosure_id": "414-1",
+    "location_raw": "96",
+    "location_type": "page_single",
+    "page_list": [
+      96
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Supply Chain Management",
+    "gri_standard": "GRI 414: Supplier Social Assessment 2016",
+    "disclosure_id": "414-2",
+    "location_raw": "96",
+    "location_type": "page_single",
+    "page_list": [
+      96
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Economic Performance",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "32, 48, 76",
+    "location_type": "page_list",
+    "page_list": [
+      32,
+      48,
+      76
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Economic Performance",
+    "gri_standard": "GRI 201: Economic Performance 2016",
+    "disclosure_id": "201-1",
+    "location_raw": "30-31",
+    "location_type": "page_range",
+    "page_list": [
+      30,
+      31
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Economic Performance",
+    "gri_standard": "GRI 201: Economic Performance 2016",
+    "disclosure_id": "201-2",
+    "location_raw": "48",
+    "location_type": "page_single",
+    "page_list": [
+      48
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Economic Performance",
+    "gri_standard": "GRI 202: Market Presence 2016",
+    "disclosure_id": "202-2",
+    "location_raw": "To ensure that there is a robust leadership pipeline, Pilipinas Shell hires the best Filipino talent, here and abroad, and promotes from the ranks.",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Economic Performance",
+    "gri_standard": "GRI 203: Indirect Economic Impacts 2016",
+    "disclosure_id": "203-1",
+    "location_raw": "31",
+    "location_type": "page_single",
+    "page_list": [
+      31
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Economic Performance",
+    "gri_standard": "GRI 203: Indirect Economic Impacts 2016",
+    "disclosure_id": "203-2",
+    "location_raw": "31",
+    "location_type": "page_single",
+    "page_list": [
+      31
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Economic Performance",
+    "gri_standard": "GRI 204: Procurement Practices 2016",
+    "disclosure_id": "204-1",
+    "location_raw": null,
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": "204-1-a to 204-1-c",
+    "omission_reason": "Information unavailable",
+    "omission_explanation": "The Company has not yet disclosed its proportion of spending on local suppliers because this information is not centrally tracked. Currently, there is no standardized system in place to collect and consolidate data on procurement spending by supplier origin. Efforts are underway to enhance supplier data management, and the Company is evaluating processes to improve tracking mechanisms.",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Employee Management",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "58, 60, 62, 66",
+    "location_type": "page_list",
+    "page_list": [
+      58,
+      60,
+      62,
+      66
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Employee Management",
+    "gri_standard": "GRI 402: Labor/Management Relations 2016",
+    "disclosure_id": "402-1",
+    "location_raw": "There is no “standard” minimum number of weeks as engagement plans would depend on the change and the impact of the change on employees, but an engagement will be definitely be conducted prior to any change",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Employee Management",
+    "gri_standard": "GRI 401: Employment 2016",
+    "disclosure_id": "401-1",
+    "location_raw": "61",
+    "location_type": "page_single",
+    "page_list": [
+      61
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Employee Management",
+    "gri_standard": "GRI 401: Employment 2016",
+    "disclosure_id": "401-2",
+    "location_raw": "62-63",
+    "location_type": "page_range",
+    "page_list": [
+      62,
+      63
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Employee Management",
+    "gri_standard": "GRI 401: Employment 2016",
+    "disclosure_id": "401-3",
+    "location_raw": "63",
+    "location_type": "page_single",
+    "page_list": [
+      63
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Employee Management",
+    "gri_standard": "GRI 404: Training and Education 2016",
+    "disclosure_id": "404-1",
+    "location_raw": "68",
+    "location_type": "page_single",
+    "page_list": [
+      68
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Employee Management",
+    "gri_standard": "GRI 404: Training and Education 2016",
+    "disclosure_id": "404-2",
+    "location_raw": "68",
+    "location_type": "page_single",
+    "page_list": [
+      68
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Employee Management",
+    "gri_standard": "GRI 404: Training and Education 2016",
+    "disclosure_id": "404-3",
+    "location_raw": "69",
+    "location_type": "page_single",
+    "page_list": [
+      69
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Employee Management",
+    "gri_standard": "GRI 405: Diversity and Equal Opportunity 2016",
+    "disclosure_id": "405-1",
+    "location_raw": "59, 85",
+    "location_type": "page_list",
+    "page_list": [
+      59,
+      85
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Employee Management",
+    "gri_standard": "GRI 405: Diversity and Equal Opportunity 2016",
+    "disclosure_id": "405-2",
+    "location_raw": "We do not differentiate in salary based on gender",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Employee Management",
+    "gri_standard": "GRI 406: Non-discrimination 2016",
+    "disclosure_id": "406-1",
+    "location_raw": "No incidents of discriminations were reported",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Employee Management",
+    "gri_standard": "GRI 409: Forced or Compulsory Labor 2016",
+    "disclosure_id": "409-1",
+    "location_raw": "No significant risk for incident of forced or compulsory labor",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Employee Management",
+    "gri_standard": "GRI 407: Freedom of Association and Collective Bargaining 2016",
+    "disclosure_id": "407-1",
+    "location_raw": "66",
+    "location_type": "page_single",
+    "page_list": [
+      66
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Local Community Development",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "73",
+    "location_type": "page_single",
+    "page_list": [
+      73
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Local Community Development",
+    "gri_standard": "GRI 411: Rights of Indigenous Peoples 2016",
+    "disclosure_id": "411-1",
+    "location_raw": "No incidents of violations involving rights of indigenous peoples",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Local Community Development",
+    "gri_standard": "GRI 413: Local Communities 2016",
+    "disclosure_id": "413-1",
+    "location_raw": "73",
+    "location_type": "page_single",
+    "page_list": [
+      73
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Local Community Development",
+    "gri_standard": "GRI 413: Local Communities 2016",
+    "disclosure_id": "413-2",
+    "location_raw": "73",
+    "location_type": "page_single",
+    "page_list": [
+      73
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Asset Integrity and Process Safety",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "70",
+    "location_type": "page_single",
+    "page_list": [
+      70
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Asset Integrity and Process Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-1",
+    "location_raw": "70, 71",
+    "location_type": "page_range",
+    "page_list": [
+      70,
+      71
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Asset Integrity and Process Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-2",
+    "location_raw": "70, 71",
+    "location_type": "page_range",
+    "page_list": [
+      70,
+      71
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Asset Integrity and Process Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-3",
+    "location_raw": "65, 71",
+    "location_type": "page_list",
+    "page_list": [
+      65,
+      71
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Asset Integrity and Process Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-4",
+    "location_raw": "70",
+    "location_type": "page_single",
+    "page_list": [
+      70
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Asset Integrity and Process Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-5",
+    "location_raw": "70",
+    "location_type": "page_single",
+    "page_list": [
+      70
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Asset Integrity and Process Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-6",
+    "location_raw": "65, 71",
+    "location_type": "page_list",
+    "page_list": [
+      65,
+      71
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Asset Integrity and Process Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-7",
+    "location_raw": "70",
+    "location_type": "page_single",
+    "page_list": [
+      70
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Asset Integrity and Process Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-8",
+    "location_raw": "100% of workers are covered by an occupational health and safety management system",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Asset Integrity and Process Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-9",
+    "location_raw": "72",
+    "location_type": "page_single",
+    "page_list": [
+      72
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Asset Integrity and Process Safety",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-10",
+    "location_raw": "72",
+    "location_type": "page_single",
+    "page_list": [
+      72
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Asset Integrity and Process Safety",
+    "gri_standard": "GRI 410: Security Practices 2016",
+    "disclosure_id": "410-1",
+    "location_raw": "Security services are outsourced to third party and they are managing the training of security personnel deployed at Shell Pilipinas",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Social Impact of operations on host communities, business partners, and local government",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "73",
+    "location_type": "page_single",
+    "page_list": [
+      73
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Social Investment",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "73",
+    "location_type": "page_single",
+    "page_list": [
+      73
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Energy Transition",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "49",
+    "location_type": "page_single",
+    "page_list": [
+      49
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Energy Transition",
+    "gri_standard": "GRI 302: Energy 2016",
+    "disclosure_id": "302-1",
+    "location_raw": "49",
+    "location_type": "page_single",
+    "page_list": [
+      49
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Energy Transition",
+    "gri_standard": "GRI 302: Energy 2016",
+    "disclosure_id": "302-2",
+    "location_raw": null,
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": "302-2-a to 302-2-c",
+    "omission_reason": "Not applicable",
+    "omission_explanation": "Shell Pilipinas does not measure its energy consumption outside the organization.",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Energy Transition",
+    "gri_standard": "GRI 302: Energy 2016",
+    "disclosure_id": "302-3",
+    "location_raw": "49",
+    "location_type": "page_single",
+    "page_list": [
+      49
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Energy Transition",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-1",
+    "location_raw": "49",
+    "location_type": "page_single",
+    "page_list": [
+      49
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Energy Transition",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-2",
+    "location_raw": "49",
+    "location_type": "page_single",
+    "page_list": [
+      49
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Energy Transition",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-3",
+    "location_raw": null,
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": "305-3-a to 305-3-g",
+    "omission_reason": "Information unavailable",
+    "omission_explanation": "Shell Pilipinas has not yet disclosed Scope 3 emissions due to the absence of a centralized tracking system and challenges in obtaining reliable data from third-party suppliers and customers. The company is evaluating methodologies to estimate these emissions and enhance supplier engagement. A structured approach to Scope 3 accounting is expected in the next few years.",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Energy Transition",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-4",
+    "location_raw": "49",
+    "location_type": "page_single",
+    "page_list": [
+      49
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Energy Transition",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-5",
+    "location_raw": "49",
+    "location_type": "page_single",
+    "page_list": [
+      49
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Energy Transition",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-7",
+    "location_raw": null,
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Not applicable",
+    "omission_explanation": "Since 2022, Shell Pilipinas are no longer emitting nitrogen oxides (NOx), sulfur oxides (SOx), and other significant air emissions in Tabangao",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "53, 54, 55",
+    "location_type": "page_range",
+    "page_list": [
+      53,
+      54,
+      55
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 304: Biodiversity 2016",
+    "disclosure_id": "304-1",
+    "location_raw": null,
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Not applicable",
+    "omission_explanation": "There are no operational sites owned, leased, managed in, or adjacent to, protected areas and areas of high biodiversity value outside protected areas",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 304: Biodiversity 2016",
+    "disclosure_id": "304-2",
+    "location_raw": "54",
+    "location_type": "page_single",
+    "page_list": [
+      54
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 304: Biodiversity 2016",
+    "disclosure_id": "304-3",
+    "location_raw": null,
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Not applicable",
+    "omission_explanation": "There are no habitats protected and restored",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 304: Biodiversity 2016",
+    "disclosure_id": "304-4",
+    "location_raw": "No known IUCN Red List species and national conservation list species with habitats in areas affected by operations",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-1",
+    "location_raw": "55",
+    "location_type": "page_single",
+    "page_list": [
+      55
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-2",
+    "location_raw": "55",
+    "location_type": "page_single",
+    "page_list": [
+      55
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-3",
+    "location_raw": "55",
+    "location_type": "page_single",
+    "page_list": [
+      55
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-4",
+    "location_raw": "55",
+    "location_type": "page_single",
+    "page_list": [
+      55
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-5",
+    "location_raw": "55",
+    "location_type": "page_single",
+    "page_list": [
+      55
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-1",
+    "location_raw": "53",
+    "location_type": "page_single",
+    "page_list": [
+      53
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-2",
+    "location_raw": "53",
+    "location_type": "page_single",
+    "page_list": [
+      53
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-3",
+    "location_raw": "53",
+    "location_type": "page_single",
+    "page_list": [
+      53
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-4",
+    "location_raw": null,
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": "Information unavailable",
+    "omission_explanation": "Shell Pilipinas has not yet disclosed water discharge data due to limitations in data availability across its operations. Current monitoring systems do not comprehensively capture discharge volumes and quality. The Company is evaluating methodologies to enhance data collection and reporting, ensuring alignment with regulatory and industry standards. Improvements in water discharge tracking are expected within the next few years.",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-5",
+    "location_raw": "53",
+    "location_type": "page_single",
+    "page_list": [
+      53
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Environmental Compliance & Impact including Biodiversity",
+    "gri_standard": "GRI 306: Effluents and Waste 2016",
+    "disclosure_id": "306-3",
+    "location_raw": "54-55",
+    "location_type": "page_range",
+    "page_list": [
+      54,
+      55
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Promotion of Sustainable Development",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "18",
+    "location_type": "page_single",
+    "page_list": [
+      18
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Customer Service",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "40",
+    "location_type": "page_single",
+    "page_list": [
+      40
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Customer Service",
+    "gri_standard": "GRI 416: Customer Health and Safety 2016",
+    "disclosure_id": "416-1",
+    "location_raw": "All our products and services have been assessed of the health and safety impacts to our customers and operations that is in compliance to government regulations. All of our chemical and hydrocarbon products are assessed through the utilization of the Safety Data Sheet that is reviewed and maintained on a regular basis.",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Brand Management and Product & Services Offerings",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "39",
+    "location_type": "page_single",
+    "page_list": [
+      39
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Development and Innovation and Evolving Customer Demands",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "37",
+    "location_type": "page_single",
+    "page_list": [
+      37
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "ShellPilipinas2024",
+    "material_topic": "Digital Transformation",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "45",
+    "location_type": "page_single",
+    "page_list": [
+      45
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  }
+]

@@ -1,0 +1,2536 @@
+[
+  {
+    "chunk_id": "Bapco2024__c_0001",
+    "report_id": "Bapco2024",
+    "chunk_index": 0,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "2024 Sustainability Report",
+    "page_numbers": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "heading_path": [],
+    "section_label": "",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 26,
+    "token_count": 6
+  },
+  {
+    "chunk_id": "Bapco2024__c_0002",
+    "report_id": "Bapco2024",
+    "chunk_index": 1,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (2-14), (2-22) Guided by the vision of His Majesty King Hamad bin Isa Al Khalifa, King of the Kingdom of Bahrain, and His Royal Highness Prince Salman bin Hamad Al Khalifa, Crown Prince and Prime Minister, Bapco Energies continues to lead the Kingdom of Bahrain's energy transition in alignment with our national commitment to sustainability and energy security. We are proud to present our third Environmental, Social, and Governance (ESG) Report - an important milestone that underscores our dedication to a more secure, responsible, and future-ready energy system. The imperative to move toward a low-carbon economy has never been clearer, and we have embraced this challenge with purpose and resolve. We are positioning ourselves at the forefront of this critical transition, actively seeking to reshape our operations in alignment with the Kingdom's National Energy Strategy (NES). By investing in innovative technologies, exploring alternative energy sources, and fostering strategic partnerships, we are building a more resilient and diversified energy portfolio. These efforts are not only aimed at reducing our carbon footprint, but also at ensuring energy reliability, economic resilience, and long-term sustainability. Our aim is to deliver long-term value in a way that benefits both people and the planet. This objective guides every strategic decision we make, reinforcing our belief that sustainable progress and economic growth can go hand in hand. A key achievement for us has been reassessment of our material topics. The newly conducted materiality process helped us understand the perspective of our stakeholders and strengthen our relationship with them further. We have continued to monitor key performance indicators (KPIs) that allow us to track our sustainability progress with precision and transparency. Our distinct and enhanced governance structure ensures robust oversight and alignment with our ESG commitments. Beyond environmental sustainability, we recognize the value of fostering a diverse, inclusive, and empowered workforce. We are committed to cultivating a corporate culture where every individual is respected and given the opportunity to contribute meaningfully. We believe diversity is a strategic advantage and drives innovation, strengthens community engagement, and enhances overall organizational performance. Sustainability for us is a defining principle that shapes how we operate, grow, and interact with all stakeholders. As we move forward, we remain dedicated to continuous improvement and to setting new benchmarks for ESG excellence. We embrace the challenges ahead with optimism, transparency, and a relentless drive for progress. We extend our gratitude to our stakeholders, partners, and the people of the Kingdom of Bahrain for their unwavering support. Most importantly, we thank the employees of Bapco Energies for their tireless commitment, expertise, and resilience - their contributions are the foundation of our progress. Together, we are shaping a resilient and sustainable energy landscape for generations to come.",
+    "page_numbers": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "heading_path": [
+      "Message from the Chairman"
+    ],
+    "section_label": "Message from the Chairman",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 3085,
+    "token_count": 657
+  },
+  {
+    "chunk_id": "Bapco2024__c_0003",
+    "report_id": "Bapco2024",
+    "chunk_index": 2,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (2-14), (2-22) It is with great pride that I present the third Environmental, Social, and Governance (ESG) report from Bapco Energies. This is a testament to our enduring commitment to driving responsible growth and advancing the prosperity of the Kingdom of Bahrain under the wise leadership of His Majesty King Hamad bin Isa Al Khalifa, King of the Kingdom of Bahrain, and His Royal Highness Prince Salman bin Hamad Al Khalifa, the Crown Prince and Prime Minister. This report not only reflects our progress but also reinforces our long-term vision for building a low-carbon, cleaner, and more inclusive future. Our transformation into an integrated energy company marks a defining chapter in our journey. This change has been more than structural; it embodies our resolve to align closely with Bahrain's National Energy Strategy (NES), ensuring that our actions and objectives support the nation's energy vision. Operating under the guidance of His Highness Shaikh Nasser bin Hamad Al Khalifa, His Majesty's Representative for Humanitarian Works and Youth Affairs, and Chairman of the Board of Directors, and the support of our esteemed Board, Bapco Energies has emerged as a catalyst for sustainable energy innovation, supporting the Kingdom's progress towards a lowcarbon future. In 2024, we conducted a detailed materiality assessment to refine our current material topics. This allowed stakeholders to share their views on priorities, helping us to derive an updated list of topics. As a result, Bapco Energies can better allocate resources and focus on these topics while collaborating with stakeholders to gain an understanding of their priorities. Environmental stewardship and sustainability continue to be a core pillar of our strategy. We have intensified our efforts to lower greenhouse gas (GHG) emissions through a suite of targeted initiatives. We also recognize that a resilient future must be equitable. We are actively working to ensure that every team member has equal access to opportunity and a voice in shaping our future. Through collaborative action with our stakeholders, we aim to not only support the ambitions of the Kingdom of Bahrain but to also contribute to the global movement toward a cleaner, more equitable energy future. At Bapco Energies, we are not just responding to change, we are leading it and will continue to innovate, develop, and invest in initiatives that further our vision and help to achieve a secure, responsible, and low-carbon future.",
+    "page_numbers": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "heading_path": [
+      "Message from the Group Chief Executive Officer"
+    ],
+    "section_label": "Message from the Group Chief Executive Officer",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2494,
+    "token_count": 558
+  },
+  {
+    "chunk_id": "Bapco2024__c_0004",
+    "report_id": "Bapco2024",
+    "chunk_index": 3,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (2-1), (2-2), (2-3), (2-4), (2-5) Bapco Energies B.S.C. (closed) is honored to publish its third consecutive Environmental, Social, and Governance (ESG) report. The report underscores the Company's commitment and accountability in disclosing its 2024 sustainability performance.",
+    "page_numbers": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "heading_path": [
+      "About this report"
+    ],
+    "section_label": "About this report",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 282,
+    "token_count": 78
+  },
+  {
+    "chunk_id": "Bapco2024__c_0005",
+    "report_id": "Bapco2024",
+    "chunk_index": 4,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (2-1) Bapco Energies (previously known as nogaholding) was established by Royal Decree in 2007 as the Kingdom of Bahrain's energy investment and development arm. The Company was mandated to ensure energy security and maximize economic value to the Kingdom through its extensive portfolio of Subsidiaries and Associates. In 2023, the launch of Bapco Energies as the new brand identity of nogaholding marked the beginning of a transformative journey to an integrated energy company. Under the visionary leadership of His Highness Shaikh Nasser bin Hamad Al Khalifa, His Majesty's Representative for Humanitarian Works and Youth Affairs, Chairman of Bapco Energies, the Company is building on the 90year legacy of its diverse portfolio and reshaping the energy landscape in the Kingdom of Bahrain.",
+    "page_numbers": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "heading_path": [
+      "About Bapco Energies"
+    ],
+    "section_label": "About Bapco Energies",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 798,
+    "token_count": 185
+  },
+  {
+    "chunk_id": "Bapco2024__c_0006",
+    "report_id": "Bapco2024",
+    "chunk_index": 5,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Agile Innovative Responsible Bapco Energies continues to lead the Kingdom of Bahrain's journey toward a low-carbon energy future through its strategic focus on 'Powering the Next Generation.' This forward-looking approach is closely aligned with the Kingdom's National Energy Strategy, and the Company is enhancing operational efficiencies to meet both environmental and economic targets. Bapco Energies has also made significant contributions to the social fabric of the Kingdom, encouraging community development, supporting educational initiatives, and creating employment opportunities that have strengthened the Kingdom's social and economic landscape. Subsidiaries Associates",
+    "page_numbers": [
+      12,
+      13
+    ],
+    "page_start": 12,
+    "page_end": 13,
+    "heading_path": [
+      "The fundamental values of Bapco Energies are:"
+    ],
+    "section_label": "The fundamental values of Bapco Energies are:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 681,
+    "token_count": 142
+  },
+  {
+    "chunk_id": "Bapco2024__c_0007",
+    "report_id": "Bapco2024",
+    "chunk_index": 6,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (2-28) Bapco Energies' ongoing participation in leading industry associations highlights its unwavering commitment to operational excellence, environmental responsibility, and community engagement. The Group's awards and recognitions reflect the achievements and success of its leadership in driving innovation and sustainability, the effectiveness of its strategic initiatives, and the dedication of its workforce.",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "Awards and Partnerships"
+    ],
+    "section_label": "Awards and Partnerships",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 419,
+    "token_count": 81
+  },
+  {
+    "chunk_id": "Bapco2024__c_0008",
+    "report_id": "Bapco2024",
+    "chunk_index": 7,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies was the proud recipient of several prestigious awards and accolades in 2024. These honors reflect the dedication of our teams, the strength of our strategies, and our ongoing efforts to lead the energy sector toward a more responsible and resilient future.",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "Key awards in 2024"
+    ],
+    "section_label": "Key awards in 2024",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 271,
+    "token_count": 59
+  },
+  {
+    "chunk_id": "Bapco2024__c_0009",
+    "report_id": "Bapco2024",
+    "chunk_index": 8,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "HRSE Conference and Gala Dinner hosted by InformaConnect in Dubai.",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "Best Talent Management Strategy"
+    ],
+    "section_label": "Best Talent Management Strategy",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 66,
+    "token_count": 15
+  },
+  {
+    "chunk_id": "Bapco2024__c_0010",
+    "report_id": "Bapco2024",
+    "chunk_index": 9,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Roshcomm under the patronage of His Excellency Jameel bin Mohammed Humaidan Minister of Labour.",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "Best Corporate Social Responsibility (CSR) Practices and HR Team of the Year (Bapco Refining)"
+    ],
+    "section_label": "Best Corporate Social Responsibility (CSR) Practices and HR Team of the Year (Bapco Refining)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 95,
+    "token_count": 24
+  },
+  {
+    "chunk_id": "Bapco2024__c_0011",
+    "report_id": "Bapco2024",
+    "chunk_index": 10,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Roshcomm under the patronage of His Excellency Jameel bin Mohammed Humaidan Minister of Labour.",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "Technology Enhanced Learning Award"
+    ],
+    "section_label": "Technology Enhanced Learning Award",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 95,
+    "token_count": 24
+  },
+  {
+    "chunk_id": "Bapco2024__c_0012",
+    "report_id": "Bapco2024",
+    "chunk_index": 11,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "British Safety Council for maintaining a safe working environment.",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "Sword of Honour 2024 Award and the Five Star Award (Bapco Refining)"
+    ],
+    "section_label": "Sword of Honour 2024 Award and the Five Star Award (Bapco Refining)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 66,
+    "token_count": 11
+  },
+  {
+    "chunk_id": "Bapco2024__c_0013",
+    "report_id": "Bapco2024",
+    "chunk_index": 12,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies and TotalEnergies entered a strategic petroleum-product trading partnership, officially signed in July 2024. The agreement supports the Kingdom of Bahrain's energy vision under His Majesty King Hamad bin Isa Al Khalifa and His Royal Highness, Crown Prince and Prime Minister by leveraging TotalEnergies' global supply, refining, and trading expertise to enhance Bapco Energies' capabilities, trading strategies, and expand market reach. The collaboration positions Bapco Energies to compete internationally, unlock growth, and build human capital through world-class trading and risk-management exposure.",
+    "page_numbers": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "heading_path": [
+      "Partnership with TotalEnergies"
+    ],
+    "section_label": "Partnership with TotalEnergies",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 619,
+    "token_count": 131
+  },
+  {
+    "chunk_id": "Bapco2024__c_0014",
+    "report_id": "Bapco2024",
+    "chunk_index": 13,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies and Masdar signed a strategic agreement in May 2024 to jointly explore the development and investment of up to 2 GW and offshore wind projects in the Kingdom of Bahrain. This collaboration supports the Kingdom of Bahrain's National Energy Strategy, while accelerating decarbonization of key industrial sectors. The initiative represents a milestone for clean energy in the Kingdom of Bahrain and the wider Gulf region.",
+    "page_numbers": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "heading_path": [
+      "Partnership with Masdar"
+    ],
+    "section_label": "Partnership with Masdar",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 433,
+    "token_count": 91
+  },
+  {
+    "chunk_id": "Bapco2024__c_0015",
+    "report_id": "Bapco2024",
+    "chunk_index": 14,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies is a member of the International Association of Oil and Gas Producers (IOGP), an esteemed collective that includes many of the world's leading publicly traded, private, and state-owned oil and gas companies. IOGP is at the forefront of driving safety, efficiency, and sustainability within the energy sector, playing a pivotal role as an enabler of the transition to a low-carbon future.",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "International Association of Oil and Gas Producers (IOGP)"
+    ],
+    "section_label": "International Association of Oil and Gas Producers (IOGP)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 402,
+    "token_count": 96
+  },
+  {
+    "chunk_id": "Bapco2024__c_0016",
+    "report_id": "Bapco2024",
+    "chunk_index": 15,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The World Economic Forum (WEF) provides a global, impartial, and non-profit platform for fostering meaningful connections between stakeholders. This platform aims to establish trust and drive initiatives that promote cooperation and progress. WEF Partners, comprised of leading global companies, are at the forefront of developing solutions to the world's greatest challenges and play a vital role in advancing the Forum's programs. Through their engagement in specialized centers, WEF Partners access valuable networks and expert knowledge, ensuring informed strategic decision-making on the most pressing global issues.",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "World Economic Forum"
+    ],
+    "section_label": "World Economic Forum",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 621,
+    "token_count": 130
+  },
+  {
+    "chunk_id": "Bapco2024__c_0017",
+    "report_id": "Bapco2024",
+    "chunk_index": 16,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies is a member of the Energy Institute (EI), a globally recognized professional body for the energy sector that brings together expertise across oil and gas, renewables, and low-carbon technologies. The EI is committed to promoting safe, efficient, and sustainable energy practices, supporting industry professionals through knowledge-sharing, training, and the advancement of energy innovation worldwide.",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "Energy Institute (EI)"
+    ],
+    "section_label": "Energy Institute (EI)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 417,
+    "token_count": 85
+  },
+  {
+    "chunk_id": "Bapco2024__c_0018",
+    "report_id": "Bapco2024",
+    "chunk_index": 17,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies is a member of the Carbon Capture, Utilisation and Storage (CCUS) Institute, a leading international organization dedicated to accelerating the commercial deployment of CCUS technologies. Through its membership, Bapco Energies collaborates on cutting-edge solutions to reduce carbon emissions, contributing to global climate goals and supporting the Kingdom of Bahrain's journey toward net-zero emissions.",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "Carbon Capture, Utilisation and Storage (CCUS) Institute"
+    ],
+    "section_label": "Carbon Capture, Utilisation and Storage (CCUS) Institute",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 420,
+    "token_count": 91
+  },
+  {
+    "chunk_id": "Bapco2024__c_0019",
+    "report_id": "Bapco2024",
+    "chunk_index": 18,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The Oil and Gas Methane Partnership 2.0 (OGMP 2.0) is the flagship reporting and mitigation initiative of the United Nations Environment Programme (UNEP), of which Bapco Energies is a signatory. By participating in OGMP 2.0, Bapco Energies demonstrates its commitment to transparent, science-based methane emissions reporting and reduction, aligning with best practices to enhance environmental stewardship and climate responsibility.",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "Oil and Gas Methane Partnership 2.0 (OGMP 2.0)"
+    ],
+    "section_label": "Oil and Gas Methane Partnership 2.0 (OGMP 2.0)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 434,
+    "token_count": 99
+  },
+  {
+    "chunk_id": "Bapco2024__c_0020",
+    "report_id": "Bapco2024",
+    "chunk_index": 19,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies is a signatory to the Oil and Gas Decarbonization Charter (OGDC), a high-ambition initiative launched at COP28 to accelerate climate action within the oil and gas sector. As part of this global coalition, Bapco Energies is committed to achieving net-zero operations by 2050 or earlier, reducing methane emissions, and investing in clean energy technologies to support a sustainable and inclusive energy transition.",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "Oil and Gas Decarbonization Charter (OGDC)"
+    ],
+    "section_label": "Oil and Gas Decarbonization Charter (OGDC)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 429,
+    "token_count": 100
+  },
+  {
+    "chunk_id": "Bapco2024__c_0021",
+    "report_id": "Bapco2024",
+    "chunk_index": 20,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "INJAZ Bahrain is a leading non-profit organization dedicated to empowering young people with the skills, knowledge, and entrepreneurial mindset needed to succeed in the global economy. Bapco Energies is a proud partner of INJAZ and through this collaboration, it supports youth education and workforce readiness, reinforcing its commitment to social responsibility and the development of future talent in the Kingdom of Bahrain.",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "INJAZ Bahrain"
+    ],
+    "section_label": "INJAZ Bahrain",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 428,
+    "token_count": 88
+  },
+  {
+    "chunk_id": "Bapco2024__c_0022",
+    "report_id": "Bapco2024",
+    "chunk_index": 21,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bahrain Health & Safety Society British Safety Council Campbell Institute Centre for Chemical Process Safety GCC Health and Safety Committee for Oil Refineries & Joint Ventures for Refinery Operating Companies (JVROC) Gulf Downstream Association (GDA) Gulf Petrochemicals and Chemicals Association (GPCA) Regional Clean Sea Organization (RECSO) Supreme Safety and Health Committee, Ministry of Labour and Social Development United Nations Global Compact (UNGC) United States National Safety Council",
+    "page_numbers": [
+      17
+    ],
+    "page_start": 17,
+    "page_end": 17,
+    "heading_path": [
+      "Other memberships & associations across the group"
+    ],
+    "section_label": "Other memberships & associations across the group",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 498,
+    "token_count": 105
+  },
+  {
+    "chunk_id": "Bapco2024__c_0023",
+    "report_id": "Bapco2024",
+    "chunk_index": 22,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (2-22) In 2024, Bapco Energies re-assessed its initial material topics identified in 2022, by conducting a thorough materiality assessment. This process strengthened the Company's journey towards ensuring a more resilient and low-carbon future. The Company actively engaged with a diverse range of stakeholders to ensure that the materiality assessment reflected their perspectives, thereby enriching the process and strengthening stakeholder trust.",
+    "page_numbers": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "heading_path": [
+      "Our ESG approach"
+    ],
+    "section_label": "Our ESG approach",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 453,
+    "token_count": 105
+  },
+  {
+    "chunk_id": "Bapco2024__c_0024",
+    "report_id": "Bapco2024",
+    "chunk_index": 23,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (2-23), (2-25) Bapco Energies continues to embed sustainability at the heart of its business through an evolving ESG approach, which supports the Kingdom of Bahrain's Economic Vision 2030 and reinforces the Company's role in delivering energy solutions responsibly. The Company's ESG framework, established in 2023, focuses on advancing responsible resource management, establishing inclusive workplace practices, and upholding strong governance built on transparency and ethical conduct. As part of its due diligence and compliance, the Company continuously conducts environmental, climate, social, and risk assessments for its operations, enabling the early identification of potential risks and opportunities. This helps ensure that projects are developed in a way that safeguards the environment and supports communities, contributing to long-term resilience. The Company's four-tiered accountability framework ensures sound ESG practices remain at the forefront of discussions and are fully integrated into its monitoring systems. This comprehensive approach encourages a culture of responsibility and transparency, aligning every level of the organization with its core values. Clear and defined expectations allow the Group to effectively track progress, identify emerging challenges, and take swift corrective actions to protect its achievements and reputation. Ongoing communication with both the executive management and the Board enables timely decision-making and proactive risk management. The Company will continue to identify and assess potential ESG risks while developing and implementing mitigation strategies, ensuring that its Subsidiaries remain aligned with the Group's ambitious ESG targets and overall sustainability goals.",
+    "page_numbers": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "heading_path": [
+      "ESG integration"
+    ],
+    "section_label": "ESG integration",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1751,
+    "token_count": 363
+  },
+  {
+    "chunk_id": "Bapco2024__c_0025",
+    "report_id": "Bapco2024",
+    "chunk_index": 24,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Provides strategic oversight of the ESG strategy by receiving regular updates on ESG performance and reviewing and approving significant developments.",
+    "page_numbers": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "heading_path": [
+      "Board level"
+    ],
+    "section_label": "Board level",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 150,
+    "token_count": 29
+  },
+  {
+    "chunk_id": "Bapco2024__c_0026",
+    "report_id": "Bapco2024",
+    "chunk_index": 25,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Governs strategic decisions and management of the ESG Policy and Framework, drives ESG strategy by managing initiatives and ensuring Subsidiaries compliance, and produces quarterly reports on ESG performance for executive management and the Board.",
+    "page_numbers": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "heading_path": [
+      "Strategic level"
+    ],
+    "section_label": "Strategic level",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 247,
+    "token_count": 51
+  },
+  {
+    "chunk_id": "Bapco2024__c_0027",
+    "report_id": "Bapco2024",
+    "chunk_index": 26,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Oversees the execution of the ESG strategy while coordinating closely with the Subsidiaries. This level guides the monitoring and collection of ESG performance data, drives the implementation of related programs, and conducts a biennial materiality assessment to ensure alignment with leading standards and the evolving ESG landscape.",
+    "page_numbers": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "heading_path": [
+      "Operational level"
+    ],
+    "section_label": "Operational level",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 334,
+    "token_count": 73
+  },
+  {
+    "chunk_id": "Bapco2024__c_0028",
+    "report_id": "Bapco2024",
+    "chunk_index": 27,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Consisting of ESG leads from all Subsidiaries, this group is responsible for facilitating the reporting and implementation of ESG initiatives throughout the Group. Ongoing communication with both the executive management and the Board enables timely decision-making and proactive risk management. The Company will continue to identify and assess potential ESG risks while developing and implementing mitigation strategies, ensuring that its Subsidiaries remain aligned with the Group's ambitious ESG targets and overall sustainability goals.",
+    "page_numbers": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "heading_path": [
+      "ESG working group"
+    ],
+    "section_label": "ESG working group",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 541,
+    "token_count": 114
+  },
+  {
+    "chunk_id": "Bapco2024__c_0029",
+    "report_id": "Bapco2024",
+    "chunk_index": 28,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (2-29), (3-1), (3-2) As part of the ongoing commitment to strengthening the ESG approach, Bapco Energies continuously refines its practices by actively engaging internal and external stakeholders and aligning with evolving global standards. In 2024, the Company launched a series of ESG awareness training sessions for employees across the Group to build internal understanding. To follow best practices, Bapco Energies reconducted its materiality assessment to update its previous list of material topics. The first step in the 2024 materiality reassessment was benchmarking Bapco Energies' 2022 material topics against national and international sectoral peers. In addition to reviewing material topics identified by industry peers, the benchmarking assessment incorporated the material topics presented in the GRI Oil and Gas Sector Standard. This assessment enabled the Company to effectively prioritize existing topics while also identifying emerging issues relevant at both regional and international levels. This was followed by targeted stakeholder engagement through internal and external surveys, which ensured the capture of diverse perspectives. In addition to this, the Company conducted in-person engagements to deepen understanding. In-person sessions were held with key decision-makers, including CEOs, senior management, and ESG experts from each Subsidiary. This approach facilitated high-level, strategic discussions on ESG materiality, demonstrating the importance of these topics, underscoring the Company's commitment to thought leadership. Following the identification of relevant material topics, including new and updated topics, Bapco Energies initiated extensive engagements to gather insights from both internal and external stakeholders. This process included a structured online survey and detailed discussions with employees, senior management, and executive management across the Group to collect essential feedback and evolving perspectives on ESG matters. The Company also approached external stakeholders such as government agencies, project delivery partners, investors, financial institutions, customers, and suppliers to gather their valuable feedback through our updated materiality survey. The responses from all stakeholders were then collated to finalize the Company's new and updated material topics. Bapco Energies' 2022 materiality assessment identified material topics, with Health, Safety & Wellbeing, Corporate Governance & Compliance, and Emissions and Climate Action recognized as critical topics. In the 2024 reassessment, Health, Safety & Wellbeing remained a critical priority, while Energy Management, Economic Performance, and Asset Integrity & Critical Incident Management emerged as new critical topics, reflecting the evolving focus of the business and its stakeholders. Bapco Energies - 2024 materiality matrix",
+    "page_numbers": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "heading_path": [
+      "Redefining materiality"
+    ],
+    "section_label": "Redefining materiality",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 2873,
+    "token_count": 599
+  },
+  {
+    "chunk_id": "Bapco2024__c_0030",
+    "report_id": "Bapco2024",
+    "chunk_index": 29,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies adheres to rigorous environmental standards and responsibly manages its environmental procedures as per the industry's best practices. Its environmental approach is closely aligned with the Kingdom's National Energy Strategy, and is driven by: - Enhanced Energy & Process Efficiencies - Emissions Reduction & Low-Carbon Strategies - Responsible Resource Consumption - Energy Diversification & Investments in Renewables These initiatives support Bapco Energies' progress toward a lowercarbon, resilient, and sustainable future for the Kingdom of Bahrain.",
+    "page_numbers": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "heading_path": [
+      "GRI (3-3)"
+    ],
+    "section_label": "GRI (3-3)",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 568,
+    "token_count": 132
+  },
+  {
+    "chunk_id": "Bapco2024__c_0031",
+    "report_id": "Bapco2024",
+    "chunk_index": 30,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3), (302-1), (302-2), (302-3) Bapco Energies strives for operational excellence by continuously optimizing processes across the Group. As part of its ongoing transformation, the Company is leveraging the interconnectivity of its hydrocarbon chain to improve energy efficiency and maximize performance.",
+    "page_numbers": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "heading_path": [
+      "Energy management"
+    ],
+    "section_label": "Energy management",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 308,
+    "token_count": 70
+  },
+  {
+    "chunk_id": "Bapco2024__c_0032",
+    "report_id": "Bapco2024",
+    "chunk_index": 31,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "* The energy consumption data includes Bapco Refining, Bapco Upstream, Bapco Gas and Bapco Gas Expansion",
+    "page_numbers": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "heading_path": [
+      "Energy Consumption at Bapco Energies (GJ)*"
+    ],
+    "section_label": "Energy Consumption at Bapco Energies (GJ)*",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 104,
+    "token_count": 32
+  },
+  {
+    "chunk_id": "Bapco2024__c_0033",
+    "report_id": "Bapco2024",
+    "chunk_index": 32,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2024, Bapco Refining made significant progress in energy efficiency and reducing its overall energy footprint. Bapco Refining achieved energy savings of 240,000 GJ and reduced emissions by 14.1 kt CO2e through various energy saving initiatives, such as the implementation of a hydrogen compressor capacity control system, and the optimization of stripping steam.",
+    "page_numbers": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "heading_path": [
+      "Reducing downstream energy footprint"
+    ],
+    "section_label": "Reducing downstream energy footprint",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 365,
+    "token_count": 84
+  },
+  {
+    "chunk_id": "Bapco2024__c_0034",
+    "report_id": "Bapco2024",
+    "chunk_index": 33,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "of energy by using solar power of energy through steam trap repairs of energy by deploying a real-time energy optimizer of energy through Advanced Process Control implementation in heaters",
+    "page_numbers": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "heading_path": [
+      "Downstream energy savings"
+    ],
+    "section_label": "Downstream energy savings",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 188,
+    "token_count": 37
+  },
+  {
+    "chunk_id": "Bapco2024__c_0035",
+    "report_id": "Bapco2024",
+    "chunk_index": 34,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3), (2-24), (2-25), (305-1), (305-2), (305-3), (305-4), (305-7), (416-1) In support of the Kingdom of Bahrain's 2060 Net-Zero pledge, Bapco Energies is playing a critical role in advancing the Kingdom's energy transition. The Kingdom of Bahrain remains firmly committed to addressing climate change and advancing environmental responsibility through meaningful action and long-term initiatives. Bapco Energies is aligning with the National Energy Strategy by adopting international best practices, forging key partnerships, and advancing initiatives under global platforms such as the Oil and Gas Decarbonization Charter (OGDC) and the Oil and Gas Methane Partnership 2.0 (OGMP 2.0). The Company also contributed to OGDC's inaugural 2024 report, A Baseline for Action. These efforts are not only shaping the Company's decarbonization roadmap but also cascading into operational changes, including the diversification of the energy mix and a commitment to reach Near-Zero methane emissions in upstream operations by 2035, and Net-Zero operations by 2050.",
+    "page_numbers": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "heading_path": [
+      "Emissions management"
+    ],
+    "section_label": "Emissions management",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1060,
+    "token_count": 262
+  },
+  {
+    "chunk_id": "Bapco2024__c_0036",
+    "report_id": "Bapco2024",
+    "chunk_index": 35,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Scope 1 (GgCO2e) Scope 2 (GgCO2e) *All GHG emissions from Bapco Refining operations were calculated using the I PCC Greenhouse Gas Inventory Software (Version 2.691, January 2020), except for emissions from refrigerants, purchased electricity, and use of sold products, which are not covered by the software. These excluded categories were assessed separately in Microsoft Excel, following IPIECA and IPCC guidelines. For Scope 1 emissions from Bapco Refining, Bapco Gas, and Bapco Upstream, emission factors were sourced from the API 2009 dataset in addition to IPCC references and IPCC AR6 references. *The gases included in the emissions calculation are CO2, CH4, and N2O. Biogenic CO2 emissions are not applicable. *Scope 2 emissions are calculated using the WRI GHG tool version 4.0.",
+    "page_numbers": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "heading_path": [
+      "2017 baseline"
+    ],
+    "section_label": "2017 baseline",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 788,
+    "token_count": 213
+  },
+  {
+    "chunk_id": "Bapco2024__c_0037",
+    "report_id": "Bapco2024",
+    "chunk_index": 36,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "As part of its broader decarbonization strategy and alignment with the Kingdom's national climate goals, Bapco Energies prioritizes monitoring and management of its emissions. This proactive approach allows for transparency, supports data-driven decision-making, and reinforces the Company's commitment to delivering measurable environmental impact. In 2024, Bapco Energies recorded a reduction of 660 Gg in its Scope 1 emissions. The Company remains committed to ongoing emissions reduction efforts, and continuous improvements in operational efficiency. 2024 Total Emissions (GgCO2e) *Subsidiaries whose emissions have been accounted for include Bapco Refining, Bapco Upstream, Bapco Gas, and Bapco Gas Expansion. The reported figures have also been externally audited by a third-party assurer. *Bapco Refining Emissions for 2024 was 2,824 GgCO2e for Scope 1, and 103 GgCO2e for Scope 2.",
+    "page_numbers": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "heading_path": [
+      "Monitoring emissions"
+    ],
+    "section_label": "Monitoring emissions",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 889,
+    "token_count": 234
+  },
+  {
+    "chunk_id": "Bapco2024__c_0038",
+    "report_id": "Bapco2024",
+    "chunk_index": 37,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies has pledged to eliminate routine flaring by 2030, formalized by its signature on the Oil and Gas Decarbonization Charter (OGDC). Bapco Energies also plays an active role in reducing methane emissions by participating in key initiatives like the World Bank's Zero Routine Flaring Initiative (ZRF), the Global Methane Pledge, and the Oil and Gas Methane Partnership 2.0 (OGMP 2.0), which places particular emphasis on detailed methane emissions reporting. Further reinforcing its proactive role in reducing methane emissions, Bapco Energies has established a methane monitoring and reduction plan. In 2024, Bapco Energies partnered with the United Nations Environmental Programme (UNEP) and collaborated with energy industry experts to provide technical advisory to public and private organizations on Greenhouse Gas (GHG) emissions reduction. The Company analyzed emissions data to establish a methane baseline to set facility-level emission reduction targets and prioritize mitigation projects accordingly. Average flaring from Upstream Operations (mmscfd) In August 2024, a workshop was conducted to build the capacity and skills of the employees and technical experts of Subsidiaries. The workshop included training on the best methane detection, measurement and quantification strategies, methane mitigation solutions, and flaring reduction techniques. The Company's methane inventory was also digitalized, allowing better oversight and facilitating ongoing data entry and analysis processes. The Company also uses satellite technology to monitor flaring emissions and systematically compares these findings against onsite measurements. Through the United Nations Environmental Programme International Methane Emissions Observatory (IMEO) Methane Alert and Response System (MARS) system, the Company received around 15 methane release notifications across six locations, all of which were successfully addressed and eliminated.",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "Flaring reduction"
+    ],
+    "section_label": "Flaring reduction",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1945,
+    "token_count": 427
+  },
+  {
+    "chunk_id": "Bapco2024__c_0039",
+    "report_id": "Bapco2024",
+    "chunk_index": 38,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies is committed to responsible resource management across all its operations, ensuring that water and waste are handled efficiently and sustainably. The Group's practices are aligned with local environmental regulations, reflecting its dedication to regulatory compliance and environmental stewardship. This includes ongoing efforts to monitor consumption and adopt best practices that support long-term operational efficiency while maintaining high performance standards.",
+    "page_numbers": [
+      27
+    ],
+    "page_start": 27,
+    "page_end": 27,
+    "heading_path": [
+      "Resource management"
+    ],
+    "section_label": "Resource management",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 484,
+    "token_count": 93
+  },
+  {
+    "chunk_id": "Bapco2024__c_0040",
+    "report_id": "Bapco2024",
+    "chunk_index": 39,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Water management is an essential part of Bapco Energies' operations, and the Company ensures its effluent treatment processes meet the requirements of local authorities.",
+    "page_numbers": [
+      27
+    ],
+    "page_start": 27,
+    "page_end": 27,
+    "heading_path": [
+      "GRI (3-3), (303-1), (303-2), (303-3), (303-4), (303-5)"
+    ],
+    "section_label": "GRI (3-3), (303-1), (303-2), (303-3), (303-4), (303-5)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 169,
+    "token_count": 34
+  },
+  {
+    "chunk_id": "Bapco2024__c_0041",
+    "report_id": "Bapco2024",
+    "chunk_index": 40,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "* Includes water consumption data from Bapco Refining, Bapco Upstream, Bapco Gas, and Bapco Gas Expansion.",
+    "page_numbers": [
+      27
+    ],
+    "page_start": 27,
+    "page_end": 27,
+    "heading_path": [
+      "Water withdrawal in 2024"
+    ],
+    "section_label": "Water withdrawal in 2024",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 106,
+    "token_count": 36
+  },
+  {
+    "chunk_id": "Bapco2024__c_0042",
+    "report_id": "Bapco2024",
+    "chunk_index": 41,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "As part of Bapco Energies' commitment to responsible environmental stewardship, the Company places waste management at the core of its operational practices. The Company prioritizes circularity by enhancing recycling efforts and continuously optimizing processes to reduce waste generation and minimize environmental impact. Bapco Energies maintains a detailed quantitative waste inventory to track progress in reducing waste and minimizing releases to the air, water, and land. The approach involves: Regular monitoring and assessment Annual reviews Compliance with regulations 2024 waste indicators (metric tons)",
+    "page_numbers": [
+      28
+    ],
+    "page_start": 28,
+    "page_end": 28,
+    "heading_path": [
+      "GRI (3-3), (306-1), (306-2), (306-3), (306-4), (306-5)"
+    ],
+    "section_label": "GRI (3-3), (306-1), (306-2), (306-3), (306-4), (306-5)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 614,
+    "token_count": 129
+  },
+  {
+    "chunk_id": "Bapco2024__c_0043",
+    "report_id": "Bapco2024",
+    "chunk_index": 42,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "All major Subsidiaries have internal systems and policies in place to review waste management practices. For example, Bapco Refining approved waste reduction proposals integrated into their Environmental Objectives under the ISO 14001 program, while Bapco Upstream's HSSE Policy contains guiding principles that safeguard the environment and minimize waste generation. The majority of Bapco Energies' Subsidiaries have ISO 14001 certification, or are in compliance with its standards, which emphasizes the commitment towards upholding and enhancing their environmental performance. This includes preventing pollution, meeting compliance obligations, and driving continuous improvement. 1,048,789 Waste generated 40.085 Hazardous waste directed and diverted from disposal",
+    "page_numbers": [
+      28
+    ],
+    "page_start": 28,
+    "page_end": 28,
+    "heading_path": [
+      "In 2024, the Group recorded zero major environmental regulatory violations or incidents."
+    ],
+    "section_label": "In 2024, the Group recorded zero major environmental regulatory violations or incidents.",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 770,
+    "token_count": 167
+  },
+  {
+    "chunk_id": "Bapco2024__c_0044",
+    "report_id": "Bapco2024",
+    "chunk_index": 43,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3) Bapco Energies is leading the low-carbon movement with its innovative Sustainability-Linked Finance Framework (SLFF) and Transition-Linked Finance Framework (TLFF). As the first National Oil Company (NOC) in the region to implement such strategic initiatives, the Company underscores its commitment to improving sustainability and steering the energy transition. As part of its journey toward a sustainable energy future, Bapco Energies is actively exploring alternative energy sources to support The Kingdom's electricity needs. Bapco Energies partnered with Masdar to explore and invest in offshore wind projects with a capacity of up to 2 GW in the Kingdom of Bahrain. This collaboration supports the Kingdom of Bahrain's climate commitments, which include a 20% increase in renewable energy capacity by 2035 and a target of Net-Zero emissions by 2060. In 2024, Bapco Energies also began exploring a large-scale solar project, and is leveraging regional partnerships to increase energy security within the Kingdom of Bahrain. In 2024, Bapco Energies launched BeVentures with a focus on investing in high-impact, innovative ventures and early-stage start-ups that support Bapco Energies and the Kingdom of Bahrain's National Energy Strategy by investing in technologies that create efficiencies, enhance energy security and enable the transition to a more diversified, low-carbon economy. This new entity will create synergies with Bapco Energies' core operations, attracting global opportunities and generating sustainable growth through strategic investments. This also marks a key step in aligning with the Kingdom's national development agenda, particularly the 'From Recovery to Sustainable Growth 2023-2026' plan, by creating a robust venture capital ecosystem within the energy sector.",
+    "page_numbers": [
+      29
+    ],
+    "page_start": 29,
+    "page_end": 29,
+    "heading_path": [
+      "Investments in renewables and clean tech"
+    ],
+    "section_label": "Investments in renewables and clean tech",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1804,
+    "token_count": 398
+  },
+  {
+    "chunk_id": "Bapco2024__c_0045",
+    "report_id": "Bapco2024",
+    "chunk_index": 44,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3) Bapco Energies is dedicated to building a cohesive and dynamic workplace by creating a culture rooted in inclusivity, growth, and community impact. The Company emphasizes the professional development and holistic well-being of its people, nurturing a workplace that values connection and purpose. Beyond its business activities, Bapco Energies plays an active and meaningful role in the communities where it operates, supporting local initiatives that promote education, entrepreneurship, and social well-being. Through strategic partnerships and community programs, the Company contributes to national development goals and helps foster inclusive, long-term value for society.",
+    "page_numbers": [
+      31
+    ],
+    "page_start": 31,
+    "page_end": 31,
+    "heading_path": [
+      "Empowering people, ensuring safety, and strengthening community connections"
+    ],
+    "section_label": "Empowering people, ensuring safety, and strengthening community connections",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 687,
+    "token_count": 144
+  },
+  {
+    "chunk_id": "Bapco2024__c_0046",
+    "report_id": "Bapco2024",
+    "chunk_index": 45,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3), (2-7), (401-1), (401-2), (401-3), (402-1) Bapco Energies places its people at the core of its success, establishing a workplace where employees from a wide range of specializations feel supported, engaged, and inspired by a strong organizational culture. The Group is actively working to improve gender diversity by increasing the representation of women in its workforce, to",
+    "page_numbers": [
+      32
+    ],
+    "page_start": 32,
+    "page_end": 32,
+    "heading_path": [
+      "Employment"
+    ],
+    "section_label": "Employment",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 386,
+    "token_count": 89
+  },
+  {
+    "chunk_id": "Bapco2024__c_0047",
+    "report_id": "Bapco2024",
+    "chunk_index": 46,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Total number of employees By gender Males Females create a more inclusive and balanced workplace culture. This approach is grounded in meritocracy and blind screening in recruitment practices, ensuring that all candidates, regardless of gender or age, are evaluated based on their eligibility and suitability for the role. Total number of employees By age group Above 50 30-50 Under 30 15.7% 61.7% 22.6%",
+    "page_numbers": [
+      32
+    ],
+    "page_start": 32,
+    "page_end": 32,
+    "heading_path": [
+      "In 2024, Bapco Energies had a total of 4,813 full-time employees."
+    ],
+    "section_label": "In 2024, Bapco Energies had a total of 4,813 full-time employees.",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 403,
+    "token_count": 90
+  },
+  {
+    "chunk_id": "Bapco2024__c_0048",
+    "report_id": "Bapco2024",
+    "chunk_index": 47,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2024, Bapco Energies continued to expand its workforce and hired 310 new employees across the Group. The Company observed an increase in new hires among individuals aged 30 to 50, reflecting its ongoing efforts to attract experienced talent. Bringing together individuals from these age groups enhances Total number of new hires By gender UMBER OF NEW HIRES",
+    "page_numbers": [
+      33
+    ],
+    "page_start": 33,
+    "page_end": 33,
+    "heading_path": [
+      "New hires and turnover"
+    ],
+    "section_label": "New hires and turnover",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 360,
+    "token_count": 77
+  },
+  {
+    "chunk_id": "Bapco2024__c_0049",
+    "report_id": "Bapco2024",
+    "chunk_index": 48,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2024, 418 employees left the Group, representing 314 male and 104 female employees, with most of them aged above 50 years. This reflects a natural progression toward retirement and career transitions. ER OF NEW HIRES Long-term dedication is highly valued at Bapco Energies, where employees reaching significant service milestones, such as 5, 10, 15, 20, 25, or more than 30 years, are honored through structured recognition initiatives, particularly within Operating Companies. These programs celebrate loyalty and commitment, reinforcing a culture of appreciation and motivating excellence across all levels of the workforce. Bapco Energies will continue to analyze employee turnover trends to identify areas for improvement in retention strategies, employee engagement, and long-term career development. Females decision-making through balanced viewpoints, merging fresh ambition with seasoned judgment to drive sustainable growth. This hiring trend supports the Company's commitment to building a skilled, knowledgeable, and resilient workforce. Age group Total number of new hires By age group",
+    "page_numbers": [
+      33
+    ],
+    "page_start": 33,
+    "page_end": 33,
+    "heading_path": [
+      "Employee turnover"
+    ],
+    "section_label": "Employee turnover",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 1100,
+    "token_count": 242
+  },
+  {
+    "chunk_id": "Bapco2024__c_0050",
+    "report_id": "Bapco2024",
+    "chunk_index": 49,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies is committed to creating an environment that prioritizes employee wellness by offering a broad range of inclusive benefits designed to meet the needs of its workforce. These comprehensive offerings include medical and life insurance, critical illness coverage, child education support, wellness programs, performance-based bonuses, annual travel allowances, and loans. Complementing these benefits, the Company strictly adheres to the Kingdom of Bahrain's Labor Law and Social Insurance Organization (SIO) regulations, ensuring that both Bahraini nationals and full-time expatriates are granted pension entitlements and severance benefits upon completion of their service. The unification of compensation and benefits across the entire Group, which started in 2024, ensures a consistent approach, enhances mobility, and facilitates talent transfer across the Group. By standardizing these elements, Bapco Energies streamlines processes, promotes fairness, and creates a cohesive environment that supports employee satisfaction and organizational growth.",
+    "page_numbers": [
+      34
+    ],
+    "page_start": 34,
+    "page_end": 34,
+    "heading_path": [
+      "GRI (401-2)"
+    ],
+    "section_label": "GRI (401-2)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1068,
+    "token_count": 215
+  },
+  {
+    "chunk_id": "Bapco2024__c_0051",
+    "report_id": "Bapco2024",
+    "chunk_index": 50,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Promoting work-life balance remains one of the priorities at Bapco Energies, where policies and programs are designed to support employees through all stages of life. The Company recognizes the importance of family responsibilities and actively creates space for employees to manage both their professional and personal commitments. The Company's 'Back to School Flexi time' initiative supports employees with school-age children, where eligible parents can choose flexible working hours to benefit their personal lives; they can choose to either start later and arrive at work by 10am or leave work earlier in time for school dismissal. This initiative is designed to ease the back-to-school transition, helping employees better balance work and family responsibilities and commitments. Female employees are entitled to 75 consecutive calendar days of paid leave following the birth of a single child, and 90 days in the case of twins or multiple births. Male employees are eligible for 5 consecutive workday paid leave after the birth of a child. In 2024, the Employee Handbook included updated maternity and paternity policies. The updated policies include provisions for special leave cases due to complications, ensuring additional support when needed. Furthermore, female employees have the option to work from home starting at 32 weeks of pregnancy, providing greater flexibility and care during this important period. In 2024, 245 male employees and 30 female employees took parental leave. By encouraging the use of parental leave, Bapco Energies reinforces its commitment to establishing a supportive, equitable workplace where employees feel valued both personally and professionally.",
+    "page_numbers": [
+      34
+    ],
+    "page_start": 34,
+    "page_end": 34,
+    "heading_path": [
+      "GRI (401-3)"
+    ],
+    "section_label": "GRI (401-3)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1695,
+    "token_count": 343
+  },
+  {
+    "chunk_id": "Bapco2024__c_0052",
+    "report_id": "Bapco2024",
+    "chunk_index": 51,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "91% Employees that returned to work after parental leave ended that were still employed 12 months after their return to work",
+    "page_numbers": [
+      34
+    ],
+    "page_start": 34,
+    "page_end": 34,
+    "heading_path": [
+      "Employees who took Parental leave"
+    ],
+    "section_label": "Employees who took Parental leave",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 124,
+    "token_count": 27
+  },
+  {
+    "chunk_id": "Bapco2024__c_0053",
+    "report_id": "Bapco2024",
+    "chunk_index": 52,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3), (404-1), (404-2) Learning and development is a strategic priority at Bapco Energies, forming a vital pillar in our commitment to building a skilled, agile, and future-ready workforce. We invest in a wide range of learning opportunities that cater to different development needs and learning styles. These include real-world, on-thejob experiences, peer collaboration, mentoring and coaching, professional networking, access to digital learning platforms, and participation in industry events and formal training programs. By offering diverse and inclusive pathways for continuous growth, we aim to foster a culture of innovation, leadership, and personal advancement to power the next generation. Bapco Energies is committed to cultivating strong and inclusive leadership by providing executives with targeted development opportunities. Through programs such as the Unconscious Bias workshop (at the Board Level and employee level) and Leadership in Management initiatives, leaders are equipped with the tools and awareness needed to foster a fair, empowered, and highperforming workplace. These efforts reflect Bapco Energies' ongoing dedication to developing leadership capabilities aligned with its values of inclusion and excellence.",
+    "page_numbers": [
+      35
+    ],
+    "page_start": 35,
+    "page_end": 35,
+    "heading_path": [
+      "Training and career development"
+    ],
+    "section_label": "Training and career development",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1248,
+    "token_count": 256
+  },
+  {
+    "chunk_id": "Bapco2024__c_0054",
+    "report_id": "Bapco2024",
+    "chunk_index": 53,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At Bapco Energies, a diverse range of training opportunities are offered to equip the workforce with the expertise needed to excel in a dynamic industry. In addition to these technical and business-oriented programs, other tailored learning and development sessions are designed to encourage a culture of innovation, resilience, and lifelong learning. In 2024, the Company launched a comprehensive cultural transformation initiative grounded in five core leadership behaviors - Be Brave, Be Ambitious, Be Progressive, Be Conscious, and Be Open, and they were integrated across the organization through a multifaceted strategy aimed at building a vibrant, engaged, and high-performing workforce. The initiative emphasized peer and leadership recognition to reinforce positive cultural shifts and included gamified learning modules, behavior-themed challenges, and storytelling to enhance employee engagement. The Bapco Energies' Group also partnered with LinkedIn Learning to provide employees with access to a wide range of high-quality online courses. This strategic collaboration supports continuous learning and professional development by offering flexible, ondemand content across various disciplines, including leadership, technical skills, digital transformation, and more. Through this initiative, employees are empowered to take ownership of their growth and enhance their competencies in alignment with organizational goals and individual career aspirations. A total of 3,611 employees participated in 94 training sessions designed to promote consistent demonstration of these behaviors in daily operations, leadership practices, and performance management. Employees are also encouraged to take ownership of their Learning & Development, fostering knowledge sharing and capacity building across the Group. BE Talks is an organizational knowledge-sharing platform utilized to facilitate the exchange of insights and information through both virtual (via Microsoft Teams) and in-person sessions. It serves as a collaborative forum for disseminating learnings from training programs and conferences, showcasing best practices, and promoting awareness in health, leadership and market trends. The platform also hosts sessions dedicated to mental health, professional development, and overall wellness, thereby fostering a culture of continuous learning and collective growth across the Group.",
+    "page_numbers": [
+      35
+    ],
+    "page_start": 35,
+    "page_end": 35,
+    "heading_path": [
+      "A Range of Learning Opportunities"
+    ],
+    "section_label": "A Range of Learning Opportunities",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2399,
+    "token_count": 463
+  },
+  {
+    "chunk_id": "Bapco2024__c_0055",
+    "report_id": "Bapco2024",
+    "chunk_index": 54,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies adopts the 70-20-10 learning model as a guiding framework for employee development. This model emphasizes that: These efforts reflect Bapco Energies' ongoing dedication to developing leadership capabilities aligned with its values of inclusion and excellence. Training and development needs are identified through performance evaluations, which are a key part of the Company's performance management. This process promotes continuous growth, clear goal-setting, and transparent communication to keep employees aligned with business objectives and support ongoing improvement. Each year, the Human Resources department conducts structured reviews to assess employee progress, set new objectives, and determine training requirements for the year ahead. A key component of this is the Leap Acceleration Program Performance Management System Learn, Excel, Achieve, Perform (LEAP), introduced in 2023, which encourages fairness, alignment, and open dialogue within teams. Managers play a pivotal role by offering constructive feedback, identifying skill gaps, and recommending tailored development opportunities. These evaluations enhance competencies and support career advancement, while also allowing for the integration of career planning discussions. This ensures employees receive the support and guidance needed to grow professionally and contribute meaningfully to the Group's long-term success.",
+    "page_numbers": [
+      36
+    ],
+    "page_start": 36,
+    "page_end": 36,
+    "heading_path": [
+      "Continuous improvement"
+    ],
+    "section_label": "Continuous improvement",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1413,
+    "token_count": 276
+  },
+  {
+    "chunk_id": "Bapco2024__c_0056",
+    "report_id": "Bapco2024",
+    "chunk_index": 55,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies is committed to nurturing young talent through a range of internship and training programs designed to support national workforce development. These include the Empower Program, which targets undergraduate students seeking to complete mandatory training hours as part of their graduation requirements, and the Furas Program, a structured on-the-job training initiative lasting 6 to 12 months. Furas is specifically designed to equip Bahraini youth with the skills, knowledge, and practical experience needed to confidently enter the labor market. As of 2024, a total of 372 Empower Program interns in addition to 112 Furas Program interns have been trained across Bapco Energies' Strategic Business Units (SBUs), reflecting our ongoing commitment to capacity building and youth empowerment. Empower Program interns Furas Program interns 372 112",
+    "page_numbers": [
+      36
+    ],
+    "page_start": 36,
+    "page_end": 36,
+    "heading_path": [
+      "Powering the Next Generation"
+    ],
+    "section_label": "Powering the Next Generation",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 859,
+    "token_count": 181
+  },
+  {
+    "chunk_id": "Bapco2024__c_0057",
+    "report_id": "Bapco2024",
+    "chunk_index": 56,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3), (405-1), (406-1) Bapco Energies is committed to building an inclusive workplace and ensuring equal opportunities for all employees. The Company continues to implement policies and initiatives that support all individuals, promote inclusive leadership, and eliminate barriers to career growth. Through mentorship programs, inclusive hiring practices, and awareness campaigns, Bapco Energies is actively shaping a work environment where everyone feels empowered to contribute and succeed. To further support employee engagement and performance, compensation and bonuses are awarded based on individual contributions and company performance. This merit-based approach motivates employees to excel and reinforces the Company's dedication to fair and responsible business practices aligned with national goals.",
+    "page_numbers": [
+      37
+    ],
+    "page_start": 37,
+    "page_end": 37,
+    "heading_path": [
+      "Diversity, inclusion & equal opportunity"
+    ],
+    "section_label": "Diversity, inclusion & equal opportunity",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 816,
+    "token_count": 160
+  },
+  {
+    "chunk_id": "Bapco2024__c_0058",
+    "report_id": "Bapco2024",
+    "chunk_index": 57,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2024, the Bapco Energies Group had twenty employees in senior management and six female employees in executive management. The Company continues to take intentional steps toward improving female representation in the workforce, including both staff and in leadership roles. To support the growth of female professionals in the Group, a Women Executive Leadership Development Program was launched in 2024, with 32 employees across the Group in the first cohort. The program included a series of workshops that covered a range of topics such as creating a leadership identity, overcoming biases, and networking strategies, among others. Established in 2023, the Joint Commission for Equal Opportunities and Gender Balance is dedicated to promoting fairness and equality in the Company's hiring processes and workplace. This initiative, among others, reflects the beginning of a broader, long-term strategy and marks a meaningful contribution toward a progressive and equitable future.",
+    "page_numbers": [
+      37
+    ],
+    "page_start": 37,
+    "page_end": 37,
+    "heading_path": [
+      "Women in leadership"
+    ],
+    "section_label": "Women in leadership",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 985,
+    "token_count": 203
+  },
+  {
+    "chunk_id": "Bapco2024__c_0059",
+    "report_id": "Bapco2024",
+    "chunk_index": 58,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Supporting national development remains a great priority for Bapco Energies. Aligned with the Kingdom of Bahrain's Economic Vision 2030, the Company is committed to advancing Bahrainization by expanding opportunities for Bahraini nationals across all levels of the organization. This strategic focus strengthens local talent pipelines and reinforces the broader national goal of economic diversification and self-sufficiency.",
+    "page_numbers": [
+      37
+    ],
+    "page_start": 37,
+    "page_end": 37,
+    "heading_path": [
+      "Empowering local talent"
+    ],
+    "section_label": "Empowering local talent",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 425,
+    "token_count": 87
+  },
+  {
+    "chunk_id": "Bapco2024__c_0060",
+    "report_id": "Bapco2024",
+    "chunk_index": 59,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies is actively investing in the growth and upskilling of Bahraini employees through targeted development programs, leadership training, and mentorship initiatives. By creating meaningful career paths for local talent, Bapco Energies contributes to building a rich workforce for the Kingdom. The Group continues to encourage both Bahraini youth and experienced professionals to play a vital role in shaping a stronger, more sustainable economic future for everyone.",
+    "page_numbers": [
+      37
+    ],
+    "page_start": 37,
+    "page_end": 37,
+    "heading_path": [
+      "The average Bahrainization rate across the Group was 85% in 2024."
+    ],
+    "section_label": "The average Bahrainization rate across the Group was 85% in 2024.",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 476,
+    "token_count": 95
+  },
+  {
+    "chunk_id": "Bapco2024__c_0061",
+    "report_id": "Bapco2024",
+    "chunk_index": 60,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3), (2-8), (403-1), (403-2), (403-3), (403-4), (403-5), (403-6), (403-7), (403-8), (403-9), (403-10) Creating a safe and healthy work environment remains a core responsibility for Bapco Energies, where the well-being of employees, contractors, and stakeholders is integrated into every aspect of its operations. Bapco Energies maintained 100% coverage of its workforce, including employees and contractors, highlighting the Group's commitment to building a proactive safety culture grounded in prevention, accountability, and continuous improvement. Bapco Energies actively advances its Health, Safety, and Environmental (HSE) systems to meet both national standards and international best practices. The Group ensures that contractors operate in strict alignment with Bapco Energies' standards and procedures, and the laws and regulatory requirements of the Kingdom of Bahrain. These obligations are embedded in all contractual agreements, and Subsidiaries apply rigorous controls and oversight mechanisms to maintain high safety and compliance standards across all project sites. In 2024, the Bapco Energies Group became a member of the International Association of Oil & Gas Producers (IOGP), building on the foundation set by Bapco Upstream, which has been a member since 2022. In line with this commitment, all safety reporting across the Group has been standardized to adhere strictly to IOGP reporting standards. This alignment ensures consistency, transparency, and industry best practices in monitoring and communicating safety performance. Emergency preparedness is strengthened through frequent training programs and scenario-based drills. The teams' capabilities are regularly tested and refined to respond swiftly and effectively to a wide range of emergency situations.",
+    "page_numbers": [
+      38
+    ],
+    "page_start": 38,
+    "page_end": 38,
+    "heading_path": [
+      "Health, safety and well-being"
+    ],
+    "section_label": "Health, safety and well-being",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1790,
+    "token_count": 405
+  },
+  {
+    "chunk_id": "Bapco2024__c_0062",
+    "report_id": "Bapco2024",
+    "chunk_index": 61,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Group Health, Safety, Environment & Sustainability Committee",
+    "page_numbers": [
+      38
+    ],
+    "page_start": 38,
+    "page_end": 38,
+    "heading_path": [
+      "GHSESC"
+    ],
+    "section_label": "GHSESC",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 60,
+    "token_count": 14
+  },
+  {
+    "chunk_id": "Bapco2024__c_0063",
+    "report_id": "Bapco2024",
+    "chunk_index": 62,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Enhancing health, safety, and security practices while effectively communicating sustainability efforts to stakeholders and the public.",
+    "page_numbers": [
+      38
+    ],
+    "page_start": 38,
+    "page_end": 38,
+    "heading_path": [
+      "Purpose"
+    ],
+    "section_label": "Purpose",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 135,
+    "token_count": 27
+  },
+  {
+    "chunk_id": "Bapco2024__c_0064",
+    "report_id": "Bapco2024",
+    "chunk_index": 63,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Regular evaluations play a critical role in upholding Bapco Energies' health and safety performance. Each Subsidiary actively monitors its health, safety, and environmental management systems through structured internal audits to ensure compliance and operational excellence. Additionally, external audits are conducted periodically to provide an objective assessment of system effectiveness. Health, Safety, and Environment (HSE) governance at Bapco Energies is managed through a structured framework to ensure effective oversight and accountability. At the highest level, the Group HSE & Sustainability Committee (GHSESC) oversees health, safety, security and environmental practices. Reporting to the GHSESC, the Health, Safety, Security, and Environment (HSSE) Committee at senior management level is responsible for aligning HSSE processes with industry best practices. The HSE working group operates at the operational level as a specialized task force, implementing these practices across subsidiaries to drive consistency and efficiency throughout the organization.",
+    "page_numbers": [
+      38
+    ],
+    "page_start": 38,
+    "page_end": 38,
+    "heading_path": [
+      "HSSE governance"
+    ],
+    "section_label": "HSSE governance",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1073,
+    "token_count": 231
+  },
+  {
+    "chunk_id": "Bapco2024__c_0065",
+    "report_id": "Bapco2024",
+    "chunk_index": 64,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Health, Safety & Environment",
+    "page_numbers": [
+      38
+    ],
+    "page_start": 38,
+    "page_end": 38,
+    "heading_path": [
+      "HSE Working Group"
+    ],
+    "section_label": "HSE Working Group",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 28,
+    "token_count": 8
+  },
+  {
+    "chunk_id": "Bapco2024__c_0066",
+    "report_id": "Bapco2024",
+    "chunk_index": 65,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Development, Execution & Implementation of procedures at the SBU level, at the recommendation of the HSSE Committee.",
+    "page_numbers": [
+      38
+    ],
+    "page_start": 38,
+    "page_end": 38,
+    "heading_path": [
+      "Purpose"
+    ],
+    "section_label": "Purpose",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 116,
+    "token_count": 27
+  },
+  {
+    "chunk_id": "Bapco2024__c_0067",
+    "report_id": "Bapco2024",
+    "chunk_index": 66,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Health, Safety and Security Committee",
+    "page_numbers": [
+      38
+    ],
+    "page_start": 38,
+    "page_end": 38,
+    "heading_path": [
+      "HSSE Committee"
+    ],
+    "section_label": "HSSE Committee",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 37,
+    "token_count": 6
+  },
+  {
+    "chunk_id": "Bapco2024__c_0068",
+    "report_id": "Bapco2024",
+    "chunk_index": 67,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "High level discussions and alignment on overall HSSE processes, and industry best practices.",
+    "page_numbers": [
+      38
+    ],
+    "page_start": 38,
+    "page_end": 38,
+    "heading_path": [
+      "Purpose"
+    ],
+    "section_label": "Purpose",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 92,
+    "token_count": 21
+  },
+  {
+    "chunk_id": "Bapco2024__c_0069",
+    "report_id": "Bapco2024",
+    "chunk_index": 68,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Ensuring a safe and healthy work environment is a priority for Bapco Energies and its Subsidiaries. Each Subsidiary actively integrates comprehensive risk management systems focused on occupational health, safety, and environmental protection. Bapco Energies' safety management systems establish a strong foundation for protecting its workforce and operations. These systems support the Company's Health, Safety, and Environment policies, ensuring all employees and contractors follow high workplace safety standards. Each Subsidiary has a health and safety management system to identify, assess, and mitigate risks and hazards aligned with international standards like the international standard for occupational health and safety (OH&S) Management system (ISO 45001). All employees are regularly informed about these systems and the HSE Policy, which are updated frequently and reinforced through ongoing training programs. Bapco Energies' notification of incidents and unplanned events guidelines outline the requirements set by the Company for investigating serious safety incidents and offers guidance for The core systems adopted for occupational health and safety, designed to proactively identify and address potential hazards by the Subsidiaries include: - Enterprise Risk Management - Crisis and Emergency Management - Process Safety Management examining less severe cases. It establishes a clear framework to ensure that all incidents, regardless of severity, are approached with consistent and thorough investigative practices. The intent is to support the identification of root causes and prevent recurrence through effective learning and corrective actions. Operations Incidents include any occurrences related to Health, Safety, Security, and Environment (HSSE), operations, product quality, engineering, or violations of the Golden Rules of Safety. Examples include fatalities, lost time injuries (LTI), Process Safety Tier 1 and 2 events, significant environmental harm, and acts of sabotage involving intentional damage. All Subsidiaries have processes in place to enable employees to report unsafe conditions, unsafe acts, and work-related hazards to help correct these behaviors and to eliminate accidents. Additionally, the 'Stop Work Authority' (SWA) process empowers every employee to call out or cease any activity they believe could result in injury or ill health.",
+    "page_numbers": [
+      39
+    ],
+    "page_start": 39,
+    "page_end": 39,
+    "heading_path": [
+      "HSE policy and risk management"
+    ],
+    "section_label": "HSE policy and risk management",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 2390,
+    "token_count": 498
+  },
+  {
+    "chunk_id": "Bapco2024__c_0070",
+    "report_id": "Bapco2024",
+    "chunk_index": 69,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies collects and reports data as per International Association of Oil and Gas Producers (IOGP). In 2024, Bapco Energies recorded number of man-hours worked as 43 million in 2024. In 2024, Bapco Energies recorded a Lost Time Injury Rate (LTIR) of",
+    "page_numbers": [
+      39
+    ],
+    "page_start": 39,
+    "page_end": 39,
+    "heading_path": [
+      "Occupational health and safety performance"
+    ],
+    "section_label": "Occupational health and safety performance",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 256,
+    "token_count": 72
+  },
+  {
+    "chunk_id": "Bapco2024__c_0071",
+    "report_id": "Bapco2024",
+    "chunk_index": 70,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies ensures that employees are fully equipped to carry out their responsibilities without compromising their safety. To achieve this, each Subsidiary develops and delivers customized training initiatives that cater to the specific requirements of different roles. These programs are designed for onboarding new hires as well as for the continuous development of current staff. In 2024, Bapco Energies provided a total of 636 health and safety training courses to its employees and contractors. Each training course is shaped by the complexity of the job, the competencies required, and the potential risks involved. This approach helps foster a skilled workforce that is acutely aware of health and safety considerations relevant to their work environment. Awareness sessions/campaigns to employees on different health & safety topics that were conducted in 2024 include: - Defensive driving - Ergonomic campaign - Campaigns related to colorectal, breast & lung cancer",
+    "page_numbers": [
+      40
+    ],
+    "page_start": 40,
+    "page_end": 40,
+    "heading_path": [
+      "Promoting a Conscious Culture"
+    ],
+    "section_label": "Promoting a Conscious Culture",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 979,
+    "token_count": 209
+  },
+  {
+    "chunk_id": "Bapco2024__c_0072",
+    "report_id": "Bapco2024",
+    "chunk_index": 71,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Eye safety World Heart Day In 2024, Bapco Energies provided a total of 636 health and safety training courses to its employees and contractors.",
+    "page_numbers": [
+      40
+    ],
+    "page_start": 40,
+    "page_end": 40,
+    "heading_path": [
+      "Heat stress"
+    ],
+    "section_label": "Heat stress",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 145,
+    "token_count": 33
+  },
+  {
+    "chunk_id": "Bapco2024__c_0073",
+    "report_id": "Bapco2024",
+    "chunk_index": 72,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3), (406-1) Human rights and labor principles form the foundation of Bapco Energies' just and ethical corporate culture. These principles are embedded in the Company's Code of Conduct and operationalized across the Group through policies and processes that promote employee and community well-being and ensure that no human rights violations occur within its operations or extended business ecosystem. Worker welfare is a central pillar of this approach, with particular focus on ensuring fair treatment, safe working conditions, and equitable opportunities for all individuals working within or on behalf of the Group. Bapco Energies is committed to respecting and promoting human rights across all areas of operations in accordance with local and international standards. Bapco Energies adheres to the Kingdom's labor laws and the International Labor Organization (ILO) Declaration on Fundamental Principles and Rights at Work. All the Company's suppliers and vendors are expected to comply with these regulations regarding forced labor and child labor, among other provisions. The Group recorded zero cases of discrimination in 2024, which highlights its efforts to promote equal opportunities for all employees through initiatives that foster an inclusive and safe working environment.",
+    "page_numbers": [
+      41
+    ],
+    "page_start": 41,
+    "page_end": 41,
+    "heading_path": [
+      "Human rights"
+    ],
+    "section_label": "Human rights",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1296,
+    "token_count": 264
+  },
+  {
+    "chunk_id": "Bapco2024__c_0074",
+    "report_id": "Bapco2024",
+    "chunk_index": 73,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3), (413-1), (413-2) Bapco Energies remains committed to being a socially responsible entity, focusing on building long-term, meaningful relationships with the local community. The Group strictly adheres to local requirements and ensures the well-being of its surrounding communities. For instance, environmental and social impact assessments are conducted before major projects, keeping the health and safety of the local community in mind. This approach strengthens trust between Bapco Energies and its surrounding communities and reinforces the Company's role as a positive force for sustainable development. The Company also supports initiatives that align with local priorities, promote shared value, and deliver lasting positive impact on community well-being. The Company's active engagement with local communities through project-related initiatives, demonstrates its commitment to the needs of stakeholders and the responsibility it holds toward them. Educational support, environmental stewardship, and health and wellness programs are all examples of Bapco Energies' engagement initiatives which are genuinely impactful for the community.",
+    "page_numbers": [
+      42
+    ],
+    "page_start": 42,
+    "page_end": 42,
+    "heading_path": [
+      "Local community impact and investment"
+    ],
+    "section_label": "Local community impact and investment",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1156,
+    "token_count": 235
+  },
+  {
+    "chunk_id": "Bapco2024__c_0075",
+    "report_id": "Bapco2024",
+    "chunk_index": 74,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The Company's Corporate Social Responsibility (CSR) Policy plays a key role in developing and guiding its social initiatives. This policy defines the desired outcomes of CSR activities with a primary aim to benefit the local community and environment.",
+    "page_numbers": [
+      42
+    ],
+    "page_start": 42,
+    "page_end": 42,
+    "heading_path": [
+      "Corporate social responsibility"
+    ],
+    "section_label": "Corporate social responsibility",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 251,
+    "token_count": 55
+  },
+  {
+    "chunk_id": "Bapco2024__c_0076",
+    "report_id": "Bapco2024",
+    "chunk_index": 75,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Health - Equal Opportunities - Youth - Environment - Culture",
+    "page_numbers": [
+      42
+    ],
+    "page_start": 42,
+    "page_end": 42,
+    "heading_path": [
+      "The Company's CSR policy has five pillars"
+    ],
+    "section_label": "The Company's CSR policy has five pillars",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 62,
+    "token_count": 18
+  },
+  {
+    "chunk_id": "Bapco2024__c_0077",
+    "report_id": "Bapco2024",
+    "chunk_index": 76,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Health & Safety is a fundamental priority at Bapco Energies, with extensive measures and programs set in place to protect its employees and local communities. Bapco Energies offers various health and wellness programs year-round to increase employee awareness and support their physical, mental, and emotional well-being. In 2024, Bapco Energies supported the Ministry of Labor's 5th edition of the National Occupational Safety and Health Exhibition, to increase knowledge sharing and awareness of best health and safety measures in the industry.",
+    "page_numbers": [
+      43
+    ],
+    "page_start": 43,
+    "page_end": 43,
+    "heading_path": [
+      "Health"
+    ],
+    "section_label": "Health",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 546,
+    "token_count": 115
+  },
+  {
+    "chunk_id": "Bapco2024__c_0078",
+    "report_id": "Bapco2024",
+    "chunk_index": 77,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Under the leadership of His Highness Shaikh Nasser bin Hamad Al Khalifa, His Majesty Representative for Humanitarian Works and Youth Affairs and Chairman of Bapco Energies, the Company is actively supporting initiatives to foster innovation amongst the Bahraini Youth, and to empower the next generation. Bapco Energies supports national programs that are focused on youth development within the Kingdom, to equip them with the necessary skillset for the Kingdom's sustainable development. Through the Lamea National Program, young Bahraini cohorts are given a platform to explore new opportunities, to upskill, and to contribute to national development plans. Bapco Energies is also a longtime supporter of INJAZ Bahrain, which offers various immersive experiences for young leaders, and encourages entrepreneurial mindsets.",
+    "page_numbers": [
+      43
+    ],
+    "page_start": 43,
+    "page_end": 43,
+    "heading_path": [
+      "Youth"
+    ],
+    "section_label": "Youth",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 825,
+    "token_count": 177
+  },
+  {
+    "chunk_id": "Bapco2024__c_0079",
+    "report_id": "Bapco2024",
+    "chunk_index": 78,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies is committed to fostering equal opportunities in the workplace through the adoption of inclusive policies and comprehensive employee development initiatives. The Company seeks to create a supportive environment that empowers all employees to achieve success both professionally and personally. In pursuit of enhancing equal opportunities within the broader community, Bapco Energies has established a partnership with the Bahrain Paralympic Committee and provides support to the National Bahrain Paralympic team.",
+    "page_numbers": [
+      43
+    ],
+    "page_start": 43,
+    "page_end": 43,
+    "heading_path": [
+      "Equal Opportunities"
+    ],
+    "section_label": "Equal Opportunities",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 527,
+    "token_count": 100
+  },
+  {
+    "chunk_id": "Bapco2024__c_0080",
+    "report_id": "Bapco2024",
+    "chunk_index": 79,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies exemplifies leadership in environmental responsibility, and is actively shaping a resilient and sustainable future for the Kingdom. The Company has been positively contributing to the Kingdom's afforestation efforts, to help meet targets increase tree coverage, enhance biodiversity, and reduce carbon emissions. In 2024, approximately 15,500 mangrove trees were planted to help offset carbon emissions through naturebased solutions. The Company supported the Kingdom's 'Forever Green' National Initiative for Agricultural Development (NIAD) afforestation campaign, in cooperation with the Ministry of Municipalities Affairs and Agriculture and the Supreme Council for the Environment.",
+    "page_numbers": [
+      43
+    ],
+    "page_start": 43,
+    "page_end": 43,
+    "heading_path": [
+      "Environment"
+    ],
+    "section_label": "Environment",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 700,
+    "token_count": 148
+  },
+  {
+    "chunk_id": "Bapco2024__c_0081",
+    "report_id": "Bapco2024",
+    "chunk_index": 80,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "While Bapco Energies is shaping the Kingdom's energy future, the Company also duly recognizes the Kingdom's rich historical roots and legacy. By partnering with local cultural institutions, such as the Shaikh Ebrahim Center for Culture and Research, the Company is preserving the Kingdom's rich cultural identity, while also contributing to the social, cultural, and economic development of future generations.",
+    "page_numbers": [
+      43
+    ],
+    "page_start": 43,
+    "page_end": 43,
+    "heading_path": [
+      "Culture"
+    ],
+    "section_label": "Culture",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 410,
+    "token_count": 91
+  },
+  {
+    "chunk_id": "Bapco2024__c_0082",
+    "report_id": "Bapco2024",
+    "chunk_index": 81,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2024, Bapco Energies established a Community Engagement Program Committee - the BeTogether Committee - to align the Group's business objectives with positive community outcomes, creating a culture of purposeful action and meaningful impact. All initiatives under the Community Engagement Program are organized on a Group-level, and in collaboration with the Subsidiaries, focusing on the five CSR pillars. This committee is responsible for organizing community initiatives and reports directly to the GHSESC. In 2024, 1,217 employees spent 6,054 hours of voluntary community engagement programs. Some of these initiatives include: - Iftar Saeem - INJAZ & Feeha Fekra - Beach Clean Up - Heat Stress Awareness Campaign - Playdate with Orphans",
+    "page_numbers": [
+      44
+    ],
+    "page_start": 44,
+    "page_end": 44,
+    "heading_path": [
+      "BeTogether Committee"
+    ],
+    "section_label": "BeTogether Committee",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 743,
+    "token_count": 171
+  },
+  {
+    "chunk_id": "Bapco2024__c_0083",
+    "report_id": "Bapco2024",
+    "chunk_index": 82,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At Bapco Energies, strong governance and compliance standards are integrated throughout all levels of operations. From longstanding commitments to ethical conduct to emerging priorities like asset integrity, the Company continuously develops its strategy with a future-focused perspective. These commitments fulfill regulatory requirements, build trust, strengthen investor confidence, and support long-term, sustainable growth. For more information, please refer to the 2024 Corporate Governance Report on the Bapco Energies website.",
+    "page_numbers": [
+      47
+    ],
+    "page_start": 47,
+    "page_end": 47,
+    "heading_path": [
+      "GRI (3-3)"
+    ],
+    "section_label": "GRI (3-3)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 534,
+    "token_count": 110
+  },
+  {
+    "chunk_id": "Bapco2024__c_0084",
+    "report_id": "Bapco2024",
+    "chunk_index": 83,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3). (2-9), (2-10), (2-11), (2-12), (2-13), (2-14), (2-15), (2-16), (2-17), (2-18), (2-24), (2-26), (2-27), (405-1) Bapco Energies upholds a robust governance structure rooted in integrity, transparency, and legal compliance. This framework ensures responsible oversight and ethical conduct across all operations.",
+    "page_numbers": [
+      48
+    ],
+    "page_start": 48,
+    "page_end": 48,
+    "heading_path": [
+      "Corporate governance and compliance"
+    ],
+    "section_label": "Corporate governance and compliance",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 319,
+    "token_count": 92
+  },
+  {
+    "chunk_id": "Bapco2024__c_0085",
+    "report_id": "Bapco2024",
+    "chunk_index": 84,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The Board of Directors, consisting of the Chairman and nine experienced members appointed under Royal Decree 56 of 2024, provides a structured and authoritative governance framework. They bring deep expertise in energy, climate action, community engagement, and corporate leadership. The Board steers the Company's long-term strategy, monitors financial performance, and shapes the governance culture. ESG principles are embedded in its decision-making, reflecting the Board's commitment to sustainable value creation. The Board convenes four times annually and achieved an overall attendance rate of 84% in 2024. Female representation at Board level His Highness Shaikh Nasser bin Hamad Al Khalifa Chairman Non-Executive | Independent H.E. Shaikh Salman bin Khalifa bin Salman Al Khalifa Vice-Chairman Non-Executive | Independent Eng. Faisal Mohamed Hasan Al Mahroos Director Non-Executive | Independent Mr. Anthony Bryan Hayward Director Non-Executive | Independent H.E. Dr. Mohamed bin Mubarak bin Daina Director Non-Executive | Independent H.E. Abdulla Jehad Al Zain Director Non-Executive | Independent Mr. Robert Warren Dudley Director Non-Executive | Independent H.E. Khalid Amro Al Rumaihi Director Non-Executive | Independent H.E. Hadyah Mohammed Fathalla Director Non-Executive | Independent Mr. Mark Joseph Thomas Director Executive",
+    "page_numbers": [
+      48,
+      49
+    ],
+    "page_start": 48,
+    "page_end": 49,
+    "heading_path": [
+      "Board of Directors"
+    ],
+    "section_label": "Board of Directors",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 1343,
+    "token_count": 316
+  },
+  {
+    "chunk_id": "Bapco2024__c_0086",
+    "report_id": "Bapco2024",
+    "chunk_index": 85,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The Group Chief Executive Officer (GCEO), supported by the Senior Executive Management team, leads the implementation of Bapco Energies corporate strategy and oversees day-to-day operations. Regular updates to the Board ensure alignment on technical, financial, and administrative performance, with a strong focus on delivering Board-approved goals and strategic priorities, including the growing conversations and considerations around ESG integration. 33.3% Female representation of the Executive Management team Mark Joseph Thomas Group Chief Executive Officer Alexander van Veldhoven Group Chief Strategy Officer Dr. Osama Rayis Group Chief Financial Officer Dr. Thomas Schaffers Group Chief Commercial Officer Mrs. Nouf AlSowaidi Group Chief Human Resources Officer Mrs. Elina Mohamed Group General Counsel",
+    "page_numbers": [
+      50,
+      51
+    ],
+    "page_start": 50,
+    "page_end": 51,
+    "heading_path": [
+      "Executive management"
+    ],
+    "section_label": "Executive management",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 811,
+    "token_count": 166
+  },
+  {
+    "chunk_id": "Bapco2024__c_0087",
+    "report_id": "Bapco2024",
+    "chunk_index": 86,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "As Bapco Energies continues to chart its course as a national energy leader and a key enabler of the Kingdom of Bahrain's energy transition, the Group remains steadfast in its commitment to the highest standards of corporate governance. Compliance with the Kingdom's regulatory framework is not merely a statutory obligation, it is a strategic imperative that underpins the Group's long-term sustainability, stakeholder trust, and operational excellence. The Group's governance model ensures that ethical leadership, transparency, and accountability are consistently upheld across all levels of the organization. Bapco Energies has also integrated the principles of the Kingdom of Bahrain's Corporate Governance Code into its governance architecture, as a guide for legal compliance, rigorous financial oversight, and transparent and equitable engagement. The principles are not only codified in policy, but are also actively operationalized through Board oversight, executive accountability, and a culture of continuous improvement.",
+    "page_numbers": [
+      52
+    ],
+    "page_start": 52,
+    "page_end": 52,
+    "heading_path": [
+      "Corporate governance code"
+    ],
+    "section_label": "Corporate governance code",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1033,
+    "token_count": 224
+  },
+  {
+    "chunk_id": "Bapco2024__c_0088",
+    "report_id": "Bapco2024",
+    "chunk_index": 87,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3), (205-2) Bapco Energies upholds a zero-tolerance policy toward bribery and corruption, reflecting its deep-rooted commitment to ethical business conduct and regulatory compliance. The Group recognizes that corruption in any form undermines trust, distorts markets, and poses significant legal and reputational risks. As such, any act that could be construed as bribery-whether direct or indirect, actual or perceived-is strictly prohibited. This includes offering, giving, receiving, or soliciting anything of value as an inducement or reward for preferential treatment, influence, or advantage. The prohibition applies across all jurisdictions in which the Group operates and extends to all employees, contractors, suppliers, and third-party intermediaries. The Group Anti-Bribery and Corruption Policy provides a comprehensive framework for identifying, preventing, and responding to corruption risks. It is supported by regular training programs, targeted awareness campaigns, and rigorous internal audits to ensure that all personnel understand their obligations and are equipped to act ethically. In 2024, Bapco Energies introduced the Group Gifts & Entertainment Policy, which establishes clear boundaries for the exchange of gifts and hospitality. The policy is designed to prevent conflicts of interest and ensure that all interactions with external parties are transparent, appropriate, and aligned with the Group's ethical standards. It must be read in conjunction with the Group Code of Conduct, the Anti-Bribery and Corruption Policy, and the Conflict of Interest Policy to ensure a holistic understanding of the Group's expectations. Together, these policies form a robust compliance ecosystem that safeguards the integrity of Bapco Energies' operations and reinforces its reputation as a responsible and ethical company. This committee consists of four directors. This committee consists of three directors. This committee consists of three directors. This committee consists of three directors. This committee consists of three directors.",
+    "page_numbers": [
+      54,
+      55
+    ],
+    "page_start": 54,
+    "page_end": 55,
+    "heading_path": [
+      "Anti-corruption, business ethics & transparency"
+    ],
+    "section_label": "Anti-corruption, business ethics & transparency",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2063,
+    "token_count": 467
+  },
+  {
+    "chunk_id": "Bapco2024__c_0089",
+    "report_id": "Bapco2024",
+    "chunk_index": 88,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The GExCom is central to advancing the Company's performance and supporting economic development at the national level. It supervises subsidiaries, evaluates investment prospects, and improves operational efficiency. The committee also advises the Board on major policy issues, ensuring strategic alignment with corporate goals.",
+    "page_numbers": [
+      55
+    ],
+    "page_start": 55,
+    "page_end": 55,
+    "heading_path": [
+      "Group Executive Committee ('GExCom')"
+    ],
+    "section_label": "Group Executive Committee ('GExCom')",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 328,
+    "token_count": 69
+  },
+  {
+    "chunk_id": "Bapco2024__c_0090",
+    "report_id": "Bapco2024",
+    "chunk_index": 89,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The GHSESC leads the development and supervision of the Company's approach to sustainability, addressing climate action and lowering its environmental footprint. It also works to improve health, safety, and security measures, and ensures clear communication of sustainability progress to the stakeholders.",
+    "page_numbers": [
+      55
+    ],
+    "page_start": 55,
+    "page_end": 55,
+    "heading_path": [
+      "Group HSE & Sustainability Committee ('GHSESC')"
+    ],
+    "section_label": "Group HSE & Sustainability Committee ('GHSESC')",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 305,
+    "token_count": 63
+  },
+  {
+    "chunk_id": "Bapco2024__c_0091",
+    "report_id": "Bapco2024",
+    "chunk_index": 90,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The GNRGC focuses on creating equitable and competitive compensation structures for executives, aligning HR initiatives support the Company's strategic objectives, planning for leadership succession, maintaining a Board that is both diverse and capable, carrying out routine assessments of performance, and ensuring adherence to strong governance principles consistent with the corporate governance code of the Kingdom and recognized global standards.",
+    "page_numbers": [
+      55
+    ],
+    "page_start": 55,
+    "page_end": 55,
+    "heading_path": [
+      "Group Nomination, Remuneration & Governance Committee ('GNRGC')"
+    ],
+    "section_label": "Group Nomination, Remuneration & Governance Committee ('GNRGC')",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 451,
+    "token_count": 89
+  },
+  {
+    "chunk_id": "Bapco2024__c_0092",
+    "report_id": "Bapco2024",
+    "chunk_index": 91,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The responsibilities of GAC involve protecting the reliability and precision of financial reporting, verifying the effectiveness of internal control systems, and supervising compliance with legal and ethical requirements. Additionally, they are responsible for evaluating the effectiveness and impartiality of the Company's auditors, collaborating with the Board, management, and internal and external audit teams.",
+    "page_numbers": [
+      55
+    ],
+    "page_start": 55,
+    "page_end": 55,
+    "heading_path": [
+      "Group Audit Committee ('GAC')"
+    ],
+    "section_label": "Group Audit Committee ('GAC')",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 414,
+    "token_count": 83
+  },
+  {
+    "chunk_id": "Bapco2024__c_0093",
+    "report_id": "Bapco2024",
+    "chunk_index": 92,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The GRCC handles the detection, assessment, control, and tracking of risks throughout the Company's activities. It oversees the overall risk landscape, covering both investments and Subsidiaries.",
+    "page_numbers": [
+      55
+    ],
+    "page_start": 55,
+    "page_end": 55,
+    "heading_path": [
+      "Group Risk & Cybersecurity Committee ('GRCC')"
+    ],
+    "section_label": "Group Risk & Cybersecurity Committee ('GRCC')",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 195,
+    "token_count": 46
+  },
+  {
+    "chunk_id": "Bapco2024__c_0094",
+    "report_id": "Bapco2024",
+    "chunk_index": 93,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3) Bapco Energies' long-term success is dependent on strong risk oversight and resilient operations, both of which the Company remains committed to. The pillars of the Company's risk management are: - Identifying, analyzing, and evaluating potential risks - Developing strategies to address and reduce risks - Creating a culture of risk awareness and continuous improvement Bapco Energies' business continuity are based upon: - Strategy development to respond to and recover from unexpected events. - Implementation of accurate and efficient emergency response practices. - Business continuity preparation in the event of disruptions.",
+    "page_numbers": [
+      56
+    ],
+    "page_start": 56,
+    "page_end": 56,
+    "heading_path": [
+      "Risk & crisis management"
+    ],
+    "section_label": "Risk & crisis management",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 641,
+    "token_count": 140
+  },
+  {
+    "chunk_id": "Bapco2024__c_0095",
+    "report_id": "Bapco2024",
+    "chunk_index": 94,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The Enterprise Risk Management (ERM) department at Group HQ oversees and standardizes the Risk Management Framework (RMF) across all Subsidiaries. The Group Headquarters maintains a centralized risk register to ensure that all major risks are monitored, reported, and escalated as necessary. Key Risk Indicators (KRIs) are also tracked at the Group level, with findings reported to management. Significant efforts have been made in 2024 to integrate Environmental, Social, and Governance (ESG) risk management within the Group's broader risk management framework. These efforts aim to ensure that sustainability-linked risks are effectively assessed, monitored, and reported. Major initiatives are: - Enhancing the Risk Management Framework (RMF). - Establishing ESG Key Risk Indicators (KRIs). - Maintaining a Group-Level ESG Risk Register.",
+    "page_numbers": [
+      56
+    ],
+    "page_start": 56,
+    "page_end": 56,
+    "heading_path": [
+      "Enterprise risk management"
+    ],
+    "section_label": "Enterprise risk management",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 841,
+    "token_count": 197
+  },
+  {
+    "chunk_id": "Bapco2024__c_0096",
+    "report_id": "Bapco2024",
+    "chunk_index": 95,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3), (306-3) Asset Integrity and Critical Incident Management are fundamental to the Group's approach to operational safety. This topic was further reaffirmed as material during the 2024 materiality reassessment, reflecting its ongoing significance to the stakeholders. The Subsidiaries are committed to maintaining safe and reliable operations by following internationally recognized best practices, including those established by the International Association of Oil & Gas Producers (IOGP), the Occupational Safety and Health Administration (OSHA), and API Recommended Practice 754 for process safety performance indicators. These frameworks help to ensure the effective management of risks and prevent high-consequence incidents. Bapco Energies and its Subsidiaries integrate the following aspects within their Asset Integrity practices and procedures:",
+    "page_numbers": [
+      58
+    ],
+    "page_start": 58,
+    "page_end": 58,
+    "heading_path": [
+      "Asset integrity and critical incident management"
+    ],
+    "section_label": "Asset integrity and critical incident management",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 861,
+    "token_count": 187
+  },
+  {
+    "chunk_id": "Bapco2024__c_0097",
+    "report_id": "Bapco2024",
+    "chunk_index": 96,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "To provide a structured methodology for identifying and mitigating process safety risks.",
+    "page_numbers": [
+      58
+    ],
+    "page_start": 58,
+    "page_end": 58,
+    "heading_path": [
+      "Process Hazard Analysis"
+    ],
+    "section_label": "Process Hazard Analysis",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 88,
+    "token_count": 19
+  },
+  {
+    "chunk_id": "Bapco2024__c_0098",
+    "report_id": "Bapco2024",
+    "chunk_index": 97,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "To assess, approve, and implement changes to process-related assets.",
+    "page_numbers": [
+      58
+    ],
+    "page_start": 58,
+    "page_end": 58,
+    "heading_path": [
+      "Management of Change"
+    ],
+    "section_label": "Management of Change",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 68,
+    "token_count": 15
+  },
+  {
+    "chunk_id": "Bapco2024__c_0099",
+    "report_id": "Bapco2024",
+    "chunk_index": 98,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "To ensure that all safety and operational readiness requirements are verified before introducing hydrocarbons or commencing operations. The Subsidiaries also have Emergency Response Plans and Critical Incident Management procedures to govern crisis and emergency responses in a safe and effective manner. These procedures work together to protect the people at Bapco Energies, its assets, and the environment at large by helping to prevent critical incidents such as spills, equipment failures, and unplanned shutdowns, and ensuring swift response. Both Management of Change and Pre-Start-Up Safety Review are currently being updated to align with CCPS (Center for Chemical Process Safety) standards to further strengthen risk controls and decision-making. Additionally, Bapco Upstream has Critical Incident Management procedures, a few of which are: - Crisis Emergency Response - Crisis Management Team Procedure - Crisis and Emergency Response Activation and Callout Procedure These procedures work together to protect people, assets, and the environment. They help prevent critical incidents such as spills, equipment failures, and unplanned shutdowns, and ensure swift response if they occur.",
+    "page_numbers": [
+      58,
+      59
+    ],
+    "page_start": 58,
+    "page_end": 59,
+    "heading_path": [
+      "Pre-Start-Up Safety Review"
+    ],
+    "section_label": "Pre-Start-Up Safety Review",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1196,
+    "token_count": 268
+  },
+  {
+    "chunk_id": "Bapco2024__c_0100",
+    "report_id": "Bapco2024",
+    "chunk_index": 99,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3) Bapco Energies places a strong emphasis on safeguarding confidential information through robust cybersecurity frameworks and strict data privacy protocols. Recognizing the importance of regulatory compliance and stakeholder confidence, the Company has embedded data protection into its operations. The Data Privacy Policy outlines clear steps and procedures to ensure consistent privacy practices. Cybersecurity policies and processes are aligned with industry standards and best practices, including the Kingdom of Bahrain's Personal Data Protection Law. Oversight of these efforts is entrusted to a specialized Risk and Cybersecurity Committee at the Board level. The DEFEND cybersecurity awareness program aims to enhance employees' knowledge regarding protecting the Company from cyber threats. Different communication channels, including general training, phishing campaigns, newsletters, etc., are provided to employees. Total cybersecurity awareness trained users Data privacy and cybersecurity complaints received",
+    "page_numbers": [
+      60,
+      61
+    ],
+    "page_start": 60,
+    "page_end": 61,
+    "heading_path": [
+      "Cybersecurity and data privacy"
+    ],
+    "section_label": "Cybersecurity and data privacy",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1031,
+    "token_count": 196
+  },
+  {
+    "chunk_id": "Bapco2024__c_0101",
+    "report_id": "Bapco2024",
+    "chunk_index": 100,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "GRI (3-3), (201-1), (203-1), (203-2), (204-1) Bapco Energies continues to improve its financial performance, supporting long-term economic sustainability. Increased energy demand coupled with the Company's technological progress have been key drivers of this upward trajectory. Strong operational discipline and responsible financial practices have enabled Bapco Energies to sustain profitability and fiscal resilience. The Company's strategic investments and diversified portfolio have positioned it to navigate market volatility, seize growth opportunities, and deliver consistent value to stakeholders.",
+    "page_numbers": [
+      63
+    ],
+    "page_start": 63,
+    "page_end": 63,
+    "heading_path": [
+      "Economic performance"
+    ],
+    "section_label": "Economic performance",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 605,
+    "token_count": 128
+  },
+  {
+    "chunk_id": "Bapco2024__c_0102",
+    "report_id": "Bapco2024",
+    "chunk_index": 101,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "KPMG Fakhro Audit 12 th Floor, Fakhro Tower, P.O. Box 710, Manama, Kingdom of Bahrain Telephone +973 17224807 Telefax +973 17227443 Website: www.kpmg.com/bh CR No. 6220 - 2",
+    "page_numbers": [
+      70
+    ],
+    "page_start": 70,
+    "page_end": 70,
+    "heading_path": [
+      "EXPLANATION"
+    ],
+    "section_label": "EXPLANATION",
+    "doc_item_labels": [
+      "page_header",
+      "text"
+    ],
+    "char_count": 172,
+    "token_count": 62
+  },
+  {
+    "chunk_id": "Bapco2024__c_0103",
+    "report_id": "Bapco2024",
+    "chunk_index": 102,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Report on Greenhouse Gases ('GHG') emissions, Lost Time Injury Rate ('LTIR') and Diversity & Inclusion metric for the year ended 31 December 2024",
+    "page_numbers": [
+      70
+    ],
+    "page_start": 70,
+    "page_end": 70,
+    "heading_path": [
+      "To the Management of Bapco Energies BSC (c)"
+    ],
+    "section_label": "To the Management of Bapco Energies BSC (c)",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 145,
+    "token_count": 45
+  },
+  {
+    "chunk_id": "Bapco2024__c_0104",
+    "report_id": "Bapco2024",
+    "chunk_index": 103,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We have performed a limited assurance engagement on whether Bapco Energies BSC (c) (the 'Company') selected non-financial Key Performance Indicators ('Subject matter information' or 'SMI') as identified in Annexure A for the year ended 31 December 2024 have been prepared in accordance with the selected Global Reporting Initiative standards ('GRI Standards') and internally developed criteria ('Basis of preparation') as included in Annexure B to this report, respectively. Based on the procedures performed and evidence obtained: - -nothing has come to our attention to cause us to believe that the Company's SMI pertaining to the GHG emissions, Carbon Intensity (Scope 1 and Scope 2) and Diversity & Inclusion metrics for the year ended 31 December 2024, is not prepared, in all material respects, in accordance with the selected GRI Standards; and, - -nothing has come to our attention to cause us to believe that the Company's SMI pertaining to Lost Time Injury Rate ('LTIR') for the year ended 31 December 2024, is not prepared, in all material respects, with the Basis of preparation. Our conclusion on the SMI does not extend to any other information that accompanies or contains the non-financial KPIs and our assurance report.",
+    "page_numbers": [
+      70
+    ],
+    "page_start": 70,
+    "page_end": 70,
+    "heading_path": [
+      "Conclusion"
+    ],
+    "section_label": "Conclusion",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1236,
+    "token_count": 308
+  },
+  {
+    "chunk_id": "Bapco2024__c_0105",
+    "report_id": "Bapco2024",
+    "chunk_index": 104,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We conducted our engagement in accordance with International Standard on Assurance Engagements (ISAE) 3000 (Revised), Assurance Engagements Other Than Audits or Reviews of Historical Financial Information, issued by the International Auditing and Assurance Standards Board (IAASB). Our responsibilities under this standard are further described in the 'Our responsibilities' section of our report. We have complied with the independence and other ethical requirements of the International Code of Ethics for Professional Accountants (including International Independence Standards) issued by the International Ethics Standards Board for Accountants (IESBA). Our firm applies International Standard on Quality Management (ISQM) 1, Quality Management for Firms that Perform Audits or Reviews of Financial Statements, or Other Assurance or Related Services Engagements, issued by the IAASB. This standard requires the firm to design, implement and operate a system of quality management, including policies or procedures regarding compliance with ethical requirements, professional standards and applicable legal and regulatory requirements. We believe that the evidence we have obtained is sufficient and appropriate to provide a basis for our limited assurance conclusion.",
+    "page_numbers": [
+      70
+    ],
+    "page_start": 70,
+    "page_end": 70,
+    "heading_path": [
+      "Basis for conclusion"
+    ],
+    "section_label": "Basis for conclusion",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1271,
+    "token_count": 254
+  },
+  {
+    "chunk_id": "Bapco2024__c_0106",
+    "report_id": "Bapco2024",
+    "chunk_index": 105,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our report was designed to meet the agreed requirements of Bapco Energies B.S.C (c) determined by the management of the company's needs at the time. Although we endeavour to provide accurate and timely information, the information contained in our report is accurate only as of 10 August 2025 and we cannot provide any guarantee of assurance that it will continue to be accurate in the future. Our report should not therefore be regarded as suitable to be used or relied on by any party wishing to acquire rights against us other than Bapco Energies B.S.C (c) for any purpose or in any context. Any party other than Bapco Energies B.S.C (c) who obtains access to our report or a copy and chooses to rely on our report (or any part of it) will do so at its own risk. To the fullest extent permitted by law, KPMG will accept no responsibility or liability in respect of our report to any other party. © 2025 KPMG Fakhro, a Bahrain partnership registered with the Ministry of Industry and Commerce (MOIC), Kingdom of Bahrain and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 1 GRI (2-5) Independent Practitioners' Limited Assurance Report (continued) Bapco Energies BSC (c)",
+    "page_numbers": [
+      70,
+      71
+    ],
+    "page_start": 70,
+    "page_end": 71,
+    "heading_path": [
+      "Restriction on use or distribution"
+    ],
+    "section_label": "Restriction on use or distribution",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1311,
+    "token_count": 308
+  },
+  {
+    "chunk_id": "Bapco2024__c_0107",
+    "report_id": "Bapco2024",
+    "chunk_index": 106,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The management of the Company is responsible for: - designing, implementing and maintaining internal control relevant to the preparation of the SMI that is free from material misstatement, whether due to fraud or error; - selecting or developing suitable criteria for preparing the SMI and appropriately referring to or describing the criteria used; - preparing the SMI in accordance with the selected GRI Standards and Basis of preparation; - the management of the Company is responsible for preventing and detecting fraud and for identifying and ensuring that the Company complies with laws and regulations applicable to its activities; and - the management of the Company is also responsible for ensuring that staff involved with the preparation of the SMI are properly trained, systems are properly updated and that any changes in reporting encompass all the business units within the reporting boundaries.",
+    "page_numbers": [
+      71
+    ],
+    "page_start": 71,
+    "page_end": 71,
+    "heading_path": [
+      "Responsibilities of management for the SMI"
+    ],
+    "section_label": "Responsibilities of management for the SMI",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 910,
+    "token_count": 185
+  },
+  {
+    "chunk_id": "Bapco2024__c_0108",
+    "report_id": "Bapco2024",
+    "chunk_index": 107,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Due to the inherent limitations of any internal control structure, it is possible that errors or irregularities in the information presented in the SMI may occur and may not be detected. The limited assurance relies on documentation furnished by the Company and interactions with relevant personnel within the Company to validate the self-assessment. Our engagement is not designed to detect all weaknesses in the internal controls over the preparation of the SMI as the procedures performed were undertaken on a test basis. Furthermore, our limited assurance procedures were not designed to assess the appropriateness and completeness of the reporting boundaries established by the management. Moreover, we assume correctness of third-party information, where applicable, as well as publicly disclosed information to reach our conclusion. The SMI discloses GHG emissions comprising total carbon dioxide equivalent (total CO2e), Carbon Intensity, LTIR and Diversity & Inclusion metrics. GHG quantification is subject to inherent measurement uncertainty because of incomplete scientific knowledge used to determine emissions factors and the values to combine emissions of different gases. We have not performed any procedures by way of either verifying or assessing the appropriateness of any GHG emissions that may have been excluded by the Company, appropriateness of emission factors (scope 1 and scope 2) used by the Company, number of hours used in standardising the LTIR, in preparing the SMI, on materiality grounds.",
+    "page_numbers": [
+      71
+    ],
+    "page_start": 71,
+    "page_end": 71,
+    "heading_path": [
+      "Inherent limitations"
+    ],
+    "section_label": "Inherent limitations",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1522,
+    "token_count": 335
+  },
+  {
+    "chunk_id": "Bapco2024__c_0109",
+    "report_id": "Bapco2024",
+    "chunk_index": 108,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We are responsible for: - planning and performing the engagement to obtain limited assurance about whether the SMI is free from material misstatement, whether due to fraud or error; - forming an independent conclusion, based on the procedures we have performed and the evidence we have obtained; and - reporting our conclusion to the management. In performing our limited assurance engagement, we have performed procedures to ascertain whether the SMI pertaining to the GHG emissions, Carbon Intensity (Scope 1 and Scope 2) and Diversity & Inclusion metrics have been prepared in accordance with the selected GRI Standards and LTIR in accordance with the Basis of preparation respectively. Thus, our engagement was not designed to verify the Company's wider compliance with any other requirements set out either in the GRI Standards and/or related guidelines. Independent Practitioners' Limited Assurance Report (continued) Bapco Energies BSC (c)",
+    "page_numbers": [
+      71,
+      72
+    ],
+    "page_start": 71,
+    "page_end": 72,
+    "heading_path": [
+      "Our responsibilities"
+    ],
+    "section_label": "Our responsibilities",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 946,
+    "token_count": 211
+  },
+  {
+    "chunk_id": "Bapco2024__c_0110",
+    "report_id": "Bapco2024",
+    "chunk_index": 109,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We exercised professional judgment and maintained professional skepticism throughout the engagement. We designed and performed our procedures to obtain evidence about the SMI that is sufficient and appropriate to provide a basis for our limited assurance conclusion. Our procedures selected depended on our understanding of the SMI and other engagement circumstances, and our consideration of areas where material misstatements are likely to arise. These procedures were based on our professional judgement and included the following, amongst others, for the year ended 31 December 2024: - Obtained an understanding of SMI; - Assessed the suitability of the criteria used by the entity in preparing the Information subject to Limited Assurance; - Obtained an understanding of the reporting processes, including obtaining an understanding of processes relevant to the preparation of the SMI; - Interviewed management and other relevant staff/ personnel at corporate level responsible for data collection, data management, and data analysis pertaining to SMI; - Reviewed management documentation and Company data reporting tools to the extent they underpin the preparation of the SMI; - Obtained GHG emissions inventory data for Scope 1 and Scope 2 and agreed the amounts with the amounts detailed in the SMI for the in-scope assets/ activities in the operating entities (as per Annexure A); - Obtained the LTIR data and agreed the conversion of fatalities from operating entities (as per Annexure A) to LTIR reported in Annexure B; - Conducted site visits and performed the following for each site from the GHG emissions inventory data of the Company: - o agreed the GHG emissions information from site records to the SMI; - o applied analytical procedures, as appropriate; - o On a sample basis, obtained supporting evidence, underlying records, or reports for selected data points to reconcile site level information; and - o performed recalculation on a sample basis of total CO2e emissions and emission sources for each site based on data obtained from system outputs, reports and other relevant records, and the Company's emissions factors. - Obtained the member data on governance bodies and agreed the reported disclosures as per Annexure A to the underlying data. The procedures performed in a limited assurance engagement vary in nature and timing from, and are less in extent than for, a reasonable assurance engagement. Consequently, the level of assurance obtained in a limited assurance engagement is substantially lower than the assurance that would have been obtained had a reasonable assurance engagement been performed. KPMG Fakhro 10 August 2025",
+    "page_numbers": [
+      72
+    ],
+    "page_start": 72,
+    "page_end": 72,
+    "heading_path": [
+      "Summary of the work we performed as the basis for our conclusion"
+    ],
+    "section_label": "Summary of the work we performed as the basis for our conclusion",
+    "doc_item_labels": [
+      "caption",
+      "list_item",
+      "text"
+    ],
+    "char_count": 2662,
+    "token_count": 582
+  },
+  {
+    "chunk_id": "Bapco2024__c_0111",
+    "report_id": "Bapco2024",
+    "chunk_index": 110,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "This Basis of Preparation has been prepared to provide an overview of Bapco Energies' data collection and reporting methodology on its Health & Safety Metrics. This document outlines the approach and scope that Bapco Energies follows for ESG data consolidation, and to form the basis for independent limited assurance of the Company's sustainability performance data for the 2024 Financial Year.",
+    "page_numbers": [
+      76
+    ],
+    "page_start": 76,
+    "page_end": 76,
+    "heading_path": [
+      "Introduction"
+    ],
+    "section_label": "Introduction",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 395,
+    "token_count": 86
+  },
+  {
+    "chunk_id": "Bapco2024__c_0112",
+    "report_id": "Bapco2024",
+    "chunk_index": 111,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energies is reporting data on the basis of operational control. At this time, this includes Bapco Refining, Bapco Upstream, Bapco Gas & Bapco Gas Expansion, and Bapco Tazweed. The reporting period for the KPIs is from January 1st to December 31st, 2024.",
+    "page_numbers": [
+      76
+    ],
+    "page_start": 76,
+    "page_end": 76,
+    "heading_path": [
+      "Overview of Reporting Boundaries"
+    ],
+    "section_label": "Overview of Reporting Boundaries",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 259,
+    "token_count": 77
+  },
+  {
+    "chunk_id": "Bapco2024__c_0113",
+    "report_id": "Bapco2024",
+    "chunk_index": 112,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bapco Energy regularly reports its progress on Health & Safety through its Lost Time Injury (LTI) data, and the Lost Time Injury Rate (LTIR) as per the definitions followed by the International Association of Oil & Gas Producers (IOGP). 'Lost Time Injury' means a fatality or lost workday case, where the number of Lost Time Injuries is the sum of fatalities and lost workday cases. 'Lost Time Injury Rate' means the number of Lost Time Injuries at the Company and each Material Subsidiary during the Sustainability Reporting Period, measured by the number of Lost Time Injuries per 1,000,000 hours worked at the Company and each Material Subsidiary during the Sustainability Reporting Period.",
+    "page_numbers": [
+      76
+    ],
+    "page_start": 76,
+    "page_end": 76,
+    "heading_path": [
+      "Definitions"
+    ],
+    "section_label": "Definitions",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 693,
+    "token_count": 171
+  },
+  {
+    "chunk_id": "Bapco2024__c_0114",
+    "report_id": "Bapco2024",
+    "chunk_index": 113,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "All of the operating companies (with the exemption of Bapco Gas and Bapco Gas Expansion) follow the IOGP standards for HSE data collection and reporting to Bapco Energies. Bapco Gas and Bapco Gas Expansion collect and report HSE data according to the Kingdom of Bahrain's health & safety laws and legislation, and the incidents have been reclassified as per IOGP definitions for Lost Time Injuries. This ensures that the consolidated data is standardized across the operating companies, and allows for a combined Lost Time Injury Rate for Bapco Energies. The 2024 LTI data for Bapco Energies is presented in Appendix-1. To meet the IOGP standards for calculating the LTIR, Bapco Energies considers both employee and contractor man-hours towards the Company's average LTIR. As Bapco Gas and Bapco Tazweed are the only two operating companies that do not currently collect contractor man-hours, the final figures for 2024 were calculated based on the recorded data received from contractor attendance records, and multiplied by 8 hours. Though this is not an accurate figure, this is the best estimate for contractor hours that we can make at this point, and it is a reasonable indicator for the total man-hours at Bapco Gas and Bapco Tazweed, as it takes into consideration business-as-usual cases, and the impact of any operation shut-downs that may have occurred. Based on this figure, the total LTIR for Bapco Energies is generated.",
+    "page_numbers": [
+      76
+    ],
+    "page_start": 76,
+    "page_end": 76,
+    "heading_path": [
+      "Methodology and data sources"
+    ],
+    "section_label": "Methodology and data sources",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1434,
+    "token_count": 364
+  }
+]

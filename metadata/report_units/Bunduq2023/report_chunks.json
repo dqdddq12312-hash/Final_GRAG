@@ -1,0 +1,2727 @@
+[
+  {
+    "chunk_id": "Bunduq2023__c_0001",
+    "report_id": "Bunduq2023",
+    "chunk_index": 0,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 2-2, 2-3, 2-4, 2-5) Welcome to Bunduq Company Limited's (referred to as 'Bunduq') eighth edition of our Sustainability Report, presenting a comprehensive summary of our economic, social, and environmental progress throughout the year 2023. As part of our ongoing commitment to transparency and accountability, we publish this report annually to provide stakeholders with an overview of our sustainability initiatives and achievements. This practice allows us to reflect on the past year, identify areas for improvement, and set fresh goals for the future. Covering activities from January 1st to December 31st, 2023, this edition outlines our performance across the topics deemed material by both us and our stakeholders. The reporting boundary covers operations conducted at the El Bunduq offshore oil field, with our headquarters in Abu Dhabi, and warehouse in Musaffah. Unless otherwise stated, references to 'we,' 'us,' and 'our' in this report refer to activities within this boundary. We have followed the guidance provided by GRI for the development of this report (please refer to the GRI content index provided at the end of this report). The Global Reporting Initiative (GRI) standards provide a framework for organizations to communicate their economic, environmental, and social impacts transparently and are adopted globally, making it a trusted resource for sustainability disclosure. This year's report includes some data restatements due to reasons such as data revisions, changes in measurement units, or improved data availability. In each case, an explanatory note is provided at the end of the data table. While we have not sought external assurance, we maintain rigorous internal controls for data validation. All figures presented in this report represent the latest available, internally validated data. Our internal reporting systems capture and record this data, with reviews conducted by reporting businesses and internal subject matter experts to ensure accuracy and reliability. Some totals may reflect rounding adjustments for clarity and presentation purposes. We value your feedback and invite you to share your suggestions and recommendations for current and future versions of this report. Please feel free to reach out to us via qhse@bunduq.ae for inquiries or additional information about our reporting process. Safety remains a key focus area for us, reflecting our commitment to the well-being of our workforce. This year marks over 18 years at our complex and 7 years companywide without lost time injuries underscoring our robust safety culture.",
+    "page_numbers": [
+      3,
+      4
+    ],
+    "page_start": 3,
+    "page_end": 4,
+    "heading_path": [
+      "ABOUT THE REPORT"
+    ],
+    "section_label": "ABOUT THE REPORT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2589,
+    "token_count": 564
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0002",
+    "report_id": "Bunduq2023",
+    "chunk_index": 1,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Welcome to Bunduq's 2023 Sustainability Report, a testament to our ongoing commitment to sustainability that benefits the economy, society, and our environment. As we reflect on the past year, we celebrate the strides we have made and the milestones we have achieved, all while aligning with the visionary goals set forth by the UAE and Qatar governments. Safety remains a key focus area for us, reflecting our commitment to the well-being of our workforce. This year marks over 18 years at our complex and 7 years companywide without lost time injuries underscoring our robust safety culture. In 2023, we proudly recorded zero Tier 1, Tier 2, or Level 1 well control events, thanks to our transparent reporting mechanisms and annual HSE audits. We also ensured comprehensive medical checkups for all direct employees and contractors, in line with ADNOC guidelines, further enhancing our commitment to a safe and supportive working environment. Our environmental stewardship is equally commendable, with zero incidents of non-compliance this year, demonstrating our adherence to regulatory and sustainability standards. Our newly launched decarbonization plan aims to optimize energy use and reduce emissions, while our efforts the past year have led to a remarkable 53% reduction in daily flare gas volume. Moreover, achieving zero oil spills for seven consecutive years reflects our relentless pursuit of operational excellence, driven by a focus on reservoir productivity and asset integrity, whilst, integrating health and safety into all aspects of our operations. At Bunduq, our employees are our greatest asset. We cultivate a culture of inclusivity, embracing the diverse backgrounds of our 12 nationalities and a nationalization rate of 48%. Our extensive training and development programs empower every team member to thrive, while annual performance reviews guide their career progression. This year, we also introduced a series of health initiatives emphasizing nutrition and sleep, as well as hydration through the introduction of smart water bottles. Looking ahead, we remain dedicated in our commitment to sustainable growth through responsible practices, upholding our high standards in safety, environmental stewardship, and ethical conduct. Thank you for being part of our journey. Sincerely, Ichiro Shikano CEO, Bunduq",
+    "page_numbers": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "heading_path": [
+      "Dear stakeholders,"
+    ],
+    "section_label": "Dear stakeholders,",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2337,
+    "token_count": 515
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0003",
+    "report_id": "Bunduq2023",
+    "chunk_index": 2,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq Company Limited, established on 23rd July 1970, with equity holders BP and CFP (Total), began the development of the El Bunduq oil field, located offshore on the border of the Emirate of Abu Dhabi and the State of Qatar. In December 1970, UPD acquired half of BP's share in the company. The field is approximately 200km west of Abu Dhabi city and 100km east of Doha, offering a strategic position for collaboration. In 1975, the commercial oil production commenced at the El Bunduq oil field utilizing a natural depletion technique. Recognizing the need for long-term sustainability, water injection and gas injection were implemented in 1984 and 2006, respectively to maintain reservoir pressure and ensure the field's continued viability. The lasting success of the El Bunduq Oil Development demonstrates the productive collaboration between the Emirate of Abu Dhabi and Qatar, under the visionary leadership of His Highness Sheikh Mohammed Bin Zayed Al Nahyan, President of the UAE and Ruler of Abu Dhabi, and His Highness Sheikh Tamim Bin Hamad Al Thani, the Emir of Qatar. For over fifty years, Bunduq has remained dedicated to the production and exportation of oil continuing its energy and production operations in the Emirate of Abu Dhabi and Qatar while ensuring safety, stable, and efficient oil production. Our mission is to explore, develop and produce hydrocarbon resources of El Bunduq Oilfield in a steady, safe, and cost-effective manner. To achieve our mission, we employ leading technology and sustainability principles with the core aim of maintaining our Health, Safety and Environmental (HSE) performance. Our main product, crude oil, is used in numerous applications, supporting economic growth, and improving living standards worldwide. We aim to make a positive impact by using efficient and responsible practices in our operations.",
+    "page_numbers": [
+      5,
+      6
+    ],
+    "page_start": 5,
+    "page_end": 6,
+    "heading_path": [
+      "HISTORY"
+    ],
+    "section_label": "HISTORY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1863,
+    "token_count": 406
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0004",
+    "report_id": "Bunduq2023",
+    "chunk_index": 3,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ■ Production fluid from wells is transported to the CCP (Central Collector Platform) via pipelines located at the Bunduq's offshore complex. - ■ Oil is separated from production fluid after flow to Das island via 18' MOL (Main Oil Line). - ■ Our operation involves the separation, treatment and recycle of gas from production fluid for the generation of electricity used in the Bunduq's offshore complex.",
+    "page_numbers": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "heading_path": [
+      "Developing & Extracting"
+    ],
+    "section_label": "Developing & Extracting",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 406,
+    "token_count": 92
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0005",
+    "report_id": "Bunduq2023",
+    "chunk_index": 4,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ■ The recovered oil undergoes treatment to archive the export requirement.",
+    "page_numbers": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "heading_path": [
+      "Packaging"
+    ],
+    "section_label": "Packaging",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 76,
+    "token_count": 18
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0006",
+    "report_id": "Bunduq2023",
+    "chunk_index": 5,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ■ All crude oil is transported to Japan through vessels from Das Island, where it undergoes further processing and refining. By employing efficient and responsible practices at each stage, we aim to ensure the optimal utilization of resources, minimize environmental impact, and deliver high-quality crude oil. - ■ The gas from production fluid also used within the Bunduq for the injection to reservoir for the purpose of the EOR (Enhanced Oil Recovery), which contribute to minimize the waste and maximize resource utilization. - ■ The extracted oil is then transported through a 26 km pipeline to Das Island, where it is processed. - ■ The oil is further processed for export in the Bunduq facility located on the Das Island.",
+    "page_numbers": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "heading_path": [
+      "Exporting"
+    ],
+    "section_label": "Exporting",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 730,
+    "token_count": 164
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0007",
+    "report_id": "Bunduq2023",
+    "chunk_index": 6,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(as of December 2022) Bunduq, operates with a unique downstream supply chain. United Petroleum Development Co. Ltd (UPD) the Japanese shareholding concessionaire, acts as both the sole shareholder and customer of Bunduq. UPD together with its shareholders play a crucial role in supporting Bunduq's continued success, and their close relationship ensures a steady stream of financial and human resources, supporting Bunduq's growth in the Middle East.",
+    "page_numbers": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "heading_path": [
+      "OUR SHAREHOLDERS"
+    ],
+    "section_label": "OUR SHAREHOLDERS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 451,
+    "token_count": 103
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0008",
+    "report_id": "Bunduq2023",
+    "chunk_index": 7,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq's corporate governance is essential to our continued success and the protection of shareholder value. Through the established rules, policies, and procedures, we ensure a structured and effective decision-making process that promotes consistency and accountability across all levels of the organization. Our corporate governance framework enables us to make informed decisions that align with our strategic goals and ethical standards, fostering a culture of transparency and responsibility. Bunduq's governance principles are based on the concession agreement, which was created in partnership with the Emirate of Abu Dhabi and the State of Qatar, representing their national oil companies, ADNOC and QatarEnergy.",
+    "page_numbers": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "heading_path": [
+      "BUNDUQ'S CORPORATE GOVERNANCE FRAMEWORK"
+    ],
+    "section_label": "BUNDUQ'S CORPORATE GOVERNANCE FRAMEWORK",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 721,
+    "token_count": 143
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0009",
+    "report_id": "Bunduq2023",
+    "chunk_index": 8,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our Board of Directors serves as the top governing body within Bunduq. It consists of six members from ADNOC, QatarEnergy, UPD, and our CEO, who bring a wealth of experience and expertise to the company. Their leadership and strategic vision guide the company in shaping its future direction, achieving goals, and maintaining a commitment to operational excellence and value creation. During their biannual meetings, the board carefully assesses and monitors Bunduq's performance in areas of operations, finance, and HSE. This evaluation process is essential to ensure we fulfil our mission, enhancing stakeholder trust and driving sustainable growth.",
+    "page_numbers": [
+      9
+    ],
+    "page_start": 9,
+    "page_end": 9,
+    "heading_path": [
+      "OUR BOARD OF DIRECTORS"
+    ],
+    "section_label": "OUR BOARD OF DIRECTORS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 651,
+    "token_count": 142
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0010",
+    "report_id": "Bunduq2023",
+    "chunk_index": 9,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Guiding Bunduq's direction is a team of experienced professionals with a strong understanding of the oil and gas sector. Their expertise and dedication ensure the company operates effectively and achieves its goals. Bunduq is well positioned for continued success under their leadership.",
+    "page_numbers": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "heading_path": [
+      "OUR LEADERSHIP TEAM"
+    ],
+    "section_label": "OUR LEADERSHIP TEAM",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 287,
+    "token_count": 55
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0011",
+    "report_id": "Bunduq2023",
+    "chunk_index": 10,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq acknowledges that successful integration and effective management of sustainability at a company requires committed leadership, clear direction, and strategic influence. Sustainability governance is essential for operationalizing our sustainability aspirations and measuring progress towards goals. At Bunduq, the sustainability governance structure consists of four key committees: the HSE Committee, the Technical Advisory Committee (TAC), the Tender Committee, and the Offshore Employee Health Committee (OEHC). These committees promote sustainability throughout the business, define roles and responsibilities and facilitate informed decisionmaking to ensure overall accountability. The HSE Committee oversees our sustainability governance framework, evaluating our performance in material environmental, social, and governance aspects. The three additional committees are dedicated to managing specific sustainability areas, including regulatory compliance, transparent procurement processes, and offshore employee health and wellbeing. They work together to set goals aligned with our organization's mission, develop action plans, and closely monitor our progress in sustainability. Each committee takes responsibility for addressing area of its expertise and meeting regularly to assess progress. The outcomes of these meetings are then presented to the HSE Committee, which makes decisions at the board level. This ensures that our sustainability practices are well coordinated, in line with our overall vision and encourage innovative solutions for growth and sustainability.",
+    "page_numbers": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "heading_path": [
+      "SUSTAINABILITY GOVERNANCE"
+    ],
+    "section_label": "SUSTAINABILITY GOVERNANCE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1591,
+    "token_count": 298
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0012",
+    "report_id": "Bunduq2023",
+    "chunk_index": 11,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ■ Oversees our sustainability governance framework, evaluating our performance in material environmental, social, and governance aspects. - ■ Chaired by the CEO and meets annually to discuss topics related to employee health and safety performance, asset and well integrity, safety related training requirements, and compliance.",
+    "page_numbers": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "heading_path": [
+      "HSE Committee:"
+    ],
+    "section_label": "HSE Committee:",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 330,
+    "token_count": 67
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0013",
+    "report_id": "Bunduq2023",
+    "chunk_index": 12,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ■ Consists of representatives from ADNOC, QatarEnergy and UPD, and meets biannually to discuss overall company performance, strategic planning, and budget allocation.",
+    "page_numbers": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "heading_path": [
+      "Technical Advisory Committee (TAC):"
+    ],
+    "section_label": "Technical Advisory Committee (TAC):",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 168,
+    "token_count": 38
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0014",
+    "report_id": "Bunduq2023",
+    "chunk_index": 13,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ■ Oversees procurement and reviews and approves all bids for contracts valued over USD 250,000 to ensure transparent and competitive procurement process.",
+    "page_numbers": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "heading_path": [
+      "Tender Committee:"
+    ],
+    "section_label": "Tender Committee:",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 155,
+    "token_count": 33
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0015",
+    "report_id": "Bunduq2023",
+    "chunk_index": 14,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ■ Safeguards employee health and welfare in Bunduq's Offshore complex. - ■ Chaired by our Offshore Installation Manager (OIM) and attended by members including the management team, members from office and the HSE team. - ■ Onshore and offshore HSE sub-committees provide focused oversight of each area of operations, enabling more targeted discussions and decision-making to ensure safe and sustainable practices within their respective boundaries. - ■ HSE committee allocates specific KPIs to each department based on their function. - ■ QHSE department leads the evaluation and monitoring of our sustainability efforts, regularly updating senior management through the HSE Committee. - ■ Responsible for ensuring that we maintain regulatory compliance and demonstrate transparency. - ■ Evaluates all supplier bids against Bunduq's commercial, technical, quality, and HSE requirements. - ■ In-person meetings are held monthly (10 times per year) and include a site tour of any activities on site.",
+    "page_numbers": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "heading_path": [
+      "Offshore Employee Health Committee (OEHC):"
+    ],
+    "section_label": "Offshore Employee Health Committee (OEHC):",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 999,
+    "token_count": 226
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0016",
+    "report_id": "Bunduq2023",
+    "chunk_index": 15,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq's Code of Business Conduct (CoBC) connects our rules and values to employee behaviours and practices. It sets out Bunduq leadership's expectations for employee behaviour across the business in the areas of integrity, accountability, objectivity, confidentiality and professional behaviour. Our CoBC is essential to ensure that employees are comfortable in their working environment. It sets out the principles to uphold honourable and ethical behaviour in the workplace, helping to ensure good relationships between colleagues as well as those with employers and any external stakeholders or business partners. Bunduq continuously reviews the code to ensure its ongoing relevance in the business landscape. In line with our commitment to maintaining ethical operations, an annual acknowledgment of Bunduq's CoBC is one of the essential elements to foster ethical behaviour in our operations. We require all our employees to demonstrate their comprehension and acknowledgment of the CoBC annually by conveniently endorsing the CoBC digitally as part of their annual performance appraisal. We also conduct refresher training of CoBC when needed to provide practical guidance for making the right decisions when choices are not straightforward.",
+    "page_numbers": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "heading_path": [
+      "OUR CORE VALUES"
+    ],
+    "section_label": "OUR CORE VALUES",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1248,
+    "token_count": 264
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0017",
+    "report_id": "Bunduq2023",
+    "chunk_index": 16,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "CHAPTER 1 APPROACH TO SUSTAINABILITY",
+    "page_numbers": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "heading_path": [
+      "GRI-205-ANTI CORRUPTION"
+    ],
+    "section_label": "GRI-205-ANTI CORRUPTION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 36,
+    "token_count": 13
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0018",
+    "report_id": "Bunduq2023",
+    "chunk_index": 17,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Reflecting on our sustainability progress, we acknowledge that our journey towards sustainability is an ongoing process of innovation, collaboration, and responsibility. Our significant sustainability developments over the past ten years are outlined below:",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "BUNDUQ'S SUSTAINABILITY JOURNEY"
+    ],
+    "section_label": "BUNDUQ'S SUSTAINABILITY JOURNEY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 257,
+    "token_count": 46
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0019",
+    "report_id": "Bunduq2023",
+    "chunk_index": 18,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Transitioned to the GRI Standards, for preparing our sustainability report and involved our business partners in our external stakeholder engagements",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "4th Sustainability Report"
+    ],
+    "section_label": "4th Sustainability Report",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 149,
+    "token_count": 29
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0020",
+    "report_id": "Bunduq2023",
+    "chunk_index": 19,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "2020 marked a major milestone as Bunduq celebrated its 50 years of operation. The 2019-2020 report was a merged report which completed Bunduq's six years of sustainability reporting.",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "50 Years of Operational Excellence"
+    ],
+    "section_label": "50 Years of Operational Excellence",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 182,
+    "token_count": 40
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0021",
+    "report_id": "Bunduq2023",
+    "chunk_index": 20,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In the year 2022, our ongoing commitment to operational excellence and environmental stewardship yielded significant results. We achieved a 47% reduction in average daily flaring during this period. The average daily flaring decreased from 1.16 MMSCFD to 0.614 MMSCFD, supporting our goal to move closer to achieving zero flaring. Publication of First Sustainability Report",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "Operational excellence"
+    ],
+    "section_label": "Operational excellence",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 373,
+    "token_count": 86
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0022",
+    "report_id": "Bunduq2023",
+    "chunk_index": 21,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq achieved an exemplary safety record by having zero injuries and fatalities due to the effectiveness of health and safety systems and programs implemented. In 2021 Bunduq was able to reduce the volume of its flared gas by 26% as compared to 2020. Our ultimate objective is to eliminate hydrocarbon flaring in the long-term and meet ADNOC's ambitious zero flaring target. Bunduq has implemented a Business Continuity Management System to ensure continuity for critical business functions and to facilitate a prompt return to normal operations in order to strengthen Bunduq's Risk Management processes. Bunduq made a brilliant record of over 18 years at complex and 7 years companywide of zero lost time injury. Bunduq developed its first Decarbonization Plan in 2023.",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "Zero contractor and employee injuries"
+    ],
+    "section_label": "Zero contractor and employee injuries",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 772,
+    "token_count": 167
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0023",
+    "report_id": "Bunduq2023",
+    "chunk_index": 22,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our commitment to sustainability is grounded in our four core sustainability pillars, guiding our efforts to create long-term value and resilience. We have set 14 specific targets under these pillars to track our progress and ensure meaningful impact. Through these initiatives, we aim to make a positive impact in the UAE and Qatar, contributing to their socioeconomic development and environmental well-being. Our approach reflects a deep-seated commitment to integrating sustainability into all aspects of our business operations.",
+    "page_numbers": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "heading_path": [
+      "SUSTAINABILITY PILLARS AND COMMITMENTS"
+    ],
+    "section_label": "SUSTAINABILITY PILLARS AND COMMITMENTS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 533,
+    "token_count": 111
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0024",
+    "report_id": "Bunduq2023",
+    "chunk_index": 23,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "PRESERVING THE ENVIRONMENT",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "2023 SUSTAINABILITY HIGHLIGHTS"
+    ],
+    "section_label": "2023 SUSTAINABILITY HIGHLIGHTS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 26,
+    "token_count": 8
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0025",
+    "report_id": "Bunduq2023",
+    "chunk_index": 24,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "OIL SPILLS FOR SEVEN CONSECUTIVE YEARS ZERO INCIDENTS OF ENVIRONMENTAL NON-COMPLIANCE 8% DECREASE IN GHG EMISSIONS (SCOPE 1 AND SCOPE 2) FROM YEAR 2022 53% REDUCTION IN THE ANNUAL DAILY FLARE GAS VOLUME FROM YEAR 2022 MILLION AED 6 TOTAL ENVIRONMENTAL EXPENDITURE 13% DECREASE IN TOTAL GHG INTENSITY COMPARED TO BASELINE YEAR OF 2019",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "ZERO"
+    ],
+    "section_label": "ZERO",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 333,
+    "token_count": 118
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0026",
+    "report_id": "Bunduq2023",
+    "chunk_index": 25,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "80% OF SUPPLIERS PASSED OUR HSE EVALUATION HSE AUDITS",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "PROTECTING OUR PEOPLE AND ASSETS"
+    ],
+    "section_label": "PROTECTING OUR PEOPLE AND ASSETS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 53,
+    "token_count": 20
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0027",
+    "report_id": "Bunduq2023",
+    "chunk_index": 26,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "634 OF EMPLOYEE DEVELOPMENT TRAINING HOURS PROVIDED TO OUR EMPLOYEES GRIEVANCES AND INCIDENTS OF DISCRIMINATION REPORTED",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "CONTRIBUTING TO SOCIAL DEVELOPMENT"
+    ],
+    "section_label": "CONTRIBUTING TO SOCIAL DEVELOPMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 120,
+    "token_count": 42
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0028",
+    "report_id": "Bunduq2023",
+    "chunk_index": 27,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "BBLS CRUDE OIL PRODUCTION 87% OF TOTAL PROCUREMENT SPENDING ON LOCAL SUPPLIERS LTIFR PER 1 MILLION MAN-HOURS NEW HIRES INCLUDING 1 NATIONAL EMPLOYEES CYBERSECURITY INCIDENTS 5% INCREASE IN WATCH OBSERVATIONS 11 DIFFERENT NATIONALITIES IN OUR DIVERSE WORKFORCE 11 ANNUAL CYBERSECURITY TRAINING FOR EMPLOYEES",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "CREATING ECONOMIC VALUE"
+    ],
+    "section_label": "CREATING ECONOMIC VALUE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 306,
+    "token_count": 110
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0029",
+    "report_id": "Bunduq2023",
+    "chunk_index": 28,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2023, Bunduq updated its materiality in line with the GRI 3: Material Topics 2021 guidance. This approach allowed Bunduq to assess and understand the internal impacts of the sustainability topics i.e., impact on Bunduq's operations, employees, production, as well as the external impacts of the topics, i.e., impact on the society, environment, and economy. To conduct this thorough exercise a 4-step approach was followed:",
+    "page_numbers": [
+      17
+    ],
+    "page_start": 17,
+    "page_end": 17,
+    "heading_path": [
+      "MATERIALITY ASSESSMENT APPROACH"
+    ],
+    "section_label": "MATERIALITY ASSESSMENT APPROACH",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 426,
+    "token_count": 98
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0030",
+    "report_id": "Bunduq2023",
+    "chunk_index": 29,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We began by reviewing our previous assessment to identify established trends and areas for improvement. Next, we benchmarked the topics by reviewing the material topics of our global and national industry peers. To finalize the list, we conducted an analysis of sustainability standards and frameworks such as GRI's universal reporting standards including the Oil and Gas sector specific, and Sustainable Development Goals. The process helped us gain valuable insights into emerging sustainability priorities within the sector.",
+    "page_numbers": [
+      17
+    ],
+    "page_start": 17,
+    "page_end": 17,
+    "heading_path": [
+      "Refining the list of material topics"
+    ],
+    "section_label": "Refining the list of material topics",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 527,
+    "token_count": 107
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0031",
+    "report_id": "Bunduq2023",
+    "chunk_index": 30,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq's Enterprise Risk Management (ERM) framework supported the development of severity scoring methodology for assessing the impacts. Based on stakeholder impact and influence on the topics, targeted stakeholder groups were engaged across the company to identify and assess the scale, scope and likelihood of the identified risks, opportunities, and impacts. Each topic was evaluated for its potential and actual risks and opportunities on our business as well as the potential and actual impacts on society, the economy, and the environment.",
+    "page_numbers": [
+      17
+    ],
+    "page_start": 17,
+    "page_end": 17,
+    "heading_path": [
+      "Understanding risks, opportunities, and impacts"
+    ],
+    "section_label": "Understanding risks, opportunities, and impacts",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 545,
+    "token_count": 115
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0032",
+    "report_id": "Bunduq2023",
+    "chunk_index": 31,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Data from stakeholder engagements and internal assessment was aggregated, providing a holistic view of topic prioritization. Based on the results, a ranked list of material topics was developed and presented to senior management for review, comments, and validation to ensure alignment with the company's strategic direction and sustainability goals. As a result, a set of material topics were identified to serve as the foundation for our sustainability strategy, reporting, and stakeholder engagement moving forward.",
+    "page_numbers": [
+      17
+    ],
+    "page_start": 17,
+    "page_end": 17,
+    "heading_path": [
+      "Prioritization and validation"
+    ],
+    "section_label": "Prioritization and validation",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 518,
+    "token_count": 104
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0033",
+    "report_id": "Bunduq2023",
+    "chunk_index": 32,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Occupational Health and Safety Asset Integrity and Process Safety",
+    "page_numbers": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "heading_path": [
+      "MATERIAL TOPICS"
+    ],
+    "section_label": "MATERIAL TOPICS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 65,
+    "token_count": 14
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0034",
+    "report_id": "Bunduq2023",
+    "chunk_index": 33,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 2-29) We maintain ongoing engagement with our stakeholders to understand their concerns and expectations. By using various communication channels such as surveys, meetings, and direct dialogue, we gather valuable insights into their needs, which help shape our business practices and sustainability approach. Stakeholder input is crucial for identifying risks, opportunities, and areas for improvement. We are committed to sharing information about our performance and goals transparently, ensuring that stakeholders remain informed about our progress. These interactions help guide our decision-making and reporting, ensuring alignment with both our business objectives and broader societal concerns.",
+    "page_numbers": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "heading_path": [
+      "STAKEHOLDER ENGAGEMENT"
+    ],
+    "section_label": "STAKEHOLDER ENGAGEMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 706,
+    "token_count": 142
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0035",
+    "report_id": "Bunduq2023",
+    "chunk_index": 34,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2023, our commitment to environmental stewardship has continued to deliver positive outcomes, reflecting our ongoing efforts to mitigate environmental impacts while enhancing sustainability practices across our operations. A key achievement was the sustained prevention of oil spills, marking seven consecutive years without an incident, which highlights the effectiveness of our spill prevention protocols. Building on this success, Bunduq has launched its Decarbonization Plan 2024-2025, which focuses on further improvements in energy efficiency and greenhouse gas emission reduction. Key actions in this plan include adjusting flaring volumes, improving gas compressor integrity, repairing leaking valves, conducting energy optimization survey of gas turbines as well as feasibility study of importing electricity from Das island. These initiatives are supported by our rigorous monitoring, inspection, and maintenance protocols, ensuring the reliability and longevity of our assets. We also maintained a strong record of compliance, with zero incidents of environmental non-compliance throughout the year ensuring that our operations consistently meet or exceed legal requirements. In 2023, we allocated approximately AED 6 million to environmental initiatives to both manage our environmental footprint and support sustainability projects that benefit the communities in which we operate. One of the most impactful outcomes of these efforts was a reduction in emissions. We achieved an 8% decrease in total Green House Gas (GHG) emission (Scope-1 and Scope-2) from 2022 and 13% reduction in GHG intensity (compared to our 2019 baseline), demonstrating our progress toward reducing our carbon footprint. This reduction was partly driven by a strategic 53% cut in the annual daily flare gas volume from 2022, a key initiative aimed at minimizing waste and optimizing resource efficiency. These achievements reflect our integrated approach to environmental management, where compliance, investment, and innovation work together to create a more sustainable future. Protecting the environment is central to Bunduq's mission. We embrace sustainable practices that reduce our environmental footprint, from emission reduction to waste management, with a strong focus on preserving the marine ecosystems that surround us. Aitzaz Raza",
+    "page_numbers": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "heading_path": [
+      "PRESERVING THE ENVIRONMENT"
+    ],
+    "section_label": "PRESERVING THE ENVIRONMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2334,
+    "token_count": 494
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0036",
+    "report_id": "Bunduq2023",
+    "chunk_index": 35,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "oil spills for seven consecutive years.",
+    "page_numbers": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "heading_path": [
+      "2023 KEY HIGHLIGHTS"
+    ],
+    "section_label": "2023 KEY HIGHLIGHTS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 39,
+    "token_count": 9
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0037",
+    "report_id": "Bunduq2023",
+    "chunk_index": 36,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "reduction in the annual daily flare gas volume from year 2022. incidents of environmental noncompliance.",
+    "page_numbers": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "heading_path": [
+      "53%"
+    ],
+    "section_label": "53%",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 104,
+    "token_count": 22
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0038",
+    "report_id": "Bunduq2023",
+    "chunk_index": 37,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "decrease in GHG emissions (Scope 1 and Scope 2) from year 2022.",
+    "page_numbers": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "heading_path": [
+      "8%"
+    ],
+    "section_label": "8%",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 63,
+    "token_count": 19
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0039",
+    "report_id": "Bunduq2023",
+    "chunk_index": 38,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "total environmental expenditure.",
+    "page_numbers": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "heading_path": [
+      "AED 6 million"
+    ],
+    "section_label": "AED 6 million",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 32,
+    "token_count": 6
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0040",
+    "report_id": "Bunduq2023",
+    "chunk_index": 39,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "decrease in total GHG intensity compared to baseline year of 2019.",
+    "page_numbers": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "heading_path": [
+      "13%"
+    ],
+    "section_label": "13%",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 66,
+    "token_count": 15
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0041",
+    "report_id": "Bunduq2023",
+    "chunk_index": 40,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "This certification provides a structured approach to identifying and implementing energy-saving practices across our operations. By adhering to ISO 50001, we can systematically monitor and analyze our energy consumption, allowing us to optimize energy use across our facilities. We are committed to identify any energy optimization opportunity for continuously enhancing our energy management system. Our next external surveillance audit is scheduled for 2024, and our certification remains valid until March 3, 2025. Bunduq has undertaken several initiatives to drive ongoing improvements in energy efficiency. One such effort involved the cleaning and modification of our Winning Pump Caisson, aimed to improve the efficiency of the pump system. Furthermore, we streamlined our disposal system by operating it with a single pump instead of the traditional multiple pumps, which successfully reduced energy usage while meeting operational needs. These adjustments have not only contributed to energy savings but also support maintenance and operational efficiency. To further reduce energy demand and our carbon footprint while aligning with ADNOC's and QatarEnergy's energy management targets, Bunduq has scheduled an energy optimization assessment for the offshore facility in 2024, led by an external consultant, as part of its Decarbonization Plan.",
+    "page_numbers": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "heading_path": [
+      "Bunduq's Energy Management System (EMS) is certified to ISO 50001:2018, the global standard for energy performance."
+    ],
+    "section_label": "Bunduq's Energy Management System (EMS) is certified to ISO 50001:2018, the global standard for energy performance.",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1353,
+    "token_count": 277
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0042",
+    "report_id": "Bunduq2023",
+    "chunk_index": 41,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "1. Direct energy consumption is from Stationary combustion and mobile sources e.g., vessels and helicopters. 2. Indirect energy consumption is from electricity use. In 2020 and 2021, due to COVID-19, Bunduq's operations were running at minimum production levels, and as a result, no initiatives for energy reduction were implemented.",
+    "page_numbers": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "heading_path": [
+      "Note:"
+    ],
+    "section_label": "Note:",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 333,
+    "token_count": 82
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0043",
+    "report_id": "Bunduq2023",
+    "chunk_index": 42,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "These emissions originate from combustion and flaring processes. Additionally, indirect GHG emissions are produced through the consumption of electricity procured from the local municipality to power onshore operations. For effective monitoring of air pollutants emitted from flaring activities, a Predictive Emissions Measurement System (PEMS) is employed. This system facilitates real-time monitoring, data analysis, and reporting in adherence to the ADNOC Group's HSE Standards. To further mitigate emissions, Bunduq commenced operations of an Acid Gas Compressor (AGC) unit in 2021. The AGC unit is designed to capture and compress acid gases, such as hydrogen sulfide and carbon dioxide, from the production process, which would otherwise be flared. By compressing these gases, the AGC unit effectively prevents their release into the atmosphere, significantly reducing GHG emissions. In 2022 and 2023, the smooth operation of the AGC unit resulted in a reduction of 5,809 tons of emissions, demonstrating our commitment to minimizing environmental impact through innovative technology.",
+    "page_numbers": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "heading_path": [
+      "Bunduq's offshore oil field primarily generates GHG emissions in the form of carbon dioxide, methane, and nitrous oxide."
+    ],
+    "section_label": "Bunduq's offshore oil field primarily generates GHG emissions in the form of carbon dioxide, methane, and nitrous oxide.",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1091,
+    "token_count": 254
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0044",
+    "report_id": "Bunduq2023",
+    "chunk_index": 43,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Note: Due to improved data availability, there is a change in 2020 value for Scope 1.",
+    "page_numbers": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "heading_path": [
+      "GRI-305-1 DIRECT (SCOPE 1) GHG EMISSION"
+    ],
+    "section_label": "GRI-305-1 DIRECT (SCOPE 1) GHG EMISSION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 85,
+    "token_count": 23
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0045",
+    "report_id": "Bunduq2023",
+    "chunk_index": 44,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Note: Due to a change in the reporting unit for emission intensity, the values for 2020 to 2022 have been adjusted.",
+    "page_numbers": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "heading_path": [
+      "GRI-305-4 GHG EMISSIONS INTENSITY"
+    ],
+    "section_label": "GRI-305-4 GHG EMISSIONS INTENSITY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 115,
+    "token_count": 29
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0046",
+    "report_id": "Bunduq2023",
+    "chunk_index": 45,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 3-3, 201-2, 305-7) Climate resilience and adaptation are integral to Bunduq's strategy for sustaining long-term operations in a changing environment. In line with ADNOC's targets, Bunduq set a GHG intensity reduction goal of 25% by 2030, with 2019 as the baseline. As of 2023, the company has already",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "CLIMATE RESILIENCE AND ADAPTATION"
+    ],
+    "section_label": "CLIMATE RESILIENCE AND ADAPTATION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 305,
+    "token_count": 82
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0047",
+    "report_id": "Bunduq2023",
+    "chunk_index": 46,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Aims to reduce the amount of natural gas flared during oil production by exploring options like capturing and utilizing associated gas or adopting alternative well management techniques. achieved a 13% reduction. To further this progress, Bunduq developed its first Decarbonization Plan in 2023, focusing on 4 key areas:",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "Flaring Volume Adjustment:"
+    ],
+    "section_label": "Flaring Volume Adjustment:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 320,
+    "token_count": 68
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0048",
+    "report_id": "Bunduq2023",
+    "chunk_index": 47,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Focuses on maintaining the efficiency and reliability of gas compressors through preventative maintenance and necessary upgrades to reduce gas leaks and enhance performance.",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "Improving Gas Compressor Integrity:"
+    ],
+    "section_label": "Improving Gas Compressor Integrity:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 173,
+    "token_count": 32
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0049",
+    "report_id": "Bunduq2023",
+    "chunk_index": 48,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Regular inspections and timely repairs of leaking valves are emphasized to minimize fugitive methane emissions. In 2023, Bunduq made progress in its Decarbonization Plan by conducting a passing valves study, which focused on identifying and rectifying leaks in valves to reduce associated flaring. Further actions in this area are planned for 2024. Additionally, Bunduq's energy team plans to hire an external consultant to initiate a Field Assessment Survey (FAS) aimed at identifying energy optimization and decarbonization options in solar turbines. The FAS will be conducted for two turbines in 2024 and extended to two more turbines in 2025. The anticipated benefits of the FAS include increased fuel efficiency, reduced downtime, extended equipment life, and a consequent reduction in carbon emissions.",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "Identifying and Repairing Leaking Valves:"
+    ],
+    "section_label": "Identifying and Repairing Leaking Valves:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 808,
+    "token_count": 190
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0050",
+    "report_id": "Bunduq2023",
+    "chunk_index": 49,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "A comprehensive energy optimization assessment for the Bunduq offshore facility, scheduled for 2024, will be conducted by an external consultant to identify further opportunities for energy conservation and emissions reduction.",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "Energy Optimization Assessment:"
+    ],
+    "section_label": "Energy Optimization Assessment:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 227,
+    "token_count": 41
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0051",
+    "report_id": "Bunduq2023",
+    "chunk_index": 50,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 3-3, 306-1, 306-2, 306-3) Bunduq adheres to waste management protocols established by the ADNOC Group, in line their Health Safety and Environment (HSE)Waste Management guidelines and directives from the ADNOC Waste Reduction Committee. Hazardous waste generated by our activities primarily consists of organic and expired chemicals, lead-acid batteries, and contaminated apparel. These materials are disposed of in a controlled manner through BeAAT's waste treatment facility in Ruwais, minimizing environmental impact. To optimize our waste management processes, Bunduq leverages Tadweer's Bolisaty platform, a sophisticated, waste database system. This digital tool enhances collaboration among waste generators, environmental service",
+    "page_numbers": [
+      28
+    ],
+    "page_start": 28,
+    "page_end": 28,
+    "heading_path": [
+      "WASTE MANAGEMENT"
+    ],
+    "section_label": "WASTE MANAGEMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 742,
+    "token_count": 178
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0052",
+    "report_id": "Bunduq2023",
+    "chunk_index": 51,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "providers, treatment facilities, and disposal sites, improving the efficiency of waste collection, treatment, and disposal for all stakeholders. Furthermore, role-based waste management KPIs are established for departments including Development, Production, Logistics, and IT. These KPIs include attending waste segregation awareness sessions, segregating hazardous and non-hazardous waste, recycling, and recording used ink cartridges and IT waste. Bunduq also conducts regular waste segregation inspections to ensure both adherence to standards and optimal performance.",
+    "page_numbers": [
+      28
+    ],
+    "page_start": 28,
+    "page_end": 28,
+    "heading_path": [
+      "GRI-306-3 WASTE GENERATED"
+    ],
+    "section_label": "GRI-306-3 WASTE GENERATED",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 571,
+    "token_count": 128
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0053",
+    "report_id": "Bunduq2023",
+    "chunk_index": 52,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq is proud to announce that our innovative initiatives focused on hydration, plastic waste reduction, and environmental awareness have earned the Bunduq BSU-GSPR team 1st place in the Non-Technical HSE Award. This project was launched with the following objectives: - ■ Reduce environmental impact by reducing single-use plastic bottle consumption. - ■ Achieve cost savings on bottled water. - ■ Increase awareness of marine plastic pollution. To achieve these goals, Bunduq distributed smart water bottles with hydration tracking features and installed water dispensers throughout its facilities. Additionally, a marine plastic awareness campaign was conducted. The smart bottles helped employees monitor their hydration. The water dispensers encouraged the shift away from singleuse plastics, leading to the elimination of 2,400 bottles of 1.5L and 3,360 bottles of 330ml plastic water bottles within three months. Additionally, we developed and disseminated marine plastic awareness e-flyers to educate employees about the harmful consequences of plastic pollution on marine ecosystems to foster a deeper understanding of environmental responsibility amongst our employees.",
+    "page_numbers": [
+      28
+    ],
+    "page_start": 28,
+    "page_end": 28,
+    "heading_path": [
+      "Case Study: Plastic Reduction and Awareness"
+    ],
+    "section_label": "Case Study: Plastic Reduction and Awareness",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1181,
+    "token_count": 256
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0054",
+    "report_id": "Bunduq2023",
+    "chunk_index": 53,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 3-3) During oil extraction, natural gas, a valuable clean-burning fuel, is often produced alongside crude oil. Ideally, this associated gas would be captured and utilized for power generation or other productive purposes. However, infrastructure limitations can present a challenge. In situations where pipelines or facilities to transport or process the gas are not readily available, a controlled combustion process known as routine flaring becomes necessary. While flaring serves a crucial safety function by preventing the uncontrolled release of gas, which can pose environmental and safety risks, it also represents a missed opportunity to harness a valuable resource. Bunduq is committed to minimizing routine flaring and actively explores solutions to capture and utilize associated gas wherever possible. Implementing measures such as conducting valve studies, repairing leaks, and setting a flaring target of <1 million standard cubic feet per day (MMSCFD) is part of Bunduq's Environmental Plan 2021 to 2025. We use flaring as a standard safety practice during offshore oil and gas extraction to release pressure and manage byproducts. It is commonly used during the gas sweetening process to handle gases like H2S and CO2 . We typically use low-pressure flaring, reserving high-pressure flaring for rare emergency situations. Our continued efforts through strategic investments, continuous monitoring, and proactive maintenance have significantly reduced flaring, contributing to our environmental goals and enhancing the efficiency of our operations. - ■ The volume of continuously flared hydrocarbons decreased by 541,135 m 3 , representing a notable 25% reduction compared to 2022. - ■ Overall flare gas has been reduced by more than 1 MMSCFD since 2020. - ■ 53% reduction in average daily flaring was achieved in 2023 compared to the previous year by achieving 0.29 MMSCFD, surpassing Bunduq's original target of 0.8 MMSCFD. Looking ahead, we are setting new targets for 2024. Our overall flaring target is set at 0.3 MMSCFD, with a specific focus on minimizing routine flaring to below 0.1 MMSCFD and with the planned maintenance and further valve inspections, we anticipate achieving even lower flaring rates. These objectives align with ADNOC Group's broader sustainability goals of eliminating hydrocarbon flaring and achieving net zero flaring. We are confident that through continued innovation and collaboration, we can achieve these targets and contribute to a more sustainable future.",
+    "page_numbers": [
+      29
+    ],
+    "page_start": 29,
+    "page_end": 29,
+    "heading_path": [
+      "FLARING"
+    ],
+    "section_label": "FLARING",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 2514,
+    "token_count": 554
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0055",
+    "report_id": "Bunduq2023",
+    "chunk_index": 54,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq has undertaken significant efforts to reduce gas flaring-a critical contributor to GHG emissions. Gas flaring has long been a challenge in the oil and gas industry, both from an environmental and economic perspective. Recognizing the importance of addressing this issue, in 2021, we initiated a comprehensive flaring reduction strategy, centered around the commissioning of the AGC unit, with the goal of reducing our average daily flaring to below 1 MMSCFD by 2022. The strategy involved several key actions: - ■ Commissioning of the AGC Unit (2021): The AGC unit was a pivotal addition, designed to capture and process acid gases, thus significantly reducing the need for flaring. The installation and operation of this unit allowed us to set a target of less than 1 MMSCFD average daily flaring by 2022. - ■ Passing Valves Survey (2023): To further reduce flaring, a detailed survey was conducted in 2023 to identify and rectify leaks in valves connected to the AGC unit. The survey covered 126 valves, of which 69 were operational and assessed. The survey identified six leaking valves, two of which were major contributors to flaring. Immediate action was taken to replace these valves, resulting in a reduction of flare volume by 0.6 MSCF/year. - ■ Continuous Monitoring and Maintenance: Remaining valves will be addressed during a planned maintenance shutdown in 2025, with a follow-up survey scheduled for May 2024. This survey aims to identify and repair any additional leaks, particularly from the 57 valves that were temporarily out of service during the 2023 assessment.",
+    "page_numbers": [
+      29
+    ],
+    "page_start": 29,
+    "page_end": 29,
+    "heading_path": [
+      "Case Study: Flaring Reduction Initiatives and Outcomes"
+    ],
+    "section_label": "Case Study: Flaring Reduction Initiatives and Outcomes",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1589,
+    "token_count": 363
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0056",
+    "report_id": "Bunduq2023",
+    "chunk_index": 55,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "To fulfil these requirements, Bunduq primarily utilizes saltwater for industrial applications and employs desalination processes to provide potable water for the offshore Bunduq complex and residential facilities. Municipal water is the primary source of water for headquarters in Abu Dhabi and Mussafah warehouse operations. In 2022, the expansion of rig",
+    "page_numbers": [
+      30
+    ],
+    "page_start": 30,
+    "page_end": 30,
+    "heading_path": [
+      "Bunduq's offshore operations need substantial water consumption for processes such as enhanced oil recovery and cooling systems."
+    ],
+    "section_label": "Bunduq's offshore operations need substantial water consumption for processes such as enhanced oil recovery and cooling systems.",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 355,
+    "token_count": 74
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0057",
+    "report_id": "Bunduq2023",
+    "chunk_index": 56,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "and barge operations led to an increased demand for seawater due to heightened cooling requirements. In response, Bunduq has implemented broad water conservation initiatives across offshore and onshore locations. These efforts aim to foster a culture of water stewardship among employees and promote responsible water usage practices.",
+    "page_numbers": [
+      30
+    ],
+    "page_start": 30,
+    "page_end": 30,
+    "heading_path": [
+      "GRI-303-3 WATER WITHDRAWAL"
+    ],
+    "section_label": "GRI-303-3 WATER WITHDRAWAL",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 334,
+    "token_count": 68
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0058",
+    "report_id": "Bunduq2023",
+    "chunk_index": 57,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We understand the delicate balance of maintaining a healthy marine habitat and take steps to minimize our impact. This includes implementing environmental monitoring programs to assess marine conditions, which guide our operational decisions and highlight areas for improvement. We also work with stakeholders and experts to better understand the local ecosystem and advance biodiversity conservation. Through these efforts, Bunduq supports the long-term health of the maritime environment by upholding ethical standards and promoting environmental responsibility.",
+    "page_numbers": [
+      31
+    ],
+    "page_start": 31,
+    "page_end": 31,
+    "heading_path": [
+      "Bunduq's offshore location presents a unique ecosystem that we strive to protect and preserve, with low biodiversity risk due to our operations."
+    ],
+    "section_label": "Bunduq's offshore location presents a unique ecosystem that we strive to protect and preserve, with low biodiversity risk due to our operations.",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 564,
+    "token_count": 103
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0059",
+    "report_id": "Bunduq2023",
+    "chunk_index": 58,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq organized a Climate Change and Ocean Conservation workshop in September 2023 aimed at increasing employee awareness about the critical issues facing marine ecosystems and to empower individuals to contribute to climate wellness. To achieve this objective, Bunduq collaborated with Goumbook, a renowned organization specializing in environmental, organizational, and social responsibility education. The workshop focused on the intricate relationship between climate change and marine environments. Participants gained an understanding of the challenges faced by our oceans, including rising sea levels, ocean acidification, and coral reef degradation. The session also emphasized the individual actions that can collectively make a significant impact on climate change mitigation. With a total of 47 attendees, the workshop proved to be a successful platform for knowledge sharing and awareness building.",
+    "page_numbers": [
+      31
+    ],
+    "page_start": 31,
+    "page_end": 31,
+    "heading_path": [
+      "Case Study: Ocean Conservation & Climate Change Workshop"
+    ],
+    "section_label": "Case Study: Ocean Conservation & Climate Change Workshop",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 911,
+    "token_count": 172
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0060",
+    "report_id": "Bunduq2023",
+    "chunk_index": 59,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "By implementing reliable systems and practices, we minimize our risk of oil spills and align with the expectations of regulators and stakeholders. These efforts not only enhance",
+    "page_numbers": [
+      32
+    ],
+    "page_start": 32,
+    "page_end": 32,
+    "heading_path": [
+      "Spill avoidance remains our top priority, and we are proud to have achieved zero spills for seven consecutive years."
+    ],
+    "section_label": "Spill avoidance remains our top priority, and we are proud to have achieved zero spills for seven consecutive years.",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 177,
+    "token_count": 37
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0061",
+    "report_id": "Bunduq2023",
+    "chunk_index": 60,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "our operational safety but also contribute to our commitment to sustainability and environmental stewardship. CHAPTER 3 PROTECTING OUR PEOPLE AND ASSETS At Bunduq, we prioritize the health and safety of our employees above all. By establishing stringent safety protocols and cultivating a culture of accountability, we strive to prevent workplace injuries and ensure the integrity of our operations. Khadija Al Ameri",
+    "page_numbers": [
+      32,
+      33,
+      34
+    ],
+    "page_start": 32,
+    "page_end": 34,
+    "heading_path": [
+      "SPILLS"
+    ],
+    "section_label": "SPILLS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 416,
+    "token_count": 92
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0062",
+    "report_id": "Bunduq2023",
+    "chunk_index": 61,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq's Health, Safety, and Environment (HSE) objective is to achieve 100% compliance with our HSE systems and procedures. As a core component of our operations and a highpriority material topic, HSE is central to everything we do. Bunduq's HSE goal is pursued through the active engagement and contribution of all stakeholders, driving continuous progress toward an incidentand injury-free environment across all Bunduq worksites. We are determined in our commitment to maintain the highest standards of HSE performance across all operational facets. This commitment is rooted in our dedication to the well-being of our workforce and the safeguarding of our operations. To establish an effective safety culture and minimize the occurrence of injuries, we implement extensive HSE training programs and conduct regular awareness campaigns. Furthermore, we",
+    "page_numbers": [
+      34
+    ],
+    "page_start": 34,
+    "page_end": 34,
+    "heading_path": [
+      "PROTECTING OUR PEOPLE AND ASSETS"
+    ],
+    "section_label": "PROTECTING OUR PEOPLE AND ASSETS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 855,
+    "token_count": 188
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0063",
+    "report_id": "Bunduq2023",
+    "chunk_index": 62,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "prioritize emergency preparedness through consistent drills and exercises to ensure effective response to potential incidents. The HSE department holds primary responsibility for identifying and mitigating HSE risks, developing annual plans, and clearly defining the HSE objectives and responsibilities of each department. Furthermore, our WATCH observation, coupled with a transparent and supportive work environment, provides a platform for employees to promptly voice health and safety concerns. To promote overall employee health, we offer essential medical services at offshore locations through health campaigns, while also undertaking initiatives to raise health awareness and encourage healthy lifestyles.",
+    "page_numbers": [
+      34
+    ],
+    "page_start": 34,
+    "page_end": 34,
+    "heading_path": [
+      "2023 KEY HIGHLIGHTS"
+    ],
+    "section_label": "2023 KEY HIGHLIGHTS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 713,
+    "token_count": 133
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0064",
+    "report_id": "Bunduq2023",
+    "chunk_index": 63,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 2-23, 2-24, 2-27, 3-3, 403-1, 403-2, 403-3, 403-4, 403-5, 403-5, 403-6, 403-7,403-8, 403-9, 403-10) Our HSE department is responsible for maintaining and advancing high standards of HSE in all our activities. In 2023, we focused on updating Bunduq's HSE documents, including the Emergency Response Plan, based on ADNOC standards to improve operational efficiency in HSE matters. The other key initiatives undertaken in 2023 included managing oil spill and safety equipment, leading awareness and education activities for all employees regarding health and hazard management and conducting emergency drills. This has resulted in supporting the offshore team achieving over 18 years at complex and 6.9 years companywide of no LTI, respectively. Our HSE team was given the opportunity to present our activities at JX Nippon HQ in November at the Annual HSE meeting for which the team received praise from other attendees. Bunduq integrates HSE Key Performance Indicators (KPIs) across departments, including business support unit (including Warehouse), CEO Office, Internal Audit, QHSE and Operations (development and production). These KPIs cover activities, such as mandatory HSE training, incident reporting, medical check-ups, audit compliance, emergency drills, and HSE campaigns. The HSE Committee, chaired by the CEO, oversees our sustainability governance by",
+    "page_numbers": [
+      35
+    ],
+    "page_start": 35,
+    "page_end": 35,
+    "heading_path": [
+      "OCCUPATIONAL HEALTH AND SAFETY APPROACH"
+    ],
+    "section_label": "OCCUPATIONAL HEALTH AND SAFETY APPROACH",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1368,
+    "token_count": 332
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0065",
+    "report_id": "Bunduq2023",
+    "chunk_index": 64,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "evaluating material environmental and social performance. Meeting annually, the committee discusses health and safety, asset integrity, training, and compliance, while onshore and offshore HSE sub-committees manage safe operations. The HSE department monitors sustainability efforts and updates senior management through the HSE Committee. The HSE department develops and disseminates annual plans that outline each department's responsibilities in achieving HSE objectives, tailored to their specific functions.",
+    "page_numbers": [
+      35
+    ],
+    "page_start": 35,
+    "page_end": 35,
+    "heading_path": [
+      "BUNDUQ'S OCCUPATIONAL HEALTH AND SAFETY MANAGEMENT APPROACH:"
+    ],
+    "section_label": "BUNDUQ'S OCCUPATIONAL HEALTH AND SAFETY MANAGEMENT APPROACH:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 512,
+    "token_count": 106
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0066",
+    "report_id": "Bunduq2023",
+    "chunk_index": 65,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Air quality management systems Waste and oil spill management plans HSE audits HSE inspections Risk assessments Tool box talks HSE awareness campaigns HSE training programs Noise assessments Heat stress management programs Food quality and hygiene inspections Periodical medical check-ups T - Ojorly Health risk assessment plans WATCH observation systems Emergency response plans Indoor air quality assessments",
+    "page_numbers": [
+      36
+    ],
+    "page_start": 36,
+    "page_end": 36,
+    "heading_path": [
+      "BUNDUQ'S SAFETY INITIATIVES, INCLUDING KEY STRATEGIES AND THEIR IMPLEMENTATION:"
+    ],
+    "section_label": "BUNDUQ'S SAFETY INITIATIVES, INCLUDING KEY STRATEGIES AND THEIR IMPLEMENTATION:",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 410,
+    "token_count": 81
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0067",
+    "report_id": "Bunduq2023",
+    "chunk_index": 66,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our Health, Safety, and Environment (HSE) Policy underscores our commitment to maintaining a safe and sustainable work environment. It guides our actions to prevent incidents, safeguard the health and safety of our workforce, and minimize environmental impact. The policy reflects our dedication to continuous improvement and adherence to industry best practices.",
+    "page_numbers": [
+      36
+    ],
+    "page_start": 36,
+    "page_end": 36,
+    "heading_path": [
+      "HSE POLICY"
+    ],
+    "section_label": "HSE POLICY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 363,
+    "token_count": 78
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0068",
+    "report_id": "Bunduq2023",
+    "chunk_index": 67,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq is dedicated to maintaining high health and safety standards across its offshore and onshore operations. Over the past year, Bunduq achieved an excellent safety record with zero Lost Time Injuries (LTIs) for employees and contractors for more than past 6 years. Since 2007, Bunduq has implemented the WATCH observation program, which allows employees to identify potential hazards and unsafe practices. In 2023, staff submitted 3,190 WATCH observations, a 5% increase from the previous year. Bunduq HSE is also developing an online WATCH system to digitize processes, allowing for detailed analysis, improving the closeout process, tracking WATCH KPIs, and reducing manual work, with an estimated release by Q3 of 2024. To further enhance safety, Bunduq investigates all incidents, focusing on critical indicators such as Fatalities, LTIs, and Medical Treatment Cases (MTCs). These investigations have led to significant improvements in safety performance, with most key indicators showing a decline compared to the previous year.",
+    "page_numbers": [
+      36
+    ],
+    "page_start": 36,
+    "page_end": 36,
+    "heading_path": [
+      "HSE PERFORMANCE"
+    ],
+    "section_label": "HSE PERFORMANCE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1037,
+    "token_count": 228
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0069",
+    "report_id": "Bunduq2023",
+    "chunk_index": 68,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq initiated a project to align its Occupational Health practices with ADNOC's 13 Occupational Health standards in preparation for the ADNOC Health, Safety, and Environmental Management System (HSEMS) audit in late 2023. While Bunduq possessed numerous internal documents and procedures, these were not organized in a manner that facilitated easy demonstration of compliance with ADNOC standards. The goal of the project was to ensure compliance without unnecessary complexity or resource expenditure, given that ADNOC's standards includes a broad spectrum of operational areas, many of which are not applicable to Bunduq. A compliance analyst led the project, coordinating documentation and ensuring alignment with ADNOC's standards. A contractor was engaged to develop a framework that integrated key compliance KPIs and accurately reflected Bunduq's current practices. The contractor reviewed existing documentation, and through iterative revisions, a final framework was established. This approach allowed Bunduq to avoid creating numerous new procedures. Instead, a high-level document was produced, leveraging existing standards and making future updates more manageable. The framework streamlined compliance management reduced the need for new procedures and simplified the demonstration of compliance. Plans are underway to explore expanding the framework to encompass all QHSE functions, further enhancing Bunduq's ability to manage ADNOC requirements and support external audits.",
+    "page_numbers": [
+      37
+    ],
+    "page_start": 37,
+    "page_end": 37,
+    "heading_path": [
+      "Case Study: Development of Occupational Health (OH) Framework to Align with ADNOC Standards"
+    ],
+    "section_label": "Case Study: Development of Occupational Health (OH) Framework to Align with ADNOC Standards",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1493,
+    "token_count": 319
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0070",
+    "report_id": "Bunduq2023",
+    "chunk_index": 69,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "After awarding contracts, we perform detailed health and safety inspections on all contractors and address any discrepancies identified between contractor practices and contractual obligations through corrective actions. The contractor health and safety screening process is illustrated in the accompanying diagram. Post-project completion, Bunduq uses a health and safety scorecard to review contractor performance. This tool assesses their safety management systems and past performance, guiding future procurement decisions and promoting collaboration with contractors who excel in health and safety practices.",
+    "page_numbers": [
+      38
+    ],
+    "page_start": 38,
+    "page_end": 38,
+    "heading_path": [
+      "Bunduq thoroughly evaluates potential contractors to ensure they meet strict health and safety standards, aiming to minimize risks as much as possible."
+    ],
+    "section_label": "Bunduq thoroughly evaluates potential contractors to ensure they meet strict health and safety standards, aiming to minimize risks as much as possible.",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 613,
+    "token_count": 114
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0071",
+    "report_id": "Bunduq2023",
+    "chunk_index": 70,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 3-3, 2-27) Ensuring asset integrity and reliability is essential to keep operations uninterrupted even during extreme conditions while ensuring safety and compliance with industry standards. We implement reliable and secure engineering practices and adhere to strict operation and maintenance protocols. Our Risk-Based Inspection (RBI) methodology helps us assess asset conditions, prioritize critical components for inspection, and develop targeted remedial strategies. Additional safety measures include continuous monitoring to detect threats and abnormal conditions, supporting our engineers and operators in preventing errors and enhancing operational efficiency. The aim is to maintain business continuity without a Loss of Primary Containment (LOPC) or Process Safety Event (PSE) that could result in fatalities, asset loss, environmental impacts, or reputational damage. Thus, process safety is a key factor that strengthens our capability to operate without incidents, leaks, or harm to people, ensuring a strong safety record.",
+    "page_numbers": [
+      39
+    ],
+    "page_start": 39,
+    "page_end": 39,
+    "heading_path": [
+      "ASSET INTEGRITY AND PROCESS SAFETY"
+    ],
+    "section_label": "ASSET INTEGRITY AND PROCESS SAFETY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1041,
+    "token_count": 231
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0072",
+    "report_id": "Bunduq2023",
+    "chunk_index": 71,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ■ Bunduq's process safety reporting follows American Petroleum Institute (API) - RP 754 standards* and we recorded no Tier 1, Tier 2, or Level 1 well control events** in 2023. - ■ Inspections were carried out on key equipment, including a water injector and an oil pipeline to ensure the integrity of primary containment systems. - ■ There were zero LOPC events, where hazardous materials escaped from their primary containment (e.g., tanks or pipelines) that would have been serious enough to be categorized as major safety events (Tier 1 or Tier 2). - ■ There were no instances where Safety Instrumented Systems (SIS) or Pressure Relief Devices (PRDs), which are used to prevent dangerous pressure buildups had to be activated to prevent incidents. - ■ There were no significant issues related to controlling wells that required higherlevel interventions. - ■ A total of 1,756 PTW spot verifications were carried out to ensure that work permits were being properly followed on-site. Six incidents occurred where work permits were not fully adhered to, but they were not severe enough to be classified as major issues. Note: Bunduq's Process Safety Data is in line with American Petroleum Institute (API). API provides a framework for reporting process safety incidents, particularly in the oil and gas industry. Tier 1 and Tier 2 incidents refer to more severe events (Tier 1 being the most serious) that involve a loss of containment with potential for harm to people, the environment, or assets. Level 1 well control events are serious incidents where well control is lost, posing a significant risk.",
+    "page_numbers": [
+      39
+    ],
+    "page_start": 39,
+    "page_end": 39,
+    "heading_path": [
+      "PROCESS SAFETY PERFORMANCE"
+    ],
+    "section_label": "PROCESS SAFETY PERFORMANCE",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1606,
+    "token_count": 365
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0073",
+    "report_id": "Bunduq2023",
+    "chunk_index": 72,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq is taking steps to enhance employee health and safety through medical campaigns introduced in 2023 aimed to increase awareness of critical health issues and promote preventive measures. To ensure maximum impact, a variety of communication channels were utilized, such as weekly presentations, workshops, informative posters, engaging slogans, practical demonstrations, and feedback mechanisms through questionnaires.",
+    "page_numbers": [
+      39
+    ],
+    "page_start": 39,
+    "page_end": 39,
+    "heading_path": [
+      "Case Study: Medical Campaigns by Complex Doctor and Nurse"
+    ],
+    "section_label": "Case Study: Medical Campaigns by Complex Doctor and Nurse",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 423,
+    "token_count": 80
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0074",
+    "report_id": "Bunduq2023",
+    "chunk_index": 73,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ■ Infection control implemented control measures to mitigate the spread of diseases. - ■ Hand & finger injury prevention focused on raising awareness and promoting practices to protect against hand and finger injuries. - ■ Tobacco cessation encouraged a smoke-free workplace and provided support for employees looking to quit tobacco use through sessions on health risks. - ■ Heat stress prevention implemented measures to protect employees from heatrelated illnesses during peak summer months. - ■ Pinch point Injury prevention addressed potential pinch point hazards in the workplace to prevent injuries. The implementation of these campaigns results in increased employee awareness of health and safety, contributing to a more productive and engaged work environment at Bunduq.",
+    "page_numbers": [
+      39
+    ],
+    "page_start": 39,
+    "page_end": 39,
+    "heading_path": [
+      "Key campaigns:"
+    ],
+    "section_label": "Key campaigns:",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 782,
+    "token_count": 166
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0075",
+    "report_id": "Bunduq2023",
+    "chunk_index": 74,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 3-3) To reduce the risk of emergencies, we implement robust emergency preparedness measures including our Emergency Response Plan in line with ADNOC's HSE standards and regular emergency drills. We hold two companywide emergency drills each year, occasionally inviting external observers to provide feedback for ongoing improvement. Our medical emergency plan has been revised to enhance crisis management efficacy. In 2023, Bunduq conducted 4 HSE audits to assess safety practices and received 52 HSE alerts which facilitated prompt preventive actions. Additionally, 12 emergency drills were",
+    "page_numbers": [
+      40
+    ],
+    "page_start": 40,
+    "page_end": 40,
+    "heading_path": [
+      "CRISIS MANAGEMENT & INCIDENT RESPONSE"
+    ],
+    "section_label": "CRISIS MANAGEMENT & INCIDENT RESPONSE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 597,
+    "token_count": 127
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0076",
+    "report_id": "Bunduq2023",
+    "chunk_index": 75,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "conducted to review the readiness of the emergency response team and equipment and rehearse the emergency plans for various scenarios. Following the approval of Bunduq's operational phase Health, Safety, and Environmental Impact Assessment (HSEIA) by ADNOC, we updated our Emergency Response Plan to meet ADNOC HSE Standards.",
+    "page_numbers": [
+      40
+    ],
+    "page_start": 40,
+    "page_end": 40,
+    "heading_path": [
+      "CRISIS MANAGEMENT ACTIVITIES"
+    ],
+    "section_label": "CRISIS MANAGEMENT ACTIVITIES",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 325,
+    "token_count": 74
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0077",
+    "report_id": "Bunduq2023",
+    "chunk_index": 76,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "To equip our employees with the competencies needed to mitigate HSE risks, Bunduq provides a range of specialized QHSE training programs. These trainings are designed to ensure employee safety and compliance in various operational environments and cover critical areas including safety protocols, emergency response procedures, and hazard management, providing Bunduq staff with the knowledge and skills needed to handle both routine and high-risk situations effectively. In 2023, we conducted 4,892 hours of training sessions for 535 personnel. This training was offered to both onshore and offshore staff, with a blend of in-house and external programs to optimize costs and access specialized facilities. Key trainings delivered cover the following: - ■ Permit to Work (PTW): instill proficiency in the permit-to- A digital platform designed to work system, focuses on teaching employees the procedures and requirements for obtaining and managing work permits to ensure safe execution of potentially hazardous tasks.",
+    "page_numbers": [
+      41
+    ],
+    "page_start": 41,
+    "page_end": 41,
+    "heading_path": [
+      "QUALITY, HEALTH, SAFETY, AND ENVIRONMENT (QHSE) TRAINING PROGRAMS"
+    ],
+    "section_label": "QUALITY, HEALTH, SAFETY, AND ENVIRONMENT (QHSE) TRAINING PROGRAMS",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1019,
+    "token_count": 208
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0078",
+    "report_id": "Bunduq2023",
+    "chunk_index": 77,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- A specialized course educating employees on the hazards of hydrogen sulfide including detection, protective measures, and emergency response protocols to ensure safety in environments with potential H2S exposure.",
+    "page_numbers": [
+      41
+    ],
+    "page_start": 41,
+    "page_end": 41,
+    "heading_path": [
+      "■ Hydrogen Sulfide (H2S) Training:"
+    ],
+    "section_label": "■ Hydrogen Sulfide (H2S) Training:",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 214,
+    "token_count": 45
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0079",
+    "report_id": "Bunduq2023",
+    "chunk_index": 78,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Advance Fire Fighting: This training provides essential skills and techniques for effectively managing fire emergencies, covering advanced firefighting methods, equipment usage, and safety protocols to enhance personnel readiness and safety.",
+    "page_numbers": [
+      41
+    ],
+    "page_start": 41,
+    "page_end": 41,
+    "heading_path": [
+      "■"
+    ],
+    "section_label": "■",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 243,
+    "token_count": 46
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0080",
+    "report_id": "Bunduq2023",
+    "chunk_index": 79,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- This training is designed for Helicopter Landing Officers (HLO) to ensure safe helicopter operations in accordance with the Civil Aviation Advisory Publication 71 (CAAP 71). It covers key aspects such as landing procedures, communication protocols, safety regulations, and emergency response to ensure smooth and safe helicopter landings at offshore and onshore installations. - Safe Scaffolding Operation: dismantling of scaffolding and covers This training instructs participants on the proper setup, use, and hazard identification, and safety regulations to minimize risks and protect workers. Safe Chemical Handling: This training educates workers on the proper procedures for handling, storing, and disposing of hazardous chemicals in the workplace. It covers the use of personal protective equipment (PPE), understanding safety data sheets (SDS), spill response, and risk mitigation to ensure a safe working environment and prevent chemical-related incidents.",
+    "page_numbers": [
+      41
+    ],
+    "page_start": 41,
+    "page_end": 41,
+    "heading_path": [
+      "■ HLO CAAP 71 Training:"
+    ],
+    "section_label": "■ HLO CAAP 71 Training:",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 967,
+    "token_count": 209
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0081",
+    "report_id": "Bunduq2023",
+    "chunk_index": 80,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 3-3, 413-1, 413-2) Social risk management is a key concern for Oil and Gas industry due to the nature of the operations, which can affect local communities through environmental disruptions and health and safety risks. Bunduq's offshore operations, however, are situated far from any residential areas or communities ensuring that we do not pose any direct social risks to nearby communities. Bunduq does not have specific policies on social risk management however, by developing combined social impact assessment plan in 2023 as part of HSEIA Bunduq is committed to follow ADNOC standards. For Bunduq operations, company is committed to mitigate and manage social impacts that its business activities can cause to external stakeholders and communities. Bunduq is committed to implement social impact assessment plan to its full spirit.",
+    "page_numbers": [
+      41
+    ],
+    "page_start": 41,
+    "page_end": 41,
+    "heading_path": [
+      "SOCIAL RISK MANAGEMENT"
+    ],
+    "section_label": "SOCIAL RISK MANAGEMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 842,
+    "token_count": 174
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0082",
+    "report_id": "Bunduq2023",
+    "chunk_index": 81,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq values each employee's contribution and is committed to creating a supportive workplace. Our focus on growth and well-being helps us build a stronger team and positively impact our community. Hyatt Alshihri",
+    "page_numbers": [
+      43
+    ],
+    "page_start": 43,
+    "page_end": 43,
+    "heading_path": [
+      "CHAPTER 4 CONTRIBUTING TO SOCIAL DEVELOPMENT"
+    ],
+    "section_label": "CHAPTER 4 CONTRIBUTING TO SOCIAL DEVELOPMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 213,
+    "token_count": 47
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0083",
+    "report_id": "Bunduq2023",
+    "chunk_index": 82,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our workforce is one of our most valuable assets and a key driver behind our success. We strive to attract and retain skilled individuals across the business, which enables us to continue delivering on our business goals and maintain strong performance and growth. We are committed to fostering a positive and supportive work environment that prioritizes their well-being and professional development. Our wide-ranging talent development programs and trainings support the career progression of our employees, while initiatives like flexible work arrangements promote employee wellbeing and work-life balance. We conduct regular performance reviews for all our employees to enhance communication within our team, identify individual strengths and areas for improvement, and ensure a clear understanding of the expectations we set for each employee. We maintain high occupational",
+    "page_numbers": [
+      43
+    ],
+    "page_start": 43,
+    "page_end": 43,
+    "heading_path": [
+      "CONTRIBUTING TO SOCIAL DEVELOPMENT"
+    ],
+    "section_label": "CONTRIBUTING TO SOCIAL DEVELOPMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 878,
+    "token_count": 160
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0084",
+    "report_id": "Bunduq2023",
+    "chunk_index": 83,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "of employee development training hours provided to our employees. health and safety standards for our employees and contractors. This requires thorough training, clear policies, and active engagement with our contractors to ensure a safe working environment for all. Investing in our employees' happiness, health, and growth empowers them to be their best selves, both at work and within the communities they serve. We encourage participation in serving our communities by offering paid time off for volunteering activities and charitable giving and matching employee donations to worthy causes. Through these efforts, we aim to impact the communities where we live and work positively. 8 new hires including 1 national employees. 11 different nationalities in our diverse workforce. grievances and incidents of discrimination reported.",
+    "page_numbers": [
+      43
+    ],
+    "page_start": 43,
+    "page_end": 43,
+    "heading_path": [
+      "634"
+    ],
+    "section_label": "634",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 836,
+    "token_count": 161
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0085",
+    "report_id": "Bunduq2023",
+    "chunk_index": 84,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 405-1) Fostering a diverse and inclusive workplace is a social responsibility and a key driver of sustainable success. At Bunduq, we aim to build a workplace where everyone feels valued, respected, and empowered to reach their full potential. Our ongoing efforts focus on promoting inclusion practices across all levels of the organization, from recruitment and development to leadership and culture. This commitment is reflected in our diverse workforce of 136 number of employees representing more than 11 number of nationalities. The majority of our workforce is based in our offshore complex, a challenging environment that traditionally attracts younger male employees. However, we are committed to increasing female representation, particularly in office-based roles. We offer female employees the opportunity to visit our offshore complex and warehouse, allowing them to gain firsthand experience of our operations. Bunduq marked a significant milestone in April 2023 by hiring its first female Petroleum Engineer. Given the nature of the role requiring frequent offshore visits for rigless operations, the company faced the challenge of providing suitable accommodation for female employees, as existing facilities were not equipped. We successfully established accommodations for female staff at the LQP location which not only sets a precedent for future female hires but also showcases the company's commitment to providing a safe and inclusive work environment. Adhering to fair workplace practices, well-defined recruitment and promotion processes, equal access to employee benefits, and structured grievance procedures all contribute to higher employee satisfaction and organizational effectiveness. Leadership's commitment to these principles cultivates a more inclusive and innovative workplace culture, leading to improved retention rates.",
+    "page_numbers": [
+      44
+    ],
+    "page_start": 44,
+    "page_end": 44,
+    "heading_path": [
+      "EMPLOYEE DIVERSITY AND INCLUSION"
+    ],
+    "section_label": "EMPLOYEE DIVERSITY AND INCLUSION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1861,
+    "token_count": 367
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0086",
+    "report_id": "Bunduq2023",
+    "chunk_index": 85,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 3-3, 202-2, 203-2) Workforce nationalization is a priority for Bunduq, and we ensure our efforts are focused on nurturing and developing the national talent. Bunduq invests in programs to develop the skills and talent of nationals, ensuring their smooth succession to managerial and leadership positions. These initiatives include well-structured succession planning, high-potential employee development, and",
+    "page_numbers": [
+      45
+    ],
+    "page_start": 45,
+    "page_end": 45,
+    "heading_path": [
+      "WORKFORCE NATIONALIZATION"
+    ],
+    "section_label": "WORKFORCE NATIONALIZATION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 413,
+    "token_count": 88
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0087",
+    "report_id": "Bunduq2023",
+    "chunk_index": 86,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "leadership training designed to cultivate a robust pipeline of local expertise and future leaders. In 2023, Bunduq employed 47 nationals and welcomed 3 new nationals to the team, achieving a nationalization rate of 44%.",
+    "page_numbers": [
+      45
+    ],
+    "page_start": 45,
+    "page_end": 45,
+    "heading_path": [
+      "WORKFORCE NATIONALIZATION DATA"
+    ],
+    "section_label": "WORKFORCE NATIONALIZATION DATA",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 219,
+    "token_count": 49
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0088",
+    "report_id": "Bunduq2023",
+    "chunk_index": 87,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq administers training programs incorporating well-structured initiatives aimed at elevating its workforce's competencies, understanding, and effectiveness, thus enhancing their value to the company. Through allocating resources to improve the impact of employee training initiatives, Bunduq aims to develop a more proficient workforce, improve employee satisfaction, and effectively adapt to industry dynamics. We offer individual development plans that include need-based training aligned with annual plans agreed upon with line managers, vocational assessments for technical staff to confirm competence and address skill gaps, and knowledge-sharing sessions with ADNOC to enhance expertise and exchange best practices. Our training programs cover areas such as safety, technical and non-technical skills, future-focused skills like digital and sustainability and leadership training.",
+    "page_numbers": [
+      46
+    ],
+    "page_start": 46,
+    "page_end": 46,
+    "heading_path": [
+      "EMPLOYEE DEVELOPMENT AND TRAINING"
+    ],
+    "section_label": "EMPLOYEE DEVELOPMENT AND TRAINING",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 891,
+    "token_count": 174
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0089",
+    "report_id": "Bunduq2023",
+    "chunk_index": 88,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq's vocational assessment led by an external assessor from Australia aim to identify areas for performance improvement and create a roadmap for coaching and training for selected employees. The program includes competency assessments, determining session needs, addressing concerns, and conducting coaching until the candidates reach full competence. Bunduq plans to keep expanding this program, offering more employees the chance to develop the skills required for more challenging roles and responsibilities. In 2023, 1 HSE supervisor and 2 Maintenance supervisor participated in this program.",
+    "page_numbers": [
+      46
+    ],
+    "page_start": 46,
+    "page_end": 46,
+    "heading_path": [
+      "VOCATIONAL ASSESSMENT PROGRAM"
+    ],
+    "section_label": "VOCATIONAL ASSESSMENT PROGRAM",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 600,
+    "token_count": 116
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0090",
+    "report_id": "Bunduq2023",
+    "chunk_index": 89,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq offers a sponsorship program to encourage employee development. This program provides financial support to employees to pursue higher education in relevant fields. Upon successful completion of their education, the employees are expected to return to work and be part of Bunduq's workforce, contributing their newly acquired skills and knowledge to the company's growth.",
+    "page_numbers": [
+      46
+    ],
+    "page_start": 46,
+    "page_end": 46,
+    "heading_path": [
+      "SPONSORSHIP PROGRAM"
+    ],
+    "section_label": "SPONSORSHIP PROGRAM",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 377,
+    "token_count": 73
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0091",
+    "report_id": "Bunduq2023",
+    "chunk_index": 90,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "As part of Bunduq's succession plan, we conduct thorough gap analyses for current employees to identify skill and experience gaps within our workforce and create enhancement plans to bridge the gaps. The findings of gap analysis support creating customized development opportunities for existing employees as well as informing the new hiring process.",
+    "page_numbers": [
+      46
+    ],
+    "page_start": 46,
+    "page_end": 46,
+    "heading_path": [
+      "SUCCESSION PLAN"
+    ],
+    "section_label": "SUCCESSION PLAN",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 350,
+    "token_count": 68
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0092",
+    "report_id": "Bunduq2023",
+    "chunk_index": 91,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Hence, our human resources employ various recruitment strategies, offer inclusive training programs, conduct fair performance evaluations to support career growth, and offer employee well-being through initiatives",
+    "page_numbers": [
+      47
+    ],
+    "page_start": 47,
+    "page_end": 47,
+    "heading_path": [
+      "Attracting and retaining top talent is fundamental to our success."
+    ],
+    "section_label": "Attracting and retaining top talent is fundamental to our success.",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 213,
+    "token_count": 38
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0093",
+    "report_id": "Bunduq2023",
+    "chunk_index": 92,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We offer competitive salaries, health insurance, disability benefits, parental leave, study leave, and retirement support to our employees.",
+    "page_numbers": [
+      47
+    ],
+    "page_start": 47,
+    "page_end": 47,
+    "heading_path": [
+      "1. COMPREHENSIVE BENEFITS:"
+    ],
+    "section_label": "1. COMPREHENSIVE BENEFITS:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 139,
+    "token_count": 28
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0094",
+    "report_id": "Bunduq2023",
+    "chunk_index": 93,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We provide clear paths for career advancement, giving our employees ample opportunities to grow within the company.",
+    "page_numbers": [
+      47
+    ],
+    "page_start": 47,
+    "page_end": 47,
+    "heading_path": [
+      "2. CAREER GROWTH:"
+    ],
+    "section_label": "2. CAREER GROWTH:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 115,
+    "token_count": 21
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0095",
+    "report_id": "Bunduq2023",
+    "chunk_index": 94,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our employee recognition and rewards programs create a positive and motivating work atmosphere.",
+    "page_numbers": [
+      47
+    ],
+    "page_start": 47,
+    "page_end": 47,
+    "heading_path": [
+      "3. RECOGNITION AND REWARDS:"
+    ],
+    "section_label": "3. RECOGNITION AND REWARDS:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 95,
+    "token_count": 16
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0096",
+    "report_id": "Bunduq2023",
+    "chunk_index": 95,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Monthly personal hours eligibility for both direct & contract hire employees.",
+    "page_numbers": [
+      47
+    ],
+    "page_start": 47,
+    "page_end": 47,
+    "heading_path": [
+      "4.MONTHLY PERSONAL HOUR:"
+    ],
+    "section_label": "4.MONTHLY PERSONAL HOUR:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 77,
+    "token_count": 17
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0097",
+    "report_id": "Bunduq2023",
+    "chunk_index": 96,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We prioritize work-life balance by offering benefits such as parental leave, enabling employees to manage personal responsibilities effectively and contributing to long-term talent retention. We benchmark our practices regularly against leading market standards and ADNOC guidelines to continuously update our policies and procedures to reflect leading practice. implemented throughout the year. We recognize that effective employee relations are crucial for fostering a positive work environment and increasing retention and utilize various strategies to maintain that:",
+    "page_numbers": [
+      47
+    ],
+    "page_start": 47,
+    "page_end": 47,
+    "heading_path": [
+      "5. WORK-LIFE BALANCE:"
+    ],
+    "section_label": "5. WORK-LIFE BALANCE:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 570,
+    "token_count": 100
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0098",
+    "report_id": "Bunduq2023",
+    "chunk_index": 97,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "A yearly performance evaluation allows us to get to know the employees individually, provide them with feedback on how they are doing in the company, and discuss their professional goals and how to achieve them. At the beginning of each year, all Bunduq employees, through a collaborative process, identify career objectives and associated SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals, providing a roadmap for their professional growth for the year. Mid-year reviews offer employees and their line managers an opportunity to assess the progress against targets and receive any guidance and recommendations for performance improvement for the rest of the year. At the end of the year, an annual evaluation is conducted to review the overall performance, followed by a performance appraisal and rating, where employees are given a clear assessment of their achievements and areas for improvement. Finally, the identification of developmental and training needs to complete the yearly performance appraisal process ensures that employees receive tailored support and resources. This process helps identify skill gaps to determine training and development needs and aligns individual development with the company's strategic goals. Bunduq's employee performance appraisal process is showcased in the diagram below:",
+    "page_numbers": [
+      48
+    ],
+    "page_start": 48,
+    "page_end": 48,
+    "heading_path": [
+      "EMPLOYEE PERFORMANCE APPRAISAL"
+    ],
+    "section_label": "EMPLOYEE PERFORMANCE APPRAISAL",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1334,
+    "token_count": 262
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0099",
+    "report_id": "Bunduq2023",
+    "chunk_index": 98,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Reward and recognition programs at Bunduq are designed to acknowledge and reward employees for their contributions, achievements, and behaviors that align with the organization's goals and values. They aim to create an environment of appreciation and acknowledgement. We conducted our annual award ceremony in December 2023 and celebrated and honored the remarkable efforts of our employees. The awards were distributed across the following distinct categories, each highlighting specific aspects of excellence: - ■ Long service awards are a type of employee recognition that includes commemorating years of services and a way to show appreciation for employees' commitment, loyalty, and contributions. - ■ HSE excellence awards to encourage staff innovation and celebrate initiatives that resulted in outstanding health, safety, and environmental achievements. In 2023, there were 24 submissions from across the departments and to acknowledge employees from diverse departments, we introduced a technical and a nontechnical category, as well as a general special recognition. A total of 7 awards were distributed 3 each to technical and non-technical and 1 to general special recognition category. - ■ WATCH high-quality submission awards commending exceptional WATCH submissions that demonstrate a commitment to excellence. These observations refer to a specific type of safety observation that identify potential hazards to proactively address issues before they lead to incidents or accidents, thereby maintaining a safe and productive work environment.",
+    "page_numbers": [
+      49
+    ],
+    "page_start": 49,
+    "page_end": 49,
+    "heading_path": [
+      "EMPLOYEE AWARD PROGRAMS"
+    ],
+    "section_label": "EMPLOYEE AWARD PROGRAMS",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1557,
+    "token_count": 310
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0100",
+    "report_id": "Bunduq2023",
+    "chunk_index": 99,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We recognize the role of an effective grievance redressal mechanism to support a safe work-environment. There are dedicated channels in place for Bunduq's employees to raise their concerns in a confidential and safe manner. Our Grievance Policy covers protocols for raising any concerns or issues with a direct supervisor. When major grievances are to be raised, a structured procedure involving the department manager or the Business Support Unit using an Employee Grievance Report to be followed. In rare cases, if necessary, the CEO makes the final decision. In 2023, no major grievances were reported. For a brief outline of the escalation process, refer to the diagram below:",
+    "page_numbers": [
+      50
+    ],
+    "page_start": 50,
+    "page_end": 50,
+    "heading_path": [
+      "GRIEVANCE MECHANISM"
+    ],
+    "section_label": "GRIEVANCE MECHANISM",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 680,
+    "token_count": 150
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0101",
+    "report_id": "Bunduq2023",
+    "chunk_index": 100,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We cover all our employees under health insurance, and they are provided with disability benefits, maternity/paternity leaves and benefits, study leave and retirement support. We also conduct awareness and education activities for all employees regarding health and nutrition management, regular medical check-ups, and sharing mental health resources to support employee well-being. In 2023, our human resources department conducted medical checkups for all direct employees and contractors in accordance with ADNOC guidelines. Throughout the process, we ensured that all cases, including sensitive medical information, were handled with confidentiality, demonstrating our commitment to employee privacy and trust. We aim to ensure that 100% of the Bunduq workforce undergoes regular health check-ups, taking necessary measures to prevent any delays in the future. Additionally, to prompt employees' awareness and mindfulness about maintaining a healthy lifestyle and monitoring health indicators, we conducted a campaign focused on the importance of sleep. It covered topics such as sleep stages, the biology of sleep, factors influencing sleep, and sleep quality improvement. These initiatives and others implemented throughout the year contribute to creating a healthier, happier, and more productive workforce.",
+    "page_numbers": [
+      51
+    ],
+    "page_start": 51,
+    "page_end": 51,
+    "heading_path": [
+      "Employee welfare is an essential part of our human resources practices."
+    ],
+    "section_label": "Employee welfare is an essential part of our human resources practices.",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1314,
+    "token_count": 257
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0102",
+    "report_id": "Bunduq2023",
+    "chunk_index": 101,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 3-3) Bunduq believes in using our business as a force for good, fostering positive societal impact through charitable giving and community engagement through employee voluntary activities. By investing in the communities around us, we contribute to a more sustainable and prosperous future for all. We actively encourage employee participation in volunteer and charitable activities. These experiences benefit the communities we serve and contribute to our staff's personal growth and development. By giving back, employees feel a deeper connection to the company's values, build stronger relationships with colleagues, and experience the satisfaction of making a positive difference. This also results in a more engaged and motivated workforce. While the pandemic required a temporary pause, we look forward to re-engaging and conducting our CSR initiatives in 2024. We have initiated the planning of these initiatives and are actively engaging with stakeholders to ensure a cohesive and efficient resumption of our CSR endeavors.",
+    "page_numbers": [
+      51
+    ],
+    "page_start": 51,
+    "page_end": 51,
+    "heading_path": [
+      "COMMUNITY DEVELOPMENT AND WELLBEING"
+    ],
+    "section_label": "COMMUNITY DEVELOPMENT AND WELLBEING",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1036,
+    "token_count": 209
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0103",
+    "report_id": "Bunduq2023",
+    "chunk_index": 102,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq is committed to creating economic value through sustainable practices embedded in our corporate strategy. By doing this, we ensure responsible corporate citizenship and work towards achieving long-term growth and prosperity. Jasim Al Raeesi",
+    "page_numbers": [
+      53
+    ],
+    "page_start": 53,
+    "page_end": 53,
+    "heading_path": [
+      "CHAPTER 5 CREATING ECONOMIC VALUE"
+    ],
+    "section_label": "CHAPTER 5 CREATING ECONOMIC VALUE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 247,
+    "token_count": 50
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0104",
+    "report_id": "Bunduq2023",
+    "chunk_index": 103,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Bunduq is committed to generating sustainable economic value that directly benefits our shareholders, our concession partners, and the broader national interests they represent. Bunduq's business strategy focuses on enhancing oil recovery, improving asset reliability, and achieving operational synergies. This includes conducting surveys and studies, developing employee skills to meet evolving technical demands, and exploring digitization to improve Bunduq's offerings and continued success. Throughout the year, Bunduq's production unit monitored operations and collaborated with offshore staff to maintain and repair the aging facilities. The development unit sought new opportunities to maximize and optimize production performance, with a proactive approach to adopting digital technologies. This year, Bunduq also undertook significant projects to strengthen its cybersecurity infrastructure such",
+    "page_numbers": [
+      53
+    ],
+    "page_start": 53,
+    "page_end": 53,
+    "heading_path": [
+      "CREATING ECONOMIC VALUE"
+    ],
+    "section_label": "CREATING ECONOMIC VALUE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 904,
+    "token_count": 177
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0105",
+    "report_id": "Bunduq2023",
+    "chunk_index": 104,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "as adopting Zero Trust Network Access and Multifactor Authentication to mitigate the risk of unauthorized access. Cybersecurity awareness across the company is reinforced through annual training, ongoing awareness programs, and regular phishing simulations. To mitigate risks from third parties, Bunduq includes cybersecurity requirements in their contracts and service level agreements (SLAs). Local procurement is critical for Bunduq, reflecting the company's commitment to creating value for its host countries, Qatar and the UAE. This approach stimulates localization, attracts foreign investments, creates local job opportunities, contributes to national GDP growth, and expands private sector participation in achieving the national vision.",
+    "page_numbers": [
+      53
+    ],
+    "page_start": 53,
+    "page_end": 53,
+    "heading_path": [
+      "2023 KEY HIGHLIGHTS"
+    ],
+    "section_label": "2023 KEY HIGHLIGHTS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 746,
+    "token_count": 151
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0106",
+    "report_id": "Bunduq2023",
+    "chunk_index": 105,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our business strategy is designed to foster long-term value creation to ensure Bunduq's continued success. By focusing on our five key strategic priorities, we aim to drive innovation, enhance operational efficiency, and ensure resilience to keep the El Bunduq oil field running smoothly.",
+    "page_numbers": [
+      54
+    ],
+    "page_start": 54,
+    "page_end": 54,
+    "heading_path": [
+      "BUSINESS STRATEGY"
+    ],
+    "section_label": "BUSINESS STRATEGY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 288,
+    "token_count": 62
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0107",
+    "report_id": "Bunduq2023",
+    "chunk_index": 106,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Applying advanced techniques to optimize oil production and increase overall reservoir recovery.",
+    "page_numbers": [
+      54
+    ],
+    "page_start": 54,
+    "page_end": 54,
+    "heading_path": [
+      "Enhanced Oil Recovery Field Development"
+    ],
+    "section_label": "Enhanced Oil Recovery Field Development",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 96,
+    "token_count": 17
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0108",
+    "report_id": "Bunduq2023",
+    "chunk_index": 107,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Enhancing the dependability and performance of our infrastructure and equipment reservoir recovery.",
+    "page_numbers": [
+      54
+    ],
+    "page_start": 54,
+    "page_end": 54,
+    "heading_path": [
+      "Asset Reliability"
+    ],
+    "section_label": "Asset Reliability",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 99,
+    "token_count": 17
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0109",
+    "report_id": "Bunduq2023",
+    "chunk_index": 108,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Fostering collaboration and integration across our operations to improve efficiency and effectiveness.",
+    "page_numbers": [
+      54
+    ],
+    "page_start": 54,
+    "page_end": 54,
+    "heading_path": [
+      "Operational Synergies"
+    ],
+    "section_label": "Operational Synergies",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 102,
+    "token_count": 16
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0110",
+    "report_id": "Bunduq2023",
+    "chunk_index": 109,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Leveraging digital technologies to streamline workflows, automate processes, and enhance data management and document control reservoir recovery.",
+    "page_numbers": [
+      54
+    ],
+    "page_start": 54,
+    "page_end": 54,
+    "heading_path": [
+      "Digital Transformation"
+    ],
+    "section_label": "Digital Transformation",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 145,
+    "token_count": 27
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0111",
+    "report_id": "Bunduq2023",
+    "chunk_index": 110,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Prioritizing our workforce's development through training and growth opportunities while promoting knowledge sharing and transfer within the organization.",
+    "page_numbers": [
+      54
+    ],
+    "page_start": 54,
+    "page_end": 54,
+    "heading_path": [
+      "Employee Development and Knowledge"
+    ],
+    "section_label": "Employee Development and Knowledge",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 154,
+    "token_count": 24
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0112",
+    "report_id": "Bunduq2023",
+    "chunk_index": 111,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In the oil and gas industry, production involves the extraction and processing of hydrocarbons to deliver reliable energy resources to markets worldwide. At Bunduq, our production activities are the cornerstone of our operations, enabling us to supply energy to meet global needs. Our approach to production emphasizes efficiency, safety, and sustainability, ensuring that we maximize resource recovery while minimizing environmental impact. Through technological advancement and strict operational standards, we strive to optimize production processes, enhance recovery rates, and maintain the level of operational integrity. Our dedicated teams work tirelessly to monitor and optimize every stage of production, from drilling and extraction to processing and transportation. To boost oil production and ensure well integrity, Bunduq undertook the following key activities in 2023: - ■ Conceptual study for undeveloped field of El Bunduq Field - The 'Concept Selection Study' for the undeveloped field of El Bunduq Field involves evaluating different options to determine the most cost-effective and feasible approach for developing the undeveloped field of El Bunduq Field. This includes considering two primary development concepts: maximizing total hydrocarbon recovery through comprehensive oil and gas development and minimizing capital expenditure while optimizing gas recovery specifically from the gas cap of the field. These concepts aim to balance operational efficiency, economic viability, and environmental considerations in planning the field's development strategy. - ■ Replacement of submarine cables -Submarine cables, installed over 20 years ago to connect WIP to wellhead platforms, are now beyond their expected service life. To ensure uninterrupted production and operational safety, a five-year replacement plan has been initiated, prioritizing wellheads based on their production significance and insulation test results. This measure aims to maintain the integrity and reliability of our underwater infrastructure. - ■ Wellhead Integrity Survey - This is conducted to assess the condition and reliability of wellhead equipment, ensuring it meets safety and operational standards. This survey typically includes inspections for signs of corrosion, leaks, and mechanical wear to maintain the integrity and performance of wellheads within operational parameters.",
+    "page_numbers": [
+      55
+    ],
+    "page_start": 55,
+    "page_end": 55,
+    "heading_path": [
+      "PRODUCTION"
+    ],
+    "section_label": "PRODUCTION",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 2384,
+    "token_count": 489
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0113",
+    "report_id": "Bunduq2023",
+    "chunk_index": 112,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "A wellhead is the equipment installed at the top of an oil or gas well to provide structural support and maintain pressure control during drilling and production operations. Ensuring the integrity of wellheads is critical for operational safety and environmental protection as well as for preventing costly production downtimes and mitigating the risk of spills or leaks, which can occur if wellheads fail and allow hydrocarbons to escape. The wellhead integrity survey is conducted to assess the condition and reliability of wellhead components, such as tubing and casing hangers, to prevent leaks and ensure operational efficiency. During the survey, qualified inspectors conduct visual inspections and use techniques to test critical components. This includes checking for signs of corrosion, cracks, mechanical wear, and ensuring proper sealing mechanisms. Between February and July 2023, a wellhead integrity survey was conducted across 21 wells. The findings revealed issues in two wells: - ■ Well 1: I dentified a cavity in the Tubing Hanger. - ■ Well 2: Detected a cavity in the Casing Hanger. To address the identified issues, the remediation plan involved injecting sealant into the affected areas of the wellheads. This proactive measure aimed to prevent further deterioration and maintain the integrity of the wellheads, ensuring safe and efficient operations. The survey and subsequent remediation actions supports the company's commitment to operational efficiency, safety, and environmental stewardship. By conducting regular inspections and promptly addressing issues, the company aims to minimize risks associated with wellhead failures.",
+    "page_numbers": [
+      55
+    ],
+    "page_start": 55,
+    "page_end": 55,
+    "heading_path": [
+      "Case Study: Wellhead Integrity Survey Results"
+    ],
+    "section_label": "Case Study: Wellhead Integrity Survey Results",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1654,
+    "token_count": 364
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0114",
+    "report_id": "Bunduq2023",
+    "chunk_index": 113,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In March 2023, Bunduq faced a critical operational challenge when a pinhole leak was detected in a fuel gas scrubber pipe, part of our production operations. This case highlights how our team's swift action helped prevent environmental harm and maintained the safety and integrity of our operations. A 1-inch line connecting the fuel gas scrubbers to the CCP-Sump tank developed a pinhole leak. The leak posed a risk of releasing hazardous condensate water containing dissolved hydrogen sulfide (H2S) and hydrocarbons, which could lead to environmental contamination on the deck. Within one hour of identifying the leak, our team installed a temporary clamp to arrest the issue and prevent spillage. This immediate response avoided the release of harmful substances into the",
+    "page_numbers": [
+      56
+    ],
+    "page_start": 56,
+    "page_end": 56,
+    "heading_path": [
+      "Case Study: Rapid Response to Fuel Gas Scrubber Leak"
+    ],
+    "section_label": "Case Study: Rapid Response to Fuel Gas Scrubber Leak",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 774,
+    "token_count": 190
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0115",
+    "report_id": "Bunduq2023",
+    "chunk_index": 114,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2023, Bunduq initiated a study on artificial lift systems using jet pump technology to enhance oil recovery from mature wells. The primary objective was to implement surface modifications and improve production efficiency through the deployment of jet pumps. In 2023, the project began with the tendering process for surface modifications, which involved selecting vendors capable of delivering high-quality materials and services to support the jet pump installation. By 2024, the engineering study was launched, focusing on designing the necessary surface modifications to integrate the jet pumps into existing infrastructure. Key activities during this phase included evaluating the compatibility of current production facilities with jet pump technology, identifying, and procuring the required materials for the modifications, and preparing the engineering design for the installation of the jet pump system. Jet pumps provide an efficient method of artificial lift, well-suited to the conditions in Bunduq's oilfields. By using high-pressure fluid injection to increase the well's production, jet pumps offer a low-maintenance solution with no moving parts downhole, ensuring a reliable and continuous production process. This study directly supports Bunduq's efforts to optimize production by: - ■ Jet pumps enable increased extraction from mature wells, helping maintain production levels as reservoir pressure declines. - ■ With no moving parts downhole, jet pumps reduce the risk of equipment failure and ensure consistent operation. - ■ Jet pumps require less mechanical energy, leading to lower carbon emissions. environment, protecting both personnel and the surrounding ecosystem. Following this, Bunduq took additional steps by fabricating a new spool. The permanent repair was completed by July 2023. Throughout the process, safety protocols were rigorously followed, ensuring the repair was conducted without incident. The swift response and subsequent permanent solution prevented potential environmental damage and underscored Bunduq's commitment to operational safety. The incident serves as a testament to our readiness to act promptly in the face of operational challenges and our dedication to minimizing environmental impact.",
+    "page_numbers": [
+      56
+    ],
+    "page_start": 56,
+    "page_end": 56,
+    "heading_path": [
+      "Case Study: Enhancing Oil Recovery through Jet Pump Technology"
+    ],
+    "section_label": "Case Study: Enhancing Oil Recovery through Jet Pump Technology",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 2252,
+    "token_count": 457
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0116",
+    "report_id": "Bunduq2023",
+    "chunk_index": 115,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 3-3, 203-2, 204-1, 414-1, 414-2) Procurement is an important business function that involves sourcing goods and services necessary for an organization's operations. It covers activities from identifying and sourcing suppliers to negotiating contracts and managing supplier relationships. Effective procurement is key for ensuring the timely availability of required resources at optimal costs while maintaining quality standards. Local procurement is central to Bunduq's procurement management, aligning with the national visions of both the UAE and Qatar. This practice not only supports the local economy by creating jobs and fostering business growth but also enhances supply chain efficiency by reducing transportation costs and lead times. Bunduq classifies suppliers with a registered trade license in the Emirate of Abu Dhabi as local. In 2023, we directed 87% of our procurement spending to local suppliers, highlighting our active role in supporting our domestic economies. Our long-standing relationships with many suppliers reflect our dedication to fair treatment and transparency. We offer flexible payment options and shorter pre-qualification and registration periods to further assist local suppliers. The Tender Committee oversees our procurement activities and is responsible for reviewing and approving all contract bids valued over USD 250,000. The committee evaluates supplier bids based on our stringent commercial, technical, quality, and health, safety, and environment (HSE) requirements, ensuring that we partner with the best suppliers while maintaining high standards and integrity in our operations. To maintain high HSE standards, we require both existing and new suppliers to go through our HSE screening process (HSE screening diagram to be added). We utilize an HSE scorecard to assess contractors' performance post-project completion, allowing us to collaborate with those demonstrating exceptional operational excellence in health and safety. We conduct comprehensive evaluation of all new vendors to ensure that only the most compliant ones are considered. Bunduq's vendor risk management assesses and manages cybersecurity risks associated with third-party vendors and services providers. Bunduq also regularly audits the third-party security practices to ensure they meet the organization's cybersecurity standards and include cybersecurity requirements in contracts and service level agreements (SLAs) with third parties.",
+    "page_numbers": [
+      57
+    ],
+    "page_start": 57,
+    "page_end": 57,
+    "heading_path": [
+      "PROCUREMENT PRACTICES"
+    ],
+    "section_label": "PROCUREMENT PRACTICES",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2465,
+    "token_count": 510
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0117",
+    "report_id": "Bunduq2023",
+    "chunk_index": 116,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 3-3) In line with our business strategy, we are committed to leveraging digital technologies to optimize our oil field operations, drive commercial success, and minimize our environmental impact. By investing in technological solutions, we aim to enhance oil recovery rates, improve asset reliability, and streamline our operations for greater efficiency and cost-effectiveness. Bunduq's focus on technology and digital transformation not only strengthen our operational capabilities but also enable us to respond swiftly to market changes and operational challenges, ensuring sustained growth and profitability. By adopting innovative digital tools, we also aim to reduce our carbon footprint and promote environmentally responsible practices. After the success of Bunduq's previous initiatives 'Implementation of Paperless Work in Logistics' and 'E-Invoice Portal for Suppliers', this year's internal initiatives include Bunduq's target for 2024 to reduce its paper consumption by 3% from 2023 levels, a goal that is embedded in the key performance indicators (KPIs) of employees across the departments at Bunduq.",
+    "page_numbers": [
+      58
+    ],
+    "page_start": 58,
+    "page_end": 58,
+    "heading_path": [
+      "DIGITAL TRANSFORMATION AND INNOVATION"
+    ],
+    "section_label": "DIGITAL TRANSFORMATION AND INNOVATION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1120,
+    "token_count": 245
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0118",
+    "report_id": "Bunduq2023",
+    "chunk_index": 117,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "(GRI 3-3) The company has undertaken comprehensive projects aimed at strengthening its cybersecurity infrastructure and safeguarding its users from attacks. To identify rapid response strategies to detect and mitigate ransomware threats proactively Bunduq is exploring leveraging machine learning and artificial intelligence to identify suspicious activities and potential breaches in real-time. The company also conducts regular security audits and vulnerability assessments to identify and address potential weaknesses in their systems. In addition to technological measures, Bunduq has established a dedicated incident response team trained to handle ransomware attacks efficiently. This team works to ensure that in the event of an attack, the impact is minimized, and operations can be swiftly restored. Bunduq also emphasizes the importance of employee training and awareness",
+    "page_numbers": [
+      59
+    ],
+    "page_start": 59,
+    "page_end": 59,
+    "heading_path": [
+      "CYBER SECURITY"
+    ],
+    "section_label": "CYBER SECURITY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 881,
+    "token_count": 182
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0119",
+    "report_id": "Bunduq2023",
+    "chunk_index": 118,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "programs to strengthen its staff's cybersecurity knowledge and recognize phishing attempts. Bunduq's key security infrastructure enhancements made in 2023 includes implementing Zero Trust Network Access (ZTNA) for Virtual Desktop Infrastructure (VDI) users ensuring that every access request is thoroughly verified before granting any level of access, Multifactor Authentication for its services, requiring users to verify their identity using a mobile app or security key in addition to their password; and SAP Disaster Recovery Plan to protect and restore critical SAP systems and data in the event of a disaster or disruption. These multi-faceted security enhancements signify Bunduq's commitment to maintaining strong security standards.",
+    "page_numbers": [
+      59
+    ],
+    "page_start": 59,
+    "page_end": 59,
+    "heading_path": [
+      "CYBERSECURITY INDICATORS"
+    ],
+    "section_label": "CYBERSECURITY INDICATORS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 741,
+    "token_count": 152
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0120",
+    "report_id": "Bunduq2023",
+    "chunk_index": 119,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Comprehensive cybersecurity policies and procedures. Continuous monitoring of the threat landscape and organizational vulnerabilities. Ensure closeout of cyberattack incidents within 24 hours. Regular cybersecurity training for all employees. Regularly test employees with phishing simulations. Cybersecurity requirements in contracts and service level agreements (SLAs) with third parties. Adopting a Zero Trust architecture to minimize unauthorized access. Regular security audits and vulnerability assessments . A dedicated incident response team trained to handle ransomware attacks efficiently. Advanced encryption technologies to secure sensitive data. Cutting-edge intrusion detection and prevention systems.",
+    "page_numbers": [
+      59
+    ],
+    "page_start": 59,
+    "page_end": 59,
+    "heading_path": [
+      "BUNDUQ'S RESILIENT CYBER SECURITY PRACTICES"
+    ],
+    "section_label": "BUNDUQ'S RESILIENT CYBER SECURITY PRACTICES",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 715,
+    "token_count": 148
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0121",
+    "report_id": "Bunduq2023",
+    "chunk_index": 120,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "SAP Disaster Recovery (DR) plan is a set of procedures designed to protect and restore critical SAP systems and data in the event of a disaster or disruption. A disaster can be anything from a fire or flood to a power outage or cyberattack that could stop this system from working. In these scenarios, having SAP DR plan helps to get the system up and running again quickly without major interruptions. It is a crucial component of overall business continuity and risk management.",
+    "page_numbers": [
+      60
+    ],
+    "page_start": 60,
+    "page_end": 60,
+    "heading_path": [
+      "Case Study: SAP Disaster Recovery (DR) Plan"
+    ],
+    "section_label": "Case Study: SAP Disaster Recovery (DR) Plan",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 480,
+    "token_count": 103
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0122",
+    "report_id": "Bunduq2023",
+    "chunk_index": 121,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ■ Ensuring minimal disruption to business operations following a disaster. - ■ Maintains critical business functions during unexpected disruptions. - ■ Safeguards sensitive information by protecting against data loss and maintaining data integrity. - ■ Enabling rapid recovery and resumption of normal business activities. - ■ Prevents financial losses caused by system outages. SAP is a business-critical application for Bunduq, and it was earlier hosted on Bunduq's servers with limited storage space and had only daily backups for the application and database. Relying on daily backups left the system vulnerable to significant data loss in case of hardware failures, natural disasters, or cyberattacks. Bunduq required a full-fledged business continuity plan (BCP) for SAP DR, and we consulted and implemented the same in UAE cloud. Bunduq's SAP DR project delivers exceptional results. We boast a very low Recovery Time Objective (RTO) and Recovery Point Objective (RPO). Additionally, we conduct regular DR tests every 3 to 6 months, ensuring our Business Continuity Plan (BCP) remains active and up to date. This proactive approach has minimized downtime for our SAP applications.",
+    "page_numbers": [
+      60
+    ],
+    "page_start": 60,
+    "page_end": 60,
+    "heading_path": [
+      "Key benefits of an SAP DR Plan:"
+    ],
+    "section_label": "Key benefits of an SAP DR Plan:",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1189,
+    "token_count": 274
+  },
+  {
+    "chunk_id": "Bunduq2023__c_0123",
+    "report_id": "Bunduq2023",
+    "chunk_index": 122,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "PO Box 46015, Abu Dhabi, United Arab Emirates T: +971 2 677 9922 | F: +971 2 677 9477 | www. bunduq.com",
+    "page_numbers": [
+      72
+    ],
+    "page_start": 72,
+    "page_end": 72,
+    "heading_path": [
+      "BUNDUQ COMPANY LIMITED"
+    ],
+    "section_label": "BUNDUQ COMPANY LIMITED",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 103,
+    "token_count": 42
+  }
+]

@@ -1,0 +1,6 @@
+phase,status,n_findings,notes
+phase1,pass,0,
+phase8_light,fail,2,item iv: List of reported disclosures with disclosure IDs — missing or invalid | item vi: Location of each disclosure — missing or invalid
+phase9,external_verification,0,
+final,fail,1,phase8_light (fail): 2 findings
+overall,fail,0,with_reference pass requires phase1 + phase8_light all pass

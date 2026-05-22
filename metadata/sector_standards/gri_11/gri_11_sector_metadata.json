@@ -1,0 +1,778 @@
+[
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.1.1",
+    "base_topic_id": "11.1",
+    "topic_name": "GHG emissions",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.1.2",
+    "base_topic_id": "11.1",
+    "topic_name": "GHG emissions",
+    "standards_id": "GRI 302",
+    "disclosure_id": "302-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.1.3",
+    "base_topic_id": "11.1",
+    "topic_name": "GHG emissions",
+    "standards_id": "GRI 302",
+    "disclosure_id": "302-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.1.4",
+    "base_topic_id": "11.1",
+    "topic_name": "GHG emissions",
+    "standards_id": "GRI 302",
+    "disclosure_id": "302-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.1.5",
+    "base_topic_id": "11.1",
+    "topic_name": "GHG emissions",
+    "standards_id": "GRI 305",
+    "disclosure_id": "305-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.1.6",
+    "base_topic_id": "11.1",
+    "topic_name": "GHG emissions",
+    "standards_id": "GRI 305",
+    "disclosure_id": "305-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.1.7",
+    "base_topic_id": "11.1",
+    "topic_name": "GHG emissions",
+    "standards_id": "GRI 305",
+    "disclosure_id": "305-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.1.8",
+    "base_topic_id": "11.1",
+    "topic_name": "GHG emissions",
+    "standards_id": "GRI 305",
+    "disclosure_id": "305-4"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.2.1",
+    "base_topic_id": "11.2",
+    "topic_name": "Climate adaptation, resilience, and transition",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.2.2",
+    "base_topic_id": "11.2",
+    "topic_name": "Climate adaptation, resilience, and transition",
+    "standards_id": "GRI 201",
+    "disclosure_id": "201-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.2.3",
+    "base_topic_id": "11.2",
+    "topic_name": "Climate adaptation, resilience, and transition",
+    "standards_id": "GRI 305",
+    "disclosure_id": "305-5"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.3.1",
+    "base_topic_id": "11.3",
+    "topic_name": "Air emissions",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.3.2",
+    "base_topic_id": "11.3",
+    "topic_name": "Air emissions",
+    "standards_id": "GRI 305",
+    "disclosure_id": "305-7"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.3.3",
+    "base_topic_id": "11.3",
+    "topic_name": "Air emissions",
+    "standards_id": "GRI 416",
+    "disclosure_id": "416-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.4.1",
+    "base_topic_id": "11.4",
+    "topic_name": "Biodiversity",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.4.2",
+    "base_topic_id": "11.4",
+    "topic_name": "Biodiversity",
+    "standards_id": "GRI 304",
+    "disclosure_id": "304-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.4.3",
+    "base_topic_id": "11.4",
+    "topic_name": "Biodiversity",
+    "standards_id": "GRI 304",
+    "disclosure_id": "304-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.4.4",
+    "base_topic_id": "11.4",
+    "topic_name": "Biodiversity",
+    "standards_id": "GRI 304",
+    "disclosure_id": "304-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.4.5",
+    "base_topic_id": "11.4",
+    "topic_name": "Biodiversity",
+    "standards_id": "GRI 304",
+    "disclosure_id": "304-4"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.5.1",
+    "base_topic_id": "11.5",
+    "topic_name": "Waste",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.5.2",
+    "base_topic_id": "11.5",
+    "topic_name": "Waste",
+    "standards_id": "GRI 306",
+    "disclosure_id": "306-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.5.3",
+    "base_topic_id": "11.5",
+    "topic_name": "Waste",
+    "standards_id": "GRI 306",
+    "disclosure_id": "306-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.5.4",
+    "base_topic_id": "11.5",
+    "topic_name": "Waste",
+    "standards_id": "GRI 306",
+    "disclosure_id": "306-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.5.5",
+    "base_topic_id": "11.5",
+    "topic_name": "Waste",
+    "standards_id": "GRI 306",
+    "disclosure_id": "306-4"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.5.6",
+    "base_topic_id": "11.5",
+    "topic_name": "Waste",
+    "standards_id": "GRI 306",
+    "disclosure_id": "306-5"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.6.1",
+    "base_topic_id": "11.6",
+    "topic_name": "Water and effluents",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.6.2",
+    "base_topic_id": "11.6",
+    "topic_name": "Water and effluents",
+    "standards_id": "GRI 303",
+    "disclosure_id": "303-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.6.3",
+    "base_topic_id": "11.6",
+    "topic_name": "Water and effluents",
+    "standards_id": "GRI 303",
+    "disclosure_id": "303-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.6.4",
+    "base_topic_id": "11.6",
+    "topic_name": "Water and effluents",
+    "standards_id": "GRI 303",
+    "disclosure_id": "303-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.6.5",
+    "base_topic_id": "11.6",
+    "topic_name": "Water and effluents",
+    "standards_id": "GRI 303",
+    "disclosure_id": "303-4"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.6.6",
+    "base_topic_id": "11.6",
+    "topic_name": "Water and effluents",
+    "standards_id": "GRI 303",
+    "disclosure_id": "303-5"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.7.1",
+    "base_topic_id": "11.7",
+    "topic_name": "Closure and rehabilitation",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.7.2",
+    "base_topic_id": "11.7",
+    "topic_name": "Closure and rehabilitation",
+    "standards_id": "GRI 402",
+    "disclosure_id": "402-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.7.3",
+    "base_topic_id": "11.7",
+    "topic_name": "Closure and rehabilitation",
+    "standards_id": "GRI 404",
+    "disclosure_id": "404-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.8.1",
+    "base_topic_id": "11.8",
+    "topic_name": "Asset integrity and critical incident management",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.8.2",
+    "base_topic_id": "11.8",
+    "topic_name": "Asset integrity and critical incident management",
+    "standards_id": "GRI 306",
+    "disclosure_id": "306-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.9.1",
+    "base_topic_id": "11.9",
+    "topic_name": "Occupational health and safety",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.9.2",
+    "base_topic_id": "11.9",
+    "topic_name": "Occupational health and safety",
+    "standards_id": "GRI 403",
+    "disclosure_id": "403-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.9.3",
+    "base_topic_id": "11.9",
+    "topic_name": "Occupational health and safety",
+    "standards_id": "GRI 403",
+    "disclosure_id": "403-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.9.4",
+    "base_topic_id": "11.9",
+    "topic_name": "Occupational health and safety",
+    "standards_id": "GRI 403",
+    "disclosure_id": "403-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.9.5",
+    "base_topic_id": "11.9",
+    "topic_name": "Occupational health and safety",
+    "standards_id": "GRI 403",
+    "disclosure_id": "403-4"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.9.6",
+    "base_topic_id": "11.9",
+    "topic_name": "Occupational health and safety",
+    "standards_id": "GRI 403",
+    "disclosure_id": "403-5"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.9.7",
+    "base_topic_id": "11.9",
+    "topic_name": "Occupational health and safety",
+    "standards_id": "GRI 403",
+    "disclosure_id": "403-6"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.9.8",
+    "base_topic_id": "11.9",
+    "topic_name": "Occupational health and safety",
+    "standards_id": "GRI 403",
+    "disclosure_id": "403-7"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.9.9",
+    "base_topic_id": "11.9",
+    "topic_name": "Occupational health and safety",
+    "standards_id": "GRI 403",
+    "disclosure_id": "403-8"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.9.10",
+    "base_topic_id": "11.9",
+    "topic_name": "Occupational health and safety",
+    "standards_id": "GRI 403",
+    "disclosure_id": "403-9"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.9.11",
+    "base_topic_id": "11.9",
+    "topic_name": "Occupational health and safety",
+    "standards_id": "GRI 403",
+    "disclosure_id": "403-10"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.10.1",
+    "base_topic_id": "11.10",
+    "topic_name": "Employment practices",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.10.2",
+    "base_topic_id": "11.10",
+    "topic_name": "Employment practices",
+    "standards_id": "GRI 401",
+    "disclosure_id": "401-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.10.3",
+    "base_topic_id": "11.10",
+    "topic_name": "Employment practices",
+    "standards_id": "GRI 401",
+    "disclosure_id": "401-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.10.4",
+    "base_topic_id": "11.10",
+    "topic_name": "Employment practices",
+    "standards_id": "GRI 401",
+    "disclosure_id": "401-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.10.5",
+    "base_topic_id": "11.10",
+    "topic_name": "Employment practices",
+    "standards_id": "GRI 402",
+    "disclosure_id": "402-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.10.6",
+    "base_topic_id": "11.10",
+    "topic_name": "Employment practices",
+    "standards_id": "GRI 404",
+    "disclosure_id": "404-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.10.7",
+    "base_topic_id": "11.10",
+    "topic_name": "Employment practices",
+    "standards_id": "GRI 404",
+    "disclosure_id": "404-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.10.8",
+    "base_topic_id": "11.10",
+    "topic_name": "Employment practices",
+    "standards_id": "GRI 414",
+    "disclosure_id": "414-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.10.9",
+    "base_topic_id": "11.10",
+    "topic_name": "Employment practices",
+    "standards_id": "GRI 414",
+    "disclosure_id": "414-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.11.1",
+    "base_topic_id": "11.11",
+    "topic_name": "Non-discrimination and equal opportunity",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.11.2",
+    "base_topic_id": "11.11",
+    "topic_name": "Non-discrimination and equal opportunity",
+    "standards_id": "GRI 202",
+    "disclosure_id": "202-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.11.3",
+    "base_topic_id": "11.11",
+    "topic_name": "Non-discrimination and equal opportunity",
+    "standards_id": "GRI 401",
+    "disclosure_id": "401-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.11.4",
+    "base_topic_id": "11.11",
+    "topic_name": "Non-discrimination and equal opportunity",
+    "standards_id": "GRI 404",
+    "disclosure_id": "404-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.11.5",
+    "base_topic_id": "11.11",
+    "topic_name": "Non-discrimination and equal opportunity",
+    "standards_id": "GRI 405",
+    "disclosure_id": "405-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.11.6",
+    "base_topic_id": "11.11",
+    "topic_name": "Non-discrimination and equal opportunity",
+    "standards_id": "GRI 405",
+    "disclosure_id": "405-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.11.7",
+    "base_topic_id": "11.11",
+    "topic_name": "Non-discrimination and equal opportunity",
+    "standards_id": "GRI 406",
+    "disclosure_id": "406-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.12.1",
+    "base_topic_id": "11.12",
+    "topic_name": "Forced labor and modern slavery",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.12.2",
+    "base_topic_id": "11.12",
+    "topic_name": "Forced labor and modern slavery",
+    "standards_id": "GRI 409",
+    "disclosure_id": "409-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.12.3",
+    "base_topic_id": "11.12",
+    "topic_name": "Forced labor and modern slavery",
+    "standards_id": "GRI 414",
+    "disclosure_id": "414-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.13.1",
+    "base_topic_id": "11.13",
+    "topic_name": "Freedom of association and collective bargaining",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.13.2",
+    "base_topic_id": "11.13",
+    "topic_name": "Freedom of association and collective bargaining",
+    "standards_id": "GRI 407",
+    "disclosure_id": "407-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.14.1",
+    "base_topic_id": "11.14",
+    "topic_name": "Economic impacts",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.14.2",
+    "base_topic_id": "11.14",
+    "topic_name": "Economic impacts",
+    "standards_id": "GRI 201",
+    "disclosure_id": "201-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.14.3",
+    "base_topic_id": "11.14",
+    "topic_name": "Economic impacts",
+    "standards_id": "GRI 202",
+    "disclosure_id": "202-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.14.4",
+    "base_topic_id": "11.14",
+    "topic_name": "Economic impacts",
+    "standards_id": "GRI 203",
+    "disclosure_id": "203-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.14.5",
+    "base_topic_id": "11.14",
+    "topic_name": "Economic impacts",
+    "standards_id": "GRI 203",
+    "disclosure_id": "203-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.14.6",
+    "base_topic_id": "11.14",
+    "topic_name": "Economic impacts",
+    "standards_id": "GRI 204",
+    "disclosure_id": "204-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.15.1",
+    "base_topic_id": "11.15",
+    "topic_name": "Local communities",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.15.2",
+    "base_topic_id": "11.15",
+    "topic_name": "Local communities",
+    "standards_id": "GRI 413",
+    "disclosure_id": "413-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.15.3",
+    "base_topic_id": "11.15",
+    "topic_name": "Local communities",
+    "standards_id": "GRI 413",
+    "disclosure_id": "413-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.16.1",
+    "base_topic_id": "11.16",
+    "topic_name": "Land and resource rights",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.17.1",
+    "base_topic_id": "11.17",
+    "topic_name": "Rights of indigenous peoples",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.17.2",
+    "base_topic_id": "11.17",
+    "topic_name": "Rights of indigenous peoples",
+    "standards_id": "GRI 411",
+    "disclosure_id": "411-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.18.1",
+    "base_topic_id": "11.18",
+    "topic_name": "Conflict and security",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.18.2",
+    "base_topic_id": "11.18",
+    "topic_name": "Conflict and security",
+    "standards_id": "GRI 410",
+    "disclosure_id": "410-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.19.1",
+    "base_topic_id": "11.19",
+    "topic_name": "Anti-competitive behavior",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.19.2",
+    "base_topic_id": "11.19",
+    "topic_name": "Anti-competitive behavior",
+    "standards_id": "GRI 206",
+    "disclosure_id": "206-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.20.1",
+    "base_topic_id": "11.20",
+    "topic_name": "Anti-corruption",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.20.2",
+    "base_topic_id": "11.20",
+    "topic_name": "Anti-corruption",
+    "standards_id": "GRI 205",
+    "disclosure_id": "205-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.20.3",
+    "base_topic_id": "11.20",
+    "topic_name": "Anti-corruption",
+    "standards_id": "GRI 205",
+    "disclosure_id": "205-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.20.4",
+    "base_topic_id": "11.20",
+    "topic_name": "Anti-corruption",
+    "standards_id": "GRI 205",
+    "disclosure_id": "205-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.21.1",
+    "base_topic_id": "11.21",
+    "topic_name": "Payments to governments",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.21.2",
+    "base_topic_id": "11.21",
+    "topic_name": "Payments to governments",
+    "standards_id": "GRI 201",
+    "disclosure_id": "201-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.21.3",
+    "base_topic_id": "11.21",
+    "topic_name": "Payments to governments",
+    "standards_id": "GRI 201",
+    "disclosure_id": "201-4"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.21.4",
+    "base_topic_id": "11.21",
+    "topic_name": "Payments to governments",
+    "standards_id": "GRI 207",
+    "disclosure_id": "207-1"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.21.5",
+    "base_topic_id": "11.21",
+    "topic_name": "Payments to governments",
+    "standards_id": "GRI 207",
+    "disclosure_id": "207-2"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.21.6",
+    "base_topic_id": "11.21",
+    "topic_name": "Payments to governments",
+    "standards_id": "GRI 207",
+    "disclosure_id": "207-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.21.7",
+    "base_topic_id": "11.21",
+    "topic_name": "Payments to governments",
+    "standards_id": "GRI 207",
+    "disclosure_id": "207-4"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.22.1",
+    "base_topic_id": "11.22",
+    "topic_name": "Public policy",
+    "standards_id": "GRI 3",
+    "disclosure_id": "3-3"
+  },
+  {
+    "sector_name": "GRI 11: Oil And Gas Sector 2021",
+    "topic_id": "11.22.2",
+    "base_topic_id": "11.22",
+    "topic_name": "Public policy",
+    "standards_id": "GRI 415",
+    "disclosure_id": "415-1"
+  }
+]

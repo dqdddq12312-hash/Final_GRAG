@@ -1,0 +1,3147 @@
+[
+  {
+    "chunk_id": "Tasnee2023__c_0001",
+    "report_id": "Tasnee2023",
+    "chunk_index": 0,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "SUSTAINABILITY REPORT 2023 King Salman Bin Abdulaziz Al Saud The Custodian of the Two Holy Mosques His Royal Highness Crown Prince, Prime Minister, Chairman of the Council of Economic and Development Affairs Mohammad Bin Salman Bin Abdulaziz Al Saud WE INTEGRATE OUR VISION OF SUSTAINABILITY INTO EVERY ASPECT OF OUR OPERATIONS, ENSURING ALIGNMENT WITH OUR CORPORATE GOALS. BY IMPLEMENTING STRATEGIC ACTIONS, WE SECURE LONG-TERM VALUE FOR OUR STAKEHOLDERS, THE ENVIRONMENT, AND OUR BUSINESS.",
+    "page_numbers": [
+      1,
+      2,
+      3
+    ],
+    "page_start": 1,
+    "page_end": 3,
+    "heading_path": [],
+    "section_label": "",
+    "doc_item_labels": [
+      "caption",
+      "text"
+    ],
+    "char_count": 491,
+    "token_count": 143
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0002",
+    "report_id": "Tasnee2023",
+    "chunk_index": 1,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We are pleased to present Tasnee's seventh annual Sustainability Report. This report provides insight into Tasnee's activities and environmental, social, and governance (ESG) performance throughout 2023.",
+    "page_numbers": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "heading_path": [
+      "ABOUT THIS REPORT"
+    ],
+    "section_label": "ABOUT THIS REPORT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 203,
+    "token_count": 45
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0003",
+    "report_id": "Tasnee2023",
+    "chunk_index": 2,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We welcome your feedback on this report and our performance. Comments and suggestions can be sent to our email address: TQM@TASNEE.COM or sent to our headquarters address: P.O Box 26707, Riyadh 11496 The Business Gate, Building No. C3 Eastern Ring Road, Qurtuba Area, Kingdom of Saudi Arabia",
+    "page_numbers": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "heading_path": [
+      "FEEDBACK"
+    ],
+    "section_label": "FEEDBACK",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 291,
+    "token_count": 72
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0004",
+    "report_id": "Tasnee2023",
+    "chunk_index": 3,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "This report contains statements that may be deemed as 'forwardlooking statements' that express the way in which Tasnee intends to conduct its activities. Forward statements could be identified by the use of forward-looking terminology such as 'plans', 'aims', 'assumes', 'continues', 'believes', or any variations of such words that certain actions, events or results 'may', 'could', 'should', 'might', 'will', or 'would' be taken or be achieved. Tasnee has made every effort to ensure that this report is as accurate and truthful as possible. However, by their nature, forward-looking statements are qualified to inherent risks and uncertainties surrounding future expectations that could cause actual results to differ materially from these projected or implied statements. Such statements ar e subject to risks that are beyond Tasnee's ability to control and therefore do not represent a guarantee that events implied in these forwardlooking statements will actually occur .",
+    "page_numbers": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "heading_path": [
+      "FORWARD-LOOKING STATEMENTS"
+    ],
+    "section_label": "FORWARD-LOOKING STATEMENTS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 977,
+    "token_count": 242
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0005",
+    "report_id": "Tasnee2023",
+    "chunk_index": 4,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The report covers the calendar year from 1 January 2023 to 31 December 2023, unless stated otherwise.",
+    "page_numbers": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "heading_path": [
+      "REPORTING PERIOD"
+    ],
+    "section_label": "REPORTING PERIOD",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 101,
+    "token_count": 21
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0006",
+    "report_id": "Tasnee2023",
+    "chunk_index": 5,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "This report has been developed in accordance with the GRI Sustainability Reporting Standards (Please refer to Appendix B for our GRI Content Index), and with reference to national and international standards, goals and priorities, including the United Nations Sustainable Development Goals (UN SDGs), and Saudi Vision 2030.",
+    "page_numbers": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "heading_path": [
+      "REPORTING GUIDELINES"
+    ],
+    "section_label": "REPORTING GUIDELINES",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 323,
+    "token_count": 69
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0007",
+    "report_id": "Tasnee2023",
+    "chunk_index": 6,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The report covers all Tasnee's operating facilities in the Kingdom of Saudi Arabia across all three main Strategic Business Units (Petrochemicals, Downstream, and AMIC) together with shared services. Data for external contractors, suppliers and clients are not included unless stated otherwise.",
+    "page_numbers": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "heading_path": [
+      "REPORT SCOPE AND BOUNDARY"
+    ],
+    "section_label": "REPORT SCOPE AND BOUNDARY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 294,
+    "token_count": 64
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0008",
+    "report_id": "Tasnee2023",
+    "chunk_index": 7,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "'FOR TASNEE, SUSTAINABILITY IS A CORNERSTONE OF DRIVING GROWTH, ENHANCING EFFICIENCY, AND MITIGATING RISKS, THEREBY MAKING US A MORE RESILIENT ENTERPRISE CAPABLE OF MEETING OUR STAKEHOLDERS' NEEDS.' On behalf of the Board of Directors and myself, I am delighted to present Tasnee's 2023 Sustainability Report. This report highlights the significant strides made in 2023 to enhance the sustainability of our business and contribute positively to the wellbeing of our people, our planet, and the communities we serve. In alignment with our commitment to 'Sustainable Vision in Action,' Tasnee aims to embed our vision of sustainability int o every aspect of our operations. Sustainability at Tasnee is a cornerstone of driving growth, enhancing efficiency, and mitigating risks, thereby making us a more resilient enterprise capable of meeting our stakeholders' needs. We are acutely aware of the environmental implications of our business activities and are committed to minimizing any adverse impacts. Our Decarbonization Roadmap outlines our clear ambition to achieve net-zero emissions by 2060. Our strategic initiatives are crafted to support not only our corporate objectives but also the national and international frameworks to which we adhere, including Saudi Vision 2030, the Saudi Green Initiative, and the UN Sustainable Development Goals. By doing so, we are fostering a culture dedicated to making a positive impact. In fact, we are mindful of our broader responsibilities to our communities, customers, and the societies we serve. In line with Saudi Vision 2030, we aim to be active contributors to societal progress, fostering economic growth and prosperity, supporting community wellbeing, and developing the skills and talents of our workforce, with a special focus on young talent. Throughout 2023, we sustained robust policies, procedures, and behaviors to ensure compliance in an evolving regulatory environment and to propagate these standards throughout our supply chains. We consistently strive to act ethically, be a trusted partner, and deliver exceptional products and services. This report provides numerous examples of how we implemented these principles in 2023, showcasing our collaborations and partnerships with industry peers, academic institutions, government bodies, suppliers, local communities, and our valued employees. I firmly believe that only through such a collaborative approach can Tasnee and our broader society achieve our longterm goals and aspirations. I extend my heartfelt thanks to all of Tasnee's employees and stakeholders for their invaluable contributions in 2023. Our success is built on their efforts, and they are the foundation of our future.",
+    "page_numbers": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "heading_path": [
+      "MESSAGE FROM THE CHAIRMAN"
+    ],
+    "section_label": "MESSAGE FROM THE CHAIRMAN",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2701,
+    "token_count": 621
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0009",
+    "report_id": "Tasnee2023",
+    "chunk_index": 8,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "I also pray to Allah to perpetuate the blessing of security , safety and prosperity under the leadership provided to our Kingdom by the Custodian of the Two Holy Mosques, King Salman bin Abdulaziz Al Saud and His Royal Highness Prince Mohammed bin Salman Al Saud, The Crown Prince and Prime Minister - May Allah grant them health and success.",
+    "page_numbers": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "heading_path": [
+      "MESSAGE FROM THE CHAIRMAN"
+    ],
+    "section_label": "MESSAGE FROM THE CHAIRMAN",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 342,
+    "token_count": 76
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0010",
+    "report_id": "Tasnee2023",
+    "chunk_index": 9,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "'OUR APPROACH TO SUSTAINABILITY IS GUIDED BY OUR PURPOSE: FINDING BETTER WAYS TO PROVIDE THE MATERIALS THE WORLD NEEDS. IT'S ABOUT DRIVING INNOVATION AND CONTINUOUS IMPROVEMENT TO PRODUCE SUSTAINABLE PRODUCTS USED IN EVERYDAY LIFE IN THE SAFEST AND MOST SUSTAINABLE WAY POSSIBLE.' Sustainability remains a critical component of our business strategy and we continue to work towards building solutions for a better future. We have an engaged team who are passionate about supporting the communities in which they live and work, and who are committed to achieving TASNEE's sustainability ambitions. Following the launch of our Decarbonization Roadmap in 2022, we implemented several initiatives in 2023 to reduce emissions, achieving significant successes. We are committed to the reduction of emissions, which we know is also of increasing importance to our investors and other stakeholders. Overall, Tasnee achieved a 3% reduction in energy intensity despite incr eased production, with energy-reduction initiatives implemented at various plants, including Technology and Innovation's (T&I) new solar energy generating system. At Advanced Metal Industries Cluster Company Ltd (AMIC), Scope 1 emissions intensity decreased by 33%, while Downstream and Petchem also saw reductions. Efforts to enhance operational efficiency resulted in an 18% reduction in waste disposal at Petchem, accompanied by an increase in waste recycling rates. Additionally, we further minimized material losses in our operations. Our accomplishments were achieved by the valuable efforts of our skilled, dedicated, and agile workforce. In 2023, our total workforce expanded, with a notable increase in diversity, including a 26% rise in female employees and a 14% increase in employees under 30, reflecting our commitment to nurturing young talent. Our ongoing digitalization of HR processes, including the introduction of new e-learning programs, facilitates the growth and development of our workforce. The introduction of our revised Leadership Competency model in 2023 defines the specific skills, behaviors, and attributes essential for future leadership at Tasnee, guiding leadership development, recruitment, performance evaluation, and succession planning initiatives. At Tasnee, we are deeply cognizant of our role in broader society and the communities we serve. In 2023, our corporate social responsibility investment increased, supporting various initiatives aligned with the values of the Saudi Vision 2030 to have a positive impact on people and the environment. Throughout these endeavors, Tasnee reaffirmed its commitment to corporate citizenship, environmental preservation, and stakeholder value creation, demonstrating resilience amidst economic challenges. The great progress we have made on sustainability this y ear is due to the unwavering efforts of our people. Together we have worked to progress our sustainability approach. We hope you find this report informative.",
+    "page_numbers": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "heading_path": [
+      "MESSAGE FROM THE CEO"
+    ],
+    "section_label": "MESSAGE FROM THE CEO",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2966,
+    "token_count": 679
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0011",
+    "report_id": "Tasnee2023",
+    "chunk_index": 10,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "I give praise to Allah for the blessings we enjoy and for the leadership of the Custodian of the Two Holy Mosques, King Salman bin Abdulaziz Al Saud and His Royal Highness Prince Mohammed bin Salman Al Saud, The Crown Prince and Prime Minister - May Allah guide and protect them. Mr. Fawaz M. Al Fawaz CEO",
+    "page_numbers": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "heading_path": [
+      "MESSAGE FROM THE CEO"
+    ],
+    "section_label": "MESSAGE FROM THE CEO",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 305,
+    "token_count": 74
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0012",
+    "report_id": "Tasnee2023",
+    "chunk_index": 11,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "30% increase in training hours for employees 85% of employees received performance and career reviews 100% return-to-work rate from parental leaves 26% increase in female employees compared to last year 50% increase in female Saudi employees compared to the previous year",
+    "page_numbers": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "heading_path": [
+      "HUMAN CAPITAL DEVELOPMENT"
+    ],
+    "section_label": "HUMAN CAPITAL DEVELOPMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 271,
+    "token_count": 48
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0013",
+    "report_id": "Tasnee2023",
+    "chunk_index": 12,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "38% increase in community investments The number of volunteers has more than quadrupled compared to 2022 increase in the number of volunteering hours",
+    "page_numbers": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "heading_path": [
+      "COMMUNITY IMPACT"
+    ],
+    "section_label": "COMMUNITY IMPACT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 149,
+    "token_count": 29
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0014",
+    "report_id": "Tasnee2023",
+    "chunk_index": 13,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "100% of our operations assessed for corruption-related risks 82% of our employees received training on anti-corruption 100% of planned audits completed Cybersecurity maturity level, out of 5 Zero incidents related to human rights 100% of new suppliers screened using social and environmental criteria 62.4% rate of local suppliers",
+    "page_numbers": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "heading_path": [
+      "RESPONSIBLE BUSINESS"
+    ],
+    "section_label": "RESPONSIBLE BUSINESS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 330,
+    "token_count": 70
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0015",
+    "report_id": "Tasnee2023",
+    "chunk_index": 14,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Zero work-related fatalities 29% increase in health and safety training to contractors 100% uptake in health screenings 63% increase in emergency drills 100% score in JAMA'A's annual drill evaluation",
+    "page_numbers": [
+      9
+    ],
+    "page_start": 9,
+    "page_end": 9,
+    "heading_path": [
+      "HEALTH AND SAFETY"
+    ],
+    "section_label": "HEALTH AND SAFETY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 199,
+    "token_count": 43
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0016",
+    "report_id": "Tasnee2023",
+    "chunk_index": 15,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "4% decrease in GHG emissions intensity compared to 2022 57% of generated waste is recycled at Petchem 15% Percentage of slag waste created in 2023 compared to 17% in 2022 9% decrease in material loss intensity compared to 2022 Zero spills in 2023",
+    "page_numbers": [
+      9
+    ],
+    "page_start": 9,
+    "page_end": 9,
+    "heading_path": [
+      "ENVIRONMENTAL STEWARDSHIP"
+    ],
+    "section_label": "ENVIRONMENTAL STEWARDSHIP",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 246,
+    "token_count": 59
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0017",
+    "report_id": "Tasnee2023",
+    "chunk_index": 16,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Founded in 1985, the National Industrialization Company (Tasnee) was Saudi Arabia's first fully owned, joint stock private-sector industrial company. With its headquarters in Riyadh, Tasnee was created to promote economic diversification in the Kingdom. Nearly forty years after its creation, Tasnee, together with its entities and subsidiaries, is t oday one of the largest industrial and petrochemical companies in the country, as well as a leading investor in the global titanium sector. Our reputation has been built on good business practices and efficient operations, rooted in deep experience, skills, and a commitment to cutting-edge technologies and innovative solutions across our products and services. Tasnee's activities span across the chemical and petrochemical, engineering, and mechanical sectors. As well as investing in the ownership and management of industrial projects and the marketing of its products, the company is an important player in the transfer of advanced industrial technology to Saudi Arabia. It also owns a number of subsidiaries that manufactur e and market industrial products. These include petrochemical products such as ethylene, polyethylene, propylene, polypropylene, butyl acrylate, acrylic acid, super absorbent polymers and butanol, and industrial pr oducts such as titanium sponge, dry and liquid vehicle batteries and lead, all types of plastic products, and acrylic sheets. In addition, Tasnee markets plastic products and batteries, provides technical services, conducts technical testing of equipment, and operates industrial, chemical, petrochemical, metallurgical, water desalination, and power generation plants. In all our activities, we are led by our vision and mission. Through our policies, actions, and values, we aim to put into practice our commitment to sustainability , demonstrating sound and ethical corporate governance, high standards of health, safety and security , care for the environment and social responsibility towards our stakeholders and communities.",
+    "page_numbers": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "heading_path": [
+      "OUR COMPANY"
+    ],
+    "section_label": "OUR COMPANY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2028,
+    "token_count": 446
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0018",
+    "report_id": "Tasnee2023",
+    "chunk_index": 17,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "To optimize stakeholders' returns and contribute to industrialization by pursuing ambitious opportunities.",
+    "page_numbers": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "heading_path": [
+      "VISION"
+    ],
+    "section_label": "VISION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 106,
+    "token_count": 22
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0019",
+    "report_id": "Tasnee2023",
+    "chunk_index": 18,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "To consistently operate at high standards of agility, efficiency , sustainability, and innovation in the petrochemicals industry.",
+    "page_numbers": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "heading_path": [
+      "MISSION"
+    ],
+    "section_label": "MISSION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 129,
+    "token_count": 29
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0020",
+    "report_id": "Tasnee2023",
+    "chunk_index": 19,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We believe that good is not good enough; we strive to do more with agility and speed. We show excellence in our processes.",
+    "page_numbers": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "heading_path": [
+      "EXCELLENCE:"
+    ],
+    "section_label": "EXCELLENCE:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 122,
+    "token_count": 30
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0021",
+    "report_id": "Tasnee2023",
+    "chunk_index": 20,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We actively interact with the stakeholders. We are open to continuous learning and creative thinking.",
+    "page_numbers": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "heading_path": [
+      "SEEKING KNOWLEDGE:"
+    ],
+    "section_label": "SEEKING KNOWLEDGE:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 101,
+    "token_count": 21
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0022",
+    "report_id": "Tasnee2023",
+    "chunk_index": 21,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We do what is right as a role model to others and treat people with respect, never bending the rules.",
+    "page_numbers": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "heading_path": [
+      "INTEGRITY:"
+    ],
+    "section_label": "INTEGRITY:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 101,
+    "token_count": 23
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0023",
+    "report_id": "Tasnee2023",
+    "chunk_index": 22,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We respect individual skills and backgrounds, and we believe that we are smarter together.",
+    "page_numbers": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "heading_path": [
+      "TEAMWORK:"
+    ],
+    "section_label": "TEAMWORK:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 90,
+    "token_count": 18
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0024",
+    "report_id": "Tasnee2023",
+    "chunk_index": 23,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "1985 Tasnee Established 2013 BA/SAP plant startup 1986 National Inspection and Technical Testing Co. (FAHSS) startup 2008 Rowad Global Packaging Co. startup 2016 Butanol plant startup 1990 National Lead Smelting Company (RASASS) startup 2008 HDPE and LDPE and Cracker plant startup 2017 Taldeen Plastics Solutions Co. startup 1992 Rowad National Plastics Co. (Rowad Plastics) startup 2006 Rowad International Geosynthetics Co. startup 2018 Smelter startup formed 1993 National Batteries Company (BATTARIAT) startup 2004 PDH/PP Plant startup 2019 Titanium sponge commissioning 2000 Petrochemical complex formed 2020 Dibal Commercial Production",
+    "page_numbers": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "heading_path": [
+      "OUR JOURNEY"
+    ],
+    "section_label": "OUR JOURNEY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 642,
+    "token_count": 152
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0025",
+    "report_id": "Tasnee2023",
+    "chunk_index": 24,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee's organizational structure comprises three Strategic Business Units (SBUs) and four Business Units (BUs). The SBUs and BUs play a critical role in supporting Tasnee's sustainability mandate.",
+    "page_numbers": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "heading_path": [
+      "BUSINESS MODELS"
+    ],
+    "section_label": "BUSINESS MODELS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 197,
+    "token_count": 54
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0026",
+    "report_id": "Tasnee2023",
+    "chunk_index": 25,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee manages, operates, and owns multiple businesses. These are arranged into four main Strategic Business Units (SBUs):",
+    "page_numbers": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "heading_path": [
+      "TASNEE'S PRODUCTS"
+    ],
+    "section_label": "TASNEE'S PRODUCTS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 122,
+    "token_count": 32
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0027",
+    "report_id": "Tasnee2023",
+    "chunk_index": 26,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Petrochemicals is Tasnee's largest business unit, responsible for the production and marketing of a wide range of polyolefins and chemicals.",
+    "page_numbers": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "heading_path": [
+      "PETROCHEMICALS SBU"
+    ],
+    "section_label": "PETROCHEMICALS SBU",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 140,
+    "token_count": 33
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0028",
+    "report_id": "Tasnee2023",
+    "chunk_index": 27,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Acrylic acid monomer - Butyl acrylate - High-density PE - Low-density PE - n-Butanol/ Iso-Butanol - Polypropylene (PP) - Super absorbent Polymer In 2023, the Petrochemical SBU (Petchem) continued its strong business performance in terms of safety, health, environment, operational efficiency and excellence, quality, and sales and marketing. This performance secured the Occupational Safety and Health Pioneers Award for Petchem in 2023.",
+    "page_numbers": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "heading_path": [
+      "OUR PRODUCTS"
+    ],
+    "section_label": "OUR PRODUCTS",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 439,
+    "token_count": 113
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0029",
+    "report_id": "Tasnee2023",
+    "chunk_index": 28,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Metallurgy SBU oversees the production and marketing of metallurgy products and services. The SBU is currently developing the titanium value chain within Saudi Arabia, in alignment with the Saudi Vision 2030.",
+    "page_numbers": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "heading_path": [
+      "METALLURGY SBU"
+    ],
+    "section_label": "METALLURGY SBU",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 208,
+    "token_count": 45
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0030",
+    "report_id": "Tasnee2023",
+    "chunk_index": 29,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Metallurgy Downstream - Titanium Metals - Titanium Sponge Throughout 2023, Metallurgy continued to see market growth, especially in the aerospace sector. The SBU is well placed to benefit from this by increasing capacity to meet demand, especially with ongoing geopolitical issues restricting global supplies. In 2023, Advanced Metal Industries Cluster Company Ltd (AMIC) achieved full production as a result of two ramp-ups and exported the Kingdom's first crude iron shipment to the United States.",
+    "page_numbers": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "heading_path": [
+      "OUR PRODUCTS"
+    ],
+    "section_label": "OUR PRODUCTS",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 501,
+    "token_count": 111
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0031",
+    "report_id": "Tasnee2023",
+    "chunk_index": 30,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Downstream activities are every bit as important as upstream. Tasnee's Downstream SBU manages a group of affiliates that, by reducing the need for imports, make a vital contribution to the growth and development of the Saudi economy.",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "DOWNSTREAM SBU"
+    ],
+    "section_label": "DOWNSTREAM SBU",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 233,
+    "token_count": 53
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0032",
+    "report_id": "Tasnee2023",
+    "chunk_index": 31,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Agri films - BOPP films - Plastic products - -Pipes - -Pallets - -Crates - -Sheets - -Pails - -Battery containers - -Core plugs - -Pellets - Geomembranes - Lead - Automotive batteries - Inspection & certification services - PC Strands - Steel/Iron Casting - Axles In 2023, Rowad International Geo-synthetics achie ved its highest performing results on sales volumes and plant capacity utilization, while Taldeen Pipes expanded its market base in the Kingdom's Northern region and delivered over 80% of the business to the NEOM infrastructure project. Meanwhile, the Agri film business continued to thrive despite the financial challenges in the MENA region, delivering the best results compared to the budget and previous years.",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "OUR PRODUCTS"
+    ],
+    "section_label": "OUR PRODUCTS",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 730,
+    "token_count": 183
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0033",
+    "report_id": "Tasnee2023",
+    "chunk_index": 32,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "contributed to Downstream growth with record sales, largely driven by the local market in the food sector packaging. The company expanded into Central America, leveraging its reputation for high-quality Biaxially Oriented Polypropylene (BOPP) products and reliable service. Meanwhile, Rowad National Plastic Co. achieved its highest volume delivery in the injection molding business.",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "Rowad Global Packaging Co. significantly"
+    ],
+    "section_label": "Rowad Global Packaging Co. significantly",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 383,
+    "token_count": 81
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0034",
+    "report_id": "Tasnee2023",
+    "chunk_index": 33,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee's Technology and Innovation (T&I) center is our research and development hub, providing innovation and technical support across the company. In 2023, T&I played a crucial role in leading Tasnee product stewardship, ensuring the safety and environmental impact of our petrochemical products. As part of T&I's commitment to achieving carbon net zero by 2060, a solar PV installation pr oject was initiated at its site.",
+    "page_numbers": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "heading_path": [
+      "TECHNOLOGY AND INNOVATION"
+    ],
+    "section_label": "TECHNOLOGY AND INNOVATION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 423,
+    "token_count": 100
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0035",
+    "report_id": "Tasnee2023",
+    "chunk_index": 34,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ISO 9001:2015 - SASO (PC and PMMA Sheets)",
+    "page_numbers": [
+      17
+    ],
+    "page_start": 17,
+    "page_end": 17,
+    "heading_path": [
+      "ROWAD NATIONAL PLASTIC COMPANY (RNPC)"
+    ],
+    "section_label": "ROWAD NATIONAL PLASTIC COMPANY (RNPC)",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 43,
+    "token_count": 16
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0036",
+    "report_id": "Tasnee2023",
+    "chunk_index": 35,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ISO 9001:2015 - ISO 45001:2018 - ISO14001:2018 - SASO (Smooth Pipes ) - SASO (Corrugated Pipes) - SASO - (Smooth Pipes Fittings) - NSF -14 & 61 for Smooth Pipes - NSF -14 & 61 for Smooth Pipes Fitting - WRAS - FM -1813 (Smooth pipe & fittings)",
+    "page_numbers": [
+      17
+    ],
+    "page_start": 17,
+    "page_end": 17,
+    "heading_path": [
+      "TALDEEN PLASTIC SOLUTION COMPANY LTD (TALDEEN)"
+    ],
+    "section_label": "TALDEEN PLASTIC SOLUTION COMPANY LTD (TALDEEN)",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 245,
+    "token_count": 93
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0037",
+    "report_id": "Tasnee2023",
+    "chunk_index": 36,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ISO 9001:2015 - SASO HDPE geo (COC) - SASO LLDPE geo (COC) - CE Mark - GAI-LAP",
+    "page_numbers": [
+      17
+    ],
+    "page_start": 17,
+    "page_end": 17,
+    "heading_path": [
+      "ROWAD INTERNATIONAL GEOSYNTHETICS (RIG)"
+    ],
+    "section_label": "ROWAD INTERNATIONAL GEOSYNTHETICS (RIG)",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 80,
+    "token_count": 34
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0038",
+    "report_id": "Tasnee2023",
+    "chunk_index": 37,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ISO 9001:2015 - ISO 14001:2015 - ISO 45001:2018 - ISO 17021-1:2015 - ISO 17020:2012 - ISO 17065:2012",
+    "page_numbers": [
+      17
+    ],
+    "page_start": 17,
+    "page_end": 17,
+    "heading_path": [
+      "TUV MIDDLE EAST (TUV ME)"
+    ],
+    "section_label": "TUV MIDDLE EAST (TUV ME)",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 102,
+    "token_count": 34
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0039",
+    "report_id": "Tasnee2023",
+    "chunk_index": 38,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ISO 9001:2015 - ISO 14001:2015 - ISO 45001:2018 - ISO 17021-1:2015 - ISO 17020:2012 - ISO 17065:2012",
+    "page_numbers": [
+      17
+    ],
+    "page_start": 17,
+    "page_end": 17,
+    "heading_path": [
+      "NATIONAL INSPECTION AND TECHNICAL TESTING CO. (FAHSS)"
+    ],
+    "section_label": "NATIONAL INSPECTION AND TECHNICAL TESTING CO. (FAHSS)",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 102,
+    "token_count": 34
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0040",
+    "report_id": "Tasnee2023",
+    "chunk_index": 39,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ISO9001:2015 - ISO14001:2015 - ISO45001:2018 - ISO/IEC 17025:2017 - ISO 50001:2018 - ISO 55001:2014 - Polymer products are registered for European REACH. - Polymer products are pre-registered for Turkish KKDIK certification. - Polymer products are pre-registered for BIS (India) certification",
+    "page_numbers": [
+      17
+    ],
+    "page_start": 17,
+    "page_end": 17,
+    "heading_path": [
+      "PETROCHEMICALS (PETCHEM)"
+    ],
+    "section_label": "PETROCHEMICALS (PETCHEM)",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 294,
+    "token_count": 78
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0041",
+    "report_id": "Tasnee2023",
+    "chunk_index": 40,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ISO9001:2015 - ISO45001:2018 - ISO14001 - ISO45001 - AS9100D Quality Management System - Requirements for Aviation, Space and Defense Organization certification.",
+    "page_numbers": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "heading_path": [
+      "ADVANCED METAL INDUSTRIES CLUSTER COMPANY LTD (AMIC)"
+    ],
+    "section_label": "ADVANCED METAL INDUSTRIES CLUSTER COMPANY LTD (AMIC)",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 163,
+    "token_count": 42
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0042",
+    "report_id": "Tasnee2023",
+    "chunk_index": 41,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- ISO 27001 for Information Security Management System - ISO 20000 for service management system - EIPM Certification - Platinum Level for procurement - EIPM Certification - Platinum Level for procurement - ISO9001:2015 (NIPRAS-Tasnee Plastic Research Center ) - ISO45001:2018 (NIPRAS-Tasnee Plastic Research Center ) - ISO/IEC 17025:2017 (NIPRAS Analytical Laboratory - Tasnee)",
+    "page_numbers": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "heading_path": [
+      "SUPPORT FUNCTIONS"
+    ],
+    "section_label": "SUPPORT FUNCTIONS",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 378,
+    "token_count": 98
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0043",
+    "report_id": "Tasnee2023",
+    "chunk_index": 42,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- The Gulf Petrochemicals and Chemicals Association (GPCA) - The Gulf Petrochemicals and Chemicals Association Sustainability & Quality Assessment System (G-SQAS) - The Jubail Area Mutual Aid Association (JAMA'A)",
+    "page_numbers": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "heading_path": [
+      "MEMBERSHIPS"
+    ],
+    "section_label": "MEMBERSHIPS",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 212,
+    "token_count": 60
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0044",
+    "report_id": "Tasnee2023",
+    "chunk_index": 43,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- GPCA Women in Supply Chain Award - Global EIPM Peter Kraljic Award for Excellence - CIPS Procurement Pioneers Awards - Occupational Safety and Health Pioneers Award by Ministry of Human Resources and Social Development - King Khalid Foundation Award for Best in Governance Category - Forbes Middle East Top 100 Sustainability Leaders",
+    "page_numbers": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "heading_path": [
+      "AWARDS IN 2023"
+    ],
+    "section_label": "AWARDS IN 2023",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 335,
+    "token_count": 72
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0045",
+    "report_id": "Tasnee2023",
+    "chunk_index": 44,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Sustainability is the cornerstone of our operations and embedded in our business strategy. Across our business, we integrate our sustainability strategy into our decision-making processes and product and services development. We take a holistic approach, encompassing environmental, societal, and governance activities, with a particular focus on health, safety, and security. We don't only thrive as a business but make a positive contribution to the wellbeing of our planet, our stakeholders, and the communities we serve.",
+    "page_numbers": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "heading_path": [
+      "SUSTAINABILITY MANAGEMENT"
+    ],
+    "section_label": "SUSTAINABILITY MANAGEMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 524,
+    "token_count": 115
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0046",
+    "report_id": "Tasnee2023",
+    "chunk_index": 45,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee Petrochemical complex's sustainability strategy is driven by our sustainability team, under the leadership of the Process Engineering Department. Our strategy is supported by a robust management system that monitors, evaluates, and tracks our sustainability targets and KPIs, which in turn guides and informs our decision making.",
+    "page_numbers": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "heading_path": [
+      "SUSTAINABILITY GOVERNANCE"
+    ],
+    "section_label": "SUSTAINABILITY GOVERNANCE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 336,
+    "token_count": 72
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0047",
+    "report_id": "Tasnee2023",
+    "chunk_index": 46,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "As we work toward our sustainability goals, we measure our progress and achievements through our Integrated Management Rating System (IMRS). Based on international standards, the IMRS focuses on 17 elements across five areas: leadership, organization, operations, execution, and control. Monitoring our performance in these areas enables us to continually improve our operational excellence and efficiency.",
+    "page_numbers": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "heading_path": [
+      "INTEGRATED MANAGEMENT RATING SYSTEM"
+    ],
+    "section_label": "INTEGRATED MANAGEMENT RATING SYSTEM",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 406,
+    "token_count": 81
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0048",
+    "report_id": "Tasnee2023",
+    "chunk_index": 47,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Being a sustainable business requires us to act on the risks, opportunities, and issues that matter most to our stakeholders. We identify those issues through engaging key groups in open, honest, and transparent dialogue. Its important to highlight that we are following AA1000 Stakeholder Engagement Standard. We have identified seven distinct groups of stakeholders with whom we regularly engage to hear and understand their concerns. These are:",
+    "page_numbers": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "heading_path": [
+      "STAKEHOLDER ENGAGEMENT"
+    ],
+    "section_label": "STAKEHOLDER ENGAGEMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 447,
+    "token_count": 88
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0049",
+    "report_id": "Tasnee2023",
+    "chunk_index": 48,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Sustainability & annual reports - Annual, semiannual and monthly reports",
+    "page_numbers": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "heading_path": [
+      "SHAREHOLDERS"
+    ],
+    "section_label": "SHAREHOLDERS",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 74,
+    "token_count": 17
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0050",
+    "report_id": "Tasnee2023",
+    "chunk_index": 49,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Sustainability & annual reports - Sponsorship events - Website and social media - Community investment",
+    "page_numbers": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "heading_path": [
+      "LOCAL COMMUNITIES"
+    ],
+    "section_label": "LOCAL COMMUNITIES",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 104,
+    "token_count": 19
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0051",
+    "report_id": "Tasnee2023",
+    "chunk_index": 50,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Sustainability & annual reports - Website and social media - Supplier management system - Townhalls and health and safety campaigns - Maintaining fair and competitive selection",
+    "page_numbers": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "heading_path": [
+      "SUPPLIERS AND CONTRACTORS"
+    ],
+    "section_label": "SUPPLIERS AND CONTRACTORS",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 178,
+    "token_count": 35
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0052",
+    "report_id": "Tasnee2023",
+    "chunk_index": 51,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Sustainability & annual reports - Website and social media - Complying with obligations",
+    "page_numbers": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "heading_path": [
+      "LOCAL AUTHORITIES"
+    ],
+    "section_label": "LOCAL AUTHORITIES",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 89,
+    "token_count": 18
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0053",
+    "report_id": "Tasnee2023",
+    "chunk_index": 52,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Sustainability & annual reports - Website and social media",
+    "page_numbers": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "heading_path": [
+      "BUSINESS PARTNERS"
+    ],
+    "section_label": "BUSINESS PARTNERS",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 60,
+    "token_count": 12
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0054",
+    "report_id": "Tasnee2023",
+    "chunk_index": 53,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Intranet - Sustainability & annual reports - Website and social media - Employee surveys and recognition programs - Townhalls and health and safety campaigns - Internal newsletter",
+    "page_numbers": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "heading_path": [
+      "EMPLOYEES"
+    ],
+    "section_label": "EMPLOYEES",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 181,
+    "token_count": 39
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0055",
+    "report_id": "Tasnee2023",
+    "chunk_index": 54,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Sustainability & annual reports - Market research - Website and social media - Customer satisfaction survey",
+    "page_numbers": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "heading_path": [
+      "CUSTOMERS"
+    ],
+    "section_label": "CUSTOMERS",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 109,
+    "token_count": 19
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0056",
+    "report_id": "Tasnee2023",
+    "chunk_index": 55,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Stakeholder engagement is essential to achieving our sustainability goals. It helps us identify and address key risks and opportunities, enhancing our business resilience. The materiality assessment we conducted followed a three-step process in line with GRI Standards to pinpoint the most relevant issues for us and our stakeholders and their potential impact on our business. The steps were:",
+    "page_numbers": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "heading_path": [
+      "OUR MATERIAL ISSUES AND PRIORITIES"
+    ],
+    "section_label": "OUR MATERIAL ISSUES AND PRIORITIES",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 393,
+    "token_count": 82
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0057",
+    "report_id": "Tasnee2023",
+    "chunk_index": 56,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Relevant material issues were gathered through desk-based research, reviewing industry standards, peer companies, and conducting employee interviews.",
+    "page_numbers": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "heading_path": [
+      "1. IDENTIFICATION:"
+    ],
+    "section_label": "1. IDENTIFICATION:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 149,
+    "token_count": 33
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0058",
+    "report_id": "Tasnee2023",
+    "chunk_index": 57,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Internal and external stakeholders were surveyed to assess the importance of the identified issues.",
+    "page_numbers": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "heading_path": [
+      "2. PRIORITIZATION:"
+    ],
+    "section_label": "2. PRIORITIZATION:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 99,
+    "token_count": 19
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0059",
+    "report_id": "Tasnee2023",
+    "chunk_index": 58,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The sustainability team evaluated the survey results, made necessary adjustments, and ensured all stakeholder perspectives were included. The final list was then approved by management. This process identified 48 material issues, which were ranked based on their significance to our stakeholders and their impact on our operations. These material issues were then aligned with our sustainability framework and the UN SDGs to ensure our efforts contribute to broader global objectives. The matrix maps our material issues and their importance. In this report, we focus on 23 material issues: the 14 most important issues and nine other very important/important issues. For this report, Tasnee will cover the material issues presented and highlighted in a bullet.",
+    "page_numbers": [
+      24,
+      25
+    ],
+    "page_start": 24,
+    "page_end": 25,
+    "heading_path": [
+      "3. REVIEW:"
+    ],
+    "section_label": "3. REVIEW:",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 761,
+    "token_count": 155
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0060",
+    "report_id": "Tasnee2023",
+    "chunk_index": 59,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The UN SDGs are a set of 17 goals that aim to address the most serious challenges and opportunities facing the world, including climate change, poverty, and inequality. We are in a position to make a positive contribution to the achievement of the goals. As well as in our sustainability strategy, we have aligned our business commitments with the UN SDGs for maximum impact.",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "ALIGNMENT WITH UN SDGS"
+    ],
+    "section_label": "ALIGNMENT WITH UN SDGS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 375,
+    "token_count": 83
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0061",
+    "report_id": "Tasnee2023",
+    "chunk_index": 60,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Human Capital Development",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "Health and Safety"
+    ],
+    "section_label": "Health and Safety",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 25,
+    "token_count": 3
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0062",
+    "report_id": "Tasnee2023",
+    "chunk_index": 61,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Climate Change (policy and strategy) - Greenhouse Gas Emissions - Energy Management - Effluent and Pollutants - Hazardous Substance - Product Stewardship",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "MOST IMPORTANT"
+    ],
+    "section_label": "MOST IMPORTANT",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 155,
+    "token_count": 35
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0063",
+    "report_id": "Tasnee2023",
+    "chunk_index": 62,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Occupational Health and Safety - Development and Training",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "MOST IMPORTANT"
+    ],
+    "section_label": "MOST IMPORTANT",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 59,
+    "token_count": 12
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0064",
+    "report_id": "Tasnee2023",
+    "chunk_index": 63,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Recruitment and Retention - Engagement and Satisfaction - Diversity",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "VERY IMPORTANT"
+    ],
+    "section_label": "VERY IMPORTANT",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 69,
+    "token_count": 15
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0065",
+    "report_id": "Tasnee2023",
+    "chunk_index": 64,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Inclusion and Equality",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "IMPORTANT"
+    ],
+    "section_label": "IMPORTANT",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 24,
+    "token_count": 7
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0066",
+    "report_id": "Tasnee2023",
+    "chunk_index": 65,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Economic and Business Performance - Legal Compliance - Business Ethics - Customer Feedback and Satisfaction - Human Rights - Innovation",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "MOST IMPORTANT"
+    ],
+    "section_label": "MOST IMPORTANT",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 137,
+    "token_count": 27
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0067",
+    "report_id": "Tasnee2023",
+    "chunk_index": 66,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Procurement and Supplier Assessment - Volunteering and Charities - Benefits to Local Communities - Community Engagement",
+    "page_numbers": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "heading_path": [
+      "VERY IMPORTANT"
+    ],
+    "section_label": "VERY IMPORTANT",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 121,
+    "token_count": 27
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0068",
+    "report_id": "Tasnee2023",
+    "chunk_index": 67,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The Saudi Vision 2030 is an ambitious roadmap to support the Kingdom's economic and sustainable development. The vision aims to utilize the nation's greatest strength - its people - and its unique, strategic location, close to Africa, Asia, and Europe. The vision's strategic objectives are arranged into three primary themes: - A Vibrant Society - A Thriving Economy - An Ambitious Nation Tasnee's sustainability strategy is aligned with the Saudi Vision 2030 and addresses all three themes. We can provide opportunities for economic growth, diversification, and innovation. The vision therefore informs all aspects of our sustainability str ategy, especially our efforts in relation to human capital development, community impact and governance.",
+    "page_numbers": [
+      27
+    ],
+    "page_start": 27,
+    "page_end": 27,
+    "heading_path": [
+      "ALIGNMENT WITH SAUDI VISION 2030"
+    ],
+    "section_label": "ALIGNMENT WITH SAUDI VISION 2030",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 747,
+    "token_count": 155
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0069",
+    "report_id": "Tasnee2023",
+    "chunk_index": 68,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "A vibrant society is vital to achieving the Vision and establishing a strong foundation for economic prosperity and healthy, fulfilling lives for everyone.",
+    "page_numbers": [
+      27
+    ],
+    "page_start": 27,
+    "page_end": 27,
+    "heading_path": [
+      "A VIBRANT SOCIETY"
+    ],
+    "section_label": "A VIBRANT SOCIETY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 155,
+    "token_count": 30
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0070",
+    "report_id": "Tasnee2023",
+    "chunk_index": 69,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "A thriving economy offers opportunities to everyone, generating economic prospects for entrepreneurs, small and medium businesses and large corporations alike. In particular, we support the development of an educational system that meets the needs of the job market and equips young people with the skills required for future employment.",
+    "page_numbers": [
+      27
+    ],
+    "page_start": 27,
+    "page_end": 27,
+    "heading_path": [
+      "A THRIVING ECONOMY"
+    ],
+    "section_label": "A THRIVING ECONOMY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 337,
+    "token_count": 64
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0071",
+    "report_id": "Tasnee2023",
+    "chunk_index": 70,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "An ambitious nation enables social responsibility and enhances government effectiveness through transparency, accountability and exceptional competence.",
+    "page_numbers": [
+      27
+    ],
+    "page_start": 27,
+    "page_end": 27,
+    "heading_path": [
+      "AN AMBITIOUS NATION"
+    ],
+    "section_label": "AN AMBITIOUS NATION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 152,
+    "token_count": 26
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0072",
+    "report_id": "Tasnee2023",
+    "chunk_index": 71,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "By engaging employees and empowering them to champion sustainability, we aim to ensure sustainability is owned by everyone in the company. We continually reinforce our sustainability road map across our business, engaging staff through workshops, campaigns, awareness raising and other activities. In 2023, we have conducted a three-day training session about energy use at Tasnee and overall sustainability management to raise employees' awareness on the matter. This training, part of the annual training program, targets engineers, specialists, and middle management but is open to all employees to enroll and gain more knowledge. In addition to the five days awareness session on sustainability that was held during the Environmental, Health, Safety and Security (EHSS) week campaign, which was open to all employees, neighboring companies, and external guests. We see this very much as a two-way process, in which both Tasnee and our employees can learn and identify areas for improvement, helping make the business more resilient and sustainable. Moreover, Petchem sends quarterly flyers containing one page for sustainability awareness and another page for updates on the four KPIs of Petchem (GHG, Energy, Water, and Material Loss). These flyers are distributed to all Petchem's employees through email, ensuring continuous engagement and awareness throughout the year.",
+    "page_numbers": [
+      28
+    ],
+    "page_start": 28,
+    "page_end": 28,
+    "heading_path": [
+      "SUSTAINABILITY WORKSHOPS AND ROADMAP"
+    ],
+    "section_label": "SUSTAINABILITY WORKSHOPS AND ROADMAP",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1377,
+    "token_count": 288
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0073",
+    "report_id": "Tasnee2023",
+    "chunk_index": 72,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At Tasnee, we are dedicated to environmental protection and responsible operations. We meticulously assess the environmental and community impacts of all our activities, ensuring we consistently act with accountability.",
+    "page_numbers": [
+      29
+    ],
+    "page_start": 29,
+    "page_end": 29,
+    "heading_path": [
+      "ENVIRONMENTAL STEWARDSHIP"
+    ],
+    "section_label": "ENVIRONMENTAL STEWARDSHIP",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 219,
+    "token_count": 43
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0074",
+    "report_id": "Tasnee2023",
+    "chunk_index": 73,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Climate Change (Policy and Strategy) - Greenhouse Gas Emissions - Energy Management - Effluents and Pollutants - Hazardous Substances - Water Use - Product Stewardship",
+    "page_numbers": [
+      29
+    ],
+    "page_start": 29,
+    "page_end": 29,
+    "heading_path": [
+      "MATERIAL ISSUES:"
+    ],
+    "section_label": "MATERIAL ISSUES:",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 169,
+    "token_count": 43
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0075",
+    "report_id": "Tasnee2023",
+    "chunk_index": 74,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At Tasnee we are highly conscious of Climate Change impacts, both locally and globally. Responding to these challenges and building a sustainable future is now essential for any businesses seeking long-term success. Only by placing sustainability at the heart of our activities can we meet the future needs of our stakeholders. This belief drives our environmental strategy and initiatives such as our policy and values for petrochemical guide, which steers our efforts to prevent pollution. We make every effort to avoid any pollution within our operations, such as applying best available techniques analysis when issuing new operating permits and identifying and monitoring any pollution that does occur.",
+    "page_numbers": [
+      30
+    ],
+    "page_start": 30,
+    "page_end": 30,
+    "heading_path": [
+      "CLIMATE CHANGE"
+    ],
+    "section_label": "CLIMATE CHANGE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 707,
+    "token_count": 141
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0076",
+    "report_id": "Tasnee2023",
+    "chunk_index": 75,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At Tasnee, we recognize the urgent need to address climate change and we are committed to reducing our environmental impact. One of our most impactful initiatives is our comprehensive decarbonization roadmap, which aligns with the ambitious goals of the Saudi Vision 2030 and Saudi Green Initiative. A detailed baseline emission audit has revealed that 65% of our total annual emissions is direct (Scope 1), while the remaining 35% is indirect (Scope 2). Therefore, our decarbonization roadmap outlines a clear path to achieving net zero carbon emissions from our petrochemical complex in Jubail by 2060. Accordingly, we have developed a strategic plan exploring new technologies and energy infrastructure resources with a regular evaluation of CO2e reduction. This strategic plan harnesses the power of cutting-edge clean technologies, including hydrogen refueling and post combustion carbon capture, to significantly reduce our greenhouse gas (GHG) emissions. In parallel, we are working on various initiatives which will result in a total reduction of 117,000 tCO2e in Petchem within 2030. -4% Overall GHG emissions intensity decrease by 4% across Tasnee. Moreover, the efforts of GHG intensity reduction in Petchem was ongoing for years and recognized by enhancing the plants availability, production throughput and implementing various energy initiatives, resulting in improved GHG intensity Petchem aims to achieve 15% reduction in GHG intensity by the end of 2030. In 2023, Tasnee overall GHG emissions intensity reduced by 4% against the previous year. The figure confirms the effectiveness of our emission efficiency measures. Emphasizing on our commitment to sustainable transformation, we have recently signed a contract to install solar panels for our T&I facilities, and we are actively planning to expand this initiative to our Petchem office buildings. This solar power project has the potential to cover 20% of our Petchem site offices, T&I, and general facilities' annual power needs which will reduce the annual CO2 emissions by 4,747 tons. At Tasnee, we are committed in our dedication to environmental stewardship and we are driving meaningful progress towards a more sustainable future. Our decarbonization roadmap, coupled with the impressive results achieved in 2023 and our ongoing solar energy initiatives, demonstrate our unwavering commitment to being a leader in the transition to a low-carbon economy. *Figures are restated due to a more accurate calculation method.",
+    "page_numbers": [
+      31,
+      32
+    ],
+    "page_start": 31,
+    "page_end": 32,
+    "heading_path": [
+      "GHG EMISSIONS"
+    ],
+    "section_label": "GHG EMISSIONS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2495,
+    "token_count": 556
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0077",
+    "report_id": "Tasnee2023",
+    "chunk_index": 76,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee sponsored and participated in the Middle East and North Africa Climate Week 2023, hosted by the Saudi Ministry of Energy, in coordination with the UN Framework Convention on Climate Change (UNFCC). The event included activities and workshops reflecting the Kingdom's commitment to combating climate change and joint actions t o adopt integrated sustainable climate solutions. Tasnee's CEO took part in a discussion panel entitled 'Advancing Decarbonization in the Petrochemical Industry Towards Neutrality', which explored the risks of carbon emissions along with the challenges of transitioning to renewable energy sources.",
+    "page_numbers": [
+      32
+    ],
+    "page_start": 32,
+    "page_end": 32,
+    "heading_path": [
+      "MENA CLIMATE WEEK 2023"
+    ],
+    "section_label": "MENA CLIMATE WEEK 2023",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 631,
+    "token_count": 135
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0078",
+    "report_id": "Tasnee2023",
+    "chunk_index": 77,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Air emissions are a major factor both in climate change and public health, and we recognize that we have a significant responsibility to limit air emissions from our operations. We monitor our emissions 24/7 to ensure they remain compliant with the Royal Commission's (the regulatory authority) stack emission limits and within the scope of operation stated in our environmental permits. We also carry out annual stack emissions limit tests. We continually strive to improve the emissions efficiency of our processes, and our Air Emission Management System includes a series of initiativ es to lower emissions, including: GHG (CO2, CH4, and Volatile Organic Compounds (VOC)) emissions are now included in our annual stack testing in line with the Saudi Green Initiative. Fugitive Emission Report which provides detailed material loss statistics on cost savings, our sustainability record, improving compliance and improving health and safety. Annual Relative Accuracy Test Audits to improve our compliance with regulations and to validate data. *Figures are restated as per the annual stack testing r eports, and intensity figures are restated due to a more accurate calculation method. Note: AMIC is not included in this table as Y anbu plant by the nature of its process does not emit monitored amounts of SO2 or NOx.",
+    "page_numbers": [
+      33
+    ],
+    "page_start": 33,
+    "page_end": 33,
+    "heading_path": [
+      "AIR EMISSIONS"
+    ],
+    "section_label": "AIR EMISSIONS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1319,
+    "token_count": 291
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0079",
+    "report_id": "Tasnee2023",
+    "chunk_index": 78,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We operate an energy management approach, supported by policies and initiatives, designed to Our energy standards meet, and frequently exceed, all regulatory requirements, while our energy management targets are aligned with the requirements of the regulatory authority, the Saudi equipment and continually innovate to improve our performance. Having obtained ISO 50001:2018 approach to energy management across our different production lines. We also believe in staff engagement as a key element in achieving greater energy management and process, and we encourage ideas from staff on ways we can improve. Each year, we proactively aim to reduce energy processes, upgrading energy-intensive components, and incorporating solar panels at selected locations. The enhancement of Low-Density Polyethylene (LDPE) reactor reliability has led to notable progress, resulting in an energy intensity of 7.74 MMBTU/T. Furthermore, through power factor enhancement and HighDensity Polyethylene (HDPE) extruder VFD (Variable Frequency Drive) upgrade, resulting in a substantial energy reduction totaling 66,000 MMBTU. Petchem achieved an energy intensity of 13.99 GJ per ton of product, representing an improvement from the baseline level in 2016 of 15.44 GJ per ton of product. Petchem aims to achieve a 15% reduction in energy intensity by the end of 2030 Overall, Tasnee achieved a 3% decrease in energy intensity despite increased production, such as the higher production rate of titanium sponge at AMIC, which raised the indirect energy use in 2023 by 72% to 775,845 GJ. *AMIC figures are restated due to misinterpretation between direct and indirect energy, and intensity figures are restated due to a more accurate calculation method.",
+    "page_numbers": [
+      34,
+      35
+    ],
+    "page_start": 34,
+    "page_end": 35,
+    "heading_path": [
+      "ENERGY MANAGEMENT"
+    ],
+    "section_label": "ENERGY MANAGEMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1730,
+    "token_count": 392
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0080",
+    "report_id": "Tasnee2023",
+    "chunk_index": 79,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Petchem implemented a number of energy-reduction initiatives in 2023, including: - HDPE Natural Extruder Energy Reduction -the extruder VFD was upgraded to achieve reduction of plant energy usage without any negative effects on quality or plant capacity . We anticipate a reduction in energy use of 35,308 MMBTU per year and annual CO2 reductions of 2,817 tons. - Power Factor Improvement - replacing our energy storage system and adjusting settings to improve the efficiency is expected to reduce power consumption by 35,243 MMBTU per year, lowering CO2 emissions by 2,812 tons annually.",
+    "page_numbers": [
+      35
+    ],
+    "page_start": 35,
+    "page_end": 35,
+    "heading_path": [
+      "IMPLEMENTING ENERGY-SAVING SOLUTIONS"
+    ],
+    "section_label": "IMPLEMENTING ENERGY-SAVING SOLUTIONS",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 588,
+    "token_count": 142
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0081",
+    "report_id": "Tasnee2023",
+    "chunk_index": 80,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee works on reducing the amount of waste generated by our operations, despite the growth and expansion of our business. We aim to achieve this by reusing or recycling more the of the waste we produce, resulting in less waste being sent to landfills. Tasnee has established targets to achieve the legal obligations, such as compliance with Royal Commission standards and regulations, as well as environmental protection and pollution control.",
+    "page_numbers": [
+      36
+    ],
+    "page_start": 36,
+    "page_end": 36,
+    "heading_path": [
+      "EFFLUENTS AND POLLUTANTS"
+    ],
+    "section_label": "EFFLUENTS AND POLLUTANTS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 445,
+    "token_count": 100
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0082",
+    "report_id": "Tasnee2023",
+    "chunk_index": 81,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We focus on controlling waste disposal costs by working with third parties and obtaining Royal Commission approval for our solutions. Each plant is required to develop a waste reduction plan every five years. Total waste disposal in Petchem in 2023 fell by 18%, the waste being recycled increased by 24%, and the proportion of total waste being recycled also increased which is a testimony to enhanced waste management procedures within Petchem. There was also a significant increase in the proportion of recycled waste at AMIC, up 12% from 2022, while the disposed waste quantity in 2023 incr eased due to its raised production rate as well as due to a unit overhaul. Meanwhile, the overall figure for Tasnee remained steady. *Figures are restated due to a more accurate calculation method, and AMIC figures are restated to exclude freshwater waste as it's already included in water data.",
+    "page_numbers": [
+      36
+    ],
+    "page_start": 36,
+    "page_end": 36,
+    "heading_path": [
+      "WASTE MANAGEMENT"
+    ],
+    "section_label": "WASTE MANAGEMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 889,
+    "token_count": 210
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0083",
+    "report_id": "Tasnee2023",
+    "chunk_index": 82,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee's BOPP plant is a leading manufacturer of polypropylene film, which is used in a variety of packaging applications in the food industry. However, we are very conscious of the dramatic increase in plastic waste globally in recent decades, and of its harmful impacts on the environment. To combat this, our BOPP plant has increased the consumption of reused material in the film it produces. Overall plastic waste in 2023 fell to 1.1%, compared with 4.3% in 2022. The BOPP Team continuously implements initiatives to further reduce rejection of plastic film in production and aims to reduce net waste to no more than 1% of the total raw material consumption of which projected to be achieved by end of year 2024. 1.1% plastic waste in 2023 in comparison to 4.3% the year before",
+    "page_numbers": [
+      37
+    ],
+    "page_start": 37,
+    "page_end": 37,
+    "heading_path": [
+      "REUSE OF PLASTIC AT BOPP"
+    ],
+    "section_label": "REUSE OF PLASTIC AT BOPP",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 782,
+    "token_count": 182
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0084",
+    "report_id": "Tasnee2023",
+    "chunk_index": 83,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "RASASS' waste is composed of slag, ebonite and acid waste. Large discharges of this waste can cause environmental problems due to the leaching of toxic elements into soil and groundwater. This can lead to problems such as decreased growth and reproduction of both animals and plants in the vicinity , increased toxicity, environmental contamination and even health problems in humans. Reducing RASASS' slag waste is ther efore an important step to help protect against these issues and we have taken a number of steps to achieve this, including ensuring correct quantities of raw materials and additives are used in our furnaces, using the right recipes to reduce the generation of slag, and making sure that melting cycle times are correctly maintained. As a result, the percentage of slag waste created fell from 17% in 2022 to around 15% in 2023. Going further, we also aim to reduce the toxicity of waste by recovering lead from the waste. Thanks to these efforts, the amount of lead in slag waste fell from 254 tons (3.8% of the waste) in 2022 to 181 tons (2.6%) in 2023, with 74 tons recovered.",
+    "page_numbers": [
+      37
+    ],
+    "page_start": 37,
+    "page_end": 37,
+    "heading_path": [
+      "REDUCING AND RECOVERING SLAG WASTE"
+    ],
+    "section_label": "REDUCING AND RECOVERING SLAG WASTE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1100,
+    "token_count": 262
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0085",
+    "report_id": "Tasnee2023",
+    "chunk_index": 84,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Material losses, such as those from flaring, process venting, fugitive losses and hazardous/non-hazardous waste, can have a significant environmental impact, especially if managed incorrectly. To mitigate this, we carefully monitor all material losses in our operations, and have processes in place to minimize them. Petchem aims to achieve a 50% reduction in material loss intensity by the end of 2030. In 2023, we further reduced our material losses through improved operational efficiencies. For Downstream, the material loss decreased by 19% to 8,274 tons, with a material loss intensity of 0.05. Material loss intensities also decreased at Petchem and AMIC by 8% and 22%, respectively. *Intensity figures are restated due to a more accurate calculation method. decrease in material loss at Downstream in 2023",
+    "page_numbers": [
+      38
+    ],
+    "page_start": 38,
+    "page_end": 38,
+    "heading_path": [
+      "MATERIAL LOSS"
+    ],
+    "section_label": "MATERIAL LOSS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 813,
+    "token_count": 188
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0086",
+    "report_id": "Tasnee2023",
+    "chunk_index": 85,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Spillages, especially those of hazardous materials, can have serious impacts on the environment and on local communities. Tasnee has established targets to achieve legal obligations related to pollution prevention, including the prevention of spills. We take this extremely seriously, with strict measures in place to prevent spills or, should they occur, to ensure their effective management. In the event of a spill, we investigate the causes thoroughly to identify any issues and develop new procedures to prevent a recurrence. We are pleased to report that due to our robust approach, no spills occurred in 2023 in any of our SBUs. Zero spills occurred in 2023 in any of our SBUs At Petchem, all environmental impacts are comprehensively assessed and managed through our Environmental Impact Assessment (EIA) process. Emission point sources are equipped with Best Available Techniques (BAT) to ensure compliance with legal emission limits. Additionally , our Fugitive Emission Monitoring program, or Leak Detection and Repair initiative, conducted annually, is mandated to monitor and quantify VOC and Hazardous Air Pollutants (HAPs) emanating from piping components such as joints, valves, and fittings, aligning with regulatory requirements. For three consecutive years, there have been no fines or penalties imposed for environmental violations. Noise levels are covered by our Environmental Policy, which is part of our EHSS Policy.",
+    "page_numbers": [
+      39
+    ],
+    "page_start": 39,
+    "page_end": 39,
+    "heading_path": [
+      "SPILL PREVENTION"
+    ],
+    "section_label": "SPILL PREVENTION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1440,
+    "token_count": 319
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0087",
+    "report_id": "Tasnee2023",
+    "chunk_index": 86,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Pollution includes noise, which can be a serious problem both for employees and the communities close to our operations. We continually monitor our noise emissions to identify potential issues and reduce our impact on the surrounding environment as much as possible. Moreover, all equipment that produces high noise levels is designed to meet occupational noise limits. We also monitor emissions across our operations, and these are audited annually by an independent third party to ensure compliance with the Royal Commission's noise standards.",
+    "page_numbers": [
+      39
+    ],
+    "page_start": 39,
+    "page_end": 39,
+    "heading_path": [
+      "NOISE"
+    ],
+    "section_label": "NOISE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 545,
+    "token_count": 110
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0088",
+    "report_id": "Tasnee2023",
+    "chunk_index": 87,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Environmental considerations are designed into the operations at all our plants, including our flaring activities. Polymer plant gases are usually sent to monomer plants, avoiding the need for any process flaring at our plants. However, flaring is required for the safe disposal of hydrocarbons, which would otherwise pose a significant risk to our staff, equipment, and nearby residents during non-routine situations, such as plant start up or shut down and emergency outages. We make every effort to minimize flaring and use it as a key indicator for our material loss data. In 2023, we continued to maintain our flaring emissions below the Royal Commission's limits. At Petchem, while there was an increase in production levels, the flaring level fell by 11%. Downstream and AMIC reported zero flaring during the year.",
+    "page_numbers": [
+      40
+    ],
+    "page_start": 40,
+    "page_end": 40,
+    "heading_path": [
+      "FLARING"
+    ],
+    "section_label": "FLARING",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 821,
+    "token_count": 180
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0089",
+    "report_id": "Tasnee2023",
+    "chunk_index": 88,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Access to clean, fresh water is a human right. In many parts of the world, however, including our own region, water is increasingly scarce, putting pressure on people, businesses and the environment. With the growing impacts of climate change, it is more ensure it is discharged responsibly to avoid pollution. Tasnee has a company-wide water management approach, which focuses on limiting freshwater usage, that our wastewater is treated in compliance with regulatory authority requirements. Petchem uses seawater for cooling, which is supplied by a third party, as part of our approach to utilize alternative water sources. This equates to approximately 99% of all the water supplied to Petchem. Also, Petchem employs a closed-loop cooling water system and pre-treats wastewater before sending it to a third party. This supports the utilization of forwardlooking technology upgrades and process changes. The company achieved a 9% reduction in 2023. Compared to the baseline year of 2016, Petchem aims to achieve a 20% reduction in water intensity by the end of 2030. In 2023, water use intensity across the company decreased by 2% compared to 2022, despite an increase in total water consumption to 4,212,443 cubic meters. This increase in consumption was driven by heightened production across Tasnee's SBUs and the inclusion of deep well water consumption at one of our downstream plants, a metric that was recorded for the first time in 2030. At Tasnee, we are enhancing our water recycling and reuse efforts. In 2023, we achieved a 2% increase in recycled water and are striving for even greater improvements in the future. 9% reduction in water consumption in 2023 at Petchem *Figures are restated due to a more accurate calculation method, and intensity figures are restated due to a more accurate calculation method",
+    "page_numbers": [
+      41,
+      42
+    ],
+    "page_start": 41,
+    "page_end": 42,
+    "heading_path": [
+      "WATER USE"
+    ],
+    "section_label": "WATER USE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1824,
+    "token_count": 426
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0090",
+    "report_id": "Tasnee2023",
+    "chunk_index": 89,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee takes pride in delivering products of the highest quality. All our products must adhere to relevant international standards and requirements, including those of ISO and Responsible Care ® . All Tasnee sites have ISO 9001 (quality management) and ISO 14001 (environmental management system) certification as of 2023 and we aim to renew these certifications annually. We also hold Responsible Care ® 14001 accreditation, demonstrating our commitment to high standards for waste management, resource use, and health and safety. Tasnee manufactures green products, including recyclable plastic pellets such as Polypropylene, LDPE, and HDPE. Moreover, we produce a super absorbent polymer (Dibal) utilized in agriculture as a soil supplement/additive to enhance water retention with reduced soil volume. These products, namely PP , LDPE, HDPE, and Dibal, are sold annually. We have a comprehensive Product Stewardship Policy, Strategy, and Procedure to ensure compliance with regulatory requirements for our own and our affiliates' products. These measures are designed to ensure the safe use of products and to integrate health, safety, and environmental protection into every stage in the product lifecycle. We also provide technical data sheets, safety data sheets, specific product regulatory declarations, product labeling information, and guidance on safe handling and storage. Our polymer products are registered for European REACH and pre-registered for Turkish KKDIK along with BIS (India) certification. All our products that are intended to come in contact with food substances must comply with Good Manufacturing Practices as defined in Regulation (EC) No 2023/2006 and its amendments. Our manage ment system defines the processes and procedures for all stages of raw-material qualification, manufacturing, packaging, and storage of these products. During the year, we also hosted a delegation from Allegheny Technologies Incorporated (ATI), the leading international manufacturer of titanium alloy products.",
+    "page_numbers": [
+      43
+    ],
+    "page_start": 43,
+    "page_end": 43,
+    "heading_path": [
+      "PRODUCT STEWARDSHIP"
+    ],
+    "section_label": "PRODUCT STEWARDSHIP",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2022,
+    "token_count": 447
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0091",
+    "report_id": "Tasnee2023",
+    "chunk_index": 90,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The Advanced Smelting Industries Company (ASIC), a Tasnee affiliate, exported its first shipment of pig iron to the USA in 2023. More than 37,000 tons were delivered in an important first both for ASIC and for this industrial sect or in the Kingdom. Tasnee's EVP Metallurgy, Dr Trabzuni, praised the company and its employees for this significant achievement, which strengthens Saudi industry and increases its global competitiveness and the made in Saudi slogan.",
+    "page_numbers": [
+      43
+    ],
+    "page_start": 43,
+    "page_end": 43,
+    "heading_path": [
+      "ASIC EXPORTS ITS FIRST SHIPMENT OF 'PIG IRON' TO THE UNITED STATES"
+    ],
+    "section_label": "ASIC EXPORTS ITS FIRST SHIPMENT OF 'PIG IRON' TO THE UNITED STATES",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 463,
+    "token_count": 110
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0092",
+    "report_id": "Tasnee2023",
+    "chunk_index": 91,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our employees' health and safety are our number one priority. We strive to achieve a culture of health and safety across all our operations, and all employees and contractors must comply with our stringent safety standards and requirements. Our robust EHSS strategy contains preventative policies, procedures and emergency preparedness guidelines. In the event of an H&S-related incident, we have thorough response processes in place. We conduct detailed investigations to identify the causes and learning points to ensure there is no repeat. Tasnee is a proud member of the global Responsible Care initiative, members of which are committed to a common vision for environmental, health and safety performance. We hold ISO 45001:2018 certification for Occupational Health and Safety Management, which informs our processes and protocols to ensure a safe working environment.",
+    "page_numbers": [
+      44
+    ],
+    "page_start": 44,
+    "page_end": 44,
+    "heading_path": [
+      "HEALTH AND SAFETY"
+    ],
+    "section_label": "HEALTH AND SAFETY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 874,
+    "token_count": 174
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0093",
+    "report_id": "Tasnee2023",
+    "chunk_index": 92,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee's 'Journey Toward EHSS Excellence' program is designed to improve our overall EHSS levels and ensure compliance with industry standards. The initiative enables us to assess the strengths of our safety program and to identify opportunities for improvement, which are implemented by the relevant SBU or department. Through Journey Toward EHSS Excellence, Petchem has established 143 KPIs. These are monitored on a monthly basis, with regular EHSS audits to assess compliance and improvement. The KPIs are arranged in five categories, with 18 subcategories, as shown in the graph.",
+    "page_numbers": [
+      45
+    ],
+    "page_start": 45,
+    "page_end": 45,
+    "heading_path": [
+      "TASNEE'S EHSS JOURNEY"
+    ],
+    "section_label": "TASNEE'S EHSS JOURNEY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 584,
+    "token_count": 129
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0094",
+    "report_id": "Tasnee2023",
+    "chunk_index": 93,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee's EHSS Steering Committee meets quarterly. The members include both management and non-management participants, ensuring a mix of opinions and levels are represented. The committee's responsibilities include offering recommendations for enhancing current systems and practices, and reviewing EHSS-related KPIs, campaigns, plant performance and accidents. Committee members also explore the challenges and difficulties of EHSS in the workplace and suggest potential solutions. - Medical Checkup - Health Risk Survey - Work Permit - Personnel Protective Equipment (PPE) - Bypass - Lockout tagout (LOTO) - Emergency Response - ERT Training - Fire Gears - Traffic Violation - Security Violation",
+    "page_numbers": [
+      45
+    ],
+    "page_start": 45,
+    "page_end": 45,
+    "heading_path": [
+      "EHSS STEERING COMMITTEE"
+    ],
+    "section_label": "EHSS STEERING COMMITTEE",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 697,
+    "token_count": 156
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0095",
+    "report_id": "Tasnee2023",
+    "chunk_index": 94,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We believe that a healthy workforce is more productive. If employees enjoy high levels of wellbeing, they will be less likely to suffer absences through illness and better able to make a positive contribution to the company. We have developed the necessary policies, frameworks and procedures, based on internationally accepted risk management standards, to reduce the impact of negative risks and to invest in positive opportunities. We offer all employees a comprehensive Occupational Health (OH) Surveillance and Preventive Medicine Program, designed to promote health and wellbeing. The program includes: - Pre-employment medical examination - Periodic medical examination - Special medical examinations - Pulmonary protection program - Immunization program - Food handling program. - Health promotion program. Tasnee was awarded with the Occupational Safety and Health Pioneers Award 2023 by the Ministry of Human Resources and Social Development. The program is audited and certified by an independent third party. Workers participate in the development, implementation, and evaluation of the occupational health and safety management system through various processes: they provide safety suggestions, nominate relevant training programs, and evaluate the effectiveness of these training sessions. In addition to a safety committee meeting, which includes worker participation, is held annually. Our Healthy Day program offers blood pressure monitoring, blood sugar testing, weight monitoring, audio test and hearing protection, as well as health education and advice. Medical files for employees are kept securely and can only be accessed by the medical staff. All employees are covered by a health and safety management system for the last three years and all those employees been audited or certified by an external party.",
+    "page_numbers": [
+      46
+    ],
+    "page_start": 46,
+    "page_end": 46,
+    "heading_path": [
+      "OCCUPATIONAL HEALTH AND SAFETY"
+    ],
+    "section_label": "OCCUPATIONAL HEALTH AND SAFETY",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1831,
+    "token_count": 354
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0096",
+    "report_id": "Tasnee2023",
+    "chunk_index": 95,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The Lost-time Injury Frequency Rate (LTIFR) - the number of lost-time injuries occurring for employees - was 2 in 2023, with all incidents investigated and corrective actions taken. The Total Recordable Injury Frequency Rate (TRIFR) for the year was 2.76 for employees and 3.74 for contractors, and the company achieved 10.9 million safe working hours. It is important to note that over the past three years, Tasnee has reported no work-related fatalities. Total Recordable Injury Frequency Rate (TRIFR) in 2023 In 2023, Tasnee delivered a total of 5,287 hours of comprehensive health and safety training to both its employees and contractors. This figure represents a notable increase of 12% compared to the previous year. Where there was a notable increase of 29% in the amount of health and safety training specifically provided to contractors during this period. 5,287 hours of comprehensive health and safety training to both employees and contractors in 2023 *Figures are restated due to clerical error.",
+    "page_numbers": [
+      47,
+      49
+    ],
+    "page_start": 47,
+    "page_end": 49,
+    "heading_path": [
+      "WORKPLACE INJURIES"
+    ],
+    "section_label": "WORKPLACE INJURIES",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1009,
+    "token_count": 232
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0097",
+    "report_id": "Tasnee2023",
+    "chunk_index": 96,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee, represented by Petchem, won the Ministry of Human Resources and Social Development's Occupational Safety and Health Pioneers Award in 2023. The award is one of the Ministry's initiatives to recognize the efforts of companies to achieve high standards in health and safety. Winning the award reflects our work to promote excellence as one of the Tasnee core values and to create a safe and attractive work environment.",
+    "page_numbers": [
+      49
+    ],
+    "page_start": 49,
+    "page_end": 49,
+    "heading_path": [
+      "OCCUPATIONAL SAFETY AND HEALTH PIONEERS AWARD 2023"
+    ],
+    "section_label": "OCCUPATIONAL SAFETY AND HEALTH PIONEERS AWARD 2023",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 425,
+    "token_count": 93
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0098",
+    "report_id": "Tasnee2023",
+    "chunk_index": 97,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Health and well-being are inextricably linked to safety. At Tasnee, our well-being approach focuses on both shortand long-term preventative measures. All employees are encouraged to attend annual health screening checks, as these can aid early identification of potential issues and signpost any required support.",
+    "page_numbers": [
+      50
+    ],
+    "page_start": 50,
+    "page_end": 50,
+    "heading_path": [
+      "EMPLOYEE WELL-BEING"
+    ],
+    "section_label": "EMPLOYEE WELL-BEING",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 313,
+    "token_count": 71
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0099",
+    "report_id": "Tasnee2023",
+    "chunk_index": 98,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "As part of our efforts to promote well-being, we have initiatives to help our staff lead active and healthy lives. Campaigns raise awareness around specific issues and help employees make more informed, healthier choices. All employees are eligible for annual health screenings. In 2023, we recorded 1,228 screenings, representing a 100% uptake. 1,228 health screenings recorded in 2023",
+    "page_numbers": [
+      50
+    ],
+    "page_start": 50,
+    "page_end": 50,
+    "heading_path": [
+      "HEALTH SCREENING"
+    ],
+    "section_label": "HEALTH SCREENING",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 386,
+    "token_count": 85
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0100",
+    "report_id": "Tasnee2023",
+    "chunk_index": 99,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Heat can be a significant workplace challenge in Saudi Arabia, especially in summer. Tasnee is highly conscious of the risks this poses, and we actively mitigate the dangers to ensure a safe working environment. Heat stress is included in our risk assessments, and we take various precautionary measures, which have resulted in year-on-year declines in heat-related cases. Additional measures are applied during the summer months, including awareness programs and training to remind workers of the causes, risks, dangers, and treatment of heat stress. For three consecutive years, we had zero heat stress cases.",
+    "page_numbers": [
+      50
+    ],
+    "page_start": 50,
+    "page_end": 50,
+    "heading_path": [
+      "HEAT STRESS"
+    ],
+    "section_label": "HEAT STRESS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 611,
+    "token_count": 136
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0101",
+    "report_id": "Tasnee2023",
+    "chunk_index": 100,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "At all our sites, we maintain the necessary resources and procedures necessary to respond to any incidents that may arise, such as spills, leaks, fires and explosions. These are tested regularly, and staff trained and kept up to date on emergency management techniques and procedures. We also invest in innovative technologies to ensure we have the latest and most effective means of dealing with any emergency that may occur. In 2023, Tasnee conducted 44 emergency response drills across our SBUs which is a 63% increase compared to last, this is to enhance our preparedness, ensure our standards are maintained, and identify and address any weaknesses in the system. We are an active member of JAMA'A, which provides training and emergency response exercises. In 2023, Petchem achieved a 100% score in JAMA'A's annual drill evaluation. *Figures are restated due to recalculation.",
+    "page_numbers": [
+      51
+    ],
+    "page_start": 51,
+    "page_end": 51,
+    "heading_path": [
+      "EMERGENCY PREPAREDNESS AND RESPONSE"
+    ],
+    "section_label": "EMERGENCY PREPAREDNESS AND RESPONSE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 881,
+    "token_count": 198
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0102",
+    "report_id": "Tasnee2023",
+    "chunk_index": 101,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We continually monitor the performance of our assets and daily business operations and conduct regular inspections, equipment tests, sound engineering and risk management. Across our operations, we constantly identify , manage and mitigate internal and external risks, such as: Recurring process safety incidents due to non-compliance with Process Safety Management System requirements or ineffective system implementation Challenges to workplace safety and the integrity of operating systems and processes that handle hazardous substances. We operate an integrated risk identification and mitigation system, which identifies and maps emerging trends. This enables us to limit or eliminate anything that could have a negative impact on our operations, helping us achieve operational excellence and improve productivity. We employ a suite of risk management practices, covering health, fire prevention, security, safety and environmental procedures for planning, construction, and safe operations. We continually review and update our management systems in line with changes in legislation, oper ations, and guidelines. Formal risk analysis and risk revalidation studies are carried out every five years, ensuring that our systems are up to date and fit for purpose. Asset management at Tasnee features a comprehensive life cycle program for physical assets, strategically designed to fulfill long-term stakeholder objectives within a multidimensional context. This facilitates the translation of long-term growth aspirations and our corporate vision into tangible, plantlevel goals by setting asset management objectives. Aligning these activities enables the cr eation of a unified entity to achieve cost-effective life cycle asset management with transparent decision-making processes and effective information management. Recognizing its significance, this pr ogram has earned a prominent place within the ISO framework as the ISO 55001 management system, second only t o quality management, profoundly influencing the sustained operation of assets.",
+    "page_numbers": [
+      52
+    ],
+    "page_start": 52,
+    "page_end": 52,
+    "heading_path": [
+      "PROCESS SAFETY AND ASSET INTEGRITY"
+    ],
+    "section_label": "PROCESS SAFETY AND ASSET INTEGRITY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2052,
+    "token_count": 409
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0103",
+    "report_id": "Tasnee2023",
+    "chunk_index": 102,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our people are the most valuable asset. We achieve this by recruiting, retaining, and developing the most talented employees and providing them with opportunities to fulfil their potential and achieve fulfilling careers - a belief captured in our slogan of 'One Tasnee, One Team'. Our human capital development approach is based around providing employees with continual opportunities to grow and develop. We do so through offering high-quality training, investing in digital technology, using best-practice recruitment techniques, providing career progression and growth, job enrichment, and empowering individuals. In this way, we build a workplace culture that celebrates and promotes diversity, excellence, innovation and an enduring value for our people.",
+    "page_numbers": [
+      53
+    ],
+    "page_start": 53,
+    "page_end": 53,
+    "heading_path": [
+      "HUMAN CAPITAL DEVELOPMENT"
+    ],
+    "section_label": "HUMAN CAPITAL DEVELOPMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 759,
+    "token_count": 154
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0104",
+    "report_id": "Tasnee2023",
+    "chunk_index": 103,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Development and Training - Recruitment and Retention - Engagement and Satisfaction - Diversity - Inclusion and Equality",
+    "page_numbers": [
+      53
+    ],
+    "page_start": 53,
+    "page_end": 53,
+    "heading_path": [
+      "MATERIAL ISSUES:"
+    ],
+    "section_label": "MATERIAL ISSUES:",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 121,
+    "token_count": 26
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0105",
+    "report_id": "Tasnee2023",
+    "chunk_index": 104,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "To drive continuous improvement, we respect people's differences and encourage self-accountability, a hunger to learn and a commercial mindset. Training and development initiatives are an important part of our efforts to recruit and retain the finest talent to enable them to run our operations safely and productively. We believe that we are strongly positioned in the market and regularly review our positioning and total reward strategies. Our culture is our competitive edge. We have implemented new proactive recruitment methods, including recruitment marketing and talent pooling. We have also developed strategies for securing critical skills and made improvements to our recruitment processes to increase speed while still focusing on the suitability of candidates In line with the Saudi Vision 2030, we place a special priority on recruiting and developing young people. In 2023, 647 Tasnee employees were under 30, amounting to 19.4% of our total workforce, an increase from 17.8% the previous year. Moreover, of the 532 new employees who joined Tasnee in 2023, 51% were under 30, and female hires increased by 69% in the year. In 2024, we aim to strengthen our succession planning process to ensure a consistent availability of a talented pipeline capable of meeting future challenges.",
+    "page_numbers": [
+      54,
+      55
+    ],
+    "page_start": 54,
+    "page_end": 55,
+    "heading_path": [
+      "RECRUITMENT AND RETENTION"
+    ],
+    "section_label": "RECRUITMENT AND RETENTION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1296,
+    "token_count": 278
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0106",
+    "report_id": "Tasnee2023",
+    "chunk_index": 105,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We aim to provide a workplace in which everyone can achieve their potential. We place a focus on talent development and training, enabling us to attract and retain the finest employees. By empowering our people to achieve their goals, we are better able to achieve ours.",
+    "page_numbers": [
+      56
+    ],
+    "page_start": 56,
+    "page_end": 56,
+    "heading_path": [
+      "DEVELOPMENT AND TRAINING"
+    ],
+    "section_label": "DEVELOPMENT AND TRAINING",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 270,
+    "token_count": 60
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0107",
+    "report_id": "Tasnee2023",
+    "chunk_index": 106,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We aim to prepare young people for their future careers. Our early careers support initiatives include the youth development program, Saudi early engineers development, Tasnee development program for operators and technicians in Jubail, and the Downstream graduate engineering development program. Together, these initiatives enrolled 60 trainees in 2023. In addition, we initiated the Tatwar training program to develop young Saudi talent, providing them with the necessary soft skills to enhance their professional development. These programs run in conjunction with a cognitiv e educational series that provides on-the-job skills and competence training. We also empower young leaders and the female workforce through Saudization programs provided by the Ministry of Human Resources and the Human Resources Development Fund (HADAF). In 2023, we launched a revised Leadership Competency model to define the specific skills, behaviors, and attributes that are essential for effective leadership within Tasnee. The model serves as a guide for leadership development, recruitment, performance evaluation, and succession planning initiatives within Tasnee. Other initiatives in the year included the introduction of a GS Ticketing System, implemented Robotics Solutions for Mobile Billing Verification within Payroll Systems, a new Attendance System, and notable advancements in digitalizing and automating HR systems and processes. Looking ahead, in 2024, we aim to enhance digitalization efforts by integrating technologies such as Artificial Intelligence and leveraging existing digitalization initiativ es. The utilization rates for SuccessFactors (SAP HR software) have experienced a notable increase.",
+    "page_numbers": [
+      56
+    ],
+    "page_start": 56,
+    "page_end": 56,
+    "heading_path": [
+      "SUPPORTING YOUNG PEOPLE"
+    ],
+    "section_label": "SUPPORTING YOUNG PEOPLE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1704,
+    "token_count": 338
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0108",
+    "report_id": "Tasnee2023",
+    "chunk_index": 107,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee's commitment to staying at the forefront of technological advancements drives our pursuit of sustainable HR digitalization. Recognizing the pivotal role of HR in fostering innovation, we continue to prioritize digital transformation efforts. In 2023, we boosted SAP SuccessFactor license utilization (i.e. number of utilized licenses against procured licenses) to 88% from a baseline of 80% and 85% of HR processes are now digitalized. Additionally, we successfully automated eight manual processes using SuccessFactors and introduced AI-driven tools in recruitment, with AI-based e-learning modules on the horizon. We conducted six quality checks, resulting in enhanced module utilization. Our Human Resources Department sought to ensure all identified training gaps were filled during the year, through a mixture of online and classroombased training. We enhanced our training and development programs focused on youth development and increased intake numbers. In addition, our E-Curricula Program has been successfully introduced. This flexible and customizable suite of eight online programs is designed to ensure a structured career growth pathway. It promotes self-directed learning and the concept of 'learning on-the-go '. As a result, the total number of training hours for the workforce increased by 30% to more than 104,000, an average of 35 hours per employee. In 2024, we aim to enhance our robust Learning and Development Framework by introducing and aligning programs to sustain, upskill, and reskill our workforce effectively. We conducted performance and career reviews for 85% of our employees in 2023.",
+    "page_numbers": [
+      56,
+      57
+    ],
+    "page_start": 56,
+    "page_end": 57,
+    "heading_path": [
+      "ADVANCING HR DIGITALIZATION"
+    ],
+    "section_label": "ADVANCING HR DIGITALIZATION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1627,
+    "token_count": 356
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0109",
+    "report_id": "Tasnee2023",
+    "chunk_index": 108,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our goal is for every one of our employees to feel satisfied and fulfilled in their work. Underpinning this is achieving a high level of employee engagement. We also believe in treating employees with respect at all times, listening to their concerns and ideas and responding openly and honestly. Feedback mechanisms and performance reviews enable employees to identify strengths and areas for development, alongside goals and development opportunities. In 2023, the overall satisfaction rate was 82%. Employee engagement initiatives in 2023 included HR Week, which gave employees opportunities to find out more about various processes, policies, and ask questions directly in special sessions. The HR Week is an annual campaign conducted by HR teams aiming to enrich employee awareness on HR processes, programs, employee benefits, and management and leadership tips for management level employees. Additionally, it aims to sustain employees' engagement and connection while opening opportunities to employees for HR-related inquiries, consultation and advice. Our Petrochemical SBU operates a program called Fikrah, through which employees can submit innovative ideas to improve sustainability and increase profits. Over 40 sustainability-related ideas were received through the program in 2023 and were evaluated using a cost-benefit analysis. The most effective are being implemented, and others with potential have been added to our roadmap for future implementation, subject to feasibility.",
+    "page_numbers": [
+      58
+    ],
+    "page_start": 58,
+    "page_end": 58,
+    "heading_path": [
+      "ENGAGEMENT AND SATISFACTION"
+    ],
+    "section_label": "ENGAGEMENT AND SATISFACTION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1496,
+    "token_count": 290
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0110",
+    "report_id": "Tasnee2023",
+    "chunk_index": 109,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee's Annual Ramadan Gathering for HQ employees was held once again in 2023. We honored employees who had achieved longservice awards and celebrated employees who volunteered their time on the company's social responsibility programs. These included providing help to people through home renovations, the distribution of food baskets, tree planting, and environmental care at beaches.",
+    "page_numbers": [
+      58
+    ],
+    "page_start": 58,
+    "page_end": 58,
+    "heading_path": [
+      "ANNUAL RAMADAN GATHERING FOR TASNEE HQ EMPLOYEES"
+    ],
+    "section_label": "ANNUAL RAMADAN GATHERING FOR TASNEE HQ EMPLOYEES",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 387,
+    "token_count": 81
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0111",
+    "report_id": "Tasnee2023",
+    "chunk_index": 110,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We provide employees with a wide range of benefits to support staff retention and maintain the well-being of our workforce. Benefits we offer include: Medical insurance for employees and dependents Individual development plans Employee training schemes Service awards Education assistance for non-Saudi employees and dependents Physical well-being programs Defined contribution pension/benefit plan In addition to WalaPlus (the Tasnee brand name 'Testahel'), a discount and benefits program tailored for employees and their families, operating across a network of over 5,000 retail locations. This scheme features an online discount portal, routinely updated promotional offers, and a diverse range of unique vouchers. We offer a defined contribution plan through which eligible employees can save money to secure their futures, with the company making additional contributions. We have made it easier for staff to access parental leave through our HR system. In 2023, we achieved a 100% return-to-work from parental leave rate and a retention rate of over 98% twelve months after employees return from their leave. 100% return-to-work rate in 2023",
+    "page_numbers": [
+      59
+    ],
+    "page_start": 59,
+    "page_end": 59,
+    "heading_path": [
+      "EMPLOYEE BENEFITS"
+    ],
+    "section_label": "EMPLOYEE BENEFITS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1148,
+    "token_count": 238
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0112",
+    "report_id": "Tasnee2023",
+    "chunk_index": 111,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Having a diverse workforce strengthens a company, providing different perspectives and ideas, and better reflecting the diverse nature of a company's customers and markets. In recent years, we have focused our diversity efforts on race and gender. Although we have more to do, we are proud of our efforts and achievements to date. Two policies in particular demonstrate our commitment to a more equal workplace: our Equal Employment Opportunity Policy and our Friendly Working Environment Policy, which reinforces our belief in maintaining an environment built on respect for all. We have a zero-tolerance approach to negative behaviors such as harassment or discrimination. Any allegations of such behavior are taken extremely seriously, and thoroughly investigated according to due process. We are committed to ensuring that human rights ar e maintained and respected throughout the company. All employees must sign up to our Code of Conduct, which includes sections on human rights r equirements and commitments to fairness and equality. In line with Saudi Vision 2030, we ar e actively increasing the representation of female employees at Tasnee and adopting more women-friendly policies to support this initiative. In 2023, the number of female staff increased by 26%, including eight in middle management. We have also introduced programs, initiatives and training to empower our female employees such as the E-Curricula Program and enrich their workplace experience and are looking to adopt more women-friendly policies in the future. 26% increase in female staff in 2023 WE ARE COMMITTED TO ENSURING THAT HUMAN RIGHTS ARE MAINTAINED AND RESPECTED THROUGHOUT THE COMPANY",
+    "page_numbers": [
+      60
+    ],
+    "page_start": 60,
+    "page_end": 60,
+    "heading_path": [
+      "INCLUSION AND EQUAL OPPORTUNITY"
+    ],
+    "section_label": "INCLUSION AND EQUAL OPPORTUNITY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1677,
+    "token_count": 366
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0113",
+    "report_id": "Tasnee2023",
+    "chunk_index": 112,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "We continually invest in improving ethics-related controls, including those related to risk, compliance and auditing. Every one of our employees is required to uphold the highest standards of ethical and professional behavior, while a robust governance structure helps us to be accountable for our actions and to identify and learn from any errors we make. Our company culture is founded on sound corporate governance. Our governance structure sets out our clearly defined values, complemented by a robust network of controls and a compliance framework. We expect this culture to extend into our supply chain and our Responsible Supply Chain Framework includes a comprehensive Code of Conduct. We require all our stakeholders to share the same commitment to the highest standards, thereby embedding ethics, compliance, and responsibility throughout our business.",
+    "page_numbers": [
+      62
+    ],
+    "page_start": 62,
+    "page_end": 62,
+    "heading_path": [
+      "RESPONSIBLE BUSINESS"
+    ],
+    "section_label": "RESPONSIBLE BUSINESS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 862,
+    "token_count": 176
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0114",
+    "report_id": "Tasnee2023",
+    "chunk_index": 113,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee aims to be a profitable, growing, and sustainable company, maintaining our competitiveness and delivering our commitments to our stakeholders. In return for consistent returns, we make meaningful contributions to support the communities where we operate. More than 60% of our revenue is generated in the Kingdom with a further 15% in the wider Middle East. To remain profitable, reduce our impacts and deliver financial results that meet and exceed stakeholders' expectations, we continually innovate to implement operational and cost efficiencies. *The figure is restated as some corresponding figures have been reclassified in conformity with 2023. In 2023, despite the increase in sales volumes of most products, Tasnee experienced a 9% decrease in revenue due to lower average selling prices, resulting in a net profit of SAR 174,568 million. net profit in 2023",
+    "page_numbers": [
+      63
+    ],
+    "page_start": 63,
+    "page_end": 63,
+    "heading_path": [
+      "ECONOMIC AND BUSINESS PERFORMANCE"
+    ],
+    "section_label": "ECONOMIC AND BUSINESS PERFORMANCE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 872,
+    "token_count": 187
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0115",
+    "report_id": "Tasnee2023",
+    "chunk_index": 114,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee's governance structure sets out and defines the company's expectations to maintain the highest standards of corporate integrity, ethics, and compliance across the business.",
+    "page_numbers": [
+      64
+    ],
+    "page_start": 64,
+    "page_end": 64,
+    "heading_path": [
+      "GOVERNANCE"
+    ],
+    "section_label": "GOVERNANCE",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 179,
+    "token_count": 40
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0116",
+    "report_id": "Tasnee2023",
+    "chunk_index": 115,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee's Board of Directors is the cornerstone of the company's governance framework, comprising 10 distinguished members who bring a wealth of expertise and experience. The Board is responsible for shaping the company's overall business strategy, and direction, and ensuring the highest standards of compliance and governance.",
+    "page_numbers": [
+      65
+    ],
+    "page_start": 65,
+    "page_end": 65,
+    "heading_path": [
+      "BOARD OF DIRECTORS"
+    ],
+    "section_label": "BOARD OF DIRECTORS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 327,
+    "token_count": 69
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0117",
+    "report_id": "Tasnee2023",
+    "chunk_index": 116,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Separation of CEO and Chairman roles, with the CEO reporting directly to the Board. - TASNEE has three main committees: Executive Committee, Nomination and Remuneration Committee, and Risk and Governance Committee. - An Audit Committee, established by shareholders, reports directly to the General Assembly through the Board. - Risk and Compliance (ERC) Committee, led by the CFO, focuses on governance, risk management, and compliance oversight across the company and its affiliates. This robust governance framework empowers Tasnee to navigate complex business landscapes, drive growth, and maintain the highest levels of compliance and ethical standards.",
+    "page_numbers": [
+      65
+    ],
+    "page_start": 65,
+    "page_end": 65,
+    "heading_path": [
+      "The Board's structure includes:"
+    ],
+    "section_label": "The Board's structure includes:",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 659,
+    "token_count": 149
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0118",
+    "report_id": "Tasnee2023",
+    "chunk_index": 117,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Oversees the daily implementation of board policies. - Reviews the company's strategic plans, projects, and annual estimated budget and recommends them to the Board of Directors for approval. - Approves the policies, procedures, debt instruments, and loans of subsidiaries, and exercises all the powers assigned to the committee by the board. The Executive Committee conducted three meetings during 2023 to implement its tasks.",
+    "page_numbers": [
+      66
+    ],
+    "page_start": 66,
+    "page_end": 66,
+    "heading_path": [
+      "EXECUTIVE COMMITTEE:"
+    ],
+    "section_label": "EXECUTIVE COMMITTEE:",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 429,
+    "token_count": 96
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0119",
+    "report_id": "Tasnee2023",
+    "chunk_index": 118,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Assists the Board in maintaining an appropriate structure and balance of skills to support Tasnee's strategic objectives. - Proposes clear policies and standards for membership on the Board of Directors and Executive Management. - Recommends nominees and re-nominees to the Board of Directors in accordance with the approved policies and standards, considering membership criteria and legal requirements. - Reviews the skills and experience required for Board of Directors and executive management positions. - Identifies the strengths and weaknesses of the Board of Directors and proposes solutions to be consistent with the company's interest. - Helps the Board in overseeing senior remuneration arrangements. - Recommends remuneration policies and framework for all staff. The Nominations and Remuneration Committee conducted two meetings during 2023 to implement its tasks.",
+    "page_numbers": [
+      66
+    ],
+    "page_start": 66,
+    "page_end": 66,
+    "heading_path": [
+      "NOMINATIONS AND REMUNERATION COMMITTEE:"
+    ],
+    "section_label": "NOMINATIONS AND REMUNERATION COMMITTEE:",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 879,
+    "token_count": 185
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0120",
+    "report_id": "Tasnee2023",
+    "chunk_index": 119,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Ensures the company has a comprehensive framework and policies for risk management, governance, compliance, and related matters aligned with the company's business, activities, objectives, and strategy. - Endorses the risk appetite defining acceptable risk levels for Tasnee and reviews it periodically. - Oversees the company's risk management system and assesses its effectiveness, including mechanisms for identifying and monitoring threats to the company in order to determine areas of inadequacy therein. - Report key risks to the Board of Directors. - Works with executive management to develop a comprehensive framework for risk management, governance, compliance, and related policies that are compatible with the nature of the company's business, activities, and the company's objectives and strategy. - Determines the acceptable levels of risk associated with company activities and reviews them periodically. - Reviews the comprehensive compliance policies periodically to ensure their consistency with changes that may occur in the internal or external environments. The Risk and Governance Committee conducted three meetings during 2023 to implement its tasks.",
+    "page_numbers": [
+      66
+    ],
+    "page_start": 66,
+    "page_end": 66,
+    "heading_path": [
+      "RISK AND GOVERNANCE COMMITTEE:"
+    ],
+    "section_label": "RISK AND GOVERNANCE COMMITTEE:",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 1175,
+    "token_count": 233
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0121",
+    "report_id": "Tasnee2023",
+    "chunk_index": 120,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The Audit Committee is responsible for monitoring the company's operations and verifying the integrity and adequacy of its reports, financial statements and internal control systems. The committee's duties include, in particular, the following: - i. Financial Reports - ii. Internal Audit - iii. The External Auditor - iv. Compliance Assurance The Audit Committee conducted five meetings during 2023 to implement its tasks.",
+    "page_numbers": [
+      66
+    ],
+    "page_start": 66,
+    "page_end": 66,
+    "heading_path": [
+      "AUDIT COMMITTEE:"
+    ],
+    "section_label": "AUDIT COMMITTEE:",
+    "doc_item_labels": [
+      "list_item",
+      "text"
+    ],
+    "char_count": 423,
+    "token_count": 98
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0122",
+    "report_id": "Tasnee2023",
+    "chunk_index": 121,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Ethics and responsible business practices are essential to maintaining the highest standards of compliance and professional integrity. Tasnee has a number of structures and policies in place to ensure compliance across the company with all applicable legal, regulatory, international standards, rules, and best practices. We strive to achieve a culture of transparency, honesty and trust across our workforce and all our stakeholders and to ensure we operate responsibly at all times. Our robust compliance procedures are aligned with internal and external requirements and are regularly reviewed and updated to ensure they remain appropriate.",
+    "page_numbers": [
+      67
+    ],
+    "page_start": 67,
+    "page_end": 67,
+    "heading_path": [
+      "BUSINESS ETHICS"
+    ],
+    "section_label": "BUSINESS ETHICS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 643,
+    "token_count": 126
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0123",
+    "report_id": "Tasnee2023",
+    "chunk_index": 122,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee has been facilitating risk assessment workshops to evaluate various risks within our business operations. Some commonly identified risks include conflict of interest, bribery and gifts, and lack of management oversight. To mitigate these risks, we have implemented several measures, including the adoption of an Anti-Corruption and Bribery Policy along with Antitrust and Competition Policy in place. Anti-corruption is embedded in our Code of Conduct, and we communicate our requirements and expectations to all employees. We have clear systems and policies, which are regularly updated, to ensure compliance with Saudi laws, which provides penalties ranging from fines to imprisonment. In 2023, 82% of our employees received online training on anti-corruption. Moreover, 100% of our operations were assessed for corruption-related risks. No incidents of corruption or fines arose during the year. 100% of our operations were assessed for corruption-related risks",
+    "page_numbers": [
+      67
+    ],
+    "page_start": 67,
+    "page_end": 67,
+    "heading_path": [
+      "ANTI-CORRUPTION"
+    ],
+    "section_label": "ANTI-CORRUPTION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 971,
+    "token_count": 219
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0124",
+    "report_id": "Tasnee2023",
+    "chunk_index": 123,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee's Code of Business Conduct, which is applicable to all employees, directors and management, highlights our dedication to performing with integrity. It is regularly communicated through emails, training courses, and an annual disclosure. The Code outlines expectations for employees' conduct and restates our core values of Excellence, Integrity, Seeking Knowledge and Teamwork. We work closely with stakeholders to ensure their awareness and understanding of regulatory developments, help them gain a broader perspective, and enable them to apply best practices. The Code also helps maintain compliance throughout our business environment, both for Tasnee and for our customers, suppliers, and other third parties and stakeholders. For three consecutive years, Tasnee has not received any regulatory complaints. Zero regulatory complaints for the past 3 years",
+    "page_numbers": [
+      68
+    ],
+    "page_start": 68,
+    "page_end": 68,
+    "heading_path": [
+      "CODE OF CONDUCT"
+    ],
+    "section_label": "CODE OF CONDUCT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 866,
+    "token_count": 181
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0125",
+    "report_id": "Tasnee2023",
+    "chunk_index": 124,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee has a Whistleblowing Grievance and NonRetaliation Policy. Occasionally, employees may need to raise grievances in the course of their employment. We provide effective grievance reporting mechanisms through which employees can raise concerns and highlight areas of non-compliance. Multiple confidential communication channels are provided for this purpose, which employees are encouraged and trained to use. In return, we offer protection from retaliation for anyone who reports an issue. Incidents can be reported in numerous ways, including telephone and online. Reports through any channel are taken very seriously and investigated as per the defined procedure in a timely manner. All incidents and reports are dealt with seriously, and subsequent investigations conducted respectfully, confidentially, and fairly. Under our Code of Conduct, all Tasnee employees must cooperate with any investigation in a truthful and honest manner .",
+    "page_numbers": [
+      68
+    ],
+    "page_start": 68,
+    "page_end": 68,
+    "heading_path": [
+      "GRIEVANCE REPORTING MECHANISM"
+    ],
+    "section_label": "GRIEVANCE REPORTING MECHANISM",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 943,
+    "token_count": 197
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0126",
+    "report_id": "Tasnee2023",
+    "chunk_index": 125,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Effective risk management is a prerequisite for long-term corporate success. Our robust risk management program adheres to best practice and international standards. As a business operating in the petrochemical and chemical industries, we must anticipate and respond to changes in the business environment, including geopolitical and economic changes, inflationary pressures and high interest rates, resulting in both challenges and opportunities. Operating in a global, competitive environment inevitably exposes our company to operational and market risks, as well as opportunities. These are analyzed at senior and departmental management levels to evaluate the effective implementation of policies and procedures. We take both qualitative and quantitative approaches to risk assessment, following best practices and taking guidance from Saudi Arabia's Capital Market Authority and the ISO 31000:2018 standard. We have a robust business continuity and resiliency program, which ensures the safety of its people and assets and continuity of products or services delivery in the event of a crisis or disaster. Tasnee receives the main part of the feedstock from the main supplier (Saudi Aramco) at prices similar to those of petrochemical companies in Saudi Arabia, and any fluctuation in prices affects our profitability. We achieved positive results from implementing performance improvement and expenditure rationalization programs in 2023 and will continue these programs in the future. We continually work on reducing the risk of price fluctuations of petrochemical and industrial products by lowering production costs without compromising on quality and safety, and increasing the quantities produced, thus increasing sales volumes and revenues. Tasnee's activities result in different financial risks, including market, credit, and liquidity risks. These are managed by constant identification, measurement, and control. We employ various methods to mitigate these risks, such as utilizing the necessary derivative financial instruments for hedging exposure to foreign exchange risks and interest rates on loans, and credit risks. We do not use derivative financial instruments for speculative purposes. To mitigate current and future risks to our profitability, cash flows and ability to achieve our strategic goals, we have adopted programs for continually identifying, analyzing, and evaluating these risks. To ensure compliance with the dynamic and evolving regulatory environment in the Kingdom, we actively monitor the actual and potential changes in the laws and regulations so that we can address and manage the impact of those changes. Tasnee's Governance, Risk, Insurance and Compliance (GRIC) Function has comprehensive guidelines to stay abreast of the regulatory changes and to ensure compliance with national, and to the extent applicable international, laws, statutes, regulations. The Board Risk and Governance Committee provides oversight of risk issues across the company and its affiliates, maintains our r egulatory framework, and identifies, prioritizes and manages compliance issues.",
+    "page_numbers": [
+      68,
+      69
+    ],
+    "page_start": 68,
+    "page_end": 69,
+    "heading_path": [
+      "RISK MANAGEMENT"
+    ],
+    "section_label": "RISK MANAGEMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 3113,
+    "token_count": 634
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0127",
+    "report_id": "Tasnee2023",
+    "chunk_index": 126,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our GRIC Function oversees the application of enterprise risk management, governance and compliance methodologies and practices. GRIC responsibilities include risk identification, working with all departments/functions/SBUs to create a suitable response plan and strategy, and supervising the execution of the plan for risk reduction. To accomplish Tasnee's strategic goals, GRIC has developed a comprehensive corporate governance framework that outlines our company-wide approach to strong governance principles, effective risk management, and compliance with all relevant laws and regulatory requirements. We collaborate extensively with different stakeholders to gain a wider perspective, stay up to date on the most recent regulatory developments, and understand best practices. It is crucial for our suppliers, customers, and other stakeholders in our business environment to build compliance capacity. In 2023, we continued to conduct risk assessments across our operations as part of our strategy to improve and enhance our governance structure and framework. In 2024, we will maintain the following actions to strengthen our efforts in risk management, compliance, and governance: Enhancing systems for effective risk management and compliance Concentrating on governance and ethics Conducting workshops, training sessions, testing of the business continuity plans, and compliance review and gap assessment. Contributing for the implementation of ESG framework and disclosure requirements Developing talented young individuals under Youth Development Plan (YDP) Our key risks are included in our 2023 Annual Report .",
+    "page_numbers": [
+      69
+    ],
+    "page_start": 69,
+    "page_end": 69,
+    "heading_path": [
+      "RISK MANAGEMENT"
+    ],
+    "section_label": "RISK MANAGEMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1624,
+    "token_count": 322
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0128",
+    "report_id": "Tasnee2023",
+    "chunk_index": 127,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "The Internal Audit Department's mission is to enhance and protect organizational value by providing risk-based, independent, and objective assurance, advice, and insight. We conduct assurance audits across our SBUs as an essential tool to add value by maintaining and improving sound governance, risk management, and internal controls, as well as providing assurance to our Board of Directors and shareholders. Internal Audit develops a robust audit plan on an annual basis, through which thorough assurance audits are carried out regularly. Any significant risks identified are highlighted and shared with Tasnee's Audit Committee and the relevant area's management. In 2023, we planned 16 audits, and all were successfully completed. Our Internal Audit Department, in accordance with best practices, reports functionally to the Audit Committee and administratively to the company's CEO. The Internal Audit Department has full, free, and unrestricted access to all Tasnee and its affiliates relevant records, physical properties, and personnel pertinent to carrying out any engagement. In addition to conducting audits, its activities include conducting internal assessments as part of the Quality Assurance and Improvement Program, and it is currently working to meet the compliance requirements of the International Standards for the Professional Practice of Internal Auditing from the Institute of Internal Auditors (IIA). The Department carried out all its activities during the year in accordance with the risk-based Internal Audit plan, which was approved by the Audit Committee before the beginning of the year, with a focus on activities and operations with high risks, to help achieve the goals of the company and protect its assets. Further, the Internal Auditing processes are designed to determine the efficiency and effectiveness of the internal control system and procedures. Their results have been discussed and sent to the relevant departments and SBUs to study and address the observations and recommendations, develop the necessary corrective measures, follow up their implementation and closure within agreed timeframe with the relevant departments, and presented to the Audit Committee. Periodically, status reports that clarify what has been achieved with the challenges and risks that may arise from not closing those observations and recommendations are highlighted. In 2023, we have completed the 16 internal audits we planned to conduct. This shows an increase in the number of audits conducted compared to last year (12 audits). of internal audits planned were conducted 100% for three consecutive years",
+    "page_numbers": [
+      70
+    ],
+    "page_start": 70,
+    "page_end": 70,
+    "heading_path": [
+      "INTERNAL AUDITS"
+    ],
+    "section_label": "INTERNAL AUDITS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2631,
+    "token_count": 538
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0129",
+    "report_id": "Tasnee2023",
+    "chunk_index": 128,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "In 2023, we completed Phase 1 of the Petchem's Cybersecurity Uplifting Project. This involved the development of comprehensive operational technology (OT) cybersecurity policies and procedures. This phase also included the implementation of round-the-clock cybersecurity monitoring to ensure continuous protection. Additionally, we applied essential minimum cybersecurity controls to fortify our systems against potential threats. In 2024 we aim to complete Phase 2, which involved the segregation of the TPC network to enhance security and minimize risks and implemented asset management and visibility tools to improve oversight and control over our OT environment. Additionally, we developed and integrated a comprehensive OT incident response planning to ensure swift and effective action in the event of a cybersecurity incident. We achieved a number of significant milestones in the year, including the completion of Robotic Process Automation (Phase III) and the successful S4HANA conversion. S4HANA is a cloud-based enterprise resource planning solution that will simplify our digital infrastructure and improve flexibility. We also ensured that our e-invoicing system within SAP S4HANA complies with the requirements set by the Zakat, Tax, and Customs Authority (ZATCA) in Saudi Arabia. Additionally, we developed a System Utilization Dashboard and launched an Enterprise Governance, Risk, and Compliance (EGRC) System Application to enhance our management processes. We established a three-year strategic plan for improving our Human Capital Management practices and maintained our cybersecurity maturity le vel at Corporate level is 3.7 out of 5.",
+    "page_numbers": [
+      71
+    ],
+    "page_start": 71,
+    "page_end": 71,
+    "heading_path": [
+      "CYBERSECURITY"
+    ],
+    "section_label": "CYBERSECURITY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1657,
+    "token_count": 345
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0130",
+    "report_id": "Tasnee2023",
+    "chunk_index": 129,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee is committed to protecting, respecting, and fulfilling human rights throughout all our activities. We refer to international standards related to human rights like the UN and engage experts, clients, and peers to help us identify actual or potential human rights issues within our value chain, and to ensure that we adhere to all applicable laws to protect human rights. Our Code of Conduct also includes human rights. As well as employees, this also extends to our suppliers, who we expect to maintain the highest standards through their own operational procedures and mechanisms. We also reference human rights in our employment application documents, ensuring compliance from employees from their first day of working with us. In 2023, the number of hours dedicated to training on human rights policies or procedures relevant to operations decreased by 79%. This training targeted 44% who did not complete the plan in last year, and new hired in 2023. Percentage of employees trained during the reporting period in human rights policies or procedures concerning aspects of human rights that are relevant to operations.",
+    "page_numbers": [
+      72
+    ],
+    "page_start": 72,
+    "page_end": 72,
+    "heading_path": [
+      "HUMAN RIGHTS"
+    ],
+    "section_label": "HUMAN RIGHTS",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1128,
+    "token_count": 227
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0131",
+    "report_id": "Tasnee2023",
+    "chunk_index": 130,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Ensuring customer satisfaction is essential to the success of our business. We have always worked hard to build and maintain a reputation as a trusted and reliable service provider, earning the confidence and trust of our customers. Invariably for a company of our size, complaints do arise. When this happens, complaints are handled by a dedicated team of skilled and experienced customer service agents. Complaints are tracked at every stage; we address needs or concerns whenever possible and identify causes to ensure there is no repetition. The feedback we receive is used to inform regular updates to our systems to maintain their high standards. Our customer service team makes frequent on-site visits to manage key accounts, support customers and receive further feedback. In the event of serious complaints or issues, our governance and reporting mechanism ensures our senior management team can respond accordingly. Note: Petchem and AMIC do not have customer satisfaction-related data. In 2023, the number of complaints received by Downstream increased by 16% to 65. This rise was primarily driven by an increase in customer complaints at the Downstream BOPP plant. The majority of the complaints were related to film floppiness. Several actions have been taken to reduce complaints, including increasing the daily quality checkpoints, extending the aging time for specific problematic stock keeping units, and thoroughly monitoring film line production parameters.",
+    "page_numbers": [
+      73
+    ],
+    "page_start": 73,
+    "page_end": 73,
+    "heading_path": [
+      "CUSTOMER FEEDBACK AND SATISFACTION"
+    ],
+    "section_label": "CUSTOMER FEEDBACK AND SATISFACTION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1476,
+    "token_count": 298
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0132",
+    "report_id": "Tasnee2023",
+    "chunk_index": 131,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee's Technology and Innovation (T&I) Center in Jubail fuels company-wide growth by providing cutting-edge research, development, testing, training, and technical expertise, empowering innovation and product advancement across the organization. T&I's world-class facilities include laboratories equipped with cutting-edge analytical equipment, specializing in spectroscopy, microscopy, chromatography, thermal, rheological, physical, and plastic product performance characterization. The labs are ISO/IEC 17025:2017 accredited by the International Accreditation Service (IAS, US) and the Saudi Accreditation Committee (SAC, KSA), and accreditation was renewed in 2023. Innovation is an important part of our work towards the Saudi Vision 2030. We have established a group of experts from Petchem and international consultants to develop a decarbonization roadmap, utilizing the latest technologies and configurations to decarbonize our petrochemical complex in Jubail. The roadmap features innovative solutions such as hydrogen refueling and post-combustion carbon capture. In 2023, T&I developed a high-speed raffia grade. In raffia tape production trials at customers' sites, line speed and output for the new grade increased from 15-30%. T&I also developed Saudi-made matt compounds, used at our BOPP film plant, which will enable us to replace imported compounds. The new compound is now ready for commercial trials at Tasnee customers.",
+    "page_numbers": [
+      74
+    ],
+    "page_start": 74,
+    "page_end": 74,
+    "heading_path": [
+      "INNOVATION"
+    ],
+    "section_label": "INNOVATION",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 1443,
+    "token_count": 330
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0133",
+    "report_id": "Tasnee2023",
+    "chunk_index": 132,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "T&I is supporting Tasnee's goal to achieve carbon net zero by 2060. A comprehensive decarbonization execution plan has been developed, featuring a number of short to medium-term initiatives such as solar PV installations, process optimization, off-gas recovery/recycling and its effective utilization, and clean energy options, such as H2 production/enhance material for energy intensity reduction in reactors.",
+    "page_numbers": [
+      74
+    ],
+    "page_start": 74,
+    "page_end": 74,
+    "heading_path": [
+      "DECARBONIZATION ROADMAP OF PETROCHEMICAL COMPLEX"
+    ],
+    "section_label": "DECARBONIZATION ROADMAP OF PETROCHEMICAL COMPLEX",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 410,
+    "token_count": 94
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0134",
+    "report_id": "Tasnee2023",
+    "chunk_index": 133,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee's procurement policies and systems are meticulously designed to uphold high environmental and social standards across our supply chain. We prioritize collaborating with suppliers who share our values and commitments. As one of Saudi Arabia's largest companies, we recognize our strategic position to leverage procurement activities in advancing the Saudi Vision 2030. Our procurement procedures undergo regular reviews, benchmarking, and improvements to align with evolving laws, regulations, and ESG factors. This continuous enhancement ensures our practices are consistently updated in line with our sustainability str ategy. Tasnee's suppliers are subjected to a rigorous multi-stage prequalification process, ensuring they meet our stringent ESG standards and requirements. Additionally, they must adhere to our Business Ethics Policy and General Procurement & Contract Terms and Conditions. In 2023, we launched a pioneering project to scan and 3D print overseas spare parts locally, resulting in substantial savings of SAR 150 million and significantly reducing ocean freight costs to the Indian subcontinent and Turkey in Q4. The introduction of our new Supply Market Intelligence tool led to a 13% increase in Ariba adoption and utilization. Furthermore, the deployment of two Robotic Process Automations in Q4 enhanced operational efficiency . Our strategic Siemens contract for gas turbine maintenance yielded savings of SAR 14.5 million, and the EPC Letter of Award for the EC expansion project generated savings of USD 60 million. Looking ahead to 2024, we plan to review and enhance our Business Continuity Planning ex ercise, identifying potential risks to ensure uninterrupted supply and business continuity . Our partnership with Achilles, a global leader in supply chain risk management solutions, will see the implementation of a comprehensive global supplier and contractor registration and assurance solution. This collaboration will enable us to collect and verify critical supplier information, mitigating risks and providing reliable, up-to-date data to inform our supply chain and procurement decisions. Additionally, we will work with EBS on SAP Signavio for process insights, identifying process gaps and implementing necessary improvements. A new Supplier Management Information tool will be launched to monitor trends in materials and logistics services, with plans to extend this monitoring to include more high-risk materials and logistics in 2024. In 2023, we ensured that 100% of new suppliers were screened using rigorous social and environmental criteria. For the second consecutive year, we engaged a third party to conduct due diligence and prequalify suppliers based on social criteria, reinforcing our commitment to sustainable and responsible procurement practices. 100% of our new suppliers were screened for environmental and social factors",
+    "page_numbers": [
+      75
+    ],
+    "page_start": 75,
+    "page_end": 75,
+    "heading_path": [
+      "PROCUREMENT AND SUPPLIER ASSESSMENT"
+    ],
+    "section_label": "PROCUREMENT AND SUPPLIER ASSESSMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2888,
+    "token_count": 617
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0135",
+    "report_id": "Tasnee2023",
+    "chunk_index": 134,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our procurement efforts recognized with three prestigious awards in 2023. At the company level, the Tasnee Procurement Department received the Global European Institute for Purchasing Management (EIPM) Peter Kraljic Award for Excellence. There were also two individual awards. Our Section Head of Strategic Procurement Shahad Al-Dhubaiban won the Women in Supply Chain Award from GPCA, and Turki Al Johani, our Chief Procurement Officer, was honored with the Chartered Institute of Procurement and Supply (CIPS) Procurement Pioneers Award.",
+    "page_numbers": [
+      75
+    ],
+    "page_start": 75,
+    "page_end": 75,
+    "heading_path": [
+      "PROCUREMENT AWARDS IN 2023"
+    ],
+    "section_label": "PROCUREMENT AWARDS IN 2023",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 539,
+    "token_count": 128
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0136",
+    "report_id": "Tasnee2023",
+    "chunk_index": 135,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "One of the important ways Tasnee can support the Saudi Vision 2030 is thr ough our procurement processes. By purchasing from Saudi-based vendors, we can boost the local economy and support the economic growth and development of both our local communities and the country as a whole. In 2023, we engaged with 2,085 local suppliers, 62.4% of our total, up 1.4% from 2022. The proportion of our spending with local suppliers also increased, from 74% to 77%. 2,085 local suppliers in 2023",
+    "page_numbers": [
+      76
+    ],
+    "page_start": 76,
+    "page_end": 76,
+    "heading_path": [
+      "LOCAL PROCUREMENT"
+    ],
+    "section_label": "LOCAL PROCUREMENT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 484,
+    "token_count": 113
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0137",
+    "report_id": "Tasnee2023",
+    "chunk_index": 136,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "As a major regional company, we have a responsibility to support the communities where we operate and to use our influence to drive positive social, environmental, and economic impact. One of the keyways we achieve this is through our CSR activities, by which we aim to benefit a wide range of people and communities.",
+    "page_numbers": [
+      77
+    ],
+    "page_start": 77,
+    "page_end": 77,
+    "heading_path": [
+      "COMMUNITY IMPACT"
+    ],
+    "section_label": "COMMUNITY IMPACT",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 317,
+    "token_count": 62
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0138",
+    "report_id": "Tasnee2023",
+    "chunk_index": 137,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "- Volunteering and Charities - Benefits to Local Communities - Community Engagement",
+    "page_numbers": [
+      77
+    ],
+    "page_start": 77,
+    "page_end": 77,
+    "heading_path": [
+      "MATERIAL ISSUES:"
+    ],
+    "section_label": "MATERIAL ISSUES:",
+    "doc_item_labels": [
+      "list_item"
+    ],
+    "char_count": 83,
+    "token_count": 19
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0139",
+    "report_id": "Tasnee2023",
+    "chunk_index": 138,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Our Social Responsibility Policy, aligned with the Saudi Vision 2030 and our wider business aims, defines our social priorities and steers our work with non-profit organizations to achieve our CSR goals. All potential partners undergo rigorous checks to ensure that their programs will deliver the high impact we seek. Regular evaluations before, during and after programs ensure that these outcomes can be accurately measured and the initiatives evaluated, so we can continually improve our interventions. In 2023, our community investment increased by 38% compared to 2022, reaching SAR 2,442,608. The number of employee volunteers rose 37 to 121, and the number of hours volunteered increase from 183 to 465. 38% increase in community investment in 2023 in comparison to 2022",
+    "page_numbers": [
+      78
+    ],
+    "page_start": 78,
+    "page_end": 78,
+    "heading_path": [
+      "CORPORATE SOCIAL RESPONSIBILITY"
+    ],
+    "section_label": "CORPORATE SOCIAL RESPONSIBILITY",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 778,
+    "token_count": 164
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0140",
+    "report_id": "Tasnee2023",
+    "chunk_index": 139,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee was honored by the National Charity Platform Ehsan at a special ceremony in 2023, attended by The Crown Prince, Prime Minister and Chairman of the Saudi Authority for Data and Artificial Intelligence and the Governor of Riyadh Region. Ehsan supports charitable and social work across the Kingdom, aiming to enhance the quality of life for people in line with Saudi Vision 2030. In 2021, Tasnee became one of the first companies to sign a formal agreement of support for Ehsan, since when we have supported a number of projects that have benefited more than 5,000 recipients. 5,000 beneficiaries",
+    "page_numbers": [
+      78
+    ],
+    "page_start": 78,
+    "page_end": 78,
+    "heading_path": [
+      "EHSAN PLATFORM HONORS TASNEE FOR THE SECOND YEAR IN A ROW"
+    ],
+    "section_label": "EHSAN PLATFORM HONORS TASNEE FOR THE SECOND YEAR IN A ROW",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 601,
+    "token_count": 133
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0141",
+    "report_id": "Tasnee2023",
+    "chunk_index": 140,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Through our CSR activities, we continued to support a range of social, economic and environmental initiatives throughout the year, including the following: Tasnee employees volunteered time to help plant 3,000 tr ees in Jubba City for Environment Week. In partnership with the Mobility Association for Adults, Harakiah, employees participated in the Winter Clothing Distribution Campaign, providing warm clothes, blankets and heating devices to families in Riyadh. Tasnee was hailed as a golden sponsor for supporting the Jubail Horse Track for the 2023 season. Our support helped the track build 60 new stalls for horses. We extended our partnership with the Saudi Food Bank program Eta'am for a third year, helping to provide 1,320 food baskets, distributed monthly, to 110 families. This project is one of several supported by our 'Cooperate in Good' campaign launched during the Holy Month of Ramadan. In partnership with the charity Naqaa, Tasnee sponsored the anti-smoking awareness exhibition in Riyadh as part of the World No Tobacco Day 2023 campaign. As well as raising awareness of the harm from tobacco smoking, the event included treatment sessions, with 380 visitors seeking help. As part of our Cooperate in Good campaign, Tasnee signed a partnership agreement with the Charity for Orphans Care, Ehsan. Through the partnership, 25 orphans will receive care for a full year. We worked with the Children with Disability Association to support the launch of their physiotherapy clinic, which provides services to around 100 children. As part of our efforts to support young people, our T&I center in Jubail hosted 96 students from the King Abdulaziz and His Companions Foundation for Giftedness and Creativity. The students saw some of the research and experimental work taking place at the center and learned about the advanced technologies used there, such as 3D printing. They also enjoyed a Q&A with our VP for Technology and Innovation. Tasnee received a special trophy from HRH Prince Saud bin Naif bin Abdulaziz, Governor of the Eastern Province, in recognition of our partnership with Benaa, the Charity for Orphan Care in the eastern region. This included support for Misbar 7, a three-month camp attended by 121 male and female students. The camp provided education on the latest scientific and technological developments, as well as developing participants' cognitive and social skills.",
+    "page_numbers": [
+      79
+    ],
+    "page_start": 79,
+    "page_end": 79,
+    "heading_path": [
+      "COMMUNITY SUPPORT IN 2023"
+    ],
+    "section_label": "COMMUNITY SUPPORT IN 2023",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 2409,
+    "token_count": 531
+  },
+  {
+    "chunk_id": "Tasnee2023__c_0142",
+    "report_id": "Tasnee2023",
+    "chunk_index": 141,
+    "modality": "text",
+    "chunk_type": "narrative",
+    "content_text": "Tasnee respects the privacy of all Users of its document and ensures that all personal data is treated confidentially and in accordance with applicable data protection laws. By personal data we mean 'any information relating to a natural person who is or can be identified, directly or indirectly, by reference to an identification number or to one or more factors specific to him. All copyrights and publishing rights of this document are reserved for National Industrialization Company (TASNEE), including all copyrights, publishing rights, trademarks, and other intellectual property rights in all materials. Any unauthorized use, reproduction or printing of the information, materials, pictures, charts, and proprietary rights contained in this document is strictly prohibited.",
+    "page_numbers": [
+      91
+    ],
+    "page_start": 91,
+    "page_end": 91,
+    "heading_path": [
+      "WWW.TASNEE.COM"
+    ],
+    "section_label": "WWW.TASNEE.COM",
+    "doc_item_labels": [
+      "text"
+    ],
+    "char_count": 781,
+    "token_count": 159
+  }
+]

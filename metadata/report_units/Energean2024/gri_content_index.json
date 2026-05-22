@@ -1,0 +1,2006 @@
+[
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-1",
+    "location_raw": "About Energean; Page 8",
+    "location_type": "page_single",
+    "page_list": [
+      8
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-2",
+    "location_raw": "Message from the CSR department; Refer also to Energean’s publicly available Annual Report (pp. 250-251); Page 82",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-3",
+    "location_raw": "Message from the CSR department; Page 82",
+    "location_type": "page_single",
+    "page_list": [
+      82
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-4",
+    "location_raw": "Energean in numbers / Message from the CSR department; Page 74, 82",
+    "location_type": "page_list",
+    "page_list": [
+      74,
+      82
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-5",
+    "location_raw": "External Assurance Statement; Page 94-95",
+    "location_type": "page_range",
+    "page_list": [
+      94,
+      95
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-6",
+    "location_raw": "About Energean; Page 9",
+    "location_type": "page_single",
+    "page_list": [
+      9
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-7",
+    "location_raw": "Energean in numbers; Page 75-76",
+    "location_type": "page_range",
+    "page_list": [
+      75,
+      76
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-8",
+    "location_raw": "Working Conditions / Energean in numbers; Page 54, 79",
+    "location_type": "page_list",
+    "page_list": [
+      54,
+      79
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-9",
+    "location_raw": "Leading with Integrity; Refer also to Energean’s publicly available 2023 Annual Report (pp. 100-104); Page 18-21",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-10",
+    "location_raw": "Leading with Integrity; Refer also to Energean’s publicly available 2023 Annual Report (pp. 109, 128-135); Page 21",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-11",
+    "location_raw": "Leading with Integrity; Page 18",
+    "location_type": "page_single",
+    "page_list": [
+      18
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-12",
+    "location_raw": "Leading with Integrity; Refer also to Energean’s publicly available Annual Report (pp. 112-116); Page 21-22",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-13",
+    "location_raw": "Leading with Integrity; Page 18-19",
+    "location_type": "page_range",
+    "page_list": [
+      18,
+      19
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-14",
+    "location_raw": "Leading with Integrity; Page 22",
+    "location_type": "page_single",
+    "page_list": [
+      22
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-15",
+    "location_raw": "Business conduct; Refer also to Energean’s publicly available Terms of Reference of the Nomination and Governance Committee (p. 5); Page 68",
+    "location_type": "page_list",
+    "page_list": [
+      5,
+      68
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-16",
+    "location_raw": "Leading with Integrity; Page 22",
+    "location_type": "page_single",
+    "page_list": [
+      22
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-17",
+    "location_raw": "Leading with Integrity; Page 21",
+    "location_type": "page_single",
+    "page_list": [
+      21
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-18",
+    "location_raw": "Leading with Integrity; Page 21",
+    "location_type": "page_single",
+    "page_list": [
+      21
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-19",
+    "location_raw": "Leading with Integrity; Page 21",
+    "location_type": "page_single",
+    "page_list": [
+      21
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-20",
+    "location_raw": "Leading with Integrity; Page 21",
+    "location_type": "page_single",
+    "page_list": [
+      21
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-21",
+    "location_raw": "Leading with Integrity; Page 21",
+    "location_type": "page_single",
+    "page_list": [
+      21
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-22",
+    "location_raw": "Chair and Chief Executive Joint Address; Page 4-5",
+    "location_type": "page_range",
+    "page_list": [
+      4,
+      5
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-23",
+    "location_raw": "Leading with Integrity; Refer also to Energean’s publicly available Code of Ethics; Page 24-25",
+    "location_type": "page_range",
+    "page_list": [
+      24,
+      25
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-24",
+    "location_raw": "Leading with Integrity; Refer also to Energean’s publicly available Code of Ethics; Page 19-21",
+    "location_type": "page_range",
+    "page_list": [
+      19,
+      20,
+      21
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-25",
+    "location_raw": "Leading with Integrity / Assessing our Impact / Affected Communities / Ensuring Data Security; Page 22-25, 29-33, 61-64, 70",
+    "location_type": "page_list",
+    "page_list": [
+      22,
+      23,
+      24,
+      25,
+      29,
+      30,
+      31,
+      32,
+      33,
+      61,
+      62,
+      63,
+      64,
+      70
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-26",
+    "location_raw": "Leading with Integrity; Page 25",
+    "location_type": "page_single",
+    "page_list": [
+      25
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-27",
+    "location_raw": "Commitment to Ethical Conduct and Regulatory Compliance / Energean in numbers; Page 69, 81",
+    "location_type": "page_list",
+    "page_list": [
+      69,
+      81
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-28",
+    "location_raw": "About Energean / Sustainability in Action / Affected communities; Page 8, 13, 62",
+    "location_type": "page_list",
+    "page_list": [
+      8,
+      13,
+      62
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-29",
+    "location_raw": "Assessing our Impact; Page 29-33",
+    "location_type": "page_range",
+    "page_list": [
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 2: General Disclosures 2021",
+    "disclosure_id": "2-30",
+    "location_raw": "Own workforce / Energean in numbers; Page 60, 80",
+    "location_type": "page_list",
+    "page_list": [
+      60,
+      80
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-1",
+    "location_raw": "Assessing our Impact; Page 30-32",
+    "location_type": "page_range",
+    "page_list": [
+      30,
+      31,
+      32
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": null,
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-2",
+    "location_raw": "Assessing our Impact; Page 33",
+    "location_type": "page_single",
+    "page_list": [
+      33
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Climate Change",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "Moving towards Net Zero Emissions / Climate Change; Page 35, 44-45",
+    "location_type": "page_list",
+    "page_list": [
+      35,
+      44,
+      45
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.1, 11.2.1, 11.3.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Climate Change",
+    "gri_standard": "GRI 304: Biodiversity 2016",
+    "disclosure_id": "304-1",
+    "location_raw": "Climate Change; Page 45",
+    "location_type": "page_single",
+    "page_list": [
+      45
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.4.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Climate Change",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-1",
+    "location_raw": "Climate Change / Energean in numbers; Page 44, 72",
+    "location_type": "page_list",
+    "page_list": [
+      44,
+      72
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Climate Change",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-2",
+    "location_raw": "Climate Change / Energean in numbers; Page 44-45, 72",
+    "location_type": "page_list",
+    "page_list": [
+      44,
+      45,
+      72
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.6",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Climate Change",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-3",
+    "location_raw": "Climate Change / Energean in numbers; Page 45, 72",
+    "location_type": "page_list",
+    "page_list": [
+      45,
+      72
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.7",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Climate Change",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-4",
+    "location_raw": "Climate Change / Energean in numbers; Page 45, 72",
+    "location_type": "page_list",
+    "page_list": [
+      45,
+      72
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.8",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Climate Change",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-5",
+    "location_raw": "Climate Change; Page 36",
+    "location_type": "page_single",
+    "page_list": [
+      36
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.2.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Climate Change",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-6",
+    "location_raw": null,
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": "The entire GRI requirements are omitted",
+    "omission_reason": "Not Applicable",
+    "omission_explanation": "The organization is not using such substances. All the ODS in our operated sites have been phased out and substituted with non-ozone depleting agents. Based on the Montreal Protocol, while these chemicals do not deplete the stratospheric ozone layer, some of them have high GWPs.",
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Climate Change",
+    "gri_standard": "GRI 304: Biodiversity 2016",
+    "disclosure_id": "304-2",
+    "location_raw": "Conserving and Safeguarding Biodiversity; Page 45",
+    "location_type": "page_single",
+    "page_list": [
+      45
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.4.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Climate Change",
+    "gri_standard": "GRI 304: Biodiversity 2016",
+    "disclosure_id": "304-3",
+    "location_raw": "Conserving and Safeguarding Biodiversity; Page 45",
+    "location_type": "page_single",
+    "page_list": [
+      45
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.4.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Climate Change",
+    "gri_standard": "GRI 304: Biodiversity 2016",
+    "disclosure_id": "304-4",
+    "location_raw": "Conserving and Safeguarding Biodiversity; Page 45",
+    "location_type": "page_single",
+    "page_list": [
+      45
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.4.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Pollution",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "Pollution; Page 46",
+    "location_type": "page_single",
+    "page_list": [
+      46
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Pollution",
+    "gri_standard": "GRI 305: Emissions 2016",
+    "disclosure_id": "305-7",
+    "location_raw": "Pollution / Energean in numbers; Page 46, 72",
+    "location_type": "page_list",
+    "page_list": [
+      46,
+      72
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.3.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Water and marine resources",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "Water and marine resources; Page 49",
+    "location_type": "page_single",
+    "page_list": [
+      49
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.4.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Water and marine resources",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-1",
+    "location_raw": "Water and marine resources; Page 49",
+    "location_type": "page_single",
+    "page_list": [
+      49
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.6.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Water and marine resources",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-2",
+    "location_raw": "Water and marine resources; Page 49",
+    "location_type": "page_single",
+    "page_list": [
+      49
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.6.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Water and marine resources",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-3",
+    "location_raw": "Water and marine resources / Energean in numbers; Page 49, 73",
+    "location_type": "page_list",
+    "page_list": [
+      49,
+      73
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.6.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Water and marine resources",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-4",
+    "location_raw": "Water and marine resources; Page 49",
+    "location_type": "page_single",
+    "page_list": [
+      49
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.6.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Water and marine resources",
+    "gri_standard": "GRI 303: Water and Effluents 2018",
+    "disclosure_id": "303-5",
+    "location_raw": "Water and marine resources / Energean in numbers; Page 49, 73",
+    "location_type": "page_list",
+    "page_list": [
+      49,
+      73
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.6.6",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Circular economy",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "Circular economy; Page 50",
+    "location_type": "page_single",
+    "page_list": [
+      50
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Circular economy",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-1",
+    "location_raw": "Circular economy; Page 50",
+    "location_type": "page_single",
+    "page_list": [
+      50
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.5.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Circular economy",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-2",
+    "location_raw": "Circular economy; Page 50",
+    "location_type": "page_single",
+    "page_list": [
+      50
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.5.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Circular economy",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-3",
+    "location_raw": "Circular economy / Energean in numbers; Page 50",
+    "location_type": "page_single",
+    "page_list": [
+      50
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.5.4, 11.8.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Circular economy",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-4",
+    "location_raw": "Reducing our environmental Impact / Energean in numbers; Page 50, 74",
+    "location_type": "page_list",
+    "page_list": [
+      50,
+      74
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.5.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Circular economy",
+    "gri_standard": "GRI 306: Waste 2020",
+    "disclosure_id": "306-5",
+    "location_raw": "Circular economy / Energean in numbers; Page 50, 74",
+    "location_type": "page_list",
+    "page_list": [
+      50,
+      74
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.5.6",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "Own workforce; Page 54-55",
+    "location_type": "page_range",
+    "page_list": [
+      54,
+      55
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 202: Market Presence 2016",
+    "disclosure_id": "202-1",
+    "location_raw": "Own workforce / Energean in numbers; Page 59, 76",
+    "location_type": "page_list",
+    "page_list": [
+      59,
+      76
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 401: Employment 2016",
+    "disclosure_id": "401-1",
+    "location_raw": "Energean in numbers; Page 76-79",
+    "location_type": "page_range",
+    "page_list": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.10.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 401: Employment 2016",
+    "disclosure_id": "401-2",
+    "location_raw": "Other work-related rights; Page 59",
+    "location_type": "page_single",
+    "page_list": [
+      59
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.10.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 401: Employment 2016",
+    "disclosure_id": "401-3",
+    "location_raw": "Other work-related rights; Page 59",
+    "location_type": "page_single",
+    "page_list": [
+      59
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.10.4, 11.11.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 402: Labour/Management Relations 2016",
+    "disclosure_id": "402-1",
+    "location_raw": "Other work-related rights; Page 60",
+    "location_type": "page_single",
+    "page_list": [
+      60
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.7.2, 11.10.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-1",
+    "location_raw": "Working conditions; Page 54-56",
+    "location_type": "page_range",
+    "page_list": [
+      54,
+      55,
+      56
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-2",
+    "location_raw": "Working conditions; Page 54-56",
+    "location_type": "page_range",
+    "page_list": [
+      54,
+      55,
+      56
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-3",
+    "location_raw": "Working conditions; Page 54-56",
+    "location_type": "page_range",
+    "page_list": [
+      54,
+      55,
+      56
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-4",
+    "location_raw": "Working conditions; Page 54-56",
+    "location_type": "page_range",
+    "page_list": [
+      54,
+      55,
+      56
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-5",
+    "location_raw": "Working conditions; Page 54-56",
+    "location_type": "page_range",
+    "page_list": [
+      54,
+      55,
+      56
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.6",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-6",
+    "location_raw": "Working conditions; Page 54-56",
+    "location_type": "page_range",
+    "page_list": [
+      54,
+      55,
+      56
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.7",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-7",
+    "location_raw": "Working conditions; Page 54-56",
+    "location_type": "page_range",
+    "page_list": [
+      54,
+      55,
+      56
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.8",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-8",
+    "location_raw": "Working conditions; Page 54-56",
+    "location_type": "page_range",
+    "page_list": [
+      54,
+      55,
+      56
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.9",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-9",
+    "location_raw": "Energean in numbers; Page 74",
+    "location_type": "page_single",
+    "page_list": [
+      74
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.10",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 403: Occupational Health and Safety 2018",
+    "disclosure_id": "403-10",
+    "location_raw": "Energean in numbers; Page 75",
+    "location_type": "page_single",
+    "page_list": [
+      75
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.9.11",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 404: Training and Education 2016",
+    "disclosure_id": "404-1",
+    "location_raw": "Other work related rights / Energean in numbers; Page 56, 79",
+    "location_type": "page_list",
+    "page_list": [
+      56,
+      79
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.10.6, 11.11.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 404: Training and Education 2016",
+    "disclosure_id": "404-2",
+    "location_raw": "Other work related rights; Page 56",
+    "location_type": "page_single",
+    "page_list": [
+      56
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.7.3, 11.10.7",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 404: Training and Education 2016",
+    "disclosure_id": "404-3",
+    "location_raw": "Other work related rights / Energean in numbers; Page 58, 80",
+    "location_type": "page_list",
+    "page_list": [
+      58,
+      80
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 405: Diversity and Equal Opportunity 2016",
+    "disclosure_id": "405-1",
+    "location_raw": "Other work related rights / Energean in numbers; Page 80",
+    "location_type": "page_single",
+    "page_list": [
+      80
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.11.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 405: Diversity and Equal Opportunity 2016",
+    "disclosure_id": "405-2",
+    "location_raw": "Other work related rights / Energean in numbers; Page 59, 80",
+    "location_type": "page_list",
+    "page_list": [
+      59,
+      80
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.11.6",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 406: Non-discrimination 2016",
+    "disclosure_id": "406-1",
+    "location_raw": "Other work related rights / Energean in numbers; Page 48, 77",
+    "location_type": "page_list",
+    "page_list": [
+      48,
+      77
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.11.7",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 407: Freedom of Association and Collective Bargaining 2016",
+    "disclosure_id": "407-1",
+    "location_raw": "Other work related rights; Page 60",
+    "location_type": "page_single",
+    "page_list": [
+      60
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.13.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 408: Child Labour 2016",
+    "disclosure_id": "408-1",
+    "location_raw": "Other work related rights; Page 60",
+    "location_type": "page_single",
+    "page_list": [
+      60
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 409: Forced or Compulsory Labour 2016",
+    "disclosure_id": "409-1",
+    "location_raw": "Other work related rights; Page 60",
+    "location_type": "page_single",
+    "page_list": [
+      60
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.12.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 410: Security Practices 2016",
+    "disclosure_id": "410-1",
+    "location_raw": "Other work related rights",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": "The entire GRI requirements are omitted",
+    "omission_reason": "Information unavailable/incomplete",
+    "omission_explanation": "The organisation does not have any specific training modules on human rights for security personnel. The organisation will decide on next steps for potential future disclosures in the next reporting periods.",
+    "gri_sector_standard_ref_no": "11.18.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Own workforce",
+    "gri_standard": "GRI 11: Oil and Gas Sector",
+    "disclosure_id": null,
+    "location_raw": "Energean in numbers; Page 80",
+    "location_type": "page_single",
+    "page_list": [
+      80
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.8.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Affected communities",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "Affected communities; Page 61",
+    "location_type": "page_single",
+    "page_list": [
+      61
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.11.1, 11.12.1, 11.13.1, 11.17.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Affected communities",
+    "gri_standard": "GRI 204: Procurement Practices 2016",
+    "disclosure_id": "204-1",
+    "location_raw": "Affected communities; Page 65",
+    "location_type": "page_single",
+    "page_list": [
+      65
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.14.6",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Affected communities",
+    "gri_standard": "GRI 202: Market Presence 2016",
+    "disclosure_id": "202-2",
+    "location_raw": "Affected communities / Energean in numbers; Page 60, 80",
+    "location_type": "page_list",
+    "page_list": [
+      60,
+      80
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.11.2, 11.14.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Affected communities",
+    "gri_standard": "GRI 411: Rights of Indigenous Peoples 2016",
+    "disclosure_id": "411-1",
+    "location_raw": "Affected communities / Energean in numbers; Page 65, 80",
+    "location_type": "page_list",
+    "page_list": [
+      65,
+      80
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.17.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Affected communities",
+    "gri_standard": "GRI 413: Local Communities 2016",
+    "disclosure_id": "413-1",
+    "location_raw": "Affected communities; Page 61-65",
+    "location_type": "page_range",
+    "page_list": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.15.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Affected communities",
+    "gri_standard": "GRI 413: Local Communities 2016",
+    "disclosure_id": "413-2",
+    "location_raw": "Affected communities",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": "The entire GRI requirements are omitted",
+    "omission_reason": "Information unavailable/incomplete",
+    "omission_explanation": "The organisation has not established a systematic process for the measurement of the percentage of operations with impacts on local communities. The organisation will decide on next steps for potential future disclosures in the next reporting periods.",
+    "gri_sector_standard_ref_no": "11.15.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Affected communities",
+    "gri_standard": "GRI 11: Oil and Gas Sector",
+    "disclosure_id": null,
+    "location_raw": null,
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": "The standard sector 11.16.1 is omitted",
+    "omission_reason": "Information unavailable/incomplete",
+    "omission_explanation": "The organisation has not developed a standardized approach for engaging with vulnerable groups but implements some ad hoc engagement initiatives. The organisation will decide on next steps for potential future disclosures in the next reporting periods.",
+    "gri_sector_standard_ref_no": "11.16.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Business conduct",
+    "gri_standard": "GRI 3: Material Topics 2021",
+    "disclosure_id": "3-3",
+    "location_raw": "Fostering a Culture of Ethics and Accountability; Page 69-69",
+    "location_type": "page_single",
+    "page_list": [
+      69
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.19.1, 11.20.1, 11.22.1",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Business conduct",
+    "gri_standard": "GRI 205: Anti-corruption 2016",
+    "disclosure_id": "205-1",
+    "location_raw": "Energean in numbers; Page 81",
+    "location_type": "page_single",
+    "page_list": [
+      81
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.20.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Business conduct",
+    "gri_standard": "GRI 205: Anti-corruption 2016",
+    "disclosure_id": "205-2",
+    "location_raw": "Corruption and Bribery / Energean in numbers; Page 68, 81",
+    "location_type": "page_list",
+    "page_list": [
+      68,
+      81
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.20.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Business conduct",
+    "gri_standard": "GRI 205: Anti-corruption 2016",
+    "disclosure_id": "205-3",
+    "location_raw": "Corruption and Bribery / Energean in numbers; Page 68, 81",
+    "location_type": "page_list",
+    "page_list": [
+      68,
+      81
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.20.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Business conduct",
+    "gri_standard": "GRI 206: Anti-competitive Behavior 2016",
+    "disclosure_id": "206-1",
+    "location_raw": "Business conduct / Energean in numbers; Page 68, 81",
+    "location_type": "page_list",
+    "page_list": [
+      68,
+      81
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.19.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Business conduct",
+    "gri_standard": "GRI 414: Supplier Social Assessment 2016",
+    "disclosure_id": "414-1",
+    "location_raw": "Business Conduct; Page 69",
+    "location_type": "page_single",
+    "page_list": [
+      69
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.10.8, 11.12.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Business conduct",
+    "gri_standard": "GRI 414: Supplier Social Assessment 2016",
+    "disclosure_id": "414-2",
+    "location_raw": null,
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": "The entire GRI requirements are omitted",
+    "omission_reason": "Not Applicable",
+    "omission_explanation": "The organisation maintains a robust procurement process and contracting principles, no negative impacts have occurred in the supply chain.",
+    "gri_sector_standard_ref_no": "11.10.9",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Business conduct",
+    "gri_standard": "GRI 415: Public Policy 2016",
+    "disclosure_id": "415-1",
+    "location_raw": "Energean in numbers; Page 81",
+    "location_type": "page_single",
+    "page_list": [
+      81
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.22.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Growing the share of natural gas in the product portfolio",
+    "gri_standard": "Internal KPI",
+    "disclosure_id": null,
+    "location_raw": "Growing the share of natural gas in the product portfolio / Energean in numbers; Page 47, 81",
+    "location_type": "page_list",
+    "page_list": [
+      47,
+      81
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Generating economic value",
+    "gri_standard": "GRI 201: Economic Performance 2016",
+    "disclosure_id": "201-1",
+    "location_raw": "Energean in numbers; Page 81",
+    "location_type": "page_single",
+    "page_list": [
+      81
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.14.2, 11.21.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Generating economic value",
+    "gri_standard": "GRI 201: Economic Performance 2016",
+    "disclosure_id": "201-2",
+    "location_raw": "Refer also to Energean’s publicly available Annual Report (p. 21)",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.2.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Generating economic value",
+    "gri_standard": "GRI 201: Economic Performance 2016",
+    "disclosure_id": "201-3",
+    "location_raw": "Other work-related rights; Page 59",
+    "location_type": "page_single",
+    "page_list": [
+      59
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Generating economic value",
+    "gri_standard": "GRI 201: Economic Performance 2016",
+    "disclosure_id": "201-4",
+    "location_raw": "Energean in numbers; Page 81",
+    "location_type": "page_single",
+    "page_list": [
+      81
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.21.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Generating economic value",
+    "gri_standard": "GRI 203: Indirect Economic Impacts 2016",
+    "disclosure_id": "203-1",
+    "location_raw": null,
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": "GRI 203-1 a, 203-1 b are omitted",
+    "omission_reason": "Information unavailable/incomplete",
+    "omission_explanation": "We implement both in-kind and pro bono engagements with positive impacts on local communities. However, we do not have a specific mechanism to monitor impacts in a systematic manner and we have not conducted a structured impact assessment exercise. The organisation will decide on next steps for potential future disclosures in the next reporting periods.",
+    "gri_sector_standard_ref_no": "11.14.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Generating economic value",
+    "gri_standard": "GRI 203: Indirect Economic Impacts 2016",
+    "disclosure_id": "203-2",
+    "location_raw": null,
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": "The entire GRI requirements are omitted",
+    "omission_reason": "Information unavailable/incomplete",
+    "omission_explanation": "The organisation has not established a systematic process or mechanism for the measurement of significant indirect economic impacts. The organisation will decide on next steps for potential future disclosures in the next reporting periods.",
+    "gri_sector_standard_ref_no": "11.14.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Generating economic value",
+    "gri_standard": "GRI 207: Tax 2019",
+    "disclosure_id": "207-1",
+    "location_raw": "Business Conduct; Refer also to Energean’s publicly available Annual Report (pp. 208, 220-221, 266-269); Refer also to Energean’s Code of Ethics (p. 20); Page 68",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.21.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Generating economic value",
+    "gri_standard": "GRI 207: Tax 2019",
+    "disclosure_id": "207-2",
+    "location_raw": "Business Conduct; Refer also to Energean’s publicly available Annual Report (pp. 208, 220-221, 266-269); Refer also to Energean’s Code of Ethics (p. 20); Page 68",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.21.5",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Generating economic value",
+    "gri_standard": "GRI 207: Tax 2019",
+    "disclosure_id": "207-3",
+    "location_raw": "Business Conduct; Refer also to Energean’s publicly available Annual Report (pp. 208, 220-221, 266-269); Refer also to Energean’s Code of Ethics (p. 20); Page 68",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.21.6",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Generating economic value",
+    "gri_standard": "GRI 207: Tax 2019",
+    "disclosure_id": "207-4",
+    "location_raw": "Business Conduct; Refer also to Energean’s publicly available Annual Report (pp. 208, 220-221, 266-269); Refer also to Energean’s Code of Ethics (p. 20); Page 68",
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.21.7",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Ensuring data security",
+    "gri_standard": "GRI 418: Customer Privacy 2016",
+    "disclosure_id": "418-1",
+    "location_raw": "Ensuring data security / Energean in numbers; Page 70, 81",
+    "location_type": "page_list",
+    "page_list": [
+      70,
+      81
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Reducing (non-renewable) energy consumption",
+    "gri_standard": "GRI 302: Energy 2016",
+    "disclosure_id": "302-1",
+    "location_raw": "Reducing our environmental impact / Energean in numbers; Page 48, 73",
+    "location_type": "page_list",
+    "page_list": [
+      48,
+      73
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.2",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Reducing (non-renewable) energy consumption",
+    "gri_standard": "GRI 302: Energy 2016",
+    "disclosure_id": "302-2",
+    "location_raw": null,
+    "location_type": "external_document_reference",
+    "page_list": [],
+    "is_location_supported": 0,
+    "omission_requirement_omitted": "The entire GRI requirements are omitted",
+    "omission_reason": "Information unavailable/incomplete",
+    "omission_explanation": "The organisation does not have any specific training modules on human rights for security personnel. The organisation will decide on next steps for potential future disclosures in the next reporting periods.",
+    "gri_sector_standard_ref_no": "11.1.3",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Reducing (non-renewable) energy consumption",
+    "gri_standard": "GRI 302: Energy 2016",
+    "disclosure_id": "302-3",
+    "location_raw": "Reducing our environmental impact / Energean in numbers; Page 48, 73",
+    "location_type": "page_list",
+    "page_list": [
+      48,
+      73
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": "11.1.4",
+    "type": "GRI Content index table"
+  },
+  {
+    "report_name": "Energean2024",
+    "material_topic": "Reducing (non-renewable) energy consumption",
+    "gri_standard": "GRI 302: Energy 2016",
+    "disclosure_id": "302-4",
+    "location_raw": "Reducing our environmental impact; Page 48",
+    "location_type": "page_single",
+    "page_list": [
+      48
+    ],
+    "is_location_supported": 1,
+    "omission_requirement_omitted": null,
+    "omission_reason": null,
+    "omission_explanation": null,
+    "gri_sector_standard_ref_no": null,
+    "type": "GRI Content index table"
+  }
+]
