@@ -1,0 +1,173 @@
+{
+  "output_version": "module3.v2",
+  "report_id": "Petron2023",
+  "claim_pathway": "with_reference",
+  "sector_standards": [
+    "GRI 11: Oil and Gas Sector 2021"
+  ],
+  "overall": {
+    "claim_pathway": "with_reference",
+    "overall_pass": false,
+    "evaluated_phases": {
+      "phase1": "pass",
+      "phase8_light": "fail"
+    },
+    "all_phase_statuses": {
+      "phase1": "pass",
+      "phase8_light": "fail",
+      "phase9": "external_verification",
+      "final": "fail"
+    }
+  },
+  "scope_disclaimer": {
+    "sector_standard": "GRI 11: Oil and Gas Sector 2021",
+    "checked": [
+      "Universal standards (GRI 1/2/3) shall requirements",
+      "Topic standards (GRI 1xx/2xx/3xx/4xx) shall requirements",
+      "GRI 11 promoted disclosure mapping (Phase 4 + Phase 6 5-b)",
+      "GRI 3 disclosures per material topic — Req 4-a/4-b/4-c (Phase 5)"
+    ],
+    "not_checked": [
+      "GRI 11 Additional sector recommendations (B) — shall bullets layered onto topic-standard disclosures",
+      "GRI 11 Additional sector disclosures (C, e.g., 11.1.16 CapEx investment allocation)",
+      "Per-requirement omission tracking (Module 3 is disclosure-level only)"
+    ],
+    "recommendation": "Manual review of GRI 11 PDF sections 11.1–11.22 required for sector-specific add-ons."
+  },
+  "scope_anchor": null,
+  "materiality_map": null,
+  "pending_omissions": [],
+  "phase_results": {
+    "phase1": {
+      "phase": "phase1",
+      "status": "pass",
+      "findings": [],
+      "artifacts": {
+        "claim_pathway": "with_reference",
+        "gri1_used": "GRI 1: Foundation 2021",
+        "sector_standards": [
+          "GRI 11: Oil and Gas Sector 2021"
+        ]
+      }
+    },
+    "phase8_light": {
+      "phase": "phase8_light",
+      "status": "fail",
+      "findings": [
+        "item iv: List of reported disclosures with disclosure IDs — missing or invalid",
+        "item vi: Location of each disclosure — missing or invalid"
+      ],
+      "artifacts": {
+        "checklist": [
+          {
+            "item_id": "i",
+            "item_name": "Title of the report",
+            "present": true,
+            "evidence_field": "state.report_id / sou.title",
+            "value_preview": "Petron2023"
+          },
+          {
+            "item_id": "ii",
+            "item_name": "Statement of use (with_reference)",
+            "present": true,
+            "evidence_field": "inputs.sou.statement_of_use",
+            "value_preview": "with_reference"
+          },
+          {
+            "item_id": "iii",
+            "item_name": "GRI 1 used",
+            "present": true,
+            "evidence_field": "inputs.sou.gri1_used",
+            "value_preview": "GRI 1: Foundation 2021"
+          },
+          {
+            "item_id": "iv",
+            "item_name": "List of reported disclosures with disclosure IDs",
+            "present": false,
+            "evidence_field": "inputs.gci[*].disclosure_id",
+            "value_preview": "112 / 113 rows have disclosure_id"
+          },
+          {
+            "item_id": "v",
+            "item_name": "GRI Standard titles for reported disclosures",
+            "present": true,
+            "evidence_field": "inputs.gci[*].gri_standard",
+            "value_preview": "113 / 113 rows have gri_standard"
+          },
+          {
+            "item_id": "vi",
+            "item_name": "Location of each disclosure",
+            "present": false,
+            "evidence_field": "inputs.gci[*].location_raw",
+            "value_preview": "111 / 113 rows have location_raw"
+          }
+        ],
+        "appendix_used": "Appendix 2",
+        "n_items": 6,
+        "n_pass": 4
+      }
+    },
+    "phase9": {
+      "phase": "phase9",
+      "status": "external_verification",
+      "findings": [],
+      "artifacts": {
+        "checklist": [
+          "Confirm Phase 1 claim_pathway and Phase 8 GRI Content Index match the claim made on the cover of the report.",
+          "Email reportregistration@globalreporting.org with the report PDF, reporting period, and the chosen claim ('in_accordance' or 'with_reference').",
+          "Attach the GRI Content Index page list (from Phase 8 artifacts) so GRI can locate every disclosure in the PDF.",
+          "Retain the GRI confirmation email in the report's audit folder.",
+          "If the report is restated, repeat the notification within 30 days of the restated edition."
+        ],
+        "note": "Phase 9 emits an operator-facing checklist only. Notifying GRI is a manual step performed by the reporting organization."
+      }
+    },
+    "final": {
+      "phase": "final",
+      "status": "fail",
+      "findings": [
+        "phase8_light (fail): 2 findings"
+      ],
+      "artifacts": {
+        "overall_pass": false,
+        "scope_disclaimer": {
+          "sector_standard": "GRI 11: Oil and Gas Sector 2021",
+          "checked": [
+            "Universal standards (GRI 1/2/3) shall requirements",
+            "Topic standards (GRI 1xx/2xx/3xx/4xx) shall requirements",
+            "GRI 11 promoted disclosure mapping (Phase 4 + Phase 6 5-b)",
+            "GRI 3 disclosures per material topic — Req 4-a/4-b/4-c (Phase 5)"
+          ],
+          "not_checked": [
+            "GRI 11 Additional sector recommendations (B) — shall bullets layered onto topic-standard disclosures",
+            "GRI 11 Additional sector disclosures (C, e.g., 11.1.16 CapEx investment allocation)",
+            "Per-requirement omission tracking (Module 3 is disclosure-level only)"
+          ],
+          "recommendation": "Manual review of GRI 11 PDF sections 11.1–11.22 required for sector-specific add-ons."
+        },
+        "blockers": [
+          {
+            "phase": "phase8_light",
+            "status": "fail",
+            "n_findings": 2,
+            "preview": [
+              "item iv: List of reported disclosures with disclosure IDs — missing or invalid",
+              "item vi: Location of each disclosure — missing or invalid"
+            ]
+          }
+        ],
+        "evaluated_phases": [
+          "phase1",
+          "phase8_light"
+        ],
+        "output_paths": {
+          "json": "D:\\Final_GRAG\\metadata\\report_units\\Petron2023\\compliance_report.json",
+          "csv": "D:\\Final_GRAG\\metadata\\report_units\\Petron2023\\compliance_summary.csv",
+          "phase_exports": {
+            "phase8_light": "D:\\Final_GRAG\\output\\Petron2023\\content_index_results.json"
+          }
+        }
+      }
+    }
+  }
+}

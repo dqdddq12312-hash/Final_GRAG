@@ -1,0 +1,12 @@
+phase,status,n_findings,notes
+phase1,pass,0,
+phase2,external_verification,0,
+phase3,partial,2,disclosure 2-2 has no page pack — scope anchor unavailable | 3-c: 1 disclosure(s) partial / no_evidence (non-omitted): 2-15
+phase4,pass,6,"contradiction: non-material entry 'Reducing (non-renewable) energy consumption' covers base topic 11.1, which is already a material topic (Reducing (non-renewable) energy consumption, Reducing greenhouse gases and air emissions) | contradiction: non-material entry 'Increasing the implementation of w"
+phase5,fail,6,"4-x: 5 disclosure(s) failed: 3-3(Building and maintaining community relations), 3-3(Fostering diversity and inclusion), 3-3(Increasing the implementation of water efficiency innovations), 3-3(Minimising waste and increasing the implementation of circular economy practices), 3-3(Reducing (non-renewab"
+phase6,fail,7,phase6: GCI row under standard 'Internal KPI' (mt='Growing the share of natural gas in our product portfolio') has missing/blank disclosure_id — data error; counted as topic-level fail and the topic's expected disclosures will be reported as missing | phase6: GCI row under standard 'GRI 11: Oil and 
+phase7,fail,1,6-a-ii: 5 omission rows have invalid reason or empty explanation (incl. 5 GRI 11 5-b strict 'Not applicable' violations)
+phase8,fail,1,item vii: List of reported disclosures with disclosure IDs — missing or invalid
+phase9,external_verification,0,
+final,fail,5,phase3 (partial): 2 findings | phase5 (fail): 6 findings | phase6 (fail): 7 findings | phase7 (fail): 1 finding | phase8 (fail): 1 finding
+overall,fail,0,in_accordance pass requires phase3 + phase4 + phase6 + phase7 + phase8 all pass

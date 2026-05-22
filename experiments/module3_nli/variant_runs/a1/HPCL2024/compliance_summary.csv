@@ -1,0 +1,12 @@
+phase,status,n_findings,notes
+phase1,pass,0,
+phase2,external_verification,0,
+phase3,partial,2,"3-c: 25 disclosure(s) partial / no_evidence (non-omitted): 2-1, 2-2, 2-3, 2-5, 2-6, 2-7, 2-8, 2-9, 2-10, 2-11, 2-12, 2-13, 2-15, 2-16, 2-17, 2-18, 2-19, 2-20, 2-21, 2-23, 2-24, 2-25, 2-26, 2-27, 2-30 | 3-info: 1 requirement(s) marked condition_not_applicable (condition explicitly negated in evidence"
+phase4,pass,2,"contradiction: non-material entry 'Topic 11.7 Closure and rehabilitation' covers base topic 11.7, which is already a material topic (Manpower Management (GRI: Labour/Management Relations 2016)) | 3-b-i (advisory): 5 reported material topic(s) outside GRI 11 scope — manual review required: ['Customer"
+phase5,fail,2,"4-x: 14 disclosure(s) partial / no_evidence: 3-2, 3-3(Business Ethics, Transparency & Regulatory Compliance (GRI OGSS Topic: Anti-competitive Behaviour)), 3-3(Business Ethics, Transparency & Regulatory Compliance (GRI OGSS Topic: Anti-corruption)), 3-3(Business Ethics, Transparency & Regulatory Comp"
+phase6,fail,4,5-a: at least one topic-standard disclosure rolled up to partial / no_evidence | 5-b-i: 75 GRI 11 promoted disclosures for material topics are neither reported nor omitted nor externally referenced | 5-b-ii: 1 GRI 11 expected disclosures use a reason other than 'Not applicable' (or have an empty exp
+phase7,fail,1,6-a-ii: 3 omission rows have invalid reason or empty explanation (incl. 1 GRI 11 5-b strict 'Not applicable' violation)
+phase8,pass,0,
+phase9,external_verification,0,
+final,fail,4,phase3 (partial): 2 findings | phase5 (fail): 2 findings | phase6 (fail): 4 findings | phase7 (fail): 1 finding
+overall,fail,0,in_accordance pass requires phase3 + phase4 + phase6 + phase7 + phase8 all pass

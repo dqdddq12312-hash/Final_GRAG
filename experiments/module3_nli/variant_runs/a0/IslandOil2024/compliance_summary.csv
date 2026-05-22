@@ -1,0 +1,12 @@
+phase,status,n_findings,notes
+phase1,pass,1,Sector standard 'GRI 11: Oil and Gas Sector Standard 2021' not supported by Module 3 — Phase 4 base-topic reconciliation will be skipped
+phase2,external_verification,0,
+phase3,fail,4,"3-c: 1 disclosure(s) failed: 2-3 | 3-c: 22 disclosure(s) partial / no_evidence (non-omitted): 2-1, 2-2, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 2-13, 2-14, 2-15, 2-16, 2-18, 2-21, 2-22, 2-23, 2-25, 2-26, 2-27, 2-28, 2-29, 2-30 | 3-info: 3 requirement(s) marked condition_not_applicable (condition explicitly ne"
+phase4,pass,1,GRI 11 not in sector_standards — base-topic reconciliation (3-b-i) skipped
+phase5,fail,7,"4-x: 3 disclosure(s) failed: 3-3(Economic Performance), 3-3(Market Presence), 3-3(Protecting Biodiversity and Preserving Ecosystem) | 4-x: 7 disclosure(s) partial / no_evidence: 3-2, 3-3(Acting Responsibly), 3-3(Caring for our people), 3-3(Caring for our people), 3-3(Caring for our people), 3-3(Cari"
+phase6,fail,3,5-a: at least one topic-standard disclosure rolled up to partial / no_evidence | 5-b-i: 21 GRI 11 promoted disclosures for material topics are neither reported nor omitted nor externally referenced | 5-b-ii: 12 GRI 11 expected disclosures use a reason other than 'Not applicable' (or have an empty ex
+phase7,fail,2,6-a-i: 10 expected disclosures not reported and not omitted | 6-a-ii: 14 omission rows have invalid reason or empty explanation (incl. 12 GRI 11 5-b strict 'Not applicable' violations)
+phase8,fail,1,item xii: Reasons for omission — missing or invalid
+phase9,external_verification,0,
+final,fail,5,phase3 (fail): 4 findings | phase5 (fail): 7 findings | phase6 (fail): 3 findings | phase7 (fail): 2 findings | phase8 (fail): 1 finding
+overall,fail,0,in_accordance pass requires phase3 + phase4 + phase6 + phase7 + phase8 all pass

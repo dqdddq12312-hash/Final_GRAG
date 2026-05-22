@@ -1,0 +1,12 @@
+phase,status,n_findings,notes
+phase1,pass,0,
+phase2,external_verification,0,
+phase3,partial,1,"3-c: 23 disclosure(s) partial / no_evidence (non-omitted): 2-1, 2-2, 2-3, 2-5, 2-6, 2-7, 2-9, 2-10, 2-11, 2-12, 2-13, 2-14, 2-15, 2-16, 2-17, 2-18, 2-22, 2-23, 2-24, 2-25, 2-26, 2-27, 2-29"
+phase4,pass,1,"3-b-i (advisory): 5 reported material topic(s) outside GRI 11 scope — manual review required: ['Cyber Security', 'Innovation & Digital Transformation', 'National Talent Enhancement', 'Stakeholder Relations & Partnerships', 'Upholding Human Rights']"
+phase5,partial,1,"4-x: 21 disclosure(s) partial / no_evidence: 3-2, 3-3(Biodiversity & Ecosystem), 3-3(Climate Change & Energy Transition), 3-3(Contributing to Communities & Societies), 3-3(Cyber Security), 3-3(Diversity & Inclusion), 3-3(Energy Consumption & Efficiency), 3-3(GHG & Other Air Emissions), 3-3(Governanc"
+phase6,fail,4,5-a: at least one topic-standard disclosure rolled up to partial / no_evidence | 5-b-i: 51 GRI 11 promoted disclosures for material topics are neither reported nor omitted nor externally referenced | 5-b-ii: 2 GRI 11 expected disclosures use a reason other than 'Not applicable' (or have an empty exp
+phase7,fail,2,6-a-i: 7 expected disclosures not reported and not omitted | 6-a-ii: 2 omission rows have invalid reason or empty explanation (incl. 2 GRI 11 5-b strict 'Not applicable' violations)
+phase8,pass,0,
+phase9,external_verification,0,
+final,fail,4,phase3 (partial): 1 finding | phase5 (partial): 1 finding | phase6 (fail): 4 findings | phase7 (fail): 2 findings
+overall,fail,0,in_accordance pass requires phase3 + phase4 + phase6 + phase7 + phase8 all pass

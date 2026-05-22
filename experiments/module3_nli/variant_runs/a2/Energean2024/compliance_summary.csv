@@ -1,0 +1,12 @@
+phase,status,n_findings,notes
+phase1,pass,0,
+phase2,external_verification,0,
+phase3,partial,3,"disclosure 2-2 has no page pack — scope anchor unavailable | 3-c: 22 disclosure(s) partial / no_evidence (non-omitted): 2-1, 2-3, 2-4, 2-5, 2-6, 2-7, 2-11, 2-13, 2-14, 2-15, 2-16, 2-17, 2-18, 2-19, 2-20, 2-21, 2-23, 2-24, 2-25, 2-26, 2-27, 2-29 | 3-info: 1 requirement(s) marked reported_non_existenc"
+phase4,fail,5,"3-b-ii: non-material entry 'Expanding our natural gas portfolio' không map được vào bất kỳ GRI 11 base topic nào | contradiction: non-material entry 'Generating economic value' covers base topic 11.14, which is already a material topic (Affected communities, Generating economic value) | 3-b-ii: non-"
+phase5,fail,6,"4-x: 4 disclosure(s) failed: 3-3(Ensuring data security), 3-3(Generating economic value), 3-3(Growing the share of natural gas in the product portfolio), 3-3(Reducing (non-renewable) energy consumption) | 4-x: 9 disclosure(s) partial / no_evidence: 3-1, 3-2, 3-3(Affected communities), 3-3(Business c"
+phase6,fail,7,phase6: GCI row under standard 'GRI 11: Oil and Gas Sector' (mt='Own workforce') has missing/blank disclosure_id — data error; counted as topic-level fail and the topic's expected disclosures will be reported as missing | phase6: GCI row under standard 'GRI 11: Oil and Gas Sector' (mt='Affected comm
+phase7,fail,2,6-a-i: 1 expected disclosures not reported and not omitted | 6-a-ii: 5 omission rows have invalid reason or empty explanation (incl. 5 GRI 11 5-b strict 'Not applicable' violations)
+phase8,fail,1,item vii: List of reported disclosures with disclosure IDs — missing or invalid
+phase9,external_verification,0,
+final,fail,6,phase3 (partial): 3 findings | phase4 (fail): 5 findings | phase5 (fail): 6 findings | phase6 (fail): 7 findings | phase7 (fail): 2 findings | phase8 (fail): 1 finding
+overall,fail,0,in_accordance pass requires phase3 + phase4 + phase6 + phase7 + phase8 all pass

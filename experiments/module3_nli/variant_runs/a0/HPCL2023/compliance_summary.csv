@@ -1,0 +1,12 @@
+phase,status,n_findings,notes
+phase1,pass,1,Sector standard 'Oil and Gas Sector 2021' not supported by Module 3 — Phase 4 base-topic reconciliation will be skipped
+phase2,external_verification,0,
+phase3,partial,3,"3-c: 25 disclosure(s) partial / no_evidence (non-omitted): 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 2-10, 2-11, 2-12, 2-13, 2-15, 2-16, 2-17, 2-18, 2-19, 2-20, 2-22, 2-23, 2-24, 2-25, 2-27, 2-30 | 3-info: 1 requirement(s) marked condition_not_applicable (condition explicitly negated in evidence)"
+phase4,pass,2,"GRI 11 not in sector_standards — base-topic reconciliation (3-b-i) skipped | contradiction: non-material entry 'Topic 11.7 Closure and rehabilitation' covers base topic 11.7, which is already a material topic (Manpower Management (GRI: Labour/Management Relations 2016))"
+phase5,fail,4,"4-x: 1 disclosure(s) failed: 3-3(Human Rights (GRI OGSS Topic: Rights of Indigenous People)) | 4-x: 33 disclosure(s) partial / no_evidence: 3-1, 3-3(Air Quality (GRI OGSS Topic: Air Emissions)), 3-3(Biodiversity (GRI OGSS Topic: Biodiversity)), 3-3(Business Ethics, Transparency & Regulatory Complian"
+phase6,fail,5,phase6: GCI row under standard 'GRI 3: Material Topics 2021' (mt='Human Rights (GRI OGSS Topic: Rights of Indigenous People)') has missing/blank disclosure_id — data error; counted as topic-level fail and the topic's expected disclosures will be reported as missing | 5-a: at least one topic-standard
+phase7,fail,1,6-a-ii: 5 omission rows have invalid reason or empty explanation (incl. 3 GRI 11 5-b strict 'Not applicable' violations)
+phase8,fail,1,item vii: List of reported disclosures with disclosure IDs — missing or invalid
+phase9,external_verification,0,
+final,fail,5,phase3 (partial): 3 findings | phase5 (fail): 4 findings | phase6 (fail): 5 findings | phase7 (fail): 1 finding | phase8 (fail): 1 finding
+overall,fail,0,in_accordance pass requires phase3 + phase4 + phase6 + phase7 + phase8 all pass
