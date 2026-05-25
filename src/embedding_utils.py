@@ -23,7 +23,7 @@ class BGEM3Encoder:
     def encode_chunks(self, chunks, batch_size = 32, max_length = 8192):
         texts = []
         for chunk in chunks:
-            text = str(chunk["content_text"]) # encode chỉ xử lý content_text
+            text = str(chunk["content_text"]) # encode chỉ xử lý dạng text
             texts.append(text)
         
         embeddings = self.model.encode(
