@@ -1,0 +1,710 @@
+case_id,sample_universe,human_correct_status,human_rationale,confidence,review_seconds,reviewed_at_iso,rubric_version
+D006,main,no_evidence,"[Sub-criteria check]
+- ✗ Tracking effectiveness of grievance mechanisms: Evidence only discusses ESG monitoring, KPI standardization, accountability structure, and ESG data collection in general; it does not describe how grievance mechanisms are tracked.
+- ✗ Tracking effectiveness of other remediation processes: No specific remediation process or effectiveness-tracking method is described.
+- ✗ Examples of effectiveness: No examples are provided.
+- ✗ Stakeholder feedback: No stakeholder feedback related to grievance/remediation effectiveness is reported.",high,1229.5,2026-05-11T10:16:00,v2
+D058,main,pass,"[Sub-criteria check]
+- ✓ Actions taken to manage the topic: The evidence describes actions related to water and effluents in car wash operations, including wastewater treatment methods and biological water treatment.
+- ✓ Actions to prevent or mitigate potential negative impacts: The report identifies negative impacts from car wash wastewater and describes mitigation actions such as testing treatment options, adding biological treatment, and informing customers to reduce home car washing.",high,138.2,2026-05-11T10:18:18,v2
+D029,main,partial,"[Sub-criteria check]
+- ✗ Tracking effectiveness of grievance mechanisms: The evidence describes the grievance mechanism and complaint process, but does not explain how effectiveness is tracked or assessed.
+- ✗ Tracking effectiveness of other remediation processes: No effectiveness-tracking method for remediation processes is described.
+- ✗ Examples of effectiveness: The text refers generally to “examples of grievances received and actions taken,” but no actual examples or effectiveness outcomes are included in the page pack.
+- ✗ Stakeholder feedback: No stakeholder feedback on the grievance mechanism or remediation effectiveness is reported.",medium,190.7,2026-05-11T10:21:29,v2
+D134,main,pass,"[Sub-criteria check]
+- ✓ Operations at significant risk for child labor: The evidence explicitly states that no significant risks related to child labour have been identified within Energean’s operations.
+- ✓ Suppliers at significant risk for child labor: The evidence also explicitly states that no significant risks related to child labour have been identified within the supply chain.
+- ✓ Basis/context for assessment: The report mentions rigorous pre-selection screenings of suppliers and contractors for human rights compliance.",high,58.2,2026-05-11T10:22:27,v2
+D094,main,pass,"[Sub-criteria check]
+- ✓ Actions taken to manage the topic: The evidence describes a Code of Conduct that explicitly includes anti-competitive behaviour, mandatory employee training, compliance oversight by the Corporate Compliance Officer, and an Ethics Council for deviations or suspected breaches.
+- ✓ Actions to prevent or mitigate potential negative impacts: The report states that OKQ8 has an obligation to prevent corruption and anti-competitive behaviour at any level, applies the Code of Conduct to all personnel, and requires suppliers and partners to comply with a Partner Code of Conduct included in contracts.",high,135.0,2026-05-11T10:24:42,v2
+D137,main,partial,"[Sub-criteria check]
+- ✓ Description of climate-related risks/opportunities: The evidence mentions climate change risks and impacts on business operations, challenges from technology, investment, time, and economic fluctuations, the Draft Climate Change Act, carbon tax systems, emissions trading, carbon credits, and energy transition investment opportunities.
+- ✗ Classification as physical, regulatory, or other: The evidence does not explicitly classify any risk or opportunity as physical, regulatory, or other.
+- ✗ Potential substantive changes in operations, revenue, or expenditure: The evidence broadly refers to impacts on business operations and climate-related opportunities, but does not clearly describe substantive changes to operations, revenue, or expenditure.",medium,102.2,2026-05-11T10:26:24,v2
+D003,main,partial,"[Sub-criteria check]
+- ✓ Some methodology/assumption for employee-related data: The evidence states that personnel in the solar business are included in the numbers for Swedish office employees, and that average length of employment is calculated based on permanent employees.
+- ✗ Whether employee numbers are reported in head count, FTE, or another methodology: The page pack does not state whether the employee numbers are reported as head count, full-time equivalent, or another method.
+- ✗ General methodology for compiling employee data under GRI 2-7: The evidence only gives limited notes for specific employee-related calculations, not a full methodology for compiling employee numbers.",medium,82.5,2026-05-11T10:27:47,v2
+D062,main,pass,"[Sub-criteria check]
+- ✓ Effectiveness of actions: The evidence reports that there were no complaints regarding harassment and discrimination, and no complaints regarding labor and human rights in 2025.
+- ✓ Progress toward goals and targets: The 2025–2030 targets are stated as “No complaints regarding harassment and discrimination” and “No complaints regarding labor and human rights,” and the 2025 performance matches these targets.
+- ✓ Tracking/reporting of results: The evidence states that the company monitors the results of actions taken, reports them to executives, discloses them to stakeholders, and publishes results annually on the website.",high,96.8,2026-05-11T10:29:24,v2
+D123,main,no_evidence,"[Sub-criteria check]
+- ✗ Percentage of employees by gender: The evidence provides counts of women in leadership/executive management, but no gender percentages.
+- ✗ Per employee category: The evidence mentions senior management and executive management, but does not provide percentages for each employee category.
+- ✗ Full gender breakdown: The evidence does not provide male/female or other gender distribution across employee categories.",high,56.5,2026-05-11T10:30:20,v2
+D135,main,no_evidence,"[Sub-criteria check]
+- ✗ Total number of identified leaks of customer data: No customer data leak figure is reported.
+- ✗ Total number of identified thefts of customer data: No customer data theft figure is reported.
+- ✗ Total number of identified losses of customer data: No customer data loss figure is reported.
+- ✗ Explicit negative reporting: The evidence reports no formal grievances related to discrimination, harassment, or labor rights, but not zero customer data incidents.",high,79.7,2026-05-11T10:31:40,v2
+D040,main,pass,"[Sub-criteria check]
+- ✓ Policies or commitments regarding spills: The evidence states that “spill avoidance remains our top priority” and links spill prevention to sustainability and environmental stewardship.
+- ✓ Topic-specific description: The evidence directly refers to oil spills and states that reliable systems and practices are implemented to minimize spill risk.
+- ✓ Verifiable context: The evidence reports zero spills for seven consecutive years, supporting the stated commitment to spill avoidance.",high,74.9,2026-05-11T10:32:55,v2
+D071,main,partial,"[Sub-criteria check]
+- ✓ Effectiveness of actions: The evidence reports concrete safety outcomes, including zero fatalities in 2023 and over 46 million safe manhours.
+- ✓ Tracking of effectiveness: The evidence states that OQ continuously monitors safety and health metrics.
+- ✗ Progress toward goals and targets: No specific goals or targets are stated, and the evidence does not compare the reported outcomes against any predefined target.",medium,83.4,2026-05-11T10:34:18,v2
+D147,main,partial,"[Sub-criteria check]
+- ✓ Formal local community grievance processes: The evidence describes complaint channels, including call center, Community Relations Department, website, and plant managers, as well as complaint recording, investigation, corrective action, and follow-up timelines.
+- ✗ Percentage of operations using formal local community grievance processes: The evidence reports “100%” for key operational areas with community relations activities, but does not explicitly state the percentage of operations with formal local community grievance processes.
+- ✓ Local community engagement context: The evidence refers to neighboring communities, key service stations, environmental education camps, and community relations activities.",medium,94.3,2026-05-11T10:35:52,v2
+D087,main,partial,"[Sub-criteria check]
+- ✓ Negative impact related to the material topic: The evidence identifies “breach of physical or information security,” which is relevant to Privacy.
+- ✓ Some indication of potential involvement channels: The evidence mentions employees and subcontractors failing to follow established policies and procedures, suggesting possible links to own activities and business relationships.
+- ✗ Clear statement of whether DESFA is involved through its activities or business relationships: The evidence does not explicitly state whether the organization is involved with privacy-related negative impacts through its own activities or business relationships.
+- ✗ Description of the activities or business relationships: Employees and subcontractors are mentioned, but the relevant activities or business relationships are not described in sufficient detail.",medium,104.5,2026-05-11T10:37:37,v2
+D096,main,partial,"[Sub-criteria check]
+- ✓ Effectiveness of actions: The evidence reports that HPCL implemented 22 energy conservation schemes and achieved annual energy savings of approximately 1,32,136 SRFT/year.
+- ✓ Specific outcome metric: The energy savings figure provides a verifiable result of the actions taken.
+- ✗ Progress toward goals and targets: The evidence refers generally to energy utilisation and conservation priorities, but does not state a specific goal or target, nor compare performance against one.",high,56.2,2026-05-11T10:38:33,v2
+D122,main,no_evidence,"[Sub-criteria check]
+- ✗ Types of energy included in the intensity ratio: The evidence mentions the Energy Intensity Index and general energy-saving measures, but does not state whether fuel, electricity, heating, cooling, steam, or all energy types are included in the ratio.
+- ✗ Explicit basis of the energy intensity calculation: The evidence defines EII broadly as energy consumed per unit of output, but does not specify the energy categories included.
+- ✗ No acceptable inference: References to electricity imports and steam turbine generators are operational examples, not a disclosure of the energy types included in the intensity ratio.",high,56.9,2026-05-11T10:39:30,v2
+D124,main,pass,"[Sub-criteria check]
+- ✓ Incidents of discrimination: The evidence explicitly states that there were no complaints or disputes related to human rights, including discrimination.
+- ✓ Incident no longer subject to action: Since no discrimination-related complaints or disputes were reported, there are no incidents requiring action or remaining subject to action.
+- ✓ Actions/remediation context: The report also describes remediation mechanisms available in case of human rights violations, such as apologies, compensation, halting operations, and recurrence prevention measures.",medium,63.4,2026-05-11T10:40:34,v2
+D069,main,pass,"[Sub-criteria check]
+- ✓ Actions taken to manage the topic: The evidence describes cybersecurity frameworks, data privacy protocols, a Data Privacy Policy, cybersecurity policies and processes, and Board-level oversight through a Risk and Cybersecurity Committee.
+- ✓ Actions to prevent or mitigate potential negative impacts: The DEFEND cybersecurity awareness program, employee training, phishing campaigns, newsletters, and alignment with industry standards and Bahrain’s Personal Data Protection Law are preventive measures against cyber and data privacy risks.
+- ✓ Specificity: The evidence names concrete mechanisms, including the Data Privacy Policy, Risk and Cybersecurity Committee, DEFEND program, training channels, and legal alignment.",high,58.2,2026-05-11T10:41:32,v2
+D028,main,pass,"[Sub-criteria check]
+- ✓ Legal form: The evidence identifies the company as “Energean Plc,” which indicates a public limited company legal form.
+- ✓ Nature of ownership: The evidence states that Energean is listed on both the premium FTSE 250 and the Tel Aviv TA-35, indicating a publicly listed ownership nature.
+- ✓ Organizational context: The evidence also describes Energean as an independent E&P company headquartered in London.",high,42.2,2026-05-11T10:42:14,v2
+D098,main,pass,"[Sub-criteria check]
+- ✓ Actions taken to manage the Employment topic: The evidence describes employee safety initiatives, EHS governance, equal pay analysis, graduate recruitment, and organizational responsibility for employee health, well-being, and safety.
+- ✓ Actions to prevent or mitigate potential negative impacts: OKQ8 reports safety procedures for vulnerable stations, risk assessments, safety walks, incident reporting and investigations, staff training, drills, preventive equipment, and action plans to eliminate or minimize risks.
+- ✓ Specificity: The evidence identifies concrete systems and practices, including the EHS team, EHS management system, safety rounds, control programmes, incident-reporting system, and Equal Pay Survey.",high,76.4,2026-05-11T10:43:30,v2
+D139,main,pass,"[Sub-criteria check]
+- ✓ Incidents involving rights of Indigenous Peoples: The evidence states that there were no human rights complaints or disputes, including rights violations against vulnerable groups such as indigenous peoples.
+- ✓ Incident no longer subject to action: Since no such incidents were reported, there are no incidents remaining subject to action.
+- ✓ Context for non-applicability/non-existence: The evidence also states that no indigenous peoples reside near the company’s operational areas.",high,82.3,2026-05-11T10:44:53,v2
+D011,main,pass,"[Sub-criteria check]
+- ✓ Restatement of information from previous reporting periods: The evidence states that the calculation error in the 2022-2023 lost workday cases severity data has been corrected in this year’s report.
+- ✓ Reason for the restatement: The reason is explicitly identified as a “calculation error.”
+- ✓ Specificity: The affected metric is identified as lost workday cases severity data for 2022-2023.",high,61.9,2026-05-11T10:45:55,v2
+D082,main,partial,"[Sub-criteria check]
+- ✓ Effectiveness of actions: The evidence reports outcome metrics relevant to non-discrimination/equality, including a 51/49 female/male gender balance ratio and Equal Pay Index scores of 98.1 in Sweden and 98.8 in Denmark.
+- ✓ Specific and verifiable data: The Equal Pay Index is explained and benchmarked against the Swedish national average of 95.2.
+- ✗ Progress toward goals and targets: The evidence does not state specific non-discrimination goals or targets, nor does it compare the reported results against such targets.",high,139.0,2026-05-11T10:48:14,v2
+D004,main,no_evidence,"[Sub-criteria check]
+- ✗ Whether the chair is also a senior executive: The provided page pack text does not show evidence confirming or denying this condition.
+- ✗ Function within management: No evidence describes the chair’s management function.
+- ✗ Reasons for the arrangement: No evidence explains why such an arrangement exists.
+- ✗ Conflict of interest prevention/mitigation: No evidence describes mechanisms to prevent or mitigate conflicts of interest.",high,159.1,2026-05-11T10:50:53,v2
+D142,main,partial,"[Sub-criteria check]
+- ✓ Hazardous waste quantity: The evidence reports “40.085 Hazardous waste directed and diverted from disposal,” indicating a hazardous waste metric in metric tons.
+- ✗ Total hazardous waste directed to disposal: The wording combines “directed and diverted from disposal,” so it does not clearly isolate hazardous waste directed to disposal.
+- ✗ Breakdown by incineration with energy recovery: No amount is reported for hazardous waste disposed of through incineration with energy recovery.",high,1072.7,2026-05-11T11:08:45,v2
+D112,main,partial,"[Sub-criteria check]
+- ✓ Actions taken or underway to eliminate work-related hazards: The evidence describes proactive risk identification, control and mitigation, HSSE induction, HSSE committees, contractor management, incident learning sessions, and “Take HEARRT” Hazard Elimination and Risk Reduction Training.
+- ✓ Actions to minimize risks: The evidence reports training, audits, contractor evaluations, emergency drills, health and safety campaigns, and procedures to stop operations when safety concerns are identified.
+- ✗ Use of the hierarchy of controls: The evidence does not explicitly state that risks are managed using the hierarchy of controls, nor does it describe control levels such as elimination, substitution, engineering controls, administrative controls, or PPE.",medium,60.2,2026-05-11T11:09:46,v2
+D078,main,partial,"[Sub-criteria check]
+- ✓ Actions taken to manage supplier assessment: The evidence states that suppliers are selected based on quality, cost, location, and policy compliance, and that supplier screening parameters are based on applicable statutory provisions and project-specific performance criteria.
+- ✓ Some preventive controls: The use of policy compliance criteria, statutory provisions, and tender-specific performance criteria indicates some screening or control over suppliers and value chain partners.
+- ✗ Environmental assessment actions: The evidence does not clearly describe environmental assessment procedures for suppliers or specific environmental criteria used in supplier evaluation.
+- ✗ Actions to prevent or mitigate negative environmental impacts: The evidence does not explicitly describe actions to prevent or mitigate supplier-related environmental impacts.",medium,83.7,2026-05-11T11:11:09,v2
+D130,main,partial,"[Sub-criteria check]
+- ✓ Partnerships with third parties: The evidence mentions collaboration with the Zooprophylactic Institute of Teramo, continued partnership with 3BEE, work with the University of Catania, and support for the management team of the Nestos River Delta, Lakes Vistonida-Ismarida, and Thasos.
+- ✓ Habitat/biodiversity protection or monitoring context: The 3BEE partnership is described as protecting bees, and other collaborations involve biodiversity monitoring, marine bioreceptors, fauna sampling, and protected area monitoring.
+- ✗ Distinct habitat areas: The evidence does not explicitly state whether these partnerships relate to habitat areas distinct from areas where Energean itself oversees and implements restoration or protection measures.",high,88.1,2026-05-11T11:12:37,v2
+D039,main,partial,"[Sub-criteria check]
+- ✓ Indicators used to evaluate progress: The evidence reports 100% workforce coverage, including employees and contractors, and describes structured internal and external audits for monitoring HSE management systems.
+- ✗ Goals: The evidence does not state specific health, safety, or well-being goals used to evaluate progress.
+- ✗ Targets: The evidence does not provide specific targets such as injury rate targets, fatality targets, audit targets, or training targets.",medium,55.5,2026-05-11T11:13:33,v2
+D049,main,no_evidence,"[Sub-criteria check]
+- ✗ Actions to address actual negative impacts: The evidence describes general employment practices, benefits, training, engagement, and performance management, but does not identify any actual negative employment-related impacts.
+- ✗ Actions to provide for or cooperate in remediation: No remediation actions, grievance resolution, corrective measures, or cooperation in remedy are described.
+- ✗ Direct relevance to d.ii: The evidence may support general topic management under d.i, but it does not address actual negative impacts as required by d.ii.",high,69.5,2026-05-11T11:14:42,v2
+D075,main,no_evidence,"[Sub-criteria check]
+- ✗ How stakeholder engagement informed actions taken: The evidence mentions engagement through industry associations, government consultations, committees, and policy discussions, but does not explain how this engagement informed specific climate actions.
+- ✗ How stakeholder engagement informed effectiveness evaluation: The evidence does not describe how stakeholder input was used to assess whether climate-related actions were effective.
+- ✗ Direct linkage to GRI 3-3(d) and 3-3(e): The evidence discusses climate policy engagement, emissions measurement, third-party verification, and biodiversity/CCS collaborations, but does not link stakeholder engagement to management actions or effectiveness tracking.",high,58.1,2026-05-11T11:15:41,v2
+D077,main,partial,"[Sub-criteria check]
+- ✓ Tracking input / lessons source: The evidence states that DESFA conducted an employee satisfaction survey to understand employee needs and identify areas for improvement.
+- ✓ Some incorporation into actions: The company then planned and implemented actions in the identified improvement areas, including continuation of remote working flexibility and new training programs.
+- ✗ Specific lessons learned: The evidence does not clearly state the specific lessons learned from the survey.
+- ✗ Incorporation into operational policies and procedures: The evidence does not explicitly explain how the lessons were incorporated into formal operational policies or procedures.",high,39.1,2026-05-11T11:16:20,v2
+D063,main,partial,"[Sub-criteria check]
+- ✓ Tracking input / lessons source: The evidence states that DESFA conducted an employee satisfaction survey to understand employee needs and identify areas for improvement.
+- ✓ Some incorporation into actions: The company then planned and implemented actions in the identified improvement areas, including continuation of remote working flexibility and new training programs.
+- ✗ Specific lessons learned: The evidence does not clearly state the specific lessons learned from the survey.
+- ✗ Incorporation into operational policies and procedures: The evidence does not explicitly explain how the lessons were incorporated into formal operational policies or procedures.",high,35.4,2026-05-11T11:16:55,v2
+D090,main,no_evidence,"[Sub-criteria check]
+- ✗ How stakeholder engagement informed actions taken: The evidence mentions stakeholder groups, community surveys, community engagement, and disclosure to stakeholders, but does not explain how stakeholder engagement informed specific actions related to conflict and security.
+- ✗ How stakeholder engagement informed effectiveness evaluation: The evidence does not describe how stakeholder input was used to assess whether actions were effective.
+- ✗ Direct linkage to the material topic: The evidence mostly discusses human rights, land acquisition, community expectations, complaints, and employee engagement, without a clear link to conflict and security management actions.",high,79.3,2026-05-11T11:18:14,v2
+D061,main,pass,"[Sub-criteria check]
+- ✓ Actions to manage positive impacts: The evidence describes water conservation, rainwater harvesting, water reuse, recycling, and effluent treatment through ETP/STPs.
+- ✓ Potential positive impacts beyond operations: The report states that HPCL carries out rainwater harvesting with the goal of expanding its benefits to neighbouring communities.
+- ✓ Additional positive environmental actions: The evidence mentions planting native, low-water-requirement tree species that offer high carbon sequestration.",high,39.8,2026-05-11T11:18:54,v2
+D051,main,pass,"[Sub-criteria check]
+- ✓ Policies regarding employment practices: The evidence states that employee care and development policies are implemented through the MDC and Sub MDC, with policies established in employee work regulations and aligned with the Labor Protection Act.
+- ✓ Commitments regarding employment practices: The company commits to employee care, development, well-being, non-discrimination, diversity, equality, and an inclusive culture.
+- ✓ Specific mechanisms/frameworks: The evidence identifies the 100XHappiness strategy, BEST Employer framework, Well-being Working Committee, Bangchak Learning Academy, and “i am bcp” values.",high,40.1,2026-05-11T11:19:34,v2
+D068,main,no_evidence,"[Sub-criteria check]
+- ✗ How stakeholder engagement informed actions taken: The evidence describes customer education, product safety communication, dealer/distributor guidance, campaigns, meetings, and training, but does not explain how stakeholder engagement or feedback informed specific actions on customer satisfaction.
+- ✗ How stakeholder engagement informed effectiveness evaluation: The evidence does not report how stakeholder input was used to assess whether the actions were effective.
+- ✗ Direct relevance to Customer Satisfaction: The evidence is mostly about product safety and safety communication, not customer satisfaction management or stakeholder-informed effectiveness tracking.",high,32.6,2026-05-11T11:20:07,v2
+D023,main,pass,"[Sub-criteria check]
+- ✓ Commitment to provide for or cooperate in remediation: The evidence states that DESFA establishes grievance mechanisms for new projects and is preparing a companywide grievance mechanism with response, remediation, and closure mechanisms.
+- ✓ Negative impacts caused or contributed to: The evidence reports grievances from the West Macedonia pipeline project concerning access, irrigation, land, compensation, restoration, and crop loss issues.
+- ✓ Cooperation with affected stakeholders: The Stakeholder Engagement Framework includes principles to be accountable for potential impacts and to cooperate with stakeholders to find mutually agreed solutions.
+- ✓ Specificity: The report provides concrete grievance data, including 126 grievances, 88.88% resolved, and remaining issues being resolved within one to two months.",high,36.8,2026-05-11T11:20:44,v2
+D045,main,partial,"[Sub-criteria check]
+- ✓ Stakeholder engagement related to the material topic: The evidence states that stakeholders were engaged through discussions, interviews, and surveys, and that GHG Emissions was identified as a high-priority ESG issue.
+- ✓ Some indication that stakeholder input informed strategic direction: The evidence says these insights inform resource allocation, risk management, impact definition, sustainability strategy, and daily decision-making.
+- ✗ How engagement informed specific actions taken: The evidence does not describe specific GHG or air emissions actions that were shaped by stakeholder engagement.
+- ✗ How engagement informed effectiveness evaluation: The evidence does not explain how stakeholder engagement informed whether the actions were effective.",high,40.2,2026-05-11T11:21:24,v2
+D057,main,no_evidence,"[Sub-criteria check]
+- ✗ Processes used to track effectiveness: The evidence does not describe any process, mechanism, frequency, responsible body, or tool used to track the effectiveness of actions.
+- ✗ Direct link to Diversity & Inclusion / Local Communities effectiveness tracking: The evidence broadly describes social and community programmes but does not explain how their effectiveness is monitored.
+- ✗ Specificity: No indicators, review process, evaluation method, or feedback mechanism is reported.",high,39.3,2026-05-11T11:22:03,v2
+D016,main,partial,"[Sub-criteria check]
+- ✓ Embedding policy commitments in activities: The evidence states that every business unit in the operated portfolio must execute the OMS and EMS, which are governed by the QHSSE Policy.
+- ✓ Some coverage of business relationships: The safety commitment applies to employees and contractors, and environmental systems apply across operated business units.
+- ✗ Allocation of responsibility across different organizational levels: The evidence does not clearly describe which levels of the organization are responsible for implementing the commitments or how responsibilities are allocated among governance, management, business units, and operational staff.",high,33.5,2026-05-11T11:22:37,v2
+D111,main,partial,"[Sub-criteria check]
+- ✓ Some process for identifying/reporting hazards: The evidence describes Field Risk Assessments allowing employees to identify hazards and risks for preventive action, monthly safety committee meetings, and communication channels for occupational health and safety issues.
+- ✓ Some reporting channels: The evidence mentions channels such as the Labor Union, Employee Committee, Whistleblower Channel, and Hotline 1651, although these are specifically tied to improper health data use rather than hazard reporting.
+- ✗ Protection against reprisals: The evidence does not explain how workers are protected against reprisals when reporting work-related hazards or hazardous situations.
+- ✗ Clear hazard-reporting procedure: The evidence does not fully describe a formal process for workers to report work-related hazards and hazardous situations.",high,65.4,2026-05-11T11:23:42,v2
+D086,main,pass,"[Sub-criteria check]
+- ✓ Actions to manage positive impacts: The evidence describes objectives to assess and develop suppliers’ ESG performance, increase customers’ sustainable choices, implement circular solutions, and minimize waste.
+- ✓ Supplier environmental assessment actions: OKQ8 uses a Partner Code of Conduct, a risk matrix, EcoVadis supplier assessment, due-diligence improvements, internal supply manager training, and procurement board reviews.
+- ✓ Positive environmental impacts: Biofuel sourcing is managed through sustainability requirements, traceability, third-party certification, audits, and legal criteria intended to protect high-biodiversity areas and reduce CO2e emissions.",high,53.9,2026-05-11T11:24:36,v2
+D044,main,pass,"[Sub-criteria check]
+- ✓ Whether the organization is involved with negative impacts: The evidence states that climate change from GHG emissions and global warming leads to risks and impacts on the company’s business operations.
+- ✓ Involvement through own activities: The evidence describes refinery operations as energy-intensive and identifies the refinery business group as having a significant proportion of GHG emissions.
+- ✓ Description of activities: The evidence describes refinery production, marketing business/service stations using purchased electricity, and business groups reducing Scope 1 and Scope 2 emissions.
+- ✓ Specificity: The report provides Scope 1 and Scope 2 GHG emissions figures, including total Scope 1 and Scope 2 emissions of 984,892.93 tCO2e.",high,34.0,2026-05-11T11:25:10,v2
+D084,main,partial,"[Sub-criteria check]
+- ✓ Impacts on people / human rights: The evidence refers to unfair treatment, unacceptable behaviour, safe working conditions, modern slavery, human trafficking, forced labour, compulsory labour, and child labour.
+- ✓ Potential negative impacts in business relationships: The evidence addresses suppliers, vendors, and business partners through the Third-Party Code of Conduct and expectations on labour and human rights.
+- ✗ Actual impacts: The evidence does not clearly describe actual human rights or labour impacts that occurred during the reporting period.
+- ✗ Positive impacts: The evidence does not clearly describe positive impacts arising from human rights protection or labour management.
+- ✗ Economy and environment: The evidence does not substantively describe impacts on the economy or environment.",high,33.3,2026-05-11T11:25:43,v2
+D132,main,no_evidence,"[Sub-criteria check]
+- ✗ Total weight of waste generated in metric tons: The evidence does not provide a specific total waste weight figure.
+- ✗ Breakdown by composition of waste: The evidence refers to “Waste by composition, in metric tons,” but the actual composition breakdown values are not included in the provided page pack.
+- ✗ Specific verifiable data: The chunk contains methodology notes and exclusions, but not the required quantitative waste data.",high,28.5,2026-05-11T11:26:12,v2
+D079,main,pass,"[Sub-criteria check]
+- ✓ Actions taken to manage the topic: The evidence describes training programs, individual development plans, need-based training, sponsorship for higher education, knowledge-sharing sessions, and succession planning.
+- ✓ Actions to prevent or mitigate potential negative impacts: Bunduq conducts vocational assessments to confirm competence and address skill gaps, and performs gap analyses to identify skill and experience gaps and create enhancement plans.
+- ✓ Specificity: The evidence identifies concrete mechanisms such as annual development plans with line managers, technical competence assessments, ADNOC knowledge-sharing sessions, sponsorship programs, and succession gap analyses.",high,29.2,2026-05-11T11:26:41,v2
+D107,main,no_evidence,"[Sub-criteria check]
+- ✗ Benefits standard for full-time employees: The evidence mentions benefits such as parental leave, parental pay, healthcare allowance, and access to a benefits portal, but does not state that these are standard for full-time employees.
+- ✗ Benefits not provided to temporary or part-time employees: The evidence does not compare benefit eligibility between full-time, temporary, and part-time employees.
+- ✗ By significant locations of operation: Denmark and Sweden are mentioned for parental leave/pay, but there is no location-based disclosure of benefits excluded from temporary or part-time employees.
+- ✗ “Other” benefits category: Some other benefits are mentioned, but not in the required full-time versus temporary/part-time format.",high,94.8,2026-05-11T11:28:16,v2
+D146,main,partial,"[Sub-criteria check]
+- ✓ Scope of workers covered: The evidence states that safety management and monitoring covers 100% of employees and contractors.
+- ✓ Scope of workplaces covered: The evidence identifies covered workplaces as the Phra Khanong refinery, Bangchak oil depot at Sukhumvit 64, and the headquarters.
+- ✗ Scope of activities covered: The evidence describes safety management processes such as hazard identification, risk assessment, incident investigation, inspections, and audits, but does not clearly define the operational activities covered by the OHS management system.
+- ✗ Explanation of exclusions: The evidence does not explicitly explain whether any workers, activities, or workplaces are not covered, or why.",high,31.3,2026-05-11T11:28:47,v2
+D001,main,pass,"[Sub-criteria check]
+- ✓ Countries of operation: The evidence explicitly mentions Denmark and Sweden in relation to OKQ8 Scandinavia’s offerings and operations.
+- ✓ Specificity: Sweden and Denmark are named directly, providing verifiable country-level information.",high,31.2,2026-05-11T11:29:18,v2
+D024,main,no_evidence,"[Sub-criteria check]
+- ✗ Whether critical concerns are communicated to the highest governance body: The evidence does not state whether critical concerns are reported to the highest governance body.
+- ✗ How critical concerns are communicated: The evidence describes an employee grievance escalation process, but not a process for communicating critical concerns to the highest governance body.
+- ✗ Highest governance body identified: The CEO is mentioned as making a final decision in rare cases, but the evidence does not establish the CEO as the highest governance body.",high,101.0,2026-05-12T14:31:16,v2
+D081,main,pass,"[Sub-criteria check]
+- ✓ Whether the organization is involved with negative impacts: The evidence states that Bangchak recognizes risks and potential impacts associated with water withdrawal from natural sources and wastewater discharge.
+- ✓ Involvement through own activities: The evidence links these impacts to the Bangchak Phra Khanong Refinery and its operational activities and production processes.
+- ✓ Description of activities: The evidence describes water use in production processes, particularly cooling operations and steam generation used in oil refining.
+- ✓ Specificity: The evidence provides water withdrawal data by source, including tap water, groundwater, other sources, and total water withdrawal.",high,63.3,2026-05-12T14:32:20,v2
+D002,main,pass,"[Sub-criteria check]
+- ✓ Other remediation processes: The evidence describes spill response and remediation, land contamination remediation, external ground surveys, and decontamination cost provisions.
+- ✓ Negative impacts caused or contributed to: The evidence refers to spills to the environment, land contamination at service stations and fuel depots, and contamination affecting soil and water.
+- ✓ Cooperation with authorities: Spills are reported to authorities as required by permits, and land contamination is remediated in accordance with legal requirements and in dialogue with regulatory authorities.
+- ✓ Specificity: The evidence reports five environmental spills totaling 862 litres and describes immediate containment/removal and remediation actions.",high,72.9,2026-05-12T14:33:33,v2
+D120,main,no_evidence,"[Sub-criteria check]
+- ✗ Source of emission factors: The evidence does not identify any source of emission factors used for Scope 2 GHG emissions.
+- ✗ GWP rates or reference to GWP source: The evidence does not provide GWP rates or a reference source for GWP values.
+- ✗ Direct relevance to Scope 2 emissions calculation: The evidence mentions fuel-to-energy conversion using heating values, but this is not the same as emission factors or GWP sources.",high,43.4,2026-05-12T14:34:16,v2
+D150,main,no_evidence,"[Sub-criteria check]
+- ✗ Total weight of non-hazardous waste: The evidence does not report a total weight for non-hazardous waste.
+- ✗ Breakdown by recycling: The evidence mentions reducing, reusing, and recycling waste, but does not provide the weight of non-hazardous waste recycled.
+- ✗ Specific quantitative data: No metric tons figure for non-hazardous waste recycling is included in the provided page pack.",medium,140.6,2026-05-12T14:36:37,v2
+D054,main,no_evidence,"[Sub-criteria check]
+- ✗ Actions to address actual negative impacts: The evidence describes water consumption, seawater use, desalination, and water conservation initiatives, but does not identify any actual negative water-related impact that occurred.
+- ✗ Actions to provide for or cooperate in remediation: No remediation process, corrective action, compensation, restoration, or cooperation in remedy is described.
+- ✗ Direct relevance to d.ii: The evidence may support preventive water management under d.i, but it does not address actual negative impacts and remediation as required by d.ii.",high,48.4,2026-05-12T14:37:25,v2
+D034,main,no_evidence,"[Sub-criteria check]
+- ✗ Actions to manage actual positive impacts: The evidence does not describe actual positive impacts related to human rights, non-discrimination, or equal opportunity.
+- ✗ Actions to manage potential positive impacts: The evidence mentions grievance redressal, stakeholder communication, vigilance awareness, and RTI compliance, but does not link these to managing positive human rights or equal opportunity impacts.
+- ✗ Direct relevance to the material topic: The evidence is mainly about public grievances, anti-corruption/vigilance, and right to information, not non-discrimination and equal opportunity.",high,40.4,2026-05-12T14:38:05,v2
+D037,main,partial,"[Sub-criteria check]
+- ✓ Environmental impacts: The evidence discusses CO2e emissions, fossil fuel phase-out, Scope 3 emissions, fuels and oils accounting for 98.5% of Scope 3, and minimizing the environmental impact of road transportation.
+- ✓ Potential positive impacts: The evidence describes increasing access to sustainable mobility solutions, renewable fuels, energy solutions, low-carbon products, and High Power Charging infrastructure.
+- ✗ Economic impacts: The evidence does not clearly describe actual or potential economic impacts of the Energy topic.
+- ✗ Impacts on people / human rights: The evidence mentions customer access to sustainable choices, but does not substantively describe impacts on people or human rights.",high,103.1,2026-05-12T14:39:49,v2
+D117,main,pass,"[Sub-criteria check]
+- ✓ Measures to support collective bargaining: The evidence states that seafarers are required to sign a Seafarer’s Employment Agreement incorporating the terms of a Collective Bargaining Agreement.
+- ✓ Measures to support freedom of association: The evidence states that the company supports the right to freely associate, join trade unions, or form worker organisations without fear of retaliation or interference.
+- ✓ Specificity: The evidence refers to CBAs, SEA contracts, MLC 2006 compliance, national legislation, and formal/informal communication channels.",high,70.8,2026-05-12T14:40:59,v2
+D118,main,no_evidence,"[Sub-criteria check]
+- ✗ Health care benefits standard for full-time employees: The evidence mentions health and life insurance, but does not state that health care benefits are standard for full-time employees.
+- ✗ Not provided to temporary or part-time employees: The evidence does not compare benefit eligibility for full-time versus temporary or part-time employees.
+- ✗ By significant locations of operation: No location-based breakdown is provided.
+- ✗ Specificity: “Based on employee category” is too general and does not identify which categories receive or do not receive health care benefits.",high,37.2,2026-05-12T14:41:37,v2
+D143,main,pass,"[Sub-criteria check]
+- ✓ Contextual information necessary to understand the data: The evidence explains reporting boundary changes, including expansion to BCP Trading Pte. Ltd., Bangchak Green Net Co., Ltd., Bangchak Retail Co., Ltd., Bangkok Fuel Pipeline and Logistics Co., Ltd., and the Oil Depot at Bang Pa Inn for industrial waste management.
+- ✓ How the data has been compiled: The evidence states that waste weight is derived from the waste manifest.
+- ✓ Specificity: The evidence identifies the relevant boundary expansion year and the source document used for waste weight data.",high,35.2,2026-05-12T14:42:12,v2
+D121,main,partial,"[Sub-criteria check]
+- ✓ Percentage of workers covered: The evidence states that Bapco Energies maintained 100% coverage of its workforce, including employees and contractors.
+- ✓ Internal audit of the OHS/HSE system: The evidence states that each subsidiary monitors its health, safety, and environmental management systems through structured internal audits.
+- ✗ Number of covered employees and non-employee workers: The evidence does not provide the actual number of employees or contractors covered.
+- ✗ Clear linkage to internally audited coverage: The evidence does not explicitly state that the 100% workforce coverage is specifically coverage by an internally audited OHS management system.",high,67.0,2026-05-12T14:43:19,v2
+D042,main,pass,"[Sub-criteria check]
+- ✓ Effectiveness of actions: The evidence reports zero Lost Time Injuries for employees and contractors for more than six years, and notes that most key safety indicators declined compared to the previous year.
+- ✓ Progress toward goals and targets: Bunduq states an HSE objective of 100% compliance with HSE systems and procedures and a goal of an incident- and injury-free environment.
+- ✓ Specific indicators/results: The report provides concrete indicators, including 3,190 WATCH observations in 2023, a 5% increase from the previous year, zero LTIs, and tracking of Fatalities, LTIs, and Medical Treatment Cases.",high,33.1,2026-05-12T14:43:52,v2
+D059,main,partial,"[Sub-criteria check]
+- ✓ Processes used to track effectiveness: The evidence states that Bangchak monitors the results of actions taken, reports to executives, discloses to stakeholders, and publishes results annually.
+- ✓ Human rights tracking processes: The evidence describes annual human rights and environmental risk assessments, comprehensive human rights due diligence, human rights impact assessments, and process reviews to reduce the likelihood of violations.
+- ✓ Some link to indigenous peoples: The evidence states that no human rights complaints or disputes involved rights violations against vulnerable groups, including indigenous peoples, and that no indigenous peoples reside near operational areas.
+- ✗ Topic-specific tracking process: The evidence does not clearly describe a process specifically used to track the effectiveness of actions on indigenous peoples’ rights.",medium,431.7,2026-05-12T14:51:04,v2
+D148,main,partial,"[Sub-criteria check]
+- ✓ Total weight of non-hazardous waste: The evidence reports non-hazardous waste of 11,185 tonnes in 2024.
+- ✗ Non-hazardous waste directed to disposal: The evidence does not clearly state how much of the non-hazardous waste was directed to disposal.
+- ✗ Breakdown by landfilling: The evidence states that 11% of total waste was managed through landfill facilities, but does not provide the landfill amount specifically for non-hazardous waste.",medium,87.1,2026-05-12T14:52:31,v2
+D032,main,partial,"[Sub-criteria check]
+- ✓ Effectiveness of actions: The evidence reports no complaints regarding land acquisition and land management conflicting with the law or affecting community livelihoods, resources, and culture.
+- ✓ Some tracking process: The evidence states that results of actions are monitored, reported to executives, disclosed to stakeholders, and published annually; it also describes human rights due diligence and impact assessment.
+- ✗ Progress toward topic-specific goals and targets: The evidence provides broad human rights targets such as no labor and human rights complaints, but does not state specific goals or targets for Land and Resource Rights.
+- ✗ Full effectiveness evaluation: The evidence does not clearly evaluate land/resource-rights actions against defined targets.",high,56.5,2026-05-12T14:53:27,v2
+D070,main,pass,"[Sub-criteria check]
+- ✓ Process to determine material topics: The evidence describes annual surveys, data gathering, stakeholder input, internal organizational data, global sustainability trends, peer issues, GRI Standards, and third-party verification.
+- ✓ Actual and potential impacts: The evidence states that the company identifies cause and effect that has occurred before and is anticipated in the future.
+- ✓ Negative and positive impacts: The evidence explicitly refers to impacts anticipated positively or negatively.
+- ✓ Economy, environment, people, and human rights: The evidence states that sustainability issues are considered in relation to economic, environmental, and social well-being of stakeholders, including human rights.
+- ✓ Across activities and business relationships: The evidence refers to internal data, business strategy, ERM, stakeholders, and the value chain.",medium,49.7,2026-05-12T14:54:17,v2
+D012,main,pass,"[Sub-criteria check]
+- ✓ Policy commitments for responsible business conduct: The evidence describes the Code of Ethics, Business Partner Code of Conduct, Anti-bribery and Corruption Policy, and the broader Ethics and Compliance Program.
+- ✓ Whether commitments stipulate conducting due diligence: The evidence states that suppliers are screened through the Business Partner Due Diligence process.
+- ✓ Business relationships covered: The Business Partner Code of Conduct applies to business partners engaging for, working for, or on behalf of Mubadala Energy.",medium,75.9,2026-05-12T14:55:33,v2
+D085,main,partial,"[Sub-criteria check]
+- ✓ Environmental impacts: The evidence refers to suppliers’ environmental impact, biodiversity protection, CO2 reduction compared to fossil alternatives, circular solutions, waste minimization, and recycling.
+- ✓ People / human rights impacts: The evidence states that EcoVadis assesses labour and human rights, and that biofuels must be produced without violating human rights.
+- ✓ Potential negative impacts in the value chain: The evidence mentions ESG risks in the value chain and high-risk supplier areas.
+- ✓ Potential positive impacts: The evidence refers to sustainable choices, improved supplier ESG performance, traceability, and supplier development.
+- ✗ Economy impacts: The evidence does not clearly describe economic impacts.
+- ✗ Full actual/potential positive and negative impact description: The evidence mainly describes assessment tools and controls rather than a complete impact description.",high,138.9,2026-05-12T14:57:52,v2
+D131,main,no_evidence,"[Sub-criteria check]
+- ✗ Standards used: The evidence does not report any standard used for waste or hazardous waste data.
+- ✗ Methodologies used: The evidence mentions data collection from an internal incident management system, but this relates to spills, not waste/hazardous waste under the requirement.
+- ✗ Assumptions used: No assumptions for compiling waste-related data are provided.
+- ✗ Direct relevance: The evidence is about spill incident management, not the standards, methodologies, and assumptions for waste data.",high,46.0,2026-05-12T14:58:38,v2
+D110,main,pass,"[Sub-criteria check]
+- ✓ Incidents of discrimination: The evidence explicitly states that the Group recorded zero cases of discrimination in 2024.
+- ✓ Remediation plans implemented: Since no discrimination incidents were recorded, no remediation plans were required or applicable.
+- ✓ Results reviewed through internal management review processes: No review of remediation results is applicable because there were no incidents requiring remediation.",high,278.1,2026-05-12T15:05:42,v2
+D046,main,partial,"[Sub-criteria check]
+- ✓ Some improvement/feedback mechanisms: The evidence describes regular supplier performance reviews, collaborative innovation initiatives, supplier audits, environmental screening, and efforts to improve ESG integration.
+- ✓ Some incorporation into procurement processes: Sustainability criteria are embedded into supplier evaluations and partnership decisions, and supplier governance is aligned with ESG and decarbonization goals.
+- ✗ Specific lessons learned: The evidence does not clearly identify lessons learned from tracking the effectiveness of procurement actions.
+- ✗ Incorporation of lessons into operational policies/procedures: The evidence does not explicitly explain how specific lessons learned were incorporated into operational policies or procedures.",medium,375.6,2026-05-12T15:11:57,v2
+D072,main,pass,"[Sub-criteria check]
+- ✓ Whether the organization is involved with negative impacts: The evidence identifies land acquisition and land management as community-related human rights issues and discusses potential impacts from new service station construction.
+- ✓ Involvement through own activities: The evidence describes Bangchak developing new service stations in various areas and the related risk of overlooking environmental, safety, and health impact verification for nearby communities.
+- ✓ Involvement through business relationships: The operational guidelines apply to new service stations operated by both the Company and business operators.
+- ✓ Description of activities/business relationships: The evidence describes construction of Bangchak service stations, land use zoning checks, permits, licenses, and community engagement/surveys.",medium,62.9,2026-05-12T15:13:00,v2
+D115,main,partial,"[Sub-criteria check]
+- ✓ Collective bargaining agreements exist: The evidence states that all Swedish employees working 100% for OK-Q8 AB-owned companies have collective bargaining agreements, and 88.13% of Danish employees at stations and depots have collective bargaining agreements.
+- ✓ Notice periods: The evidence states that minimum notice periods align with requirements in collective bargaining agreements and local practice.
+- ✗ Consultation and negotiation provisions: The evidence does not state whether provisions for consultation and negotiation are specified in collective agreements.",medium,43.3,2026-05-12T15:13:44,v2
+D066,main,pass,"[Sub-criteria check]
+- ✓ Actions taken to manage the topic: The evidence describes ISO 14001 certification, implementation of a risk-based HSSE Management System, and environmental, social, and health impact assessments.
+- ✓ Actions to prevent or mitigate potential negative impacts: The HSSEMS and impact assessments are preventive/risk-based mechanisms intended to identify and manage environmental, safety, health, and social risks before or during projects.
+- ✓ Specificity: The evidence names specific frameworks and standards, including ISO 14001, ISO 45001 alignment, the Equator Principles, and IFC Performance Standards.",high,28.8,2026-05-12T15:14:12,v2
+D027,main,partial,"[Sub-criteria check]
+- ✓ Delegation to other employees/levels: The evidence states that the Empowerment and Authority Manual delineates delegated authorities across hierarchical levels, including the Board, functional director committees, executive committees, contracts committees, bids committees, and designated senior positions.
+- ✓ Responsibility below the highest governance body: The evidence states that heads of SBUs/departments are accountable for operational performance and overall outcomes.
+- ✗ Managing impacts on economy, environment, and people: The evidence does not explicitly link the delegation framework to managing the organization’s economic, environmental, or people-related impacts.",medium,53.3,2026-05-12T15:15:06,v2
+D010,main,pass,"[Sub-criteria check]
+- ✓ What has been assured: The evidence identifies assured information including GRI 302-1, GRI 305-1, GRI 305-2, GRI 305-4, and other selected sustainability performance indicators within the defined scope.
+- ✓ Basis and assurance standards used: The evidence refers to AA1000AS v3 Type 2, ISAE 3000 (Revised), ISAE 3410 where applicable, ISO 14064-3:2019, AccountAbility Principles 2018, and GRI Standards/reporting criteria.
+- ✓ Level of assurance obtained: The assurance conclusion is stated to be expressed on the basis of a limited level of assurance.
+- ✓ Limitations of the assurance process: The evidence states that assurance was limited to specified sustainability performance information explicitly identified within the scope, with non-material topics excluded.",high,55.2,2026-05-12T15:16:01,v2
+D056,main,partial,"[Sub-criteria check]
+- ✓ Processes used to track effectiveness for anti-corruption/governance actions: The evidence describes monitoring improvement targets, reporting to the Sustainability and Corporate Governance Committee and Board every six months, and annual compliance assessments.
+- ✓ Supporting tracking indicators/processes: The evidence reports policy acknowledgment, anti-corruption training, average knowledge test scores, complaints received, and corruption risk assessments across core businesses and investments.
+- ✗ Anti-competitive behavior tracking: The evidence does not clearly describe processes used to track the effectiveness of actions related to anti-competitive behavior.",high,82.5,2026-05-12T15:17:23,v2
+D026,main,pass,"[Sub-criteria check]
+- ✓ Process for the highest governance body: The evidence describes a Code of Conduct for Board Members and Senior Management Personnel that applies to all Whole-time Directors, Non-Whole-time Directors, including Independent Directors, and Senior Management Personnel.
+- ✓ Prevention and mitigation of conflicts of interest: The Code requires Board members and senior management to refrain from participating in any decisions where a conflict of interest exists or could reasonably be perceived to arise.
+- ✓ Specificity: The evidence identifies the applicable regulation, covered governance roles, and the specific required conduct for conflict situations.",high,36.9,2026-05-12T15:18:00,v2
+D106,main,partial,"[Sub-criteria check]
+- ✓ How water-related impacts are addressed: The evidence describes water-saving technologies across the fleet, onboard filtration systems, wastewater storage and disposal at approved port facilities, zero tolerance for oil-contaminated water, sampling, maintenance, and MARPOL/local regulatory compliance.
+- ✓ Specific operational controls: The report states that no process water is discharged into the marine environment and that no water pollution incidents occurred during 2022–2024.
+- ✗ Working with stakeholders to steward water as a shared resource: The evidence mentions port authorities and port standards, but does not describe collaborative stakeholder water stewardship.
+- ✗ Engagement with suppliers or customers with significant water-related impacts: No supplier or customer engagement on water-related impacts is described.",medium,49.6,2026-05-12T15:18:50,v2
+D022,main,partial,"[Sub-criteria check]
+- ✓ Some mechanism for raising concerns: The evidence includes a Grievance Redressal section and states that proactive mechanisms are in place to seek feedback and respond to suggestions and concerns from individuals, organizations, and communities.
+- ✓ Some link to business conduct: The evidence refers to sustainable business practices, transparency, accountability, ethical conduct, and vigilance activities.
+- ✗ Specific concern-raising channels/processes: The evidence does not describe concrete channels or procedures, such as a hotline, email, portal, whistle-blower mechanism, escalation route, confidentiality, or handling process.
+- ✗ Directness to business conduct concerns: The concern mechanism is described broadly and not clearly tied to concerns about the organization’s business conduct.",medium,146.1,2026-05-12T15:21:16,v2
+D140,main,no_evidence,"[Sub-criteria check]
+- ✗ Total number of recorded significant spills: The evidence does not provide a number of significant spills, including zero.
+- ✗ Total volume of recorded significant spills: The evidence does not provide any spill volume.
+- ✗ Specific data: The evidence describes preventive maintenance, inspections, emergency procedures, ISO compliance, training, drills, and audits, but not the required spill metrics.",high,37.8,2026-05-12T15:21:54,v2
+D038,main,pass,"[Sub-criteria check]
+- ✓ Actions to manage actual/potential positive impacts: The evidence describes talent development, inclusion, fair labor practices, employee wellbeing, national talent support, partnerships, flexible work arrangements, enhanced parental leave, wellness initiatives, and international secondments.
+- ✓ Employment-related positive impacts: The actions support long-term employability, workforce readiness, equal opportunity, career mobility, generational balance, retention, and employee satisfaction.
+- ✓ Specificity: The evidence provides concrete examples such as the “Train for Work” program, remote and hybrid work arrangements, enhanced parental leave, wellness initiatives, maintaining younger employees’ share of new hires above 20%, and a six-month secondment to Kuala Lumpur.",high,86.8,2026-05-12T15:23:21,v2
+D007,main,partial,"[Sub-criteria check]
+- ✓ Governance structure: The evidence describes the Board of Directors, including the Chairman and nine Board members.
+- ✓ Highest governance body role: The evidence states that the Board directs long-term corporate strategy, oversees financial performance, establishes the governance framework, and integrates ESG into strategic and operational plans.
+- ✗ Committees of the highest governance body: The evidence does not identify or describe any Board committees.",high,44.1,2026-05-12T15:24:05,v2
+D127,main,no_evidence,"[Sub-criteria check]
+- ✓ Topic mentioned: The evidence discusses particulate matter (PM) emissions and states that PM emissions decreased by 3%.
+- ✗ Significant air emissions amount for PM: The evidence does not provide the absolute PM emissions amount in kilograms or multiples.
+- ✗ Required quantitative unit: No kg, tonnes, or equivalent PM value is reported.",high,54.4,2026-05-12T15:24:59,v2
+D108,main,pass,"[Sub-criteria check]
+- ✓ Standards/methodologies used: The evidence under “GRI 305-7 NOx, SOx and other significant air emissions” states that the methodologies and factors used include the standards and protocols of IPCC, Concawe, and EPA.
+- ✓ Direct relevance: The cited note is specifically attached to GRI 305-7, not only to general GHG emissions.
+- ✓ Specificity: Named standards/protocol sources are provided.",low,393.0,2026-05-12T15:31:32,v2
+D019,main,pass,"[Sub-criteria check]
+- ✓ Retirement benefits: The evidence explicitly mentions “superannuation benefits” for Board-level Executives.
+- ✓ Policy basis: These benefits are governed by pay revision guidelines for CPSEs issued by the Department of Public Enterprises.
+- ✓ Governance/approval process: The remuneration policies constructed under DPE guidelines are put forward for Board resolution and then to the administrative ministry for presidential directives.",high,44.5,2026-05-12T15:32:17,v2
+D105,main,partial,"[Sub-criteria check]
+- ✓ Local community development programs: The evidence describes CSR and social initiatives in education, healthcare, skill development, sports, environment, community development, and support for disadvantaged groups.
+- ✓ Based on local community needs: The evidence states that HPCL interacts with communities through its CSR department and project implementation partners, identifies issues during these interactions, prioritizes them, and submits them for management review.
+- ✗ Percentage of operations: The evidence does not report the percentage of operations with implemented local community development programs.
+- ✗ Full 413-1(a.iv) disclosure: No operations-level coverage figure is provided.",medium,64.4,2026-05-12T15:33:21,v2
+D005,main,no_evidence,"[Sub-criteria check]
+- ✗ Other remediation processes: The evidence does not describe processes by which HPCL provides for or cooperates in remediation of negative impacts.
+- ✗ Negative impacts caused or contributed to: The evidence does not identify specific negative impacts that HPCL caused or contributed to and then remediated.
+- ✓ Related but insufficient mechanisms: The evidence mentions stakeholder engagement, grievance redressal, whistle-blower mechanisms, internal controls, and ERM, but these are general concern/risk management mechanisms rather than remediation processes.
+- ✗ Specificity: No concrete remedy process such as compensation, restoration, corrective action for affected stakeholders, or cooperation in remediation is described.",high,44.9,2026-05-12T15:34:06,v2
+D065,main,partial,"[Sub-criteria check]
+- ✓ Effectiveness/results of actions: The evidence reports concrete outputs from training and development actions, including 109 Masar participants, 307 total participants across 12 cohorts, 530 employees coached, 80 leaders trained, 1,775 coaching hours, 49 coaches trained, 6 internationally accredited coaches, and around USD 500,000 return on investment from coaching.
+- ✓ Some progress information: The Coaching Roadmap was implemented from 2021 and concluded by the end of 2023, showing completion of a development initiative.
+- ✗ Progress toward goals and targets: The evidence does not state specific goals or targets against which these results are evaluated.
+- ✗ Full effectiveness evaluation: The evidence provides outputs and some outcome indicators, but does not clearly assess whether targets were met.",medium,89.3,2026-05-12T15:35:35,v2
+D097,main,partial,"[Sub-criteria check]
+- ✓ Indicators used to evaluate progress: The evidence reports 3,047 safety walks conducted, a 27% decrease in lost workday cases, and describes tracking accidents and near-accidents through an internal incident-reporting system.
+- ✓ Some OHS monitoring process: The evidence describes safety walks, rounds, control programmes, incident investigation, root-cause identification, and preventive measures.
+- ✗ Goals and targets: The evidence does not provide specific OHS goals or targets, such as target injury rates, target number of safety walks, or target reduction in lost workday cases.
+- ✗ Full evaluation framework: The evidence gives indicators and outcomes but does not clearly state the goals/targets used to evaluate progress.",high,51.7,2026-05-12T15:36:27,v2
+D041,main,pass,"[Sub-criteria check]
+- ✓ Actions to prevent or mitigate potential negative impacts: The evidence describes a zero-tolerance policy for discrimination and harassment, equal opportunity, safety and respect in the workplace.
+- ✓ Diversity and inclusion actions: Mubadala supports employee development regardless of gender, age, or ethnicity, supports women’s empowerment through clubs, committees, and development opportunities, and promotes female leadership.
+- ✓ Supporting employment policies: The evidence also mentions parental leave for both male and female employees.
+- ✓ Specificity: The evidence provides concrete details such as 31 nationalities represented, female workforce and management representation, and specific initiatives such as LEWAS sponsorship.",high,74.4,2026-05-12T15:37:41,v2
+D102,main,no_evidence,"[Sub-criteria check]
+- ✗ Source of emission factors: The evidence does not identify any source of emission factors used for Scope 1 GHG emissions.
+- ✗ GWP rates or GWP source: The evidence does not mention GWP rates or a reference source for GWP.
+- ✗ Direct relevance: The cited note refers to conversion of fuel to energy using heating values, which is not the same as reporting emission factors or GWP sources.",high,49.0,2026-05-12T15:38:30,v2
+D033,main,no_evidence,"[Sub-criteria check]
+- ✗ Lessons learned: The evidence does not identify specific lessons learned from tracking the effectiveness of actions related to anti-competitive behavior.
+- ✗ Incorporation into policies/procedures: The evidence does not explain how any lessons learned were incorporated into operational policies or procedures.
+- ✓ Related governance mechanisms: The evidence describes the Code of Conduct, Ethics Council, Board/EMT oversight, reporting of critical concerns, investigations, and corrective actions where necessary.
+- ✗ Topic-specific linkage: These mechanisms are general governance and compliance processes, not explicit lessons learned for anti-competitive behavior.",high,65.5,2026-05-12T15:39:36,v2
+D083,main,no_evidence,"[Sub-criteria check]
+- ✗ Goals: The evidence does not state specific goals for Innovation & Digital Transformation.
+- ✗ Targets: The evidence does not provide measurable targets or target dates.
+- ✗ Indicators used to evaluate progress: The evidence does not report KPIs or indicators used to evaluate progress.
+- ✓ Related actions/projects: The evidence describes the Digital Transformation Strategy, E-VOLVE, Pegaga Digital Twin, Asset Production Monitoring, HSSE Tracking Dashboard, ESG reporting dashboard, and other digital initiatives.
+- ✗ Directness: These projects show actions taken, but they do not disclose the goals, targets, or indicators used to evaluate progress.",high,54.6,2026-05-12T15:40:30,v2
+D060,main,no_evidence,"[Sub-criteria check]
+- ✗ Goals: The evidence does not state goals for Business Ethics, Transparency & Regulatory Compliance.
+- ✗ Targets: The evidence does not provide targets for this material topic.
+- ✗ Indicators used to evaluate progress: The evidence does not identify compliance, ethics, transparency, public policy, or regulatory indicators used to evaluate progress.
+- ✓ Some related statement: The evidence states that HPCL does not contribute financially or in-kind to political parties and describes its tax approach.
+- ✗ Directness: These statements do not amount to goals, targets, or indicators for tracking effectiveness.",high,53.4,2026-05-12T15:41:24,v2
+D080,main,no_evidence,"[Sub-criteria check]
+- ✗ Policies or commitments regarding the material topic: The evidence does not describe any policy or commitment related to Payments to Governments.
+- ✗ Business ethics / transparency / regulatory compliance linkage: The evidence does not address transparency of government payments, tax/royalty compliance, or public payment disclosures.
+- ✓ General sustainability commitment: The evidence mentions sustainable energy, cleaner fuels, renewable energy, and green technologies.
+- ✗ Direct relevance: General sustainable energy and refining performance statements are not policies or commitments regarding Payments to Governments.",high,75.2,2026-05-12T15:42:39,v2
+D144,main,partial,"[Sub-criteria check]
+- ✓ Routine hazard identification and risk assessment: The evidence describes safety walks, safety rounds, and control programmes conducted yearly, quarterly, monthly, and daily.
+- ✓ Non-routine/incident-based processes: Accidents and near-miss incidents are reported, monitored, investigated, and assigned to an incident manager; complex cases may involve EHS or other relevant departments.
+- ✓ Quality assurance: The EHS management system is continuously improved, reviewed at EHS, management, and board meetings, and supported by quarterly statistics and employee consultation.
+- ✓ Competency: The evidence mentions systematic health and safety training to ensure required competence.
+- ✗ Hierarchy of controls: The evidence refers to action plans to eliminate or minimize risks, but does not explicitly describe applying the hierarchy of controls or its levels.",medium,68.8,2026-05-12T15:43:48,v2
+D076,main,no_evidence,"[Sub-criteria check]
+- ✗ Whether the organization is involved with negative employment impacts: The evidence does not state that OKQ8 is involved with any negative employment-related impacts.
+- ✗ Involvement through own activities: The evidence mentions employee health, well-being, safety, Code of Conduct training, and internal compliance, but does not describe negative employment impacts arising from OKQ8’s own activities.
+- ✗ Involvement through business relationships: The evidence mentions suppliers, partners, EcoVadis, Partner Code of Conduct compliance, and biofuel sourcing, but does not identify negative employment impacts arising from business relationships.
+- ✗ Description of activities or business relationships causing impacts: No employment-related activity or business relationship causing or contributing to negative impacts is described.",high,38.0,2026-05-12T15:44:26,v2
+D109,main,partial,"[Sub-criteria check]
+- ✓ Collective bargaining agreements exist: The evidence states that 29% of Energean’s workforce was covered by CBAs in 2024.
+- ✓ Notice procedures: The evidence states that in Italy, where collective agreements are in place, predefined notice procedures apply for major organizational changes, working hour/job assignment changes, and collective redundancies.
+- ✗ Consultation and negotiation provisions: The evidence does not explicitly state whether consultation and negotiation provisions are specified in collective agreements.
+- ✗ Full requirement coverage: The evidence addresses notice procedures but not the consultation/negotiation element.",medium,43.7,2026-05-12T15:45:10,v2
+D136,main,no_evidence,"[Sub-criteria check]
+- ✗ Gases included in intensity calculation: The evidence does not explicitly state which gases are included in the GHG emissions intensity calculation.
+- ✗ Required gas list or “all”: The evidence does not specify whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, or all gases are included.
+- ✓ Related GHG context: The evidence discusses Scope 1 and Scope 2 GHG emissions reductions and emissions management.
+- ✗ Direct relevance to GRI 305-4(d): General GHG emissions information does not satisfy the requirement to disclose gases included in the intensity ratio calculation.",medium,44.9,2026-05-12T15:45:54,v2
+D073,main,partial,"[Sub-criteria check]
+- ✓ Effectiveness/results of actions: The evidence reports a 660 Gg reduction in Scope 1 emissions in 2024.
+- ✓ Quantitative performance data: The evidence provides total emissions figures and Bapco Refining Scope 1 and Scope 2 emissions.
+- ✓ Data reliability: The reported figures were externally audited by a third-party assurer.
+- ✗ Progress toward goals and targets: The evidence refers generally to alignment with national climate goals, but does not state specific emissions goals, targets, baselines, or target dates against which progress can be evaluated.",high,33.7,2026-05-12T15:46:28,v2
+D047,main,pass,"[Sub-criteria check]
+- ✓ Effectiveness of actions: The evidence reports reduced fuel consumption and electricity consumption due to energy consumption reduction measures.
+- ✓ Progress toward goals and targets: The report states 2030 targets of 30% fuel consumption reduction and 20% electricity consumption reduction, and 2024 performance of 24% and 9% reductions respectively, with 2019 as the base year.
+- ✓ Indicators used to show progress: The evidence includes Scope 1 and Scope 2 GHG emissions, %FOEB refinery energy efficiency, eco-efficiency, crude run/capacity utilization, and carbon neutrality performance through offsetting.
+- ✓ Specificity: Quantified targets and quantified 2024 performance are provided.",high,34.9,2026-05-12T15:47:03,v2
+D055,main,partial,"[Sub-criteria check]
+- ✓ Some review/tracking context: Cybersecurity projects, initiatives, and control updates are regularly presented to executive management.
+- ✓ Some policy/procedure incorporation: Additional policy manuals and procedures were introduced in 2023 to govern both IT and OT cybersecurity.
+- ✓ Some adaptive response: A major operating model change created taskforce/resource availability challenges, which were addressed through outsourcing and onboarding consultants.
+- ✗ Specific lessons learned: The evidence does not explicitly identify lessons learned from tracking the effectiveness of cybersecurity actions.
+- ✗ Clear lesson-to-policy linkage: The evidence does not explain how specific lessons learned were incorporated into operational policies and procedures.",medium,35.1,2026-05-12T15:47:38,v2
+D030,main,pass,"[Sub-criteria check]
+- ✓ Approval/responsibility level identified: The evidence states that the Board and CEO agree upon the sustainability strategy, sustainability targets and policy, and the Code of Conduct.
+- ✓ Highest governance body: The Board is described as the governance body responsible for sustainability progress and performance.
+- ✓ Ongoing Board involvement: The Sustainability Policy is reviewed annually by the Board of Directors.
+- ✓ Specific policy commitments: The evidence refers specifically to the Sustainability Policy and Code of Conduct.",medium,72.0,2026-05-12T15:48:50,v2
+D031,main,no_evidence,"[Sub-criteria check]
+- ✗ Lessons learned: No evidence is provided to identify lessons learned related to economic impacts.
+- ✗ Incorporation into policies/procedures: No evidence describes how lessons learned were incorporated into operational policies or procedures.
+- ✗ Topic-specific support: There are no cited chunks addressing Economic impacts for this requirement.",high,33.3,2026-05-12T15:49:23,v2
+D052,main,pass,"[Sub-criteria check]
+- ✓ Actions to manage the topic: The evidence describes CSR project reviews, impact evaluations, stakeholder engagement procedures, grievance processes, NGO partnerships, and post-project assurance visits.
+- ✓ Actions to prevent or mitigate potential negative impacts: The evidence shows mechanisms to identify vulnerable communities, align projects with evolving community needs, evaluate stakeholder satisfaction, and ensure investments reach the intended groups.
+- ✓ Specific community mitigation actions: Programs address malnutrition and stunting, unsafe drinking water, food insecurity, environmental pressures, and support for vulnerable communities.
+- ✓ Specificity: The evidence includes concrete examples such as nutrition support in Indonesia, clean water access for 10,000 community members in Malaysia, and the Ecogreen program supporting 50 households.",high,41.6,2026-05-12T15:50:05,v2
+D104,main,partial,"[Sub-criteria check]
+- ✓ Incident investigation process: The evidence describes an Incident Reporting and Investigation Standard that defines internal reporting, incident management, investigation, follow-up, roles, responsibilities, investigation phases, teams, and reporting.
+- ✓ Some hazard/risk context: The evidence includes a case example where crane use for hoisting drums created danger to crew and rig assets.
+- ✗ Corrective actions using hierarchy of controls: The evidence does not explicitly state that corrective actions are determined using the hierarchy of controls.
+- ✗ Improvements to OHS management system: The evidence does not clearly describe how incident investigations determine needed improvements in the occupational health and safety management system.",high,63.1,2026-05-12T15:51:08,v2
+D036,main,partial,"[Sub-criteria check]
+- ✓ Environmental impacts: The evidence describes potential negative impacts on water availability and quality, water scarcity risks, discharge risks, runoff impacts, and local ecosystems.
+- ✓ Some positive impacts: The evidence states that desalination reduces reliance on freshwater supply from shore, preserves local ecosystems, improves operational autonomy, and supports water quality consistency.
+- ✓ Potential impact framing: The evidence refers to preventing negative impacts and assessing potential impacts of activities on water resources.
+- ✗ Economy impacts: The evidence does not clearly describe economic impacts related to water and marine resources.
+- ✗ People and human rights impacts: The evidence mentions human consumption onboard but does not describe impacts on people or human rights in a GRI 3-3(a) sense.
+- ✗ Full actual/potential and negative/positive coverage: The evidence does not comprehensively describe actual and potential, negative and positive impacts across economy, environment, and people.",high,59.0,2026-05-12T15:52:07,v2
+D125,main,no_evidence,"[Sub-criteria check]
+- ✓ Recovery method mentioned: The evidence states that high oily sludge generated in refineries is sent for mechanical recovery operations through authorized third parties.
+- ✓ Hazardous waste context: The evidence refers to hazardous waste disposal and spent catalysts handled by authorized recyclers, co-processors, or TSDFs.
+- ✗ Total weight of hazardous waste: No total hazardous waste weight is reported.
+- ✗ Breakdown by recovery / energy recovery: No weight is provided for hazardous waste directed to recovery, including energy recovery.",high,45.7,2026-05-12T15:52:53,v2
+D088,main,pass,"[Sub-criteria check]
+- ✓ Processes used to track effectiveness: The evidence describes regular internal audits of HSE management systems and routine external auditor reviews to identify improvement areas.
+- ✓ Governance process: The HSSE Committee was established to ensure transparent HSE data reporting, standardize incident notifications, share best practices, identify and address HSE issues, implement prevention measures, and track progress toward HSE goals.
+- ✓ Coverage/control context: The evidence states that 100% of contractors, employees, and workers were covered by the OHS system and that contractor/supplier issues are jointly reviewed by SHE, Compliance, Technical, and Supplier Pre-qualification representatives.
+- ✓ Specificity: The processes are specific and directly linked to tracking HSE effectiveness.",high,52.5,2026-05-12T15:53:45,v2
+D013,main,partial,"[Sub-criteria check]
+- ✓ Differences across disclosures/material topics: The evidence explicitly states that Surat Thani Oil Depot is included for some topics/disclosures, such as energy, Scope 2 GHG emissions, supply chain, and Diversity and Equal Opportunity, but excluded for others, such as Scope 1 and 3 GHG emissions, GHG reduction, air emissions, water, waste, spills, emergency preparedness, and OHS.
+- ✓ Boundary information: The evidence identifies specific operational entities and topic-specific reporting boundaries.
+- ✗ Consolidation approach: The evidence does not fully explain the overall approach used to consolidate information across multiple entities.
+- ✗ Systematic explanation: The evidence gives examples of exclusions and inclusions but does not provide a comprehensive explanation of whether and how the consolidation approach differs across all disclosures and material topics.",medium,103.5,2026-05-12T15:55:29,v2
+D017,main,partial,"[Sub-criteria check]
+- ✓ Some assurance-related scope: The evidence appears to indicate assurance for Scope 1/2 emissions.
+- ✓ Reporting basis/context: The report states that it was prepared in accordance with GRI 2021 Universal Standards, GRI Oil and Gas Sector Standards, and IPIECA guidance.
+- ✗ Assurance standards used: The evidence does not identify the assurance standard, such as ISAE 3000 or AA1000AS.
+- ✗ Level of assurance: The evidence does not state whether the assurance was limited, reasonable, or another level.
+- ✗ Limitations: The evidence does not describe any limitations of the assurance process.",medium,44.7,2026-05-12T15:56:14,v2
+D091,main,partial,"[Sub-criteria check]
+- ✓ Effectiveness/results of actions: The evidence reports a 14% global new hire rate, 12% turnover, 407 full-time employees, 3,252 training days, an average of eight training days or 64 hours per employee, and 100% performance and career development reviews.
+- ✓ Talent development indicators: The evidence describes annual talent reviews, succession planning, IDPs, performance management integration, and the 70-20-10 learning model.
+- ✓ Some goal/target language: The evidence mentions maintaining younger employees’ share of new hires above 20%.
+- ✗ Progress toward stated targets: The evidence does not report actual performance against the >20% younger-new-hire target, nor does it provide explicit targets for new hire rate, turnover, training days, or review completion.",high,59.1,2026-05-12T15:57:13,v2
+D129,main,partial,"[Sub-criteria check]
+- ✓ Water interaction topic mentioned: The evidence states that water management is an essential part of operations and that Bapco monitors consumption.
+- ✓ Some withdrawal/consumption context: The evidence references 2024 water withdrawal and water consumption data from Bapco Refining, Bapco Upstream, Bapco Gas, and Bapco Gas Expansion.
+- ✓ Some discharge context: The evidence mentions effluent treatment processes meeting local authority requirements.
+- ✗ How and where water is withdrawn: The evidence does not describe water sources or withdrawal locations.
+- ✗ How and where water is consumed/discharged: The evidence does not provide specific consumption or discharge locations or mechanisms.
+- ✗ Water-related impacts: The evidence does not describe water-related impacts caused, contributed to, or directly linked to Bapco’s operations, products, services, or business relationships.",high,40.1,2026-05-12T15:57:53,v2
+D020,main,partial,"[Sub-criteria check]
+- ✓ Value chain / operational flow: The evidence describes production fluid transport, oil separation, gas recycling, processing at Das Island, pipeline transport, vessel export to Japan, and downstream processing/refining.
+- ✓ Downstream relationship: The evidence identifies UPD as both sole shareholder and customer and describes a “unique downstream supply chain.”
+- ✗ Supply chain in terms of suppliers/procurement: The evidence does not describe upstream suppliers, procurement categories, key inputs, or supplier relationships.
+- ✗ Full supply chain description: The evidence mainly describes production/export logistics and customer/shareholder structure, not the organization’s supply chain as required.",medium,48.3,2026-05-12T15:58:41,v2
+D095,main,pass,"[Sub-criteria check]
+- ✓ Actions to manage the topic: The evidence describes increasing refinery capacity, improving refinery operational efficiency, optimizing product yield and GRM, diversifying products, improving logistics efficiency, expanding pipeline utilization, and expanding the service station network.
+- ✓ Preventing/mitigating potential negative impacts: These actions address potential energy accessibility and security risks, including supply constraints, affordability pressures, and inefficient resource management.
+- ✓ Topic linkage: The evidence explicitly links these efforts to addressing the Energy Trilemma: Energy Security, Energy Affordability, and Environmental Sustainability.
+- ✓ Specificity: Quantified and concrete actions are provided, such as combined refinery capacity of 294,000 barrels/day, Bangchak Sriracha refinery capacity of 155,000 barrels/day, target refining of 280,000 barrels/day in 2025, over 2,400 service stations by 2030, and THB 6,071 million realized benefits from synergy projects.",high,95.2,2026-05-12T16:00:16,v2
+D103,main,partial,"[Sub-criteria check]
+- ✓ Some baseline/comparison information: The evidence reports that total Scope 1 and 2 emissions declined by 36.5% from 378,180, indicating a comparison baseline.
+- ✗ Clear base year or baseline disclosure: The evidence does not clearly state the base year or fully define the baseline used for the reduction calculation.
+- ✗ Rationale for choosing the base year/baseline: The evidence does not explain why that base year or baseline was selected.",high,85.6,2026-05-12T16:01:42,v2
+D089,main,partial,"[Sub-criteria check]
+- ✓ Effectiveness/progress indicators: The evidence reports that OKQ8 became an EcoVadis Gold Medallist, ranked among the top 5% of assessed companies, and assessed 53% of risk suppliers through EcoVadis.
+- ✓ Relevant supplier social assessment framework: EcoVadis is used to assess supplier sustainability performance across labour, human rights, ethics, environment, and sustainable procurement.
+- ✓ Related objectives: The evidence states objectives such as fostering ethical and socially responsible procurement practices and assessing/developing suppliers’ ESG performance.
+- ✗ Progress against explicit goals/targets: The evidence does not provide clear target values or deadlines, such as a target percentage of suppliers to assess or a target supplier performance level.
+- ✗ Full effectiveness evaluation: The evidence reports outputs and ratings, but does not clearly evaluate whether defined supplier social assessment targets were met.",high,46.1,2026-05-12T16:02:28,v2
+D092,main,pass,"[Sub-criteria check]
+- ✓ Processes used to track effectiveness: The evidence describes a comprehensive risk management framework and rigorous internal control system to ensure the effectiveness of compliance efforts.
+- ✓ Financial transparency controls: Energean maintains a Tax Policy and process manual, a strong control framework, Board updates on tax matters, public disclosure of payments to governments, external audits, and IFRS-aligned reviews.
+- ✓ Supply chain/business partner monitoring: Supplier and contractor prequalification, selection, evaluation protocols, ERM support, and HSE questionnaires are used to assess performance on H&S, environmental management, human rights, labour standards, business ethics, and compliance.
+- ✓ Compliance monitoring: The Environmental Management System includes continuous monitoring of legislative developments to ensure compliance.",high,67.7,2026-05-12T16:03:36,v2
+D009,main,partial,"[Sub-criteria check]
+- ✗ Total number of non-employee workers: The evidence does not report the total number of workers who are not employees and whose work is controlled by HPCL.
+- ✓ Types of workers: The evidence mentions fixed-term research associates, project associates, and contract workforce.
+- ✓ Contractual relationship: The evidence states that contract workforce is engaged through contractors for non-core activities at HPCL locations.
+- ✗ Full requirement coverage: The required total number is missing.",high,49.0,2026-05-12T16:04:25,v2
+D114,main,pass,"[Sub-criteria check]
+- ✓ Functions contributing to hazard identification and risk minimization: The evidence describes systematic hazard identification, regular risk assessments across offices, vessels, and operational areas, preventive measures, emergency response planning, HSE guidelines, PPE, and corrective actions.
+- ✓ Quality assurance: The evidence states that procedures are aligned with international standards and national legislation, risk assessments are regularly updated, quarterly inspections are conducted, training is delivered by qualified external providers, and training effectiveness is evaluated through course evaluation forms.
+- ✓ Worker access: The evidence states that training is delivered during working hours and at no cost, covering both shore-based and onboard personnel.
+- ✓ Specificity: The evidence identifies concrete mechanisms such as Floor Safety Officers, formal Risk Management Procedure, HSE Guidelines, quarterly inspections, annual reassessment of training needs, and qualified external training providers.",high,44.8,2026-05-12T16:05:10,v2
+D119,main,no_evidence,"[Sub-criteria check]
+- ✗ Disability and invalidity coverage: The evidence does not explicitly mention disability or invalidity coverage.
+- ✗ Full-time exclusivity: The evidence does not state that any disability/invalidity benefit is standard for full-time employees but not provided to temporary or part-time employees.
+- ✗ Significant locations of operation: The evidence does not provide the required location-based breakdown.
+- ✓ General benefits context: The evidence mentions benefits based on employee category, including health and life insurance, wellness programs, critical illness, education assistance, travel allowances, bonuses, savings plans, and housing loans.",high,102.5,2026-05-12T16:06:52,v2
+D043,main,partial,"[Sub-criteria check]
+- ✓ Privacy management actions are described: The evidence describes the Data Protection Policy, DPIA Procedure, Data Subject Request Management Procedure, Consent Management Procedure, Data Breach Management Procedure, and Privacy by Design and by Default instructions.
+- ✓ Some effectiveness indicator: The evidence appears to report zero data leaks and no substantiated privacy complaints, which can indicate effectiveness.
+- ✓ Implementation progress: GDPR training was conducted, Data Minimization and Data Deletion Operating Instructions were approved and launched, and DPAs were expanded.
+- ✗ Progress toward goals and targets: The evidence does not state specific privacy goals or targets against which progress is evaluated.",medium,48.2,2026-05-12T16:07:40,v2
+D116,main,pass,"[Sub-criteria check]
+- ✓ Whether workers are excluded: The evidence states that 100% of the Company's contractors, employees, and workers were covered by Bapco Energies’ OHS system.
+- ✓ Reported non-existence of exclusions: Since coverage is 100%, this indicates that no workers were excluded.
+- ✓ Specificity: The evidence explicitly includes contractors, employees, and workers.
+- ✓ Reason for exclusion: Not applicable, because the evidence indicates full coverage and no exclusions.",medium,58.4,2026-05-12T16:08:39,v2
+D008,main,no_evidence,"[Sub-criteria check]
+- ✗ Whether critical concerns are communicated to the highest governance body: The evidence does not explicitly state that critical concerns are communicated to the Board or highest governance body.
+- ✗ How critical concerns are communicated: No reporting channel, escalation process, frequency, or mechanism to the highest governance body is described.
+- ✓ Related governance/compliance context: The evidence describes corruption risk assessments, preventive vigilance, enforcement outcomes, grievance redressal, and anti-corruption policies communicated across governance levels.
+- ✗ Directness: Communicating policies to governance levels is not the same as communicating critical concerns to the highest governance body.",high,44.9,2026-05-12T16:09:23,v2
+D145,main,pass,"[Sub-criteria check]
+- ✓ Reversibility considered: The evidence states that impacts across construction, operation, and abandonment phases are evaluated based on magnitude, likelihood, and reversibility.
+- ✓ Significant impact status: The evidence explicitly reports that no significant impacts on biodiversity, habitats, or ecosystems have been observed or predicted for currently operated assets.
+- ✓ Biodiversity context: The evidence references biodiversity monitoring and identifies species in operational areas, including critically endangered, endangered, vulnerable, near-threatened, and least-concern species.
+- ✓ Reported non-existence: Since no significant biodiversity impacts were observed or predicted, there are no significant impacts requiring further reversibility characterization.",high,47.0,2026-05-12T16:10:10,v2
+D048,main,pass,"[Sub-criteria check]
+- ✓ Processes used to track effectiveness: The evidence describes tax control self-assessment, tax health checks, tax risk assessments, and transfer pricing governance assessments.
+- ✓ Governance and review: The tax policy is approved by senior leadership and the Sustainability and Corporate Governance Committee, publicly announced, implemented across the Group, and reviewed annually.
+- ✓ Compliance monitoring: The evidence describes assessment of compliance with transfer pricing laws and adherence to relevant tax laws, announcements, and orders.
+- ✓ Specificity: The processes are concrete and directly linked to tax transparency, tax reporting, tax risk management, and government-related tax obligations.",high,38.5,2026-05-12T16:10:49,v2
+D093,main,pass,"[Sub-criteria check]
+- ✓ Actions to manage the topic: The evidence describes the Women@OQ platform, which supports women’s skill development, leadership, career advancement, and life satisfaction.
+- ✓ Prevention/mitigation of potential negative impacts: The initiative aims to create an inclusive environment, ensure equal opportunities, embrace diverse perspectives, and address challenges women face in work-life harmony.
+- ✓ Specific actions: In 2023, Women@OQ undertook panel discussions addressing misconceptions, empowerment, and practical support systems.
+- ✓ Topic linkage: The actions are directly linked to Diversity, Equity, and Inclusion.",high,41.5,2026-05-12T16:11:30,v2
+D101,main,no_evidence,"[Sub-criteria check]
+- ✗ Third-party partnerships for habitat protection/restoration: The evidence does not explicitly describe partnerships with third parties to protect or restore habitat areas.
+- ✗ Distinct habitat areas: The evidence does not identify habitat areas distinct from HPCL’s own operational areas where third-party protection or restoration is undertaken.
+- ✓ Related biodiversity actions: HPCL reports adopting endangered animals at Himalayan Zoological Park and Sanjay Gandhi National Park and maintaining green belts/native species around operational areas.
+- ✗ Directness: Animal adoption and green belt maintenance are biodiversity-related, but they do not directly satisfy the requirement about third-party partnerships for habitat area protection or restoration.",high,98.4,2026-05-12T16:13:09,v2
+D021,main,partial,"[Sub-criteria check]
+- ✓ Public availability stated: The evidence states that all policies are available on the Group’s website and posted across office premises.
+- ✓ Explanation for non-public policy: The evidence explains that one policy is not publicly available because it relates to internal operations, while remaining available through the internal portal and reflected in the Code of Business Conduct and Ethics for Business Associates.
+- ✗ Links to publicly available policies: The evidence does not provide actual links or URLs to the publicly available policy commitments.
+- ✗ Full coverage of all policy commitments: The evidence does not clearly provide links or availability details for each specific policy commitment.",high,34.9,2026-05-12T16:13:44,v2
+D133,main,pass,"[Sub-criteria check]
+- ✓ VOC emissions disclosed: The evidence reports VOC emissions of 177.5 tons.
+- ✓ Unit provided: Tons are an acceptable multiple of kilograms.
+- ✓ Topic relevance: The evidence is under air quality management and explicitly refers to VOCs as one of the monitored atmospheric pollutants.
+- ✓ Specificity: The disclosure provides a quantitative VOC emissions figure.",high,73.9,2026-05-12T16:14:58,v2
+D074,main,partial,"[Sub-criteria check]
+- ✓ Some effectiveness tracking context: The evidence states that OKQ8 tested various biodiversity methods over 1.5 years to identify practices that contribute to biodiversity.
+- ✓ Some results from tracking/testing: The evidence reports that the most favorable test results came from allowing flora to grow naturally.
+- ✓ Quantified implementation output: The evidence reports 17 local biodiversity initiatives, including three in Sweden and 14 in Denmark.
+- ✗ Formal process for tracking effectiveness: The evidence does not describe a structured monitoring process, indicators, frequency, responsibilities, or evaluation methodology for biodiversity action effectiveness.",medium,137.1,2026-05-12T16:17:15,v2
+D126,main,pass,"[Sub-criteria check]
+- ✓ Total weight of waste generated: The evidence reports total recorded waste of 1,777 tons in 2024.
+- ✓ Unit provided: The waste amount is reported in tons, which satisfies the metric tons requirement.
+- ✓ Breakdown by composition: The evidence breaks down total waste into hazardous waste of 1,427 tons and non-hazardous waste of 350 tons.
+- ✓ Specificity: The figures are quantitative and directly tied to the reporting year.",high,57.5,2026-05-12T16:18:12,v2
+D100,main,partial,"[Sub-criteria check]
+- ✓ Some review/improvement process: The evidence states that Bangchak conducts human rights impact assessments and reviews processes to improve and minimize the chances of violations.
+- ✓ Some incorporation into procedures/policies: Human rights risk assessment topics were included in the Supplier Code of Conduct, and a comprehensive HRDD manual was developed to establish operational guidelines, responsibilities, remediation mechanisms, and prevention/mitigation measures.
+- ✓ Topic relevance: The evidence includes targets of no harassment/discrimination complaints and no labor/human rights complaints.
+- ✗ Specific lessons learned: The evidence does not explicitly identify lessons learned from tracking the effectiveness of non-discrimination and equal opportunity actions.
+- ✗ Clear lesson-to-policy linkage: The evidence does not clearly explain how specific lessons learned were incorporated into operational policies or procedures.",medium,43.3,2026-05-12T16:18:56,v2
+D138,main,pass,"[Sub-criteria check]
+- ✓ Significant infrastructure investments/services identified: The evidence lists several supported projects, including cultural centres, waterfront development, park development, emergency/accident medical facilities, a chemical research laboratory, and environmental initiatives.
+- ✓ Extent of development described: The evidence provides scope details, such as Dibba Waterfront spanning roughly 1,300 metres and including parking lots, gardens, pathways, jogging trails, and other amenities.
+- ✓ Service/infrastructure functions described: The projects support cultural events, healthcare services, public spaces, education/research capacity, and environmental awareness.
+- ✓ Specificity: The evidence names concrete projects and describes their intended facilities, functions, or amenities.",high,40.0,2026-05-12T16:19:36,v2
+D053,main,pass,"[Sub-criteria check]
+- ✓ Actions to manage the topic: The evidence describes the use of WRI Aqueduct Water Risk Atlas, local environmental data, water quality assessments, environmental impact assessments, and risk assessments.
+- ✓ Actions to manage positive impacts: The evidence reports that 100% of freshwater consumption on the FPSO was derived from a desalination unit.
+- ✓ Positive impacts described: Desalination reduces reliance on freshwater supply from shore, preserves local ecosystems, enhances operational flexibility, supports onboard operations, and ensures water quality consistency.
+- ✓ Quantitative support: Water withdrawal and consumption decreased from 119,089 m3 to 118,355 m3 in 2024.",high,145.4,2026-05-12T16:22:01,v2
+D018,main,pass,"[Sub-criteria check]
+- ✓ Stakeholder engagement approach: The evidence describes stakeholder dialogues, active listening, partnerships, collaboration, and continuous supplier dialogues.
+- ✓ Meaningfulness of engagement: The evidence states that stakeholder dialogues help OKQ8 understand stakeholder needs and requirements and align business with those needs.
+- ✓ Integration into materiality process: Stakeholder insights are used to identify sustainability topics, and external experts and stakeholders assess and rank material topics.
+- ✓ Link to decision-making: The materiality analysis informs sustainability strategy, focus areas, targets, resource commitments, actions, and progress tracking.",high,43.8,2026-05-12T16:22:45,v2
+D067,main,partial,"[Sub-criteria check]
+- ✓ Some effectiveness/progress indicators: The evidence reports improved cybersecurity maturity, 85% overall progress for Cybersecurity Capex projects, 3 projects live and 2 in progress, 76% employee completion of the Cybersecurity Awareness campaign, and a 4.7/5 satisfaction rating.
+- ✓ Some tracking context: Cybersecurity projects, initiatives, and controls updates are regularly presented to executive management.
+- ✗ Full material-topic coverage: The evidence mainly addresses cybersecurity rather than the broader topic of Agility, Innovation, and Digital Transformation.
+- ✗ Progress toward digital transformation goals/targets: The evidence lists 2024 plans for AI video analytics, generative AI, Digital Twin, predictive maintenance, RPA, automation, and drones, but does not report actual effectiveness or progress against targets for these initiatives.
+- ✗ Explicit goals/targets: The evidence does not clearly state defined goals or targets for the material topic and compare performance against them.",low,61.7,2026-05-12T16:23:46,v2
+D128,main,no_evidence,"[Sub-criteria check]
+- ✗ Electricity sold quantity: The evidence does not report the total electricity sold.
+- ✗ Required unit: No joules, watt-hours, or multiples are provided for electricity sold.
+- ✗ Reported non-existence: The evidence does not state that electricity sold was zero; it only says the sold quantity was excluded.
+- ✓ Related energy context: The evidence reports total energy consumption and purchased electricity, but this is not the same as electricity sold.",high,44.0,2026-05-12T16:24:30,v2
+D050,main,no_evidence,"[Sub-criteria check]
+- ✗ Involvement in negative impacts: The evidence does not state whether OKQ8 is involved in negative impacts related to freedom of association or collective bargaining.
+- ✗ Activities or business relationships described: The evidence does not describe specific activities or business relationships linked to negative impacts on freedom of association or collective bargaining.
+- ✓ General value chain / supplier context: The evidence mentions supplier ESG assessment, high-risk supplier categories, due diligence processes, and protecting rights and well-being in the value chain.
+- ✗ Topic-specific directness: These supplier and ESG references are not specifically tied to freedom of association or collective bargaining impacts.",high,42.2,2026-05-12T16:25:13,v2
+D149,main,partial,"[Sub-criteria check]
+- ✓ Hazard identification and risk assessment: The evidence describes annual and ad-hoc hazard identification, a permit-to-work system, two-step risk assessment, toolbox talks, and quantification of probability and severity.
+- ✓ Some link to incidents: The evidence states that hazard identification and controls are performed ad-hoc when there are specific reasons, including accidents.
+- ✓ Some OHS system improvement linkage: Risk assessment is reviewed periodically and ad-hoc and serves as an input to the system review performed twice a year.
+- ✗ Incident investigation process: The evidence does not clearly describe the process used to investigate work-related incidents.
+- ✗ Corrective actions using hierarchy of controls: The evidence does not explicitly state that corrective actions are determined using the hierarchy of controls.
+- ✗ Full OHSMS improvement process from incidents: The evidence does not clearly explain how incident investigations determine needed improvements in the OHS management system.",medium,37.9,2026-05-12T16:25:51,v2
+D099,main,no_evidence,"[Sub-criteria check]
+- ✗ Actual negative impacts: The evidence does not identify any actual negative impacts related to freedom of association and collective bargaining.
+- ✗ Actions to address actual negative impacts: No actions are described as responding to actual violations or harms on this topic.
+- ✗ Remediation/cooperation in remediation: No remediation actions or cooperation in remediation are disclosed.
+- ✓ Related due diligence context: EcoVadis supplier assessment and value chain ESG risk management are described.
+- ✓ Reported absence in part of the supplier base: The evidence states that no violations of freedom of association and collective bargaining were found among tier 1 suppliers in EcoVadis.",high,140.6,2026-05-12T16:28:11,v2
+D141,main,no_evidence,"[Sub-criteria check]
+- ✗ Source of emission factors for NOx/SOx: The evidence does not specify emission factor sources for NOx, SOx, or other significant air emissions under GRI 305-7.
+- ✓ GHG emission factor context: The evidence identifies IPCC software, IPIECA/IPCC guidelines, API 2009, and IPCC GWP values for GHG emissions.
+- ✗ Requirement-specific directness: Sources for GHG emissions factors cannot be inferred as sources for NOx/SOx emission factors unless explicitly linked.
+- ✗ Full requirement coverage: No NOx/SOx-specific methodology or emission factor source is disclosed.",high,36.4,2026-05-12T16:28:48,v2
+D025,main,partial,"[Sub-criteria check]
+- ✓ Supply chain mentioned: The evidence states that Island Oil manages its supply chain efficiently and responsibly.
+- ✓ Value chain scope mentioned: The evidence says the approach extends across the entire value chain, from sourcing to delivery.
+- ✓ Business relationship context: The evidence refers to customers, business associates, compliance expectations, and responsible conduct.
+- ✗ Detailed supply chain description: The evidence does not describe specific supplier categories, procurement inputs, upstream/downstream entities, logistics structure, or key supply chain relationships.
+- ✗ Full value chain detail: The disclosure is mostly high-level and lacks concrete details on the organization’s supply chain structure.",high,46.5,2026-05-12T16:29:34,v2
+D015,main,partial,"[Sub-criteria check]
+- ✓ Policy framework mentioned: The evidence describes Bangchak’s Sustainability Policy and states that it is based on global sustainability and social responsibility standards, including the UN Global Compact.
+- ✓ Some human-rights-adjacent context: UNGC is a recognized international framework that includes human rights principles.
+- ✗ Specific human rights commitment: The evidence does not clearly state a specific policy commitment to respect human rights.
+- ✗ Internationally recognized rights covered: The evidence does not identify which internationally recognized human rights are covered by the commitment.",high,38.9,2026-05-12T16:30:13,v2
+D014,main,pass,"[Sub-criteria check]
+- ✓ Whether the Chair is also a senior executive: The evidence states that the Chair of the Board temporarily assumed the responsibilities of OK-Q8 AB’s CEO during 2023.
+- ✓ Senior executive role identified: CEO is clearly a senior executive position.
+- ✓ Timing/context disclosed: The evidence also states that on March 1, 2024, the Chair was relieved of the temporary CEO responsibility when the new CEO stepped into the position.
+- ✓ Directness: The evidence directly addresses the relationship between the Chair role and a senior executive role.",high,60.5,2026-05-12T16:31:14,v2
+D035,main,partial,"[Sub-criteria check]
+- ✓ Topic-related indicator: The evidence states that among tier 1 suppliers in EcoVadis, no violations of the right to freedom of association and collective bargaining were found.
+- ✓ Supplier assessment coverage indicators: The evidence reports assessment coverage for supplier categories, including 100% of logistics suppliers, 65% of liquid fuel suppliers, 68% of solar panel suppliers, 59% of convenience suppliers, and 79% of dry goods suppliers in Sweden.
+- ✓ Relevant assessment framework: EcoVadis assesses labour and human rights, ethics, environmental impact, and sustainable procurement.
+- ✗ Explicit goals/targets: The evidence does not state specific goals or targets for freedom of association and collective bargaining.
+- ✗ Formal progress indicators: The evidence does not clearly define official indicators used to evaluate progress on this material topic.",medium,95.9,2026-05-12T16:32:49,v2
+D113,main,no_evidence,"[Sub-criteria check]
+- ✗ Gross location-based Scope 2 emissions value: The evidence does not provide a numeric Scope 2 emissions figure in metric tons of CO2e.
+- ✓ Unit/methodology context: The evidence states that Scope 2 emissions are presented in tonnes of CO2 equivalent and that CO2 is the gas included.
+- ✓ Emission factor sources: The evidence identifies country-specific sources used to calculate emissions.
+- ✗ Direct requirement coverage: Methodological notes and emission factor sources do not substitute for the required gross location-based Scope 2 emissions amount.",high,34.1,2026-05-12T16:33:24,v2
+D064,main,partial,"[Sub-criteria check]
+- ✓ Some goals/targets mentioned: The evidence refers to alignment with the UAE Net Zero by 2050 target and a commitment to reduce GHG emissions in line with international standards.
+- ✓ Some progress indicator: The evidence reports that the share of natural gas in overall working interest production increased from 63% to 69%.
+- ✓ Strategic transition areas: The evidence identifies strategic growth pillars such as natural gas, geothermal energy, CCUS, and blue hydrogen.
+- ✗ Specific company targets: The evidence does not provide clear company-specific targets, such as quantified emissions reduction targets, baseline year, target year, or scope-specific targets.
+- ✗ Indicators used to evaluate progress: The evidence does not clearly define formal KPIs or indicators used to evaluate progress on Climate Change & Energy Transition.",high,52.7,2026-05-12T16:34:16,v2
