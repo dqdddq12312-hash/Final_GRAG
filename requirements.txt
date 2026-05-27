@@ -1,0 +1,68 @@
+# ============================================================================
+# Final_GRAG — Agentic RAG GRI Compliance pipeline + experiments
+# ============================================================================
+# Pinned theo bản đã verify trên Windows 11 + Python 3.11 + CUDA 12.8.
+# CPU-only user: cài `torch>=2.5` thay cho dòng `torch==2.10.0+cu128` cuối file.
+# ============================================================================
+
+# --- Core data ---
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.17.0
+scikit-learn==1.8.0
+statsmodels==0.14.6
+
+# --- LLM orchestration (Module 3 — LangGraph compliance pipeline) ---
+langchain==1.2.9
+langchain-core==1.2.11
+langchain-openai==1.1.9
+langchain-ollama==1.0.1
+langchain-google-genai==4.2.1
+langchain-huggingface==1.2.0
+langchain-docling==2.0.0
+langgraph==1.0.8
+
+# --- LLM clients ---
+openai==2.16.0
+ollama==0.6.1
+
+# --- Schema / validation ---
+pydantic==2.12.5
+python-dotenv==1.2.1
+
+# --- Document ingest (Module 2 — report processing) ---
+docling==2.73.0
+docling-core==2.64.0
+pdfplumber==0.11.9
+
+# --- Embedding + retrieval ---
+FlagEmbedding==1.3.5         # BGE-M3 (dense + sparse)
+sentence-transformers==5.2.2 # NLI cross-encoder (Module 3 — TN3)
+transformers==4.57.6
+huggingface-hub==0.36.0
+tiktoken==0.12.0
+
+# --- Vector DB ---
+pymilvus==2.6.7              # Zilliz Cloud client
+
+# --- Fuzzy matching (Phase 4 — material topic mapping) ---
+RapidFuzz==3.14.3
+
+# --- Visualization (analysis notebooks) ---
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# --- Streamlit demo viewer ---
+streamlit==1.57.0
+
+# --- Utilities ---
+tqdm==4.67.1
+PyYAML==6.0.3
+Jinja2==3.1.6
+joblib==1.5.3
+requests==2.32.5
+
+# --- Deep learning ---
+# CUDA build (Windows + RTX 50-series). Đổi sang `torch>=2.5` cho CPU-only.
+torch==2.10.0+cu128 ; sys_platform == "win32"
+torch>=2.5         ; sys_platform != "win32"

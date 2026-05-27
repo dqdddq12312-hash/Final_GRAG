@@ -1,8 +1,22 @@
 # CHỦ ĐỀ: NGHIÊN CỨU XÂY DỰNG MÔ HÌNH KIỂM TRA TÍNH TUÂN THỦ CỦA BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 
-Khoá luận đề xuất một pipeline kiểm tra tuân thủ tự động cho báo cáo phát triển bền vững theo bộ tiêu chuẩn GRI. Hệ thống nhận đầu vào là PDF báo cáo, trích xuất thành các chunks (có bảo toàn ngữ cảnh) và xử lý làm sạch, sau đó chạy qua một quy trình gồm 9 phase (claim → reporting principles → GRI 2 → material topics → GRI 3 → topic standards → omissions → content index → notify) với một LLM judge (`qwen3:14b` qua Ollama) ở Phase 3/5/6 để cho ra phán quyết `pass / partial / no_evidence / fail` kèm bằng chứng tương cho quyết định.
+> **🎓 Demo bảo vệ khoá luận** — đọc [`DEMO.md`](DEMO.md) trước để có hướng dẫn 10–15 phút và bản đồ điều hướng repo. Bảng điều hướng đầy đủ dạng spreadsheet nằm trong [`demo_prep/`](demo_prep/) (mở bằng Google Sheets).
 
-Module 3 được augment bằng **NLI cross-encoder** (`cross-encoder/nli-deberta-v3-base`) theo hai cơ chế REORDER chunks theo entailment, HINT block trong prompt. Hai thực nghiệm của Chương 4 — TN1 (factorial 2×2 cho REORDER × HINT) và TN2 (xây dựng tập đánh giá ba tầng + calibrate LLM-as-judge arbiter) — đo lường hiệu quả của augmentation và bằng chứng độ tin cậy của tập đánh gái.
+## Tóm tắt 5 ý
+
+1. **Pipeline 3 module nối tiếp**: Module 1 (chuẩn hoá tiêu chuẩn GRI Universal + Topic + Sector) → Module 2 (PDF báo cáo → chunks sạch + embed vào Zilliz) → Module 3 (Compliance Engine 9 phase trên LangGraph).
+2. **NLI augmentation cho Module 3**: REORDER pack bằng entailment + HINT block trong prompt LLM judge (`qwen3:14b`); 4 biến thể `a0 / a1 / a2 / v_new` theo factorial 2×2.
+3. **Demo viewer offline**: [`demo/app.py`](demo/app.py) (Streamlit) — chọn variant + báo cáo, xem audit từng phase, drill-down verdict → câu trích dẫn gốc.
+4. **TN1 — factorial 2×2 NLI**: chạy 4 variant × 14 báo cáo (`in_accordance`); kết luận **A1 (REORDER only)** triển khai, dựa trên 137 case ground truth người chấm (acc 0.635, lift +13.14 pp sau bug fix Phase 5).
+5. **TN2 — pipeline 3 tầng xây ground truth**: hiệu chuẩn LLM arbiter (120 case) → hybrid silver scale (~8.6k case) → human gold v2 (150 case); chứng minh sign reversal → silver không đủ kết luận, gold người chấm là điều kiện cần.
+
+---
+
+## Mô tả
+
+Khoá luận đề xuất một pipeline kiểm tra tuân thủ tự động cho báo cáo phát triển bền vững theo bộ tiêu chuẩn GRI. Hệ thống nhận đầu vào là PDF báo cáo, trích xuất thành các chunks (có bảo toàn ngữ cảnh) và xử lý làm sạch, sau đó chạy qua một quy trình gồm 9 phase (claim → reporting principles → GRI 2 → material topics → GRI 3 → topic standards → omissions → content index → notify) với một LLM judge (`qwen3:14b` qua Ollama) ở Phase 3/5/6 để cho ra phán quyết `pass / partial / no_evidence / fail` kèm bằng chứng tương ứng cho quyết định.
+
+Module 3 được augment bằng **NLI cross-encoder** (`cross-encoder/nli-deberta-v3-base`) theo hai cơ chế: REORDER chunks theo entailment, HINT block trong prompt. Hai thực nghiệm của Chương 4 — TN1 (factorial 2×2 cho REORDER × HINT) và TN2 (xây dựng tập đánh giá ba tầng + calibrate LLM-as-judge arbiter) — đo lường hiệu quả của augmentation và bằng chứng độ tin cậy của tập đánh giá.
 
 ## Tổng quan kiến trúc
 
@@ -49,15 +63,16 @@ Final_GRAG/
 │   ├── nli_lib/                            # Helper library 
 │   ├── prompts/                            # 3 phiên bản prompt LLM arbiter (TN2)
 │   │
-│   ├── run_variant_pipeline.ipynb          # Chạy Module 3 cho 4 cấu hình NLI × 16 báo cáo
-│   ├── run_pairing.py                      # Ghép verdict 4 biến thể NLI để so sánh
+│   ├── 00_setup_data.ipynb                 # Mô tả dữ liệu + quy ước (entry point cho người đọc thesis)
+│   ├── 01_run_variant_pipeline.ipynb       # Chạy Module 3 cho 4 cấu hình NLI × 16 báo cáo
+│   ├── 02_run_pairing.ipynb                # Ghép verdict 4 biến thể NLI để so sánh
 │   ├── run_human_sampling.py               # Lấy mẫu cho người chấm tay (TN2)
-│   ├── run_arbiter.py                      # LLM arbiter chấm các case không đồng thuận (TN2)
+│   ├── 03_run_arbiter.ipynb                # LLM arbiter chấm các case không đồng thuận (TN2)
 │   │
-│   ├── tn3_prefix_factorial.ipynb          # TN1 — phân tích pre-fix
-│   ├── tn3_postfix_bugfix.ipynb            # TN1 — phân tích post-fix trên ground truth người chấm
-│   ├── tn4_groundtruth.ipynb               # TN2 — calibrate độ tin cậy LLM arbiter vs người chấm
+│   ├── 04_tn2_methodology.ipynb            # TN2 — κ panel + marginal + sign-reversal + GT v2 reliability
+│   ├── 05_tn1_evaluation.ipynb             # TN1 — silver factorial + gold accuracy + bug-fix lift + cost
 │   │
+│   ├── legacy/                             # Pilot pre-fix không xuất hiện trong thesis (audit trail)
 │   ├── data/                               # Dữ liệu của thực nghiệm
 │   ├── outputs/                            # Bảng + biểu 
 │   └── variant_runs/                       # Kết quả Kiểm tra tính tuân thủ cho 4 cấu hình NLI × 16 báo cáo
@@ -101,13 +116,12 @@ Phục vụ quá trình chạy:
 |                    | A.2 Parse GRI 11 sector                         | `notebook/gri_metadata/sector_standards.ipynb`        | `metadata/sector_standards/gri_11/`                                                 |
 |                    | A.3 Parse GRI Content Index                     | `notebook/report_processing/parse_gri_ci.ipynb`       | `metadata/report_units/<id>/{gri_content_index, sou, non_material}.json`            |
 |                    | A.4 Chunk + embed báo cáo → Zilliz              | `notebook/report_processing/report_processing.ipynb`  | `metadata/report_units/<id>/report_chunks.json` + collection `report_chunks`        |
-| **B. Pipeline**    | B.1 Run compliance 16 báo cáo × 4 variant       | `experiments/module3_nli/run_variant_pipeline.ipynb`  | `experiments/module3_nli/variant_runs/{a0,a1,a2,v_new}/<id>/compliance_report.json` |
-| **C. Thực nghiệm** | C.1 Pair verdict 4 variant                      | `experiments/module3_nli/run_pairing.py`              | `experiments/module3_nli/data/{pairing, verdicts_long, disclosure_index}.csv`       |
-|                    | C.2 Stratified disagreement sample (TN2 tầng 1) | `experiments/module3_nli/run_human_sampling.py`       | `experiments/module3_nli/data/sample_{main,agreement,retest}.csv`                   |
-|                    | C.3 Run 3 prompt arbiter (TN2 tầng 2)           | `experiments/module3_nli/run_arbiter.py`              | `experiments/module3_nli/data/{arbiter_cache_v*, adjudicated_v*}.{jsonl,csv}`       |
-|                    | C.4 TN2 — κ panel, marginal, sign-reversal      | `experiments/module3_nli/tn4_groundtruth.ipynb`       | `experiments/module3_nli/outputs/` (T_TN4_, F5, TN4_.json)                          |
-|                    | C.5 TN1 pre-fix — factorial 2×2 hybrid silver   | `experiments/module3_nli/tn3_prefix_factorial.ipynb`  | `experiments/module3_nli/outputs/` (F3, F4, T_TN3pre_)                              |
-|                    | C.6 TN1 post-fix — bug-fix lift trên GT v2      | `experiments/module3_nli/tn3_postfix_bugfix.ipynb`    | `experiments/module3_nli/outputs/` (F6–F9, T9–T13)                                  |
+| **B. Pipeline**    | B.1 Run compliance 16 báo cáo × 4 variant       | `experiments/module3_nli/01_run_variant_pipeline.ipynb`  | `experiments/module3_nli/variant_runs/{a0,a1,a2,v_new}/<id>/compliance_report.json` |
+| **C. Thực nghiệm** | C.1 Pair verdict 4 variant                      | `experiments/module3_nli/02_run_pairing.ipynb`           | `experiments/module3_nli/data/01_pairing_postfix/{pairing, verdicts_long, disclosure_index, disagreements}.csv` |
+|                    | C.2 Stratified disagreement sample (TN2 tầng 1) | `experiments/module3_nli/run_human_sampling.py`          | `experiments/module3_nli/data/03_human_T1_postfix_120/sample_{main,agreement,retest}.csv` |
+|                    | C.3 Run 3 prompt arbiter (TN2 tầng 2)           | `experiments/module3_nli/03_run_arbiter.ipynb`           | `experiments/module3_nli/data/02_arbiter_postfix/{arbiter_cache_v*, adjudicated_v*}.{jsonl,csv}` |
+|                    | C.4 TN2 — κ panel + sign-reversal + GT reliability | `experiments/module3_nli/04_tn2_methodology.ipynb`    | `experiments/module3_nli/outputs/` (T_TN4_*, F5, TN4_*.json, gtv2_reliability.json) |
+|                    | C.5 TN1 — silver factorial + gold + bug-fix lift + cost | `experiments/module3_nli/05_tn1_evaluation.ipynb` | `experiments/module3_nli/outputs/` (T_TN3post_T5, T9–T13, kappa_pre_post_panel, hint_over_prediction) |
 
 
 ## Cấu hình
