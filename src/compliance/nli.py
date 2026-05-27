@@ -34,7 +34,7 @@ def build_coverage_matrix(reqs, chunks, batch_size=32):
     if not reqs or not chunks:
         return {}
 
-    model = _nli_model()
+    model = _nli_model() # cross-encoder/nli-deberta-v3-base
 
     req_ids = []
     chunk_ids = []
@@ -59,7 +59,7 @@ def build_coverage_matrix(reqs, chunks, batch_size=32):
         return {}
 
     try:
-        scores_raw = model.predict(pairs, apply_softmax=True, batch_size=batch_size)
+        scores_raw = model.predict(pairs, apply_softmax=True, batch_size=batch_size) # sentence_transformers. CrossEncoder
     except Exception as e:
         logger.warning("NLI model.predict failed: %s — returning empty matrix", e)
         return {}
@@ -119,9 +119,9 @@ def format_coverage_hint(matrix, reqs, top_k=3, min_entail=0.30):
 
         top = []
         for chunk_id, score in ranked:
-            if len(top) >= top_k:
+            if len(top) >= top_k: # 3 chunks
                 break
-            if score.entail >= min_entail:
+            if score.entail >= min_entail: # 0.30
                 top.append((chunk_id, score))
 
         if top:
