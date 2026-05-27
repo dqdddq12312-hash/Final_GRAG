@@ -40,7 +40,7 @@ def build_coverage_matrix(reqs, chunks, batch_size=32):
     chunk_ids = []
     pairs = []
 
-    # Tạo cặp (chunk_text, req_text) cho mọi (requirement, chunk)
+    # Tạo cặp (chunk_text, req_text) cho mọi (requirement, chunkp)
     for req in reqs:
         req_id = str(req.get("requirement_id") or "").strip()
         req_text = str(req.get("requirement_text") or "").strip()
