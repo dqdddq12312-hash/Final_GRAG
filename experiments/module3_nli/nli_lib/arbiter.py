@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 import numpy as np
 import pandas as pd
 
@@ -14,7 +12,7 @@ _KAPPA_THRESHOLDS = [
 ]
 
 def _interpret_kappa(k: float) -> str:
-    """Landis–Koch (1977) kappa interpretation."""
+    """Chuyển giá trị kappa sang nhãn diễn giải theo thang Landis–Koch (1977)."""
     if pd.isna(k):
         return "n/a"
     for upper, label in _KAPPA_THRESHOLDS:
@@ -24,22 +22,15 @@ def _interpret_kappa(k: float) -> str:
 
 # §6 — Arbiter functions
 def merge_human_with_arbiter(human_df: pd.DataFrame, arbiter_df: pd.DataFrame, arbiter_label: str) -> pd.DataFrame:
-    """Inner-merge human review with one arbiter table on canonical join keys.
-
-    Args:
-        human_df: from load_human_review_postfix() / load_human_review_prefix() (n=120).
-        arbiter_df: from load_adjudicated('v1'|'v2'|'v3') / load_adjudicated_prefix(...).
-        arbiter_label: 'v1', 'v2', or 'v3' (used for output column suffix).
-
-    Returns:
-        DataFrame[case_id, ..., human_correct_status, arbiter_{label}_status]
-        with `material_topic` normalised to '__none__' and `human_correct_status`
-        lowercased+stripped.
+    """Left-join bảng human review với một bảng arbiter trên canonical join keys,
+    chuẩn hoá material_topic và human_correct_status trước khi trả về.
     """
+    # Chuẩn hoá material_topic và human_correct_status trên cả hai phía trước khi join
     h = human_df.copy()
     a = arbiter_df.copy()
     _normalize_material_topic_inplace(h, a)
     _normalize_status_inplace(h, "human_correct_status")
+    # Chỉ giữ join keys + correct_status từ arbiter, đổi tên cột theo arbiter_label
     keep = ARBITER_JOIN_KEYS + ["correct_status"]
     return h.merge(
         a[keep].rename(columns={"correct_status": f"arbiter_{arbiter_label}_status"}),
@@ -52,27 +43,25 @@ def arbiter_vs_human_kappa(
     arbiter_df: pd.DataFrame,
     arbiter_label: str = "v2",
 ) -> dict:
-    """Cohen's kappa + agreement + confusion + marginals for one arbiter vs human.
-
-    Args:
-        human_df: load_human_review_postfix() / load_human_review_prefix() (120 rows).
-        arbiter_df: load_adjudicated('v1'/'v2'/'v3') / load_adjudicated_prefix(...).
-        arbiter_label: cosmetic, used as key in returned dict.
-
-    Returns:
-        {n, agreement_rate, cohen_kappa, human_marginals, arbiter_marginals,
-         confusion_matrix}
+    """Tính Cohen's kappa, agreement rate, confusion matrix và marginals
+    khi so sánh một arbiter với human trên cùng pool case.
     """
+    # Bước 1: Merge + lọc case có arbiter verdict; early-return nếu không có case nào khớp
     m = merge_human_with_arbiter(human_df, arbiter_df, arbiter_label)
     col = f"arbiter_{arbiter_label}_status"
     m = m.dropna(subset=[col]).copy()
     if len(m) == 0:
         return {"n": 0, "agreement_rate": float("nan"), "cohen_kappa": float("nan")}
+
+    # Bước 2: Tính kappa, agreement rate và confusion matrix
     y_h = m["human_correct_status"].tolist()
     y_a = m[col].tolist()
     k = cohen_kappa(y_h, y_a, labels=STATUS_LABELS)
     agreement = float((m["human_correct_status"] == m[col]).mean())
+    # confusion_matrix(predicted=arbiter, actual=human) → rows = arbiter, cols = human
     cm = confusion_matrix(y_a, y_h, labels=STATUS_LABELS)
+
+    # Bước 3: Đóng gói kết quả cùng marginals để caller dùng cho bảng §5.4.2
     return {
         "n": int(len(m)),
         "agreement_rate": agreement,
@@ -88,11 +77,10 @@ def arbiter_marginal_distribution(
     adjudicated_v2: pd.DataFrame,
     adjudicated_v3: pd.DataFrame,
 ) -> pd.DataFrame:
-    """§5.4.2 marginal table — rows=source, cols=status (n, n_pass, ..., pct_pass, ...).
-
-    Merges tất cả ba arbiter outputs (v1/v2/v3) lên pool 120-case human.
-    Drops NaN per source riêng lẻ nên mỗi row báo n riêng.
+    """Xây bảng marginal phân phối status (n, n_pass…, pct_pass…) cho Human và ba arbiter
+    v1/v2/v3 — mỗi source báo n riêng vì NaN được drop độc lập (§5.4.2).
     """
+    # Bước 1: Chuẩn hoá human, tính value_counts và thêm row Human vào bảng
     h = human_df.copy()
     _normalize_material_topic_inplace(h)
     _normalize_status_inplace(h, "human_correct_status")
@@ -107,6 +95,8 @@ def arbiter_marginal_distribution(
         **{f"pct_{s}": round(100.0 * h_vc.get(s, 0) / len(h_status), 1) for s in STATUS_LABELS},
     })
 
+    # Bước 2: Với mỗi arbiter, tái dùng arbiter_vs_human_kappa để lấy marginals trên n riêng
+    # (n có thể nhỏ hơn 120 vì NaN được drop độc lập theo từng version)
     for label, adj_df in [("Arbiter v1", adjudicated_v1), ("Arbiter v2", adjudicated_v2),
                           ("Arbiter v3", adjudicated_v3)]:
         version = label.lower().split()[-1]
@@ -127,14 +117,10 @@ def arbiter_kappa_panel(
     adjudicated_v2: pd.DataFrame,
     adjudicated_v3: pd.DataFrame,
 ) -> pd.DataFrame:
-    """Side-by-side panel: kappa(arbiter_vi, human) for i ∈ {1, 2, 3}.
-
-    v1/v2: metrics trên n=120 (canonical).
-    v3: metrics trên giao 3-way (v1 ∩ v2 ∩ v3 ∩ human có verdict) — §5.4.3.
-
-    Returns:
-        DataFrame[arbiter, n, agreement_rate, cohen_kappa, interpretation]
+    """Tổng hợp kappa(arbiter_vi, human) cho i ∈ {1,2,3} thành bảng panel —
+    v3 được đo trên giao 3-way (v1 ∩ v2 ∩ v3 ∩ human có verdict) thay vì n=120 (§5.4.3).
     """
+    # Bước 1: v1 và v2 — tính kappa trên pool đầy đủ n=120 (canonical)
     rows = []
     for label, adj_df in [("v1", adjudicated_v1), ("v2", adjudicated_v2)]:
         r = arbiter_vs_human_kappa(human_df, adj_df, arbiter_label=label)
@@ -146,6 +132,8 @@ def arbiter_kappa_panel(
             "interpretation": _interpret_kappa(r["cohen_kappa"]),
         })
 
+    # Bước 2: Xây intersection 3-way — chỉ giữ case mà cả v1, v2, v3 đều có verdict
+    # v3 chỉ phủ tập con nên n sẽ nhỏ hơn 120; dropna đảm bảo đúng giao
     m = merge_human_with_arbiter(human_df, adjudicated_v1, "v1")
     m = m.merge(
         adjudicated_v2[ARBITER_JOIN_KEYS + ["correct_status"]].rename(columns={"correct_status": "arbiter_v2_status"}),
@@ -156,6 +144,8 @@ def arbiter_kappa_panel(
         on=ARBITER_JOIN_KEYS, how="left",
     )
     m = m.dropna(subset=["arbiter_v1_status", "arbiter_v2_status", "arbiter_v3_status"]).copy()
+
+    # Bước 3: Tính kappa v3 trên intersection subset và thêm vào panel
     y_h = m["human_correct_status"].tolist()
     y_a3 = m["arbiter_v3_status"].tolist()
     k3 = cohen_kappa(y_h, y_a3, labels=STATUS_LABELS)
@@ -175,16 +165,11 @@ def sign_reversal_e1(
     adjudicated_v1: pd.DataFrame,
     adjudicated_v2: pd.DataFrame,
 ) -> dict:
-    """§5.4.4 — recompute V_new vs A0 (HINT main effect) under v1 GT and v2 GT.
-
-    Args:
-        pairing: full pairing DataFrame.
-        adjudicated_v1, adjudicated_v2: arbiter outputs.
-
-    Returns:
-        {n_disagreements, e1_v1_pp, e1_v2_pp, sign_reversed}
-        where e1_X_pp = (V_new_correct% - A0_correct%) under arbiter X GT.
+    """Tính lại main effect E1 (V_new vs A0, percentage points) theo ground truth v1 và v2,
+    rồi kiểm tra liệu dấu (sign) có bị đảo ngược khi đổi arbiter không — §5.4.4.
     """
+    # Bước 1: Chuẩn hoá material_topic, merge từng arbiter GT vào pairing riêng lẻ
+    # (m1, m2 riêng vì hai arbiter có thể phủ tập case khác nhau)
     a1 = adjudicated_v1.copy()
     a2 = adjudicated_v2.copy()
     p = pairing.copy()
@@ -193,8 +178,11 @@ def sign_reversal_e1(
     m1 = p.merge(a1[ARBITER_JOIN_KEYS + ["correct_status"]].rename(columns={"correct_status": "gt_v1"}), on=ARBITER_JOIN_KEYS, how="left")
     m2 = p.merge(a2[ARBITER_JOIN_KEYS + ["correct_status"]].rename(columns={"correct_status": "gt_v2"}), on=ARBITER_JOIN_KEYS, how="left")
 
+    # Bước 2: common_mask — chỉ tính E1 trên disagreement rows có verdict ở cả hai arbiter
     common_mask = m1["gt_v1"].notna() & m2["gt_v2"].notna()
     n_disc = int(common_mask.sum())
+
+    # Bước 3: Tính E1 = (V_new accuracy − A0 accuracy, pp) theo từng arbiter GT
     e1 = {}
     for gt_col, label in [("gt_v1", "v1"), ("gt_v2", "v2")]:
         df = (m1 if label == "v1" else m2).loc[common_mask].copy()
@@ -203,6 +191,8 @@ def sign_reversal_e1(
         a0_acc = df["a0_correct"].mean()
         vn_acc = df["v_new_correct"].mean()
         e1[label] = 100.0 * (vn_acc - a0_acc)
+
+    # sign_reversed = True khi hai arbiter cho kết luận trái chiều về hướng của E1
     return {
         "n_disagreements": n_disc,
         "e1_v1_pp": round(e1["v1"], 2),

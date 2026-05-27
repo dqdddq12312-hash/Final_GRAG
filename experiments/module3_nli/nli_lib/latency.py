@@ -1,29 +1,25 @@
-from __future__ import annotations
-
 import pandas as pd
 
-from .constants import DATA_DIR, VARIANTS
+from .constants import LATENCY_OBSERVED_CSV, VARIANTS
 
 
 def latency_per_variant() -> pd.DataFrame:
-    """§5.3.7 — per-variant median/mean runtime từ snapshot CSV.
-
-    Đọc `data/latency_per_variant_observed.csv` (snapshotted từ lần chạy pipeline
-    gốc khi LastWriteTime metadata còn hợp lệ). Đây là nguồn chính thức cho số
-    liệu trong thesis vì mtime ở `variant_runs/` đã bị touch bởi refactor.
-
-    Returns: DataFrame[variant, n, median_minutes, mean_minutes, stdev_minutes, total_minutes]
+    """Đọc latency snapshot CSV và tính median/mean/stdev/total runtime theo từng variant (§5.3.7).
+    Dùng snapshot thay vì variant_runs/ vì mtime tại đó đã bị touch khi refactor pipeline.
     """
-    path = DATA_DIR / "latency_per_variant_observed.csv"
-    if not path.exists():
+    # Bước 1: Load snapshot; fail-fast với message rõ nếu file chưa được tạo
+    if not LATENCY_OBSERVED_CSV.exists():
         raise FileNotFoundError(
-            f"latency snapshot not found at {path}; rerun pipeline to regenerate"
+            f"latency snapshot not found at {LATENCY_OBSERVED_CSV}; rerun pipeline to regenerate"
         )
-    raw = pd.read_csv(path)
+    raw = pd.read_csv(LATENCY_OBSERVED_CSV)
+
+    # Bước 2: Lọc NaN và outlier — run <1 phút thường là cache hit / lỗi; >90 phút bất thường
     raw = raw[raw["duration_min"].notna()].copy()
     raw["duration_min"] = raw["duration_min"].astype(float)
     raw = raw[(raw["duration_min"] > 1.0) & (raw["duration_min"] <= 90.0)]
 
+    # Bước 3: Tính stats theo từng variant; điền 0 cho variant không có run hợp lệ
     rows = []
     for v in VARIANTS:
         sub = raw.loc[raw["variant"] == v, "duration_min"]
@@ -39,6 +35,7 @@ def latency_per_variant() -> pd.DataFrame:
             "n": int(sub.count()),
             "median_minutes": round(float(sub.median()), 2),
             "mean_minutes": round(float(sub.mean()), 2),
+            # ddof=1 (sample std); fallback 0.0 khi chỉ có 1 run
             "stdev_minutes": round(float(sub.std(ddof=1)) if len(sub) >= 2 else 0.0, 2),
             "total_minutes": round(float(sub.sum()), 2),
         })
